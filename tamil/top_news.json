@@ -1,0 +1,146 @@
+[
+    {
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/"
+    },
+    {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/"
+    },
+    {
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/"
+    },
+    {
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/"
+    },
+    {
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/"
+    },
+    {
+        "name": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/"
+    },
+    {
+        "name": "San Francisco Chronicle",
+        "url": "https://www.sfchronicle.com/"
+    },
+    {
+        "name": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/"
+    },
+    {
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/"
+    },
+    {
+        "name": "The Seattle Times",
+        "url": "https://www.seattletimes.com/"
+    },
+    {
+        "name": "CNN",
+        "url": "https://www.cnn.com/"
+    },
+    {
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/"
+    },
+    {
+        "name": "NPR",
+        "url": "https://www.npr.org/"
+    },
+    {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/"
+    },
+    {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/"
+    },
+    {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/"
+    },
+    {
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/"
+    },
+    {
+        "name": "The Conversation (U.S.)",
+        "url": "https://theconversation.com/us"
+    },
+    {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/"
+    },
+    {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/"
+    },
+    {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/"
+    },
+    {
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/"
+    },
+    {
+        "name": "ESPN",
+        "url": "https://www.espn.com/"
+    },
+    {
+        "name": "CBS Sports",
+        "url": "https://www.cbssports.com/"
+    },
+    {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/"
+    },
+    {
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/"
+    },
+    {
+        "name": "The Athletic",
+        "url": "https://www.nytimes.com/athletic/"
+    },
+    {
+        "name": "The Associated Press (AP)",
+        "url": "https://apnews.com/"
+    },
+    {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+    },
+    {
+        "name": "Agence France-Presse (AFP)",
+        "url": "https://www.afp.com/en"
+    },
+    {
+        "name": "Hiwwe wie Driwwe",
+        "url": "https://hiwwe-wie-driwwe.com/"
+    },
+    {
+        "name": "Haiti Progrès",
+        "url": "https://haitiprogres.com/"
+    },
+    {
+        "name": "Rafu Shimpo",
+        "url": "https://rafu.com/"
+    },
+    {
+        "name": "St. Louis Chinese American News",
+        "url": "https://web.scanews.com/"
+    },
+    {
+        "name": "Arab Voice",
+        "url": "https://arabvoice.com/"
+    },
+    {
+        "name": "French District",
+        "url": "https://frenchdistrict.com/"
+    }
+]

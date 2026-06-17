@@ -1,0 +1,308 @@
+{
+    "app": {
+        "status": true,
+        "toolbar": true,
+        "navigation_drawer": true,
+        "geolocation": true,
+        "cache": true,
+        "open_link_in_external_browser": false,
+        "zoom_controls": false,
+        "user_agent": "",
+        "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+        "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
+        "redirect_url": ""
+    },
+    "intro": {
+        "status": true,
+        "sliders": [
+            {
+                "title": "Welcome to WebDroid",
+                "message": "Native Android App based on WebView with excellent design, beautiful, elegant & clean",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider1.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Navigation menu",
+                "message": "WebDroid integrated with remote json so you can manage the navigation drawer item and url dynamically",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider2.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Push notification",
+                "message": "Integrated with FCM & OneSignal push notification to notify your users",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider3.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Multiple Ad Neworks",
+                "message": "Supports up to 9 ad networks from the most popular providers to make it easier to monetize your app",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider4.png",
+                "background_color": "ffffff"
+            }
+        ]
+    },
+    "youtube_channels": [
+        {
+            "name": "Put Chutney",
+            "channel_id": "UCn2wC753SXLd2BJYLss_jlA"
+        },
+        {
+            "name": "Nakkalites",
+            "channel_id": "UCpnJuQkNm9j9R7LCqWtf56g"
+        },
+        {
+            "name": "Eruma Saani",
+            "channel_id": "UCPyFYlqbkxkWX_dWCg0eekA"
+        },
+        {
+            "name": "Being Thamizhan",
+            "channel_id": "UCF1wPTEdK3RZclxruliajcg"
+        },
+        {
+            "name": "Mic Set",
+            "channel_id": "UC5EQWvy59VeHPJz8mDALPxg"
+        },
+        {
+            "name": "Finally",
+            "channel_id": "UCi3o8sgPl4-Yt501ShuiEgA"
+        },
+        {
+            "name": "Smile Settai",
+            "channel_id": "UCZCaRGGPtHFtp7X3FxtNKhA"
+        },
+        {
+            "name": "Parithabangal",
+            "channel_id": "UCueYcgdqos0_PzNOq81zAFg"
+        },
+        {
+            "name": "Araathi",
+            "channel_id": "UCCMUnWvJyTEUunnygpTGfow"
+        },
+        {
+            "name": "Tamil Short Cuts",
+            "channel_id": "UC2CQx0rPH_h3IqWGCAbQzQQ"
+        },
+        {
+            "name": "Circusgun.com",
+            "channel_id": "UCdwatN-k20-pYHHAw8cSeYQ"
+        },
+        {
+            "name": "Madras Central",
+            "channel_id": "UCGBnz-FR3qaowYsyIEh2-zw"
+        },
+        {
+            "name": "Trend Music",
+            "channel_id": "UCUgP5pdToi19fWe19NVliFg"
+        },
+        {
+            "name": "Think Music India",
+            "channel_id": "UCLbdVvreihwZRL6kwuEUYsA"
+        },
+        {
+            "name": "IndiaGlitz Tamil Movies",
+            "channel_id": "UCuF8-WmBJvhV5rZj2aYSoYw"
+        },
+        {
+            "name": "NewsGlitz",
+            "channel_id": "UCiqE4DQsQ0zlwjOV04s2gEA"
+        },
+        {
+            "name": "Tamilcinemareview",
+            "channel_id": "UCZVcQLqXTn1DN-UcDwrc1gQ"
+        },
+        {
+            "name": "Nakkheeran Studio",
+            "channel_id": "UCd9KkPAQjmINi4IDsnDw0hA"
+        },
+        {
+            "name": "Nakkheeran webtv",
+            "channel_id": "UCdMtj4CiqlZTgzFT5FdDd7A"
+        },
+        {
+            "name": "Red Pix News24x7",
+            "channel_id": "UCe1Nb-N6XgLFHfGxZjIkF8A"
+        },
+        {
+            "name": "Captain News",
+            "channel_id": "UCno6OgN7-NDmRTNBgqWevlw"
+        },
+        {
+            "name": "Polimer News",
+            "channel_id": "UC8Z-VjXBtDJTvq6aqkIskPg"
+        },
+        {
+            "name": "News7 Tamil",
+            "channel_id": "UC2f4w_ppqHplvjiNaoTAK9w"
+        },
+        {
+            "name": "News18 Tamilnadu",
+            "channel_id": "UCat88i6_rELqI_pjspRA"
+        },
+        {
+            "name": "Oneindia Tamil",
+            "channel_id": "UCpZBvTbjam0yTrD4HUUWTZw"
+        },
+        {
+            "name": "Tamil The Hindu",
+            "channel_id": "UCJ36XbT02JNAlBEBgZtW7GQ"
+        },
+        {
+            "name": "Dinamalar",
+            "channel_id": "UChcR8SrIiSON4KxmtpwfMgw"
+        },
+        {
+            "name": "BBC News Tamil",
+            "channel_id": "UCxD03AhBg9LWQuJfijnzhhQ"
+        },
+        {
+            "name": "Thanthi TV",
+            "channel_id": "UC-JFyL0zDFOsPMpuWu39rPA"
+        },
+        {
+            "name": "Kalaignar TV News",
+            "channel_id": "UCcVF2Fth-qEA4T1Lhn3CgKg"
+        },
+        {
+            "name": "Puthiyathalaimurai TV",
+            "channel_id": "UCmyKnNRH0wH-r8I-ceP-dsg"
+        },
+        {
+            "name": "Vikatan WebTV",
+            "channel_id": "UCEhsOgK2u8GDDoynMCj78Ng"
+        },
+        {
+            "name": "Captain TV",
+            "channel_id": "UCjPq8C3_m0OPF1n1sCPaXUA"
+        },
+        {
+            "name": "VendharTV",
+            "channel_id": "UCs9Ty8NsU1I0-FXda97XCcQ"
+        },
+        {
+            "name": "Raj Television",
+            "channel_id": "UCo6XUuu19Kh1WCorvh-3vQA"
+        },
+        {
+            "name": "Jaya Max",
+            "channel_id": "UCewgJzEr8lpw5FlomNkaLMQ"
+        },
+        {
+            "name": "Jaya Plus",
+            "channel_id": "UCOP4Gbw-T1ofcW8vyL89ZDw"
+        },
+        {
+            "name": "PuthuYugamTV",
+            "channel_id": "UCAW01Xupb-fd51o0BsQbcLQ"
+        },
+        {
+            "name": "Kalaignar TV",
+            "channel_id": "UC0SIHdEcfg4BsM8X5tixwHQ"
+        },
+        {
+            "name": "Madras Prank",
+            "channel_id": "UCdE8qg2qrgXSmqp7YqnrkTQ"
+        },
+        {
+            "name": "Today Trending",
+            "channel_id": "UCG0m9a2z1ziRm2YlaFuyU7A"
+        },
+        {
+            "name": "TP MEMES",
+            "channel_id": "UCGj6lZmKddgqoYygpTS4WHA"
+        },
+        {
+            "name": "KP TROLL",
+            "channel_id": "UClkJpyZusuVbmSm4XEVTxRA"
+        }
+    ],
+    "menus": [
+        {
+            "name": "home",
+            "type": "category",
+            "url": "https://raw.githubusercontent.com/santhkhd/comalltamiltvliveshowsan/refs/heads/main/config/webdroitamitvshow/home.json",
+            "icon": "https://img.icons8.com/color/96/tv.png"
+        },
+        {
+            "name": "Live TV & Shows",
+            "type": "category",
+            "url": "https://raw.githubusercontent.com/santhkhd/comalltamiltvliveshowsan/refs/heads/main/config/webdroitamitvshow/tv_channels.json",
+            "icon": "https://img.icons8.com/color/96/tv.png"
+        },
+        {
+            "name": "Newspapers",
+            "type": "category",
+            "url": "https://raw.githubusercontent.com/santhkhd/comalltamiltvliveshowsan/refs/heads/main/config/webdroitamitvshow/tamilnews.json",
+            "icon": "https://img.icons8.com/color/96/news.png"
+        },
+        {
+            "name": "Comedy",
+            "type": "category",
+            "url": "https://raw.githubusercontent.com/santhkhd/comalltamiltvliveshowsan/refs/heads/main/config/webdroitamitvshow/comedy.json",
+            "icon": "https://img.icons8.com/color/96/video.png"
+        },
+        {
+            "name": "Top Stories",
+            "type": "rss",
+            "url": "https://www.thehindu.com/news/national/?service=rss",
+            "icon": "https://img.icons8.com/color/96/hot-article.png"
+        },
+        {
+            "name": "YouTube Channels",
+            "type": "category",
+            "url": "https://raw.githubusercontent.com/santhkhd/comalltamiltvliveshowsan/refs/heads/main/config/webdroitamitvshow/youtube_categories.json",
+            "icon": "https://img.icons8.com/color/96/youtube-play.png"
+        },
+        {
+            "name": "Privacy Policy",
+            "type": "assets",
+            "url": "privacy_policy.html",
+            "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png"
+        }
+    ],
+    "ads": {
+        "ad_status": true,
+        "main_ads": "admob",
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+        "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+        "startapp_app_id": "0",
+        "unity_game_id": "4089993",
+        "unity_banner_placement_id": "banner",
+        "unity_interstitial_placement_id": "video",
+        "applovin_banner_ad_unit_id": "0",
+        "applovin_interstitial_ad_unit_id": "0",
+        "applovin_native_ad_manual_unit_id": "0",
+        "applovin_app_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_banner_mrec_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "85460dcd",
+        "ironsource_banner_placement_name": "DefaultBanner",
+        "ironsource_interstitial_placement_name": "DefaultInterstitial",
+        "interstitial_ad_interval_on_drawer_menu": 3,
+        "interstitial_ad_interval_on_web_page_link": 5,
+        "native_ad_style_drawer_menu": "medium",
+        "native_ad_style_exit_dialog": "medium",
+        "native_ad_style_product_list": "medium",
+        "native_ad_index": 4,
+        "interstitial_ad_on_list_item_click": true,
+        "placement": {
+            "banner_home": true,
+            "interstitial_drawer_menu": true,
+            "interstitial_web_page_link": true,
+            "native_drawer_menu": true,
+            "native_exit_dialog": true,
+            "app_open_ad_on_start": true,
+            "app_open_ad_on_resume": true
+        }
+    }
+}

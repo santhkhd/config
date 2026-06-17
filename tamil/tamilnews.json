@@ -1,0 +1,394 @@
+[
+    {
+        "title": "Daily Thanthi",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.dailythanthi.com?target=external"
+        ]
+    },
+    {
+        "title": "Dinakaran",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.dinakaran.com/?target=external"
+        ]
+    },
+    {
+        "title": "Dinamalar",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.dinamalar.com/?target=external"
+        ]
+    },
+    {
+        "title": "Dinamani",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.dinamani.com/?target=external"
+        ]
+    },
+    {
+        "title": "Maalai Malar",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.maalaimalar.com/?target=external"
+        ]
+    },
+    {
+        "title": "Hindu Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.hindutamil.in/?target=external"
+        ]
+    },
+    {
+        "title": "Thinaboomi",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.thinaboomi.com/?target=external"
+        ]
+    },
+    {
+        "title": "Theekkathir",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://theekkathir.in/?target=external"
+        ]
+    },
+    {
+        "title": "Viduthalai",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://viduthalai.in/?target=external"
+        ]
+    },
+    {
+        "title": "Dinasudar",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://dinasudar.com/?target=external"
+        ]
+    },
+    {
+        "title": "Murasoli",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.murasoli.in/?target=external"
+        ]
+    },
+    {
+        "title": "Makkal Kural",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://makkalkural.net/news/?target=external"
+        ]
+    },
+    {
+        "title": "Samayam Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamil.samayam.com/?target=external"
+        ]
+    },
+    {
+        "title": "Asianet News Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamil.asianetnews.com/?target=external"
+        ]
+    },
+    {
+        "title": "Seithy.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://seithy.com/?target=external"
+        ]
+    },
+    {
+        "title": "Kathiravan",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.kathiravan.com/?target=external"
+        ]
+    },
+    {
+        "title": "OneIndia Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamil.oneindia.com/?target=external"
+        ]
+    },
+    {
+        "title": "Webdunia Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamil.webdunia.com/?target=external"
+        ]
+    },
+    {
+        "title": "Google News in Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://news.google.com/?hl=ta&gl=IN&ceid=IN:ta&target=external"
+        ]
+    },
+    {
+        "title": "Tamil GoodReturns",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamil.goodreturns.in/?target=external"
+        ]
+    },
+    {
+        "title": "Dinapathippu.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.dinapathippu.com/?target=external"
+        ]
+    },
+    {
+        "title": "Chennai Online",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.chennaionline.com/tamil/?target=external"
+        ]
+    },
+    {
+        "title": "Sumanasa Tamil News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.sumanasa.com/tamilnews/?target=external"
+        ]
+    },
+    {
+        "title": "Chennai Today News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.chennaitodaynews.com/?target=external"
+        ]
+    },
+    {
+        "title": "inioru.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://inioru.com/?target=external"
+        ]
+    },
+    {
+        "title": "News4Tamil.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://news4tamil.com/?target=external"
+        ]
+    },
+    {
+        "title": "TamilMinutes.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamilminutes.com/?target=external"
+        ]
+    },
+    {
+        "title": "Mr Puyal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://mrpuyal.com/?target=external"
+        ]
+    },
+    {
+        "title": "Thinnai",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://puthu.thinnai.com/?target=external"
+        ]
+    },
+    {
+        "title": "Dinasuvadu",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.dinasuvadu.com/?target=external"
+        ]
+    },
+    {
+        "title": "athirvu.in",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://athirvu.in/?target=external"
+        ]
+    },
+    {
+        "title": "Tamil Mithran",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.tamilmithran.com/?target=external"
+        ]
+    },
+    {
+        "title": "Malai Murasu",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.malaimurasu.com/?target=external"
+        ]
+    },
+    {
+        "title": "Puthinappalakai.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.puthinappalakai.com/?target=external"
+        ]
+    },
+    {
+        "title": "Virakesari",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.virakesari.lk/?target=external"
+        ]
+    },
+    {
+        "title": "Tamil Murasu - Singapore",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.tamilmurasu.com.sg/?target=external"
+        ]
+    },
+    {
+        "title": "Paris Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.paristamil.com/?target=external"
+        ]
+    },
+    {
+        "title": "Vanakkam London",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://vanakkamlondon.com/?target=external"
+        ]
+    },
+    {
+        "title": "TamilWin",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamilwin.com/?target=external"
+        ]
+    },
+    {
+        "title": "IBC Tamil",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://ibctamil.com/?target=external"
+        ]
+    },
+    {
+        "title": "Global Tamil News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://globaltamilnews.net/?target=external"
+        ]
+    },
+    {
+        "title": "Canada Mirror",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://canadamirror.com/?target=external"
+        ]
+    },
+    {
+        "title": "Athirady",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.athirady.com/?target=external"
+        ]
+    },
+    {
+        "title": "Pathivu",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.pathivu.com/?target=external"
+        ]
+    },
+    {
+        "title": "Eeladhesam News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://eeladhesam.com/?target=external"
+        ]
+    },
+    {
+        "title": "4tamilmedia.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.4tamilmedia.com/?target=external"
+        ]
+    },
+    {
+        "title": "JVP News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://jvpnews.com/?target=external"
+        ]
+    },
+    {
+        "title": "TELOnews.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.telonews.com/?target=external"
+        ]
+    },
+    {
+        "title": "yarl.com",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://yarl.com/?target=external"
+        ]
+    }
+]

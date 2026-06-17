@@ -1,0 +1,197 @@
+{
+    "app": {
+        "status": true,
+        "toolbar": true,
+        "navigation_drawer": true,
+        "geolocation": true,
+        "cache": true,
+        "open_link_in_external_browser": false,
+        "zoom_controls": false,
+        "user_agent": "",
+        "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+        "more_apps_url": "https://www.google.com/",
+        "webview_disclaimer_active": true,
+        "redirect_url": "",
+        "server_url": "https://script.google.com/macros/s/AKfycbyG_b_7pxWaSfv7oA7Bf1_TKOY_zn2a9MtHM16RTFtXQr2kDXJjFtqZbAGo_a87NXlB/exec",
+        "weather_api_key": "434987bcd32120ed57ef4f7e0a5de3c0",
+        "force_update": true,
+        "update_url": "https://play.google.com/store/apps/details?id=com.tamilnewmovies.sanshob",
+        "target_version_code": 110
+    },
+    "rss_news": [
+        {
+            "title": "Google News US",
+            "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+            "title": "NYT Top Stories",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+        },
+        {
+            "title": "CNN Top Stories",
+            "url": "http://rss.cnn.com/rss/cnn_topstories.rss"
+        },
+        {
+            "title": "WSJ World News",
+            "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+        }
+    ],
+    "custom_images": {
+        "default_movie_image": "https://raw.githubusercontent.com/santhkhd/tamil/refs/heads/main/default.png",
+        "stars_mapping_url": "https://raw.githubusercontent.com/santhkhd/tamil/refs/heads/main/stars.txt"
+    },
+    "intro": {
+        "status": false,
+        "sliders": [
+            {
+                "title": "Welcome to US News Hub",
+                "message": "Stay updated with the latest American National and State News",
+                "image": "https://img.icons8.com/fluent/240/usa-map.png",
+                "background_color": "ffffff"
+            }
+        ]
+    },
+    "youtube_channels": [
+        {
+            "name": "CNN",
+            "channel_id": "UCupvZG-5ko_eiXAupbDfxWw"
+        },
+        {
+            "name": "ABC News",
+            "channel_id": "UCBi2erQHQluevwgLzMvLh1g"
+        },
+        {
+            "name": "NBC News",
+            "channel_id": "UCeY0bbntWzzVIaj2z3QigXg"
+        },
+        {
+            "name": "CBS News",
+            "channel_id": "UC8p1vwvWtl6T73JiExfWs1g"
+        },
+        {
+            "name": "Fox News",
+            "channel_id": "UCXIJgqnII2ZOINSWNOGFThA"
+        },
+        {
+            "name": "Associated Press",
+            "channel_id": "UC52X5wxOL_s5OtKuze60zdw"
+        }
+    ],
+    "menus": [
+        {
+            "name": "Home Dashboard",
+            "type": "category",
+            "url": "home.json",
+            "icon": "https://img.icons8.com/fluent/96/home.png"
+        },
+        {
+            "name": "US National News",
+            "type": "category",
+            "url": "us_news.json",
+            "icon": "https://img.icons8.com/fluent/96/news.png"
+        },
+        {
+            "name": "US State Papers",
+            "type": "category",
+            "url": "us_states.json",
+            "icon": "https://img.icons8.com/fluent/96/usa-map.png"
+        },
+        {
+            "name": "Live TV News",
+            "type": "category",
+            "url": "us_tv.json",
+            "icon": "https://img.icons8.com/fluent/96/television.png"
+        },
+        {
+            "name": "International Papers",
+            "type": "category",
+            "url": "intl_news.json",
+            "icon": "https://img.icons8.com/fluent/96/world.png"
+        },
+        {
+            "name": "Malayalam Movies",
+            "type": "category",
+            "url": "https://santhkhd.github.io/tamil/imdb_tamil_movies_with_cast.json",
+            "icon": "https://img.icons8.com/fluent/96/movie-projector.png"
+        },
+        {
+            "name": "Comedy Shows",
+            "type": "category",
+            "url": "comedy.json",
+            "icon": "https://img.icons8.com/fluent/96/comedy.png"
+        },
+        {
+            "name": "GPT Chat",
+            "type": "WEB",
+            "url": "https://gpt.blacktvafterott.in/",
+            "icon": "https://img.icons8.com/fluent/96/chat.png"
+        },
+        {
+            "name": "Breaking News (RSS)",
+            "type": "latest_news",
+            "url": "",
+            "icon": "https://img.icons8.com/fluent/96/activity.png"
+        },
+        {
+            "name": "Favorites",
+            "type": "favorites",
+            "url": "",
+            "icon": "https://img.icons8.com/fluent/96/hearts.png"
+        },
+        {
+            "name": "Privacy Policy",
+            "type": "assets",
+            "url": "privacy_policy.html",
+            "icon": "https://img.icons8.com/fluent/96/privacy.png"
+        }
+    ],
+    "ads": {
+        "ad_status": true,
+        "main_ads": "admob",
+
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+        "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+        "startapp_app_id": "0",
+        "unity_game_id": "4089993",
+        "unity_banner_placement_id": "banner",
+        "unity_interstitial_placement_id": "video",
+        "applovin_banner_ad_unit_id": "0",
+        "applovin_interstitial_ad_unit_id": "0",
+        "applovin_native_ad_manual_unit_id": "0",
+        "applovin_app_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_banner_mrec_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "85460dcd",
+        "ironsource_banner_placement_name": "DefaultBanner",
+        "ironsource_interstitial_placement_name": "DefaultInterstitial",
+        "interstitial_ad_interval_on_drawer_menu": 3,
+        "interstitial_ad_interval_on_web_page_link": 5,
+        "native_ad_style_drawer_menu": "medium",
+        "native_ad_style_exit_dialog": "large",
+        "native_ad_style_product_list": "medium",
+        "native_ad_index": 4,
+        "interstitial_ad_on_list_item_click": true,
+        "interstitial_ad_interval_on_list_item_click": 3,
+        "placement": {
+            "banner_home": true,
+            "banner_webview": false,
+            "interstitial_drawer_menu": true,
+            "interstitial_web_page_link": true,
+            "native_drawer_menu": true,
+            "native_exit_dialog": true,
+            "app_open_ad_on_start": true,
+            "app_open_ad_on_resume": true
+        }
+    }
+}

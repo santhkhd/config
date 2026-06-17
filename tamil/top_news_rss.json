@@ -1,0 +1,261 @@
+[
+    {
+        "category": "World & US News",
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/",
+        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "image": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+        "category": "World & US News",
+        "name": "CNN Top Stories",
+        "url": "https://www.cnn.com/",
+        "rss_url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "image": "https://edition.cnn.com/favicon.ico"
+    },
+    {
+        "category": "World & US News",
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/",
+        "rss_url": "https://feeds.washingtonpost.com/rss/world",
+        "image": "https://www.washingtonpost.com/favicon.ico"
+    },
+    {
+        "category": "World & US News",
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/",
+        "rss_url": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+        "image": "https://www.usatoday.com/favicon.ico"
+    },
+    {
+        "category": "World & US News",
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/",
+        "rss_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "image": "https://www.wsj.com/favicon.ico"
+    },
+    {
+        "category": "Business & Finance",
+        "name": "Bloomberg Markets",
+        "url": "https://www.bloomberg.com/",
+        "rss_url": "https://feeds.bloomberg.com/markets/news.rss",
+        "image": "https://www.bloomberg.com/favicon.ico"
+    },
+    {
+        "category": "Business & Finance",
+        "name": "CNBC Business",
+        "url": "https://www.cnbc.com/",
+        "rss_url": "https://search.cnbc.com/rs/search/view.xml?partnerId=2000&keywords=cnbcnews",
+        "image": "https://www.cnbc.com/favicon.ico"
+    },
+    {
+        "category": "Business & Finance",
+        "name": "Financial Times",
+        "url": "https://www.ft.com/",
+        "rss_url": "https://www.ft.com/?format=rss",
+        "image": "https://www.ft.com/favicon.ico"
+    },
+    {
+        "category": "Business & Finance",
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/",
+        "rss_url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+        "image": "https://www.marketwatch.com/favicon.ico"
+    },
+    {
+        "category": "Business & Finance",
+        "name": "NYT Business",
+        "url": "https://www.nytimes.com/section/business",
+        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "image": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+        "category": "Health",
+        "name": "NYT Health",
+        "url": "https://www.nytimes.com/section/health",
+        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "image": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+        "category": "Health",
+        "name": "CNN Health",
+        "url": "https://www.cnn.com/health",
+        "rss_url": "https://edition.cnn.com/health/rss",
+        "image": "https://edition.cnn.com/favicon.ico"
+    },
+    {
+        "category": "Health",
+        "name": "NPR Health",
+        "url": "https://www.npr.org/sections/health/",
+        "rss_url": "https://feeds.npr.org/1128/rss.xml",
+        "image": "https://www.npr.org/favicon.ico"
+    },
+    {
+        "category": "Health",
+        "name": "Fox News Health",
+        "url": "https://www.foxnews.com/health",
+        "rss_url": "https://moxie.foxnews.com/google-publisher/health.xml",
+        "image": "https://www.foxnews.com/favicon.ico"
+    },
+    {
+        "category": "Technology",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "rss_url": "https://www.theverge.com/rss/index.xml",
+        "image": "https://www.theverge.com/favicon.ico"
+    },
+    {
+        "category": "Technology",
+        "name": "NYT Technology",
+        "url": "https://www.nytimes.com/section/technology",
+        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "image": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+        "category": "Technology",
+        "name": "Wired",
+        "url": "https://www.wired.com/",
+        "rss_url": "https://www.wired.com/feed/rss",
+        "image": "https://www.wired.com/favicon.ico"
+    },
+    {
+        "category": "Technology",
+        "name": "CNN Tech",
+        "url": "https://www.cnn.com/tech",
+        "rss_url": "https://edition.cnn.com/tech/rss",
+        "image": "https://edition.cnn.com/favicon.ico"
+    },
+    {
+        "category": "Technology",
+        "name": "Fox News Tech",
+        "url": "https://www.foxnews.com/tech",
+        "rss_url": "https://moxie.foxnews.com/google-publisher/tech.xml",
+        "image": "https://www.foxnews.com/favicon.ico"
+    },
+    {
+        "category": "Sports",
+        "name": "ESPN News",
+        "url": "https://www.espn.com/",
+        "rss_url": "https://www.espn.com/espn/rss/news",
+        "image": "https://www.espn.com/favicon.ico"
+    },
+    {
+        "category": "Sports",
+        "name": "Fox Sports",
+        "url": "https://www.foxsports.com/",
+        "rss_url": "https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU",
+        "image": "https://www.foxsports.com/favicon.ico"
+    },
+    {
+        "category": "Sports",
+        "name": "CBS Sports",
+        "url": "https://www.cbssports.com/",
+        "rss_url": "https://www.cbssports.com/rss/headlines/",
+        "image": "https://www.cbssports.com/favicon.ico"
+    },
+    {
+        "category": "Sports",
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/",
+        "rss_url": "https://www.si.com/nfl.rss",
+        "image": "https://www.si.com/favicon.ico"
+    },
+    {
+        "category": "Sports",
+        "name": "The Athletic",
+        "url": "https://theathletic.com/",
+        "rss_url": "https://theathletic.com/rss/",
+        "image": "https://theathletic.com/favicon.ico"
+    },
+    {
+        "category": "Science",
+        "name": "NYT Science",
+        "url": "https://www.nytimes.com/section/science",
+        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+        "image": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+        "category": "Science",
+        "name": "NPR Science",
+        "url": "https://www.npr.org/sections/science/",
+        "rss_url": "https://feeds.npr.org/1007/rss.xml",
+        "image": "https://www.npr.org/favicon.ico"
+    },
+    {
+        "category": "Science",
+        "name": "Scientific American",
+        "url": "https://www.scientificamerican.com/",
+        "rss_url": "https://www.scientificamerican.com/rss/all/",
+        "image": "https://www.scientificamerican.com/favicon.ico"
+    },
+    {
+        "category": "Politics",
+        "name": "Politico",
+        "url": "https://www.politico.com/",
+        "rss_url": "https://www.politico.com/rss/politicopicks.xml",
+        "image": "https://www.politico.com/favicon.ico"
+    },
+    {
+        "category": "Politics",
+        "name": "NYT Politics",
+        "url": "https://www.nytimes.com/section/politics",
+        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+        "image": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+        "category": "Politics",
+        "name": "CNN Politics",
+        "url": "https://www.cnn.com/politics",
+        "rss_url": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+        "image": "https://edition.cnn.com/favicon.ico"
+    },
+    {
+        "category": "International & Ethnic",
+        "name": "Hiwwe wie Driwwe",
+        "url": "https://hiwwe-wie-driwwe.com/",
+        "rss_url": "https://hiwwe-wie-driwwe.de/feed/",
+        "image": "https://hiwwe-wie-driwwe.com/favicon.ico"
+    },
+    {
+        "category": "International & Ethnic",
+        "name": "Haiti Progrès",
+        "url": "https://haitiprogres.com/",
+        "rss_url": "https://www.haitiprogres.com/feed",
+        "image": "https://haitiprogres.com/favicon.ico"
+    },
+    {
+        "category": "International & Ethnic",
+        "name": "Rafu Shimpo",
+        "url": "https://rafu.com/",
+        "rss_url": "https://rafu.com/feed/",
+        "image": "https://rafu.com/favicon.ico"
+    },
+    {
+        "category": "International & Ethnic",
+        "name": "French District",
+        "url": "https://frenchdistrict.com/",
+        "rss_url": "https://frenchdistrict.com/feed/",
+        "image": "https://frenchdistrict.com/favicon.ico"
+    },
+    {
+        "category": "Regional US news",
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/",
+        "rss_url": "https://www.latimes.com/world-nation/rss2.0.xml",
+        "image": "https://www.latimes.com/favicon.ico"
+    },
+    {
+        "category": "Regional US news",
+        "name": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/",
+        "rss_url": "https://www.chicagotribune.com/arcio/rss/",
+        "image": "https://www.chicagotribune.com/favicon.ico"
+    },
+    {
+        "category": "Regional US news",
+        "name": "Seattle Times",
+        "url": "https://www.seattletimes.com/",
+        "rss_url": "https://www.seattletimes.com/feed/",
+        "image": "https://www.seattletimes.com/favicon.ico"
+    }
+]

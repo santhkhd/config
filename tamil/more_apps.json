@@ -1,0 +1,28 @@
+{
+    "apps": [
+        {
+            "name": "Tamil Live TV",
+            "type": "market",
+            "url": "market://details?id=com.all.tamiltv.liveshowsan",
+            "image": "https://img.icons8.com/fluent/144/null/google-play.png"
+        },
+        {
+            "name": "New Tamil Movies",
+            "type": "market",
+            "url": "market://details?id=com.tamilnewmovies.sanshob",
+            "image": "https://img.icons8.com/fluent/144/null/movie-beginning.png"
+        },
+        {
+            "name": "Tamil News Hub",
+            "type": "market",
+            "url": "market://details?id=YOUR_APP_ID_3",
+            "image": "https://img.icons8.com/fluent/144/null/news.png"
+        },
+        {
+            "name": "Tamil FM Radio",
+            "type": "market",
+            "url": "market://details?id=YOUR_APP_ID_4",
+            "image": "https://img.icons8.com/fluent/144/null/musical-notes.png"
+        }
+    ]
+}

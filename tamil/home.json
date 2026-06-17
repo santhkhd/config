@@ -1,0 +1,66 @@
+{
+    "overview": [
+        {
+            "title": "YouTube Channels",
+            "provider": "overview",
+            "arguments": [
+                "youtube_categories.json"
+            ],
+            "image": "https://img.icons8.com/color/96/youtube-play.png"
+        },
+        {
+            "title": "Live TV & Shows",
+            "provider": "overview",
+            "arguments": [
+                "tv_channels.json"
+            ],
+            "image": "https://img.icons8.com/color/96/tv.png"
+        },
+        {
+            "title": "Newspapers",
+            "provider": "overview",
+            "arguments": [
+                "tamilnews.json"
+            ],
+            "image": "https://img.icons8.com/color/96/news.png"
+        },
+        {
+            "title": "Comedy",
+            "provider": "overview",
+            "arguments": [
+                "comedy.json"
+            ],
+            "image": "https://img.icons8.com/color/96/video.png"
+        },
+        {
+            "title": "Top Stories",
+            "provider": "tabbed_rss",
+            "arguments": [
+                "top_news_rss.json"
+            ],
+            "image": "https://img.icons8.com/color/96/hot-article.png"
+        },
+        {
+            "title": "HD movies",
+            "provider": "movies",
+            "arguments": [
+                "https://santhkhd.github.io/tamil/imdb_tamil_movies_with_cast.json"
+            ],
+            "image": "https://img.icons8.com/color/96/movie.png"
+        },
+        {
+            "title": "Latest Videos",
+            "provider": "latest_videos",
+            "arguments": [
+                "ALL_VIDEOS"
+            ],
+            "image": "https://img.icons8.com/color/96/play.png"
+        },
+        {
+            "title": "Favorites",
+            "provider": "favorites",
+            "arguments": [],
+            "image": "https://img.icons8.com/color/96/hearts.png"
+        }
+    ]
+}

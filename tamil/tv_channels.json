@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Captain TV",
+        "provider": "videos",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCjPq8C3_m0OPF1n1sCPaXUA"
+        ],
+        "link": "https://www.youtube.com/channel/UCjPq8C3_m0OPF1n1sCPaXUA"
+    },
+    {
+        "title": "VendharTV",
+        "provider": "videos",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCs9Ty8NsU1I0-FXda97XCcQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCs9Ty8NsU1I0-FXda97XCcQ"
+    },
+    {
+        "title": "Raj Television",
+        "provider": "videos",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCo6XUuu19Kh1WCorvh-3vQA"
+        ],
+        "link": "https://www.youtube.com/channel/UCo6XUuu19Kh1WCorvh-3vQA"
+    },
+    {
+        "title": "Jaya Max",
+        "provider": "videos",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCewgJzEr8lpw5FlomNkaLMQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCewgJzEr8lpw5FlomNkaLMQ"
+    },
+    {
+        "title": "Jaya Plus",
+        "provider": "videos",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCOP4Gbw-T1ofcW8vyL89ZDw"
+        ],
+        "link": "https://www.youtube.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw"
+    },
+    {
+        "title": "PuthuYugamTV",
+        "provider": "videos",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCAW01Xupb-fd51o0BsQbcLQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCAW01Xupb-fd51o0BsQbcLQ"
+    },
+    {
+        "title": "Kalaignar TV",
+        "provider": "videos",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC0SIHdEcfg4BsM8X5tixwHQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC0SIHdEcfg4BsM8X5tixwHQ"
+    }
+]

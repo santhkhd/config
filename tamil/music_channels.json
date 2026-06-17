@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Trend Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCUgP5pdToi19fWe19NVliFg"
+        ],
+        "link": "https://www.youtube.com/channel/UCUgP5pdToi19fWe19NVliFg"
+    },
+    {
+        "title": "Think Music India",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCLbdVvreihwZRL6kwuEUYsA"
+        ],
+        "link": "https://www.youtube.com/channel/UCLbdVvreihwZRL6kwuEUYsA"
+    },
+    {
+        "title": "IndiaGlitz Tamil Movies",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuF8-WmBJvhV5rZj2aYSoYw"
+        ],
+        "link": "https://www.youtube.com/channel/UCuF8-WmBJvhV5rZj2aYSoYw"
+    }
+]

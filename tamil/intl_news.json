@@ -1,0 +1,42 @@
+[
+    {
+        "title": "BBC News (UK)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BBC.svg",
+        "provider": "webview",
+        "arguments": [
+            "https://www.bbc.com/news"
+        ]
+    },
+    {
+        "title": "The Guardian (UK)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Guardian.svg",
+        "provider": "webview",
+        "arguments": [
+            "https://www.theguardian.com/international"
+        ]
+    },
+    {
+        "title": "Al Jazeera (Qatar)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",
+        "provider": "webview",
+        "arguments": [
+            "https://www.aljazeera.com/"
+        ]
+    },
+    {
+        "title": "The Hindu (India)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/eb/The_Hindu_Logo.png",
+        "provider": "webview",
+        "arguments": [
+            "https://www.thehindu.com/"
+        ]
+    },
+    {
+        "title": "Daily Mail (UK)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Daily_Mail.svg",
+        "provider": "webview",
+        "arguments": [
+            "https://www.dailymail.co.uk/home/index.html"
+        ]
+    }
+]
