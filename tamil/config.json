@@ -15,7 +15,7 @@
         "force_update": false,
         "update_url": "https://santhkhd.github.io/tamil/tamilnewmovies_sanshob_up/update.html?target=external",
         "target_version_code": 109,
-        "server_url": "https://script.google.com/macros/s/AKfycbyG_b_7pxWaSfv7oA7Bf1_TKOY_zn2a9MtHM16RTFtXQr2kDXJjFtqZbAGo_a87NXlB/exec",
+        "server_url": "https://script.google.com/macros/s/AKfycbzksIsp5rwCAaf9yHtb1phc_3BTho-_84t0dm_APTjEh1WkI3xJiWiBkh07FYktbk4S/exec",
         "show_weather": true,
         "weather_api_key": "c80a019ff254412a9aa75026241206"
     },
