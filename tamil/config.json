@@ -16,7 +16,7 @@
         "update_url": "https://santhkhd.github.io/tamil/tamilnewmovies_sanshob_up/update.html?target=external",
         "target_version_code": 109,
         "server_url": "https://script.google.com/macros/s/AKfycbzksIsp5rwCAaf9yHtb1phc_3BTho-_84t0dm_APTjEh1WkI3xJiWiBkh07FYktbk4S/exec",
-        "show_weather": true,
+        "show_weather": false,
         "weather_api_key": "c80a019ff254412a9aa75026241206"
     },
     "rss_news": [
@@ -256,7 +256,7 @@
         {
             "name": "Cinema Collections",
             "type": "category",
-            "url": "https://santhkhd.github.io/tamil/imdb_tamil_movies_with_cast.json",
+            "url": "https://config-rsk.pages.dev/tamil.json",
             "icon": "https://img.icons8.com/fluent/96/cinema.png"
         },
         {
@@ -269,6 +269,12 @@
             "name": "News Hub",
             "type": "category",
             "url": "tamilnews.json",
+            "icon": "https://img.icons8.com/fluent/96/news.png"
+        },
+        {
+            "name": "Top News Hub",
+            "type": "tabbed_rss",
+            "url": "top_news_rss.json",
             "icon": "https://img.icons8.com/fluent/96/news.png"
         },
         {
