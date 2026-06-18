@@ -30,160 +30,129 @@
     "category": "Live TV"
   },
   {
-    "name": "Radio City Tamil",
-    "url": "http://prclive1.listenon.in:9948/;",
-    "logo": "https://www.radiocity.in/assets/images/radiocity-logo.png",
-    "category": "Tamil FM"
-  },
-  {
-    "name": "Radio City Tamil Gold",
-    "url": "http://prclive1.listenon.in:9930/;",
-    "logo": "https://www.radiocity.in/assets/images/radiocity-logo.png",
-    "category": "Tamil FM"
-  },
-  {
-    "name": "Radio City Kaadhal",
-    "url": "http://prclive1.listenon.in:9936/;",
-    "logo": "https://www.radiocity.in/assets/images/radiocity-logo.png",
-    "category": "Tamil FM"
-  },
-  {
-    "name": "Radio City S.P.B. Hits",
-    "url": "http://prclive1.listenon.in:8816/;",
-    "logo": "https://c.saavncdn.com/artists/S_P_Balasubrahmanyam_500x500.jpg",
-    "category": "Artist Radio"
-  },
-  {
-    "name": "Radio City Kamal Haasan Hits",
-    "url": "http://prclive1.listenon.in:8836/;",
-    "logo": "https://c.saavncdn.com/artists/Kamal_Haasan_500x500.jpg",
-    "category": "Artist Radio"
-  },
-  {
-    "name": "Hello FM 106.4",
-    "url": "http://163.172.158.94:8048/;stream.mp3",
-    "logo": "http://www.hellofm.in/wp-content/uploads/2016/09/Logo.png",
-    "category": "Tamil FM"
-  },
-  {
-    
-    "name": "Radio Mirchi 98.3",
-    "url": "http://163.172.158.94:8052/;stream.mp3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Radio_Mirchi_logo.png",
-    "category": "Tamil FM"
-  },
-  {
-    "name": "Big FM 92.7",
-    "url": "http://163.172.158.94:8062/;stream.mp3",
+    "name": "Big FM Tamil",
+    "url": "https://stream.zeno.fm/r2gn1pgm4qruv",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/92.7_BIG_FM_Logo.png",
     "category": "Tamil FM"
   },
   {
-    "name": "Chennai FM Rainbow",
-    "url": "http://163.172.158.94:8066/;stream.mp3",
-    "logo": "https://allindiaradio.gov.in/images/logos/AIR-logo.png",
+    "name": "89.4 Tamil FM",
+    "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+    "logo": "https://img.icons8.com/fluent/96/radio.png",
     "category": "Tamil FM"
   },
   {
-    "name": "Suryan FM",
-    "url": "http://104.238.193.114:7077/;stream.mp3",
-    "logo": "https://suryanfm.in/wp-content/uploads/2021/04/Suryan-FM-Logo.png",
+    "name": "Lankasri FM",
+    "url": "http://media2.lankasri.fm/;stream.mp3",
+    "logo": "https://img.icons8.com/fluent/96/radio.png",
     "category": "Tamil FM"
   },
   {
-    "name": "Shakthi FM",
-    "url": "http://76.164.217.100:7012/stream",
-    "logo": "https://shakthifm.com/assets/images/logo.png",
+    "name": "East FM 102.7",
+    "url": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
+    "logo": "https://img.icons8.com/fluent/96/radio.png",
     "category": "Tamil FM"
   },
   {
-    "name": "Sooriyan FM",
-    "url": "http://sooriyanfm.asiabroadcasting.stream:7071/;",
-    "logo": "http://sooriyanfm.lk/wp-content/uploads/2021/01/logo.png",
+    "name": "Arni City FM",
+    "url": "https://usa9.fastcast4u.com/proxy/arnifm?mp=/1",
+    "logo": "https://img.icons8.com/fluent/96/radio.png",
     "category": "Tamil FM"
   },
   {
-    "name": "Varnam FM",
-    "url": "http://s3.voscast.com:8402/;",
-    "logo": "https://varnamfm.com/assets/images/logo.png",
+    "name": "IBC Tamil Radio",
+    "url": "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3",
+    "logo": "https://img.icons8.com/fluent/96/radio.png",
     "category": "Tamil FM"
   },
   {
-    "name": "Ilaiyaraaja Radio",
-    "url": "http://212.83.138.48:8324/;",
-    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg",
-    "category": "Artist Radio"
+    "name": "Chellame FM",
+    "url": "https://sugu.radioca.st/stream/;stream/1",
+    "logo": "https://img.icons8.com/fluent/96/radio.png",
+    "category": "Tamil FM"
   },
   {
-    "name": "Ilaiyaraaja Lite Radio",
-    "url": "http://212.83.138.48:8340/;",
-    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg",
-    "category": "Artist Radio"
-  },
-  {
-    "name": "Ilayamaan Radio",
-    "url": "http://212.83.138.48:8086/;",
-    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg",
-    "category": "Artist Radio"
-  },
-  {
-    "name": "SPB Radio",
-    "url": "http://212.83.138.48:8344/;",
+    "name": "SPB Hits",
+    "url": "https://stream.zeno.fm/9adkzdcqi4jvv",
     "logo": "https://c.saavncdn.com/artists/S_P_Balasubrahmanyam_500x500.jpg",
     "category": "Artist Radio"
   },
   {
-    "name": "A.R. Rahman Radio",
-    "url": "http://212.83.138.48:8328/;",
-    "logo": "https://c.saavncdn.com/artists/A_R_Rahman_500x500.jpg",
+    "name": "Ilayaraja FM",
+    "url": "https://stream.zeno.fm/nlgefxkh8utuv",
+    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg",
     "category": "Artist Radio"
   },
   {
-    "name": "A.R. Rahman Lite Radio",
-    "url": "http://212.83.138.48:8332/;",
-    "logo": "https://c.saavncdn.com/artists/A_R_Rahman_500x500.jpg",
+    "name": "Ilayaraja Tamil Songs",
+    "url": "https://stream.zeno.fm/pwm9y3eud5zuv",
+    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg",
     "category": "Artist Radio"
   },
   {
-    "name": "Harris Jayaraj Radio",
-    "url": "http://212.83.138.48:8352/;",
+    "name": "Harris Jayaraj FM",
+    "url": "http://stream.zeno.fm/ob6tjg8gulptv",
     "logo": "https://c.saavncdn.com/artists/Harris_Jayaraj_500x500.jpg",
     "category": "Artist Radio"
   },
   {
-    "name": "Yuvan Shankar Raja Radio",
-    "url": "http://212.83.138.48:8360/;",
-    "logo": "https://c.saavncdn.com/artists/Yuvan_Shankar_Raja_500x500.jpg",
+    "name": "Harris Jayaraj Radio",
+    "url": "https://stream.zeno.fm/0bhsthssutzuv",
+    "logo": "https://c.saavncdn.com/artists/Harris_Jayaraj_500x500.jpg",
     "category": "Artist Radio"
   },
   {
-    "name": "KJ Yesudas Radio",
-    "url": "http://212.83.138.48:8251/;",
-    "logo": "https://c.saavncdn.com/artists/K_J_Yesudas_500x500.jpg",
-    "category": "Artist Radio"
-  },
-  {
-    "name": "Palaiya Paadal Radio",
-    "url": "http://212.83.138.48:8090/;",
+    "name": "M.S. Viswanathan FM",
+    "url": "http://stream.zeno.fm/x7wc1xgllvsvv",
     "logo": "https://img.icons8.com/fluent/96/retro-music-player.png",
-    "category": "Hits & Classics"
+    "category": "Artist Radio"
   },
   {
-    "name": "Pudhu Paadal Radio",
-    "url": "http://212.83.138.48:8336/;",
+    "name": "KS Chitra Radio",
+    "url": "https://stream.zeno.fm/aad4e51qz7zuv",
+    "logo": "https://c.saavncdn.com/artists/K_S_Chithra_500x500.jpg",
+    "category": "Artist Radio"
+  },
+  {
+    "name": "Ajith FM",
+    "url": "https://stream.zeno.fm/ntkhu40k17zuv",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ajith_Kumar_in_2011.jpg",
+    "category": "Artist Radio"
+  },
+  {
+    "name": "90s Tamil Melodies",
+    "url": "https://stream.zeno.fm/tqnws2eafwzuv.aac",
     "logo": "https://img.icons8.com/fluent/96/music.png",
     "category": "Hits & Classics"
   },
   {
-    "name": "Tamil Beat Radio",
-    "url": "http://212.83.138.48:8094/;",
+    "name": "80s Tamil Hits",
+    "url": "https://stream.zeno.fm/48w230kx8vzuv.aac",
+    "logo": "https://img.icons8.com/fluent/96/retro-music-player.png",
+    "category": "Hits & Classics"
+  },
+  {
+    "name": "Evergreen Tamil Radio",
+    "url": "https://stream.zeno.fm/2fhh49f3zf8uv",
+    "logo": "https://img.icons8.com/fluent/96/headphones.png",
+    "category": "Hits & Classics"
+  },
+  {
+    "name": "Chillax FM",
+    "url": "http://stream.zeno.fm/ohhsihm2byluv",
     "logo": "https://img.icons8.com/fluent/96/dance-music.png",
     "category": "Hits & Classics"
   },
   {
-    "name": "Tamil Lite Radio",
-    "url": "http://212.83.138.48:8348/;",
+    "name": "Isai FM",
+    "url": "https://stream.zeno.fm/7b78sdv2x1zuv",
     "logo": "https://img.icons8.com/fluent/96/headphones.png",
+    "category": "Hits & Classics"
+  },
+  {
+    "name": "JN FM Tamil Classic",
+    "url": "http://stream.zeno.fm/qkdmq6d7kfhvv",
+    "logo": "https://img.icons8.com/fluent/96/music.png",
     "category": "Hits & Classics"
   },
   {
@@ -193,39 +162,39 @@
     "category": "Hits & Classics"
   },
   {
-    "name": "Thenkatchi-ko Swaminathan",
-    "url": "http://212.83.138.48:8305/;",
-    "logo": "https://img.icons8.com/fluent/96/microphone.png",
-    "category": "Hits & Classics"
-  },
-  {
-    "name": "Hindu Devotional Radio",
-    "url": "http://66.55.145.43:7350/stream",
+    "name": "Bhakti Sangeet",
+    "url": "http://stream.zeno.fm/ut3kgm1vsa0uv",
     "logo": "https://img.icons8.com/fluent/96/om.png",
     "category": "Devotional"
   },
   {
-    "name": "Chennai Christian Radio",
-    "url": "http://5.10.69.105/stream2?.mp3",
+    "name": "Sivan Radio",
+    "url": "https://sivanradio.radioca.st/stream",
+    "logo": "https://img.icons8.com/fluent/96/om.png",
+    "category": "Devotional"
+  },
+  {
+    "name": "Bakthi Malai Radio",
+    "url": "https://bakthiisai-unicast2u.radioca.st/stream",
+    "logo": "https://img.icons8.com/fluent/96/om.png",
+    "category": "Devotional"
+  },
+  {
+    "name": "Tamil Amuthu Bakthi Radio",
+    "url": "https://stream.zeno.fm/bpc3ucypmm0uv",
+    "logo": "https://img.icons8.com/fluent/96/om.png",
+    "category": "Devotional"
+  },
+  {
+    "name": "Anbu FM (Christian)",
+    "url": "https://stream.zeno.fm/c2p4f1np4bruv",
     "logo": "https://img.icons8.com/fluent/96/cross.png",
     "category": "Devotional"
   },
   {
-    "name": "Christian FM",
-    "url": "http://37.187.90.121:4002/stream",
+    "name": "Sajeeva Vahini Christian",
+    "url": "http://stream.zeno.fm/akdry3prf5zuv",
     "logo": "https://img.icons8.com/fluent/96/cross.png",
-    "category": "Devotional"
-  },
-  {
-    "name": "Bible Radio - New Testament",
-    "url": "http://212.83.138.48:8429/;",
-    "logo": "https://img.icons8.com/fluent/96/holy-bible.png",
-    "category": "Devotional"
-  },
-  {
-    "name": "Bible Reading - The Gospel",
-    "url": "http://212.83.138.48:8436/;",
-    "logo": "https://img.icons8.com/fluent/96/holy-bible.png",
     "category": "Devotional"
   }
 ]
