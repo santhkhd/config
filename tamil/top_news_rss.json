@@ -1,261 +1,996 @@
 [
-    {
-        "category": "World & US News",
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/",
-        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-        "image": "https://www.nytimes.com/favicon.ico"
-    },
-    {
-        "category": "World & US News",
-        "name": "CNN Top Stories",
-        "url": "https://www.cnn.com/",
-        "rss_url": "http://rss.cnn.com/rss/cnn_topstories.rss",
-        "image": "https://edition.cnn.com/favicon.ico"
-    },
-    {
-        "category": "World & US News",
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/",
-        "rss_url": "https://feeds.washingtonpost.com/rss/world",
-        "image": "https://www.washingtonpost.com/favicon.ico"
-    },
-    {
-        "category": "World & US News",
-        "name": "USA Today",
-        "url": "https://www.usatoday.com/",
-        "rss_url": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
-        "image": "https://www.usatoday.com/favicon.ico"
-    },
-    {
-        "category": "World & US News",
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/",
-        "rss_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "image": "https://www.wsj.com/favicon.ico"
-    },
-    {
-        "category": "Business & Finance",
-        "name": "Bloomberg Markets",
-        "url": "https://www.bloomberg.com/",
-        "rss_url": "https://feeds.bloomberg.com/markets/news.rss",
-        "image": "https://www.bloomberg.com/favicon.ico"
-    },
-    {
-        "category": "Business & Finance",
-        "name": "CNBC Business",
-        "url": "https://www.cnbc.com/",
-        "rss_url": "https://search.cnbc.com/rs/search/view.xml?partnerId=2000&keywords=cnbcnews",
-        "image": "https://www.cnbc.com/favicon.ico"
-    },
-    {
-        "category": "Business & Finance",
-        "name": "Financial Times",
-        "url": "https://www.ft.com/",
-        "rss_url": "https://www.ft.com/?format=rss",
-        "image": "https://www.ft.com/favicon.ico"
-    },
-    {
-        "category": "Business & Finance",
-        "name": "MarketWatch",
-        "url": "https://www.marketwatch.com/",
-        "rss_url": "http://feeds.marketwatch.com/marketwatch/topstories/",
-        "image": "https://www.marketwatch.com/favicon.ico"
-    },
-    {
-        "category": "Business & Finance",
-        "name": "NYT Business",
-        "url": "https://www.nytimes.com/section/business",
-        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-        "image": "https://www.nytimes.com/favicon.ico"
-    },
-    {
-        "category": "Health",
-        "name": "NYT Health",
-        "url": "https://www.nytimes.com/section/health",
-        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-        "image": "https://www.nytimes.com/favicon.ico"
-    },
-    {
-        "category": "Health",
-        "name": "CNN Health",
-        "url": "https://www.cnn.com/health",
-        "rss_url": "https://edition.cnn.com/health/rss",
-        "image": "https://edition.cnn.com/favicon.ico"
-    },
-    {
-        "category": "Health",
-        "name": "NPR Health",
-        "url": "https://www.npr.org/sections/health/",
-        "rss_url": "https://feeds.npr.org/1128/rss.xml",
-        "image": "https://www.npr.org/favicon.ico"
-    },
-    {
-        "category": "Health",
-        "name": "Fox News Health",
-        "url": "https://www.foxnews.com/health",
-        "rss_url": "https://moxie.foxnews.com/google-publisher/health.xml",
-        "image": "https://www.foxnews.com/favicon.ico"
-    },
-    {
-        "category": "Technology",
-        "name": "The Verge",
-        "url": "https://www.theverge.com/",
-        "rss_url": "https://www.theverge.com/rss/index.xml",
-        "image": "https://www.theverge.com/favicon.ico"
-    },
-    {
-        "category": "Technology",
-        "name": "NYT Technology",
-        "url": "https://www.nytimes.com/section/technology",
-        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "image": "https://www.nytimes.com/favicon.ico"
-    },
-    {
-        "category": "Technology",
-        "name": "Wired",
-        "url": "https://www.wired.com/",
-        "rss_url": "https://www.wired.com/feed/rss",
-        "image": "https://www.wired.com/favicon.ico"
-    },
-    {
-        "category": "Technology",
-        "name": "CNN Tech",
-        "url": "https://www.cnn.com/tech",
-        "rss_url": "https://edition.cnn.com/tech/rss",
-        "image": "https://edition.cnn.com/favicon.ico"
-    },
-    {
-        "category": "Technology",
-        "name": "Fox News Tech",
-        "url": "https://www.foxnews.com/tech",
-        "rss_url": "https://moxie.foxnews.com/google-publisher/tech.xml",
-        "image": "https://www.foxnews.com/favicon.ico"
-    },
-    {
-        "category": "Sports",
-        "name": "ESPN News",
-        "url": "https://www.espn.com/",
-        "rss_url": "https://www.espn.com/espn/rss/news",
-        "image": "https://www.espn.com/favicon.ico"
-    },
-    {
-        "category": "Sports",
-        "name": "Fox Sports",
-        "url": "https://www.foxsports.com/",
-        "rss_url": "https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU",
-        "image": "https://www.foxsports.com/favicon.ico"
-    },
-    {
-        "category": "Sports",
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/",
-        "rss_url": "https://www.cbssports.com/rss/headlines/",
-        "image": "https://www.cbssports.com/favicon.ico"
-    },
-    {
-        "category": "Sports",
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/",
-        "rss_url": "https://www.si.com/nfl.rss",
-        "image": "https://www.si.com/favicon.ico"
-    },
-    {
-        "category": "Sports",
-        "name": "The Athletic",
-        "url": "https://theathletic.com/",
-        "rss_url": "https://theathletic.com/rss/",
-        "image": "https://theathletic.com/favicon.ico"
-    },
-    {
-        "category": "Science",
-        "name": "NYT Science",
-        "url": "https://www.nytimes.com/section/science",
-        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-        "image": "https://www.nytimes.com/favicon.ico"
-    },
-    {
-        "category": "Science",
-        "name": "NPR Science",
-        "url": "https://www.npr.org/sections/science/",
-        "rss_url": "https://feeds.npr.org/1007/rss.xml",
-        "image": "https://www.npr.org/favicon.ico"
-    },
-    {
-        "category": "Science",
-        "name": "Scientific American",
-        "url": "https://www.scientificamerican.com/",
-        "rss_url": "https://www.scientificamerican.com/rss/all/",
-        "image": "https://www.scientificamerican.com/favicon.ico"
-    },
-    {
-        "category": "Politics",
-        "name": "Politico",
-        "url": "https://www.politico.com/",
-        "rss_url": "https://www.politico.com/rss/politicopicks.xml",
-        "image": "https://www.politico.com/favicon.ico"
-    },
-    {
-        "category": "Politics",
-        "name": "NYT Politics",
-        "url": "https://www.nytimes.com/section/politics",
-        "rss_url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-        "image": "https://www.nytimes.com/favicon.ico"
-    },
-    {
-        "category": "Politics",
-        "name": "CNN Politics",
-        "url": "https://www.cnn.com/politics",
-        "rss_url": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
-        "image": "https://edition.cnn.com/favicon.ico"
-    },
-    {
-        "category": "International & Ethnic",
-        "name": "Hiwwe wie Driwwe",
-        "url": "https://hiwwe-wie-driwwe.com/",
-        "rss_url": "https://hiwwe-wie-driwwe.de/feed/",
-        "image": "https://hiwwe-wie-driwwe.com/favicon.ico"
-    },
-    {
-        "category": "International & Ethnic",
-        "name": "Haiti Progrès",
-        "url": "https://haitiprogres.com/",
-        "rss_url": "https://www.haitiprogres.com/feed",
-        "image": "https://haitiprogres.com/favicon.ico"
-    },
-    {
-        "category": "International & Ethnic",
-        "name": "Rafu Shimpo",
-        "url": "https://rafu.com/",
-        "rss_url": "https://rafu.com/feed/",
-        "image": "https://rafu.com/favicon.ico"
-    },
-    {
-        "category": "International & Ethnic",
-        "name": "French District",
-        "url": "https://frenchdistrict.com/",
-        "rss_url": "https://frenchdistrict.com/feed/",
-        "image": "https://frenchdistrict.com/favicon.ico"
-    },
-    {
-        "category": "Regional US news",
-        "name": "Los Angeles Times",
-        "url": "https://www.latimes.com/",
-        "rss_url": "https://www.latimes.com/world-nation/rss2.0.xml",
-        "image": "https://www.latimes.com/favicon.ico"
-    },
-    {
-        "category": "Regional US news",
-        "name": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/",
-        "rss_url": "https://www.chicagotribune.com/arcio/rss/",
-        "image": "https://www.chicagotribune.com/favicon.ico"
-    },
-    {
-        "category": "Regional US news",
-        "name": "Seattle Times",
-        "url": "https://www.seattletimes.com/",
-        "rss_url": "https://www.seattletimes.com/feed/",
-        "image": "https://www.seattletimes.com/favicon.ico"
-    }
+  {
+    "category": "General News",
+    "name": "Dinamani",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/stories.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "News18 Tamil",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/live-updates.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "OneIndia Tamil",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "Dinamani Latest",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/latest-news.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "BBC Tamil",
+    "url": "https://www.bbc.com/tamil",
+    "rss_url": "https://www.bbc.com/tamil/index.xml",
+    "image": "https://www.bbc.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "News18 Trending",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/trending.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "Dinamani Tamil Nadu",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/tamilnadu.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "News18 Tamil Nadu",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/local-news.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "OneIndia Tamil Nadu",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "News18 Puducherry",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/puducherry.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "BBC Tamil Nadu",
+    "url": "https://www.bbc.com/tamil",
+    "rss_url": "https://www.bbc.com/tamil/index.xml",
+    "image": "https://www.bbc.com/favicon.ico"
+  },
+  {
+    "category": "India News",
+    "name": "Dinamani India",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/india.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "India News",
+    "name": "News18 India",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/live-updates.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "India News",
+    "name": "OneIndia India",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "India News",
+    "name": "BBC India",
+    "url": "https://www.bbc.com/tamil",
+    "rss_url": "https://www.bbc.com/tamil/index.xml",
+    "image": "https://www.bbc.com/favicon.ico"
+  },
+  {
+    "category": "World News",
+    "name": "News18 World",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/international.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "World News",
+    "name": "BBC World",
+    "url": "https://www.bbc.com/tamil",
+    "rss_url": "https://www.bbc.com/tamil/index.xml",
+    "image": "https://www.bbc.com/favicon.ico"
+  },
+  {
+    "category": "World News",
+    "name": "Dinamani World",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/world.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "World News",
+    "name": "OneIndia World",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Politics",
+    "name": "Dinamani Politics",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/politics.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Politics",
+    "name": "Dinamani Editorial",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/editorial.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Politics",
+    "name": "OneIndia Politics",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Politics",
+    "name": "News18 Special",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/special-articles.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "MyKhel Tamil",
+    "url": "https://tamil.mykhel.com/",
+    "rss_url": "https://tamil.mykhel.com/rss/feeds/mykhel-tamil-fb.xml",
+    "image": "https://tamil.mykhel.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "News18 Sports",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "Dinamani Sports",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/sports.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "MyKhel Tennis",
+    "url": "https://tamil.mykhel.com/",
+    "rss_url": "https://tamil.mykhel.com/rss/feeds/tamil-tennis-news-fb.xml",
+    "image": "https://tamil.mykhel.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "MyKhel Badminton",
+    "url": "https://tamil.mykhel.com/",
+    "rss_url": "https://tamil.mykhel.com/rss/feeds/tamil-badminton-fb.xml",
+    "image": "https://tamil.mykhel.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "MyKhel Hockey",
+    "url": "https://tamil.mykhel.com/",
+    "rss_url": "https://tamil.mykhel.com/rss/feeds/tamil-hockey-fb.xml",
+    "image": "https://tamil.mykhel.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "MyKhel Kabaddi",
+    "url": "https://tamil.mykhel.com/",
+    "rss_url": "https://tamil.mykhel.com/rss/feeds/tamil-kabaddi-fb.xml",
+    "image": "https://tamil.mykhel.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "News18 Extra Sports",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports/other-sports.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Cricket",
+    "name": "MyKhel Cricket",
+    "url": "https://tamil.mykhel.com/",
+    "rss_url": "https://tamil.mykhel.com/rss/feeds/tamil-cricket-fb.xml",
+    "image": "https://tamil.mykhel.com/favicon.ico"
+  },
+  {
+    "category": "Cricket",
+    "name": "News18 Cricket",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports/cricket.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Cricket",
+    "name": "Dinamani Cricket",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/cricket.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Cricket",
+    "name": "News18 IPL",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports/ipl.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Football",
+    "name": "MyKhel Football",
+    "url": "https://tamil.mykhel.com/",
+    "rss_url": "https://tamil.mykhel.com/rss/feeds/tamil-football-fb.xml",
+    "image": "https://tamil.mykhel.com/favicon.ico"
+  },
+  {
+    "category": "Football",
+    "name": "News18 Football",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "News18 Cinema",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/entertainment/cinema.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Dinamani Cinema",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/cinema.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "OneIndia Cinema",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-cinema-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Kumudam Cinema",
+    "url": "https://kumudam.com",
+    "rss_url": "https://kumudam.com/rss/latest-posts",
+    "image": "https://kumudam.com/favicon.ico"
+  },
+  {
+    "category": "OTT & TV",
+    "name": "News18 Television",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/entertainment/television.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "OTT & TV",
+    "name": "OneIndia TV Hub",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-cinema-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "OneIndia Technology",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-technology-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot Tamil",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/gizbot-tamil-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "News18 Tech",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/technology.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot Mobile",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-mobile-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot Gadgets",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-gadgets-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot Camera",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/camera-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot Computer",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-computer-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot Social Media",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-social-media-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot Tablets",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-tablets-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Gizbot How-To",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-how-to-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "OneIndia Health",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-health-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "Boldsky Health",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-health-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "Dinamani Health",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/health.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "News18 Wellness",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/beauty.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "Boldsky Pregnancy",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-pregnancy-parenting-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Dinamani Lifestyle",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/lifestyle.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Boldsky Lifestyle",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/boldsky-tamil-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "News18 Food",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/food.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Boldsky InSync",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-insync-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Nativeplanet Travel",
+    "url": "https://tamil.nativeplanet.com/",
+    "rss_url": "https://tamil.nativeplanet.com/rss/feeds/nativeplanet-tamil-fb.xml",
+    "image": "https://tamil.nativeplanet.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Nativeplanet Guide",
+    "url": "https://tamil.nativeplanet.com/",
+    "rss_url": "https://tamil.nativeplanet.com/rss/feeds/tamil-travel-guide-fb.xml",
+    "image": "https://tamil.nativeplanet.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Nativeplanet Getaways",
+    "url": "https://tamil.nativeplanet.com/",
+    "rss_url": "https://tamil.nativeplanet.com/rss/feeds/tamil-weekend-getaways-fb.xml",
+    "image": "https://tamil.nativeplanet.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "News18 Travel",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/travel.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Boldsky Recipes",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-recipes-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Boldsky Home Garden",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-home-garden-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Boldsky Inspiration",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-inspiration-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Kumudam Life",
+    "url": "https://kumudam.com",
+    "rss_url": "https://kumudam.com/rss/latest-posts",
+    "image": "https://kumudam.com/favicon.ico"
+  },
+  {
+    "category": "Women",
+    "name": "Boldsky Fashion",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-fashion-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Women",
+    "name": "News18 Beauty",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/beauty.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Women",
+    "name": "Boldsky Parenting",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-pregnancy-parenting-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Women",
+    "name": "News18 Fashion",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/fashion.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Women",
+    "name": "Boldsky Beauty",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-beauty-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Spiritual",
+    "name": "OneIndia Spiritual",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-spirtuality-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Spiritual",
+    "name": "News18 Spiritual",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Astrology",
+    "name": "OneIndia Astrology",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-astrology-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Astrology",
+    "name": "Boldsky Astrology",
+    "url": "https://tamil.boldsky.com/",
+    "rss_url": "https://tamil.boldsky.com/rss/feeds/tamil-astrology-fb.xml",
+    "image": "https://tamil.boldsky.com/favicon.ico"
+  },
+  {
+    "category": "Astrology",
+    "name": "News18 Horoscope",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/horoscope.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Astrology",
+    "name": "News18 Daily Horoscope",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/daily-horoscope.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Astrology",
+    "name": "News18 Monthly Horoscope",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/monthly-horoscope.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Astrology",
+    "name": "News18 Yearly Horoscope",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/yearly-horoscope.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Education",
+    "name": "OneIndia Education",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-education-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Education",
+    "name": "Dinamani Education",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/education.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Education",
+    "name": "News18 Career",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/employment/career-guidance.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Jobs",
+    "name": "Dinamani Employment",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/goverment-jobs-employment.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Jobs",
+    "name": "News18 Govt Jobs",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/employment/government-jobs.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Jobs",
+    "name": "OneIndia Career Guidance",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-education-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Jobs",
+    "name": "News18 Private Jobs",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/employment/private-jobs.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Automobile",
+    "name": "OneIndia Automobiles",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/tamil-automobiles-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "Automobile",
+    "name": "News18 Automobile",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/automobile.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Business",
+    "name": "Dinamani Business",
+    "url": "https://www.dinamani.com/",
+    "rss_url": "https://www.dinamani.com/api/v1/collections/business.rss",
+    "image": "https://www.dinamani.com/favicon.ico"
+  },
+  {
+    "category": "Business",
+    "name": "News18 Business",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/business.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "AI & Science",
+    "name": "OneIndia AI",
+    "url": "https://tamil.oneindia.com/",
+    "rss_url": "https://tamil.oneindia.com/rss/feeds/artificial-intelligence-fb.xml",
+    "image": "https://tamil.oneindia.com/favicon.ico"
+  },
+  {
+    "category": "AI & Science",
+    "name": "Gizbot AI",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-artificial-intelligence-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "AI & Science",
+    "name": "Gizbot SciTech",
+    "url": "https://tamil.gizbot.com/",
+    "rss_url": "https://tamil.gizbot.com/rss/feeds/tamil-scitech-fb.xml",
+    "image": "https://tamil.gizbot.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "Google News Tamil",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "BBC Tamil (Alternate)",
+    "url": "https://www.bbc.com/tamil",
+    "rss_url": "https://feeds.bbci.co.uk/tamil/rss.xml",
+    "image": "https://www.bbc.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "Polimer News",
+    "url": "https://www.polimernews.com/",
+    "rss_url": "https://www.polimernews.com/feed",
+    "image": "https://www.polimernews.com/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "News7 Tamil",
+    "url": "https://news7tamil.live/",
+    "rss_url": "https://news7tamil.live/feed",
+    "image": "https://news7tamil.live/favicon.ico"
+  },
+  {
+    "category": "General News",
+    "name": "News18 Videos",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/videos.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "News18 Chennai",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/local-news/chennai.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "News18 Coimbatore",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/local-news/coimbatore.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Tamil Nadu News",
+    "name": "Google News Tamil Nadu",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8U&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "India News",
+    "name": "Google News India Topic",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "India News",
+    "name": "Google News India",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "World News",
+    "name": "Google News World Topic",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "World News",
+    "name": "Google News World",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%AE%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Politics",
+    "name": "Google News Politics",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "Google News Sports Topic",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Sports",
+    "name": "Google News Sports",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Cricket",
+    "name": "Google News Cricket",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%86%E0%AE%9F%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Football",
+    "name": "Google News Football",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%AA%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Only Kollywood",
+    "url": "https://www.onlykollywood.com/",
+    "rss_url": "https://www.onlykollywood.com/feed/",
+    "image": "https://www.onlykollywood.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Cinemapettai",
+    "url": "https://cinemapettai.com/",
+    "rss_url": "https://cinemapettai.com/feed/",
+    "image": "https://cinemapettai.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Mokka Postu",
+    "url": "https://mokkapostu.com/",
+    "rss_url": "https://mokkapostu.com/feed/",
+    "image": "https://mokkapostu.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Tamil Glitz",
+    "url": "https://tamilglitz.in/",
+    "rss_url": "https://tamilglitz.in/feed/",
+    "image": "https://tamilglitz.in/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Google News Entertainment",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Cinema",
+    "name": "Google News Cinema",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%AE%E0%AE%BE&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "OTT & TV",
+    "name": "Mokka Postu (Cinema)",
+    "url": "https://mokkapostu.com/",
+    "rss_url": "https://mokkapostu.com/feed/",
+    "image": "https://mokkapostu.com/favicon.ico"
+  },
+  {
+    "category": "OTT & TV",
+    "name": "Google News TV",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Google News Tech Topic",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Technology",
+    "name": "Google News Tech",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%A8%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "Webdunia Health",
+    "url": "https://tamil.webdunia.com/",
+    "rss_url": "https://tamil.webdunia.com/rss/health_rss.xml",
+    "image": "https://tamil.webdunia.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "News7 Tamil Health",
+    "url": "https://news7tamil.live/",
+    "rss_url": "https://news7tamil.live/feed",
+    "image": "https://news7tamil.live/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "Polimer News Health",
+    "url": "https://www.polimernews.com/",
+    "rss_url": "https://www.polimernews.com/feed",
+    "image": "https://www.polimernews.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "News18 Lifestyle Health",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "Google News Health Topic",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Health",
+    "name": "Google News Health",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%9A%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "News18 Lifestyle (General)",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Lifestyle",
+    "name": "Google News Lifestyle",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%B5%E0%AE%BE%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Women",
+    "name": "News18 Lifestyle Women",
+    "url": "https://tamil.news18.com/",
+    "rss_url": "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle.xml",
+    "image": "https://tamil.news18.com/favicon.ico"
+  },
+  {
+    "category": "Women",
+    "name": "Google News Women",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%AA%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Spiritual",
+    "name": "Google News Spiritual",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%86%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AF%80%E0%AE%95%E0%AE%AE%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Astrology",
+    "name": "Google News Astrology",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%9C%E0%AF%8B%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AE%AE%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Education",
+    "name": "Google News Education",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AE%BF&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Jobs",
+    "name": "Google News Jobs",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%B5%E0%AF%87%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AF%81&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Automobile",
+    "name": "Google News Automobile",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%8B%E0%AE%AE%E0%AF%8A%E0%AE%AA%E0%AF%88%E0%AE%B2%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Business",
+    "name": "Google News Business Topic",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "Business",
+    "name": "Google News Business",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/search?q=%E0%AE%B5%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AE%AE%E0%AF%8D&hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  },
+  {
+    "category": "AI & Science",
+    "name": "Google News Science Topic",
+    "url": "https://news.google.com/",
+    "rss_url": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=ta&gl=IN&ceid=IN:ta",
+    "image": "https://news.google.com/favicon.ico"
+  }
 ]

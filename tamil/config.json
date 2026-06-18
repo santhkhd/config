@@ -266,6 +266,12 @@
             "icon": "https://img.icons8.com/fluent/96/television.png"
         },
         {
+            "name": "Live TV & Music",
+            "type": "live_channels",
+            "url": "tamil_live_channels.json",
+            "icon": "https://img.icons8.com/fluent/96/play-button.png"
+        },
+        {
             "name": "News Hub",
             "type": "category",
             "url": "tamilnews.json",
@@ -279,6 +285,7 @@
         },
         {
             "name": "Entertainment Box",
+            
             "type": "category",
             "url": "comedy.json",
             "icon": "https://img.icons8.com/fluent/96/theatre_mask.png"
