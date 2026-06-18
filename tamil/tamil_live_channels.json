@@ -1,27 +1,167 @@
 [
   {
-    "name": "7S Music",
-    "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
-    "logo": "https://i.imgur.com/zDiIhdN.png"
+    "name": "Radio City Tamil",
+    "url": "http://prclive1.listenon.in:9948/;",
+    "logo": "https://www.radiocity.in/assets/images/radiocity-logo.png"
   },
   {
-    "name": "Aaryaa TV",
-    "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png"
+    "name": "Radio City Tamil Gold",
+    "url": "http://prclive1.listenon.in:9930/;",
+    "logo": "https://www.radiocity.in/assets/images/radiocity-logo.png"
   },
   {
-    "name": "Raj Musix Tamil",
-    "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png"
+    "name": "Radio City Kaadhal",
+    "url": "http://prclive1.listenon.in:9936/;",
+    "logo": "https://www.radiocity.in/assets/images/radiocity-logo.png"
   },
   {
-    "name": "Max Music",
-    "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
-    "logo": "https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg"
+    "name": "Radio City S.P.B. Hits",
+    "url": "http://prclive1.listenon.in:8816/;",
+    "logo": "https://c.saavncdn.com/artists/S_P_Balasubrahmanyam_500x500.jpg"
   },
   {
-    "name": "Kalaignar Murasu",
-    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8",
-    "logo": "https://dtil.tmsimg.com/assets/s143561_ld_h15_aa.png?lock=720x540"
+    "name": "Radio City Kamal Haasan Hits",
+    "url": "http://prclive1.listenon.in:8836/;",
+    "logo": "https://c.saavncdn.com/artists/Kamal_Haasan_500x500.jpg"
+  },
+  {
+    "name": "Hello FM 106.4",
+    "url": "http://163.172.158.94:8048/;stream.mp3",
+    "logo": "http://www.hellofm.in/wp-content/uploads/2016/09/Logo.png"
+  },
+  {
+    "name": "Radio Mirchi 98.3",
+    "url": "http://163.172.158.94:8052/;stream.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Radio_Mirchi_logo.png"
+  },
+  {
+    "name": "Big FM 92.7",
+    "url": "http://163.172.158.94:8062/;stream.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/92.7_BIG_FM_Logo.png"
+  },
+  {
+    "name": "Chennai FM Rainbow",
+    "url": "http://163.172.158.94:8066/;stream.mp3",
+    "logo": "https://allindiaradio.gov.in/images/logos/AIR-logo.png"
+  },
+  {
+    "name": "Suryan FM",
+    "url": "http://104.238.193.114:7077/;stream.mp3",
+    "logo": "https://suryanfm.in/wp-content/uploads/2021/04/Suryan-FM-Logo.png"
+  },
+  {
+    "name": "Shakthi FM",
+    "url": "http://76.164.217.100:7012/stream",
+    "logo": "https://shakthifm.com/assets/images/logo.png"
+  },
+  {
+    "name": "Sooriyan FM",
+    "url": "http://sooriyanfm.asiabroadcasting.stream:7071/;",
+    "logo": "http://sooriyanfm.lk/wp-content/uploads/2021/01/logo.png"
+  },
+  {
+    "name": "Varnam FM",
+    "url": "http://s3.voscast.com:8402/;",
+    "logo": "https://varnamfm.com/assets/images/logo.png"
+  },
+  {
+    "name": "Ilaiyaraaja Radio",
+    "url": "http://212.83.138.48:8324/;",
+    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg"
+  },
+  {
+    "name": "Ilaiyaraaja Lite Radio",
+    "url": "http://212.83.138.48:8340/;",
+    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg"
+  },
+  {
+    "name": "Ilayamaan Radio",
+    "url": "http://212.83.138.48:8086/;",
+    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg"
+  },
+  {
+    "name": "SPB Radio",
+    "url": "http://212.83.138.48:8344/;",
+    "logo": "https://c.saavncdn.com/artists/S_P_Balasubrahmanyam_500x500.jpg"
+  },
+  {
+    "name": "A.R. Rahman Radio",
+    "url": "http://212.83.138.48:8328/;",
+    "logo": "https://c.saavncdn.com/artists/A_R_Rahman_500x500.jpg"
+  },
+  {
+    "name": "A.R. Rahman Lite Radio",
+    "url": "http://212.83.138.48:8332/;",
+    "logo": "https://c.saavncdn.com/artists/A_R_Rahman_500x500.jpg"
+  },
+  {
+    "name": "Harris Jayaraj Radio",
+    "url": "http://212.83.138.48:8352/;",
+    "logo": "https://c.saavncdn.com/artists/Harris_Jayaraj_500x500.jpg"
+  },
+  {
+    "name": "Yuvan Shankar Raja Radio",
+    "url": "http://212.83.138.48:8360/;",
+    "logo": "https://c.saavncdn.com/artists/Yuvan_Shankar_Raja_500x500.jpg"
+  },
+  {
+    "name": "KJ Yesudas Radio",
+    "url": "http://212.83.138.48:8251/;",
+    "logo": "https://c.saavncdn.com/artists/K_J_Yesudas_500x500.jpg"
+  },
+  {
+    "name": "Palaiya Paadal Radio",
+    "url": "http://212.83.138.48:8090/;",
+    "logo": "https://img.icons8.com/fluent/96/retro-music-player.png"
+  },
+  {
+    "name": "Pudhu Paadal Radio",
+    "url": "http://212.83.138.48:8336/;",
+    "logo": "https://img.icons8.com/fluent/96/music.png"
+  },
+  {
+    "name": "Tamil Beat Radio",
+    "url": "http://212.83.138.48:8094/;",
+    "logo": "https://img.icons8.com/fluent/96/dance-music.png"
+  },
+  {
+    "name": "Tamil Lite Radio",
+    "url": "http://212.83.138.48:8348/;",
+    "logo": "https://img.icons8.com/fluent/96/headphones.png"
+  },
+  {
+    "name": "Inbam FM",
+    "url": "http://stream.radio.co/sf55ced545/listen",
+    "logo": "https://inbamfm.com/wp-content/uploads/2020/06/Logo-Inbam.png"
+  },
+  {
+    "name": "Thenkatchi-ko Swaminathan",
+    "url": "http://212.83.138.48:8305/;",
+    "logo": "https://img.icons8.com/fluent/96/microphone.png"
+  },
+  {
+    "name": "Hindu Devotional Radio",
+    "url": "http://66.55.145.43:7350/stream",
+    "logo": "https://img.icons8.com/fluent/96/om.png"
+  },
+  {
+    "name": "Chennai Christian Radio",
+    "url": "http://5.10.69.105/stream2?.mp3",
+    "logo": "https://img.icons8.com/fluent/96/cross.png"
+  },
+  {
+    "name": "Christian FM",
+    "url": "http://37.187.90.121:4002/stream",
+    "logo": "https://img.icons8.com/fluent/96/cross.png"
+  },
+  {
+    "name": "Bible Radio - New Testament",
+    "url": "http://212.83.138.48:8429/;",
+    "logo": "https://img.icons8.com/fluent/96/holy-bible.png"
+  },
+  {
+    "name": "Bible Reading - The Gospel",
+    "url": "http://212.83.138.48:8436/;",
+    "logo": "https://img.icons8.com/fluent/96/holy-bible.png"
   }
 ]
