@@ -94,5 +94,309 @@
             "https://www.youtube.com/feeds/videos.xml?channel_id=UCGBnz-FR3qaowYsyIEh2-zw"
         ],
         "link": "https://www.youtube.com/channel/UCGBnz-FR3qaowYsyIEh2-zw"
+    },
+    {
+        "title": "Temple Monkeys",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCx2SxlhDYl8Rhkw_PqwcdSA"
+        ],
+        "link": "https://www.youtube.com/channel/UCx2SxlhDYl8Rhkw_PqwcdSA"
+    },
+    {
+        "title": "Jump Cuts",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPOf9BQPwa4K11Zjxu1ZPw"
+        ],
+        "link": "https://www.youtube.com/channel/UCpPOf9BQPwa4K11Zjxu1ZPw"
+    },
+    {
+        "title": "BlackSheep",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCKoQ57VjNbcx9LEfVvTLBdQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCKoQ57VjNbcx9LEfVvTLBdQ"
+    },
+    {
+        "title": "Madras Prank",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdE8qg2qrgXSmqp7YqnrkTQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCdE8qg2qrgXSmqp7YqnrkTQ"
+    },
+    {
+        "title": "Fun Panrom",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCAljwiMh_48aFZ5deidSgPw"
+        ],
+        "link": "https://www.youtube.com/channel/UCAljwiMh_48aFZ5deidSgPw"
+    },
+    {
+        "title": "Pranksters Rahul",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCiJKrqlkEha2kj3D9vSUCIg"
+        ],
+        "link": "https://www.youtube.com/channel/UCiJKrqlkEha2kj3D9vSUCIg"
+    },
+    {
+        "title": "Prankster Rahul",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCiJKrqlkEha2kj3D9vSUCIg"
+        ],
+        "link": "https://www.youtube.com/channel/UCiJKrqlkEha2kj3D9vSUCIg"
+    },
+    {
+        "title": "Cheeky Monkeys",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCZC_bFBlCLZ1Povca85yupw"
+        ],
+        "link": "https://www.youtube.com/channel/UCZC_bFBlCLZ1Povca85yupw"
+    },
+    {
+        "title": "Info Bells Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCHcn4Ux-sO9nzNu7rDsoQLg"
+        ],
+        "link": "https://www.youtube.com/channel/UCHcn4Ux-sO9nzNu7rDsoQLg"
+    },
+    {
+        "title": "Chutti TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmTCw2IximiCUYH_Q7bciOA"
+        ],
+        "link": "https://www.youtube.com/channel/UCmTCw2IximiCUYH_Q7bciOA"
+    },
+    {
+        "title": "Smile Web Series",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCeGviSJUzkapY5UEkuxOqyg"
+        ],
+        "link": "https://www.youtube.com/channel/UCeGviSJUzkapY5UEkuxOqyg"
+    },
+    {
+        "title": "Comedy Raja",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC4tU8UgR7abCk5IxW7Sgi0g"
+        ],
+        "link": "https://www.youtube.com/channel/UC4tU8UgR7abCk5IxW7Sgi0g"
+    },
+    {
+        "title": "Vijay TV Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCJfUEbZPumV9M5BP3IFhOUw"
+        ],
+        "link": "https://www.youtube.com/channel/UCJfUEbZPumV9M5BP3IFhOUw"
+    },
+    {
+        "title": "KPY Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCzr9F2lvykH8eJyUy9nkJDg"
+        ],
+        "link": "https://www.youtube.com/channel/UCzr9F2lvykH8eJyUy9nkJDg"
+    },
+    {
+        "title": "Kalakka Povathu Yaaru",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCPvVi56NTVAAQLBwCm7y0xQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCPvVi56NTVAAQLBwCm7y0xQ"
+    },
+    {
+        "title": "Athu Ithu Ethu",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCakBST_lpDMTGVxdCleT3Pw"
+        ],
+        "link": "https://www.youtube.com/channel/UCakBST_lpDMTGVxdCleT3Pw"
+    },
+    {
+        "title": "Adithya TV Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCx2NCyudktBrTSdgvlY3weg"
+        ],
+        "link": "https://www.youtube.com/channel/UCx2NCyudktBrTSdgvlY3weg"
+    },
+    {
+        "title": "Sirippoli Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCOEAMGcup8b25GbFUlGmk_w"
+        ],
+        "link": "https://www.youtube.com/channel/UCOEAMGcup8b25GbFUlGmk_w"
+    },
+    {
+        "title": "Tamil Comedy Junction",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCgaBPLMff2bCmrMkpdtPPzQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCgaBPLMff2bCmrMkpdtPPzQ"
+    },
+    {
+        "title": "Tamil Comedy Scenes",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC5EQWvy59VeHPJz8mDALPxg"
+        ],
+        "link": "https://www.youtube.com/channel/UC5EQWvy59VeHPJz8mDALPxg"
+    },
+    {
+        "title": "Goundamani Senthil Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCy1m3P-7_VJtf35VILbS9WA"
+        ],
+        "link": "https://www.youtube.com/channel/UCy1m3P-7_VJtf35VILbS9WA"
+    },
+    {
+        "title": "Vadivelu Comedy Hub",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCiKADGZpSFIDF_DWVFvt_uQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCiKADGZpSFIDF_DWVFvt_uQ"
+    },
+    {
+        "title": "Vivek Comedy Scenes",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzcceB6MQJZ5L1xAu_jHiQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCqzcceB6MQJZ5L1xAu_jHiQ"
+    },
+    {
+        "title": "Santhanam Comedy Scenes",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCK-dh7Yry58uC101xSZjfCQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCK-dh7Yry58uC101xSZjfCQ"
+    },
+    {
+        "title": "Karunas Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC5uiUZdUqsj7JjS2v5Etpgg"
+        ],
+        "link": "https://www.youtube.com/channel/UC5uiUZdUqsj7JjS2v5Etpgg"
+    },
+    {
+        "title": "Yogi Babu Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCw69Pyt2dCX02QRZ0WFLodA"
+        ],
+        "link": "https://www.youtube.com/channel/UCw69Pyt2dCX02QRZ0WFLodA"
+    },
+    {
+        "title": "Soori Comedy Scenes",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UChCiWOHIElPZQQYJ_cFQN_A"
+        ],
+        "link": "https://www.youtube.com/channel/UChCiWOHIElPZQQYJ_cFQN_A"
+    },
+    {
+        "title": "Tamil Cinema Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCXJ_3pNTgVd4ZgWiPvHgSyg"
+        ],
+        "link": "https://www.youtube.com/channel/UCXJ_3pNTgVd4ZgWiPvHgSyg"
+    },
+    {
+        "title": "Comedy Express",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCYhhrmmEvgqZd4voFekFO5A"
+        ],
+        "link": "https://www.youtube.com/channel/UCYhhrmmEvgqZd4voFekFO5A"
+    },
+    {
+        "title": "Comedy World Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCBPB2M5nSJtOjDbjVBcn0zg"
+        ],
+        "link": "https://www.youtube.com/channel/UCBPB2M5nSJtOjDbjVBcn0zg"
+    },
+    {
+        "title": "Siri Siri",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8QyB6EqaC82_A1dqAszH2A"
+        ],
+        "link": "https://www.youtube.com/channel/UC8QyB6EqaC82_A1dqAszH2A"
+    },
+    {
+        "title": "Fun Unlimited Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCl6lT6wJRtshREhX2gHEp3w"
+        ],
+        "link": "https://www.youtube.com/channel/UCl6lT6wJRtshREhX2gHEp3w"
+    },
+    {
+        "title": "Tamil Talkies Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsxDATkpWOiYZzVciREodg"
+        ],
+        "link": "https://www.youtube.com/channel/UCJsxDATkpWOiYZzVciREodg"
+    },
+    {
+        "title": "Comedy Bazaar",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCfI4F1pWt5_VQyI8VEE1h_Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCfI4F1pWt5_VQyI8VEE1h_Q"
+    },
+    {
+        "title": "Sirippu Varuthu",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmFi_6wraDtRIHGCwML60Ug"
+        ],
+        "link": "https://www.youtube.com/channel/UCmFi_6wraDtRIHGCwML60Ug"
+    },
+    {
+        "title": "Lollu Sabha Comedy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCgc8h_V49roDmKMWSmFiX5w"
+        ],
+        "link": "https://www.youtube.com/channel/UCgc8h_V49roDmKMWSmFiX5w"
+    },
+    {
+        "title": "Vadivelu Memes",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCcWtWpRjRzT7CtD1CPDRh2w"
+        ],
+        "link": "https://www.youtube.com/channel/UCcWtWpRjRzT7CtD1CPDRh2w"
+    },
+    {
+        "title": "Tamil Mimicry Show",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCaX0yTkjsNoEi-cWYr-Rvrw"
+        ],
+        "link": "https://www.youtube.com/channel/UCaX0yTkjsNoEi-cWYr-Rvrw"
     }
 ]

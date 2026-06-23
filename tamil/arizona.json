@@ -1,0 +1,762 @@
+[
+    {
+        "title": "AZ Central",
+        "image": "http://www.azcentral.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.azcentral.com/"
+        ]
+    },
+    {
+        "title": "Arizona Capitol Times",
+        "image": "http://www.azcapitoltimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.azcapitoltimes.com/"
+        ]
+    },
+    {
+        "title": "Arizona Capitol Times",
+        "image": "http://azcapitoltimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://azcapitoltimes.com/"
+        ]
+    },
+    {
+        "title": "Cronkite News",
+        "image": "http://cronkitenewsonline.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://cronkitenewsonline.com/"
+        ]
+    },
+    {
+        "title": "NPR Knau Public Radio",
+        "image": "http://knau.org/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://knau.org/"
+        ]
+    },
+    {
+        "title": "Navajo Times",
+        "image": "http://navajotimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://navajotimes.com/"
+        ]
+    },
+    {
+        "title": "Phoenix Business Journal",
+        "image": "http://www.bizjournals.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.bizjournals.com/phoenix/"
+        ]
+    },
+    {
+        "title": "Phoenix New Times",
+        "image": "http://www.phoenixnewtimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.phoenixnewtimes.com/"
+        ]
+    },
+    {
+        "title": "Tucson Sentinel",
+        "image": "http://www.tucsonsentinel.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.tucsonsentinel.com/"
+        ]
+    },
+    {
+        "title": "Tucson Weekly",
+        "image": "http://www.tucsonweekly.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.tucsonweekly.com/"
+        ]
+    },
+    {
+        "title": "Yuma Sun",
+        "image": "http://www.yumasun.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.yumasun.com/"
+        ]
+    },
+    {
+        "title": "Arizona Daily Wildcat",
+        "image": "http://wildcat.arizona.edu/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://wildcat.arizona.edu/"
+        ]
+    },
+    {
+        "title": "Daily Courier",
+        "image": "http://dcourier.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://dcourier.com/"
+        ]
+    },
+    {
+        "title": "Flagstaff Business News",
+        "image": "http://www.flagstaffbusinessnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.flagstaffbusinessnews.com/"
+        ]
+    },
+    {
+        "title": "Glendale Independent",
+        "image": "https://yourvalley.net/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://yourvalley.net/glendale-independent/"
+        ]
+    },
+    {
+        "title": "Kingman Daily Miner",
+        "image": "http://www.kingmandailyminer.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.kingmandailyminer.com/"
+        ]
+    },
+    {
+        "title": "Mesa Independent",
+        "image": "https://www.yourvalley.net/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://www.yourvalley.net/mesa-independent/"
+        ]
+    },
+    {
+        "title": "Phoenix Magazine",
+        "image": "http://www.phoenixmag.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.phoenixmag.com/"
+        ]
+    },
+    {
+        "title": "Scottsdale Independent",
+        "image": "http://www.scottsdaleindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.scottsdaleindependent.com/"
+        ]
+    },
+    {
+        "title": "State Press",
+        "image": "http://www.statepress.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.statepress.com/"
+        ]
+    },
+    {
+        "title": "85086 Magazine",
+        "image": "http://www.85086magazine.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.85086magazine.com/"
+        ]
+    },
+    {
+        "title": "Ajo Copper News",
+        "image": "http://www.smalltownpapers.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.smalltownpapers.com/newspapers/newspaper.php?id=11"
+        ]
+    },
+    {
+        "title": "Ak Chin O'odham Runner",
+        "image": "http://ak-chin.nsn.us/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://ak-chin.nsn.us/"
+        ]
+    },
+    {
+        "title": "Apache Junction Gold Canyon Independent",
+        "image": "http://apachejunctionindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://apachejunctionindependent.com/"
+        ]
+    },
+    {
+        "title": "Apache Junction Gold Canyon News",
+        "image": "http://www.ajnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.ajnews.com/"
+        ]
+    },
+    {
+        "title": "Arizona Bilingual",
+        "image": "http://azbilingual.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://azbilingual.com/"
+        ]
+    },
+    {
+        "title": "Arizona Free Press",
+        "image": "http://www.azfreepress.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.azfreepress.com/"
+        ]
+    },
+    {
+        "title": "Arizona Herald",
+        "image": "http://www.arizonaherald.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.arizonaherald.com/"
+        ]
+    },
+    {
+        "title": "Arizona Jewish Post",
+        "image": "http://azjewishpost.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://azjewishpost.com/"
+        ]
+    },
+    {
+        "title": "Arizona Silver Belt",
+        "image": "http://www.silverbelt.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.silverbelt.com/"
+        ]
+    },
+    {
+        "title": "Bisbee Observer",
+        "image": "http://www.thebisbeeobserver.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.thebisbeeobserver.com/"
+        ]
+    },
+    {
+        "title": "Buckeye Star",
+        "image": "http://thebuckeyestar.net/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://thebuckeyestar.net/"
+        ]
+    },
+    {
+        "title": "Camp Verde Bugle",
+        "image": "http://cvbugle.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://cvbugle.com/"
+        ]
+    },
+    {
+        "title": "Camp Verde Bugle",
+        "image": "http://campverdebugleonline.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://campverdebugleonline.com/"
+        ]
+    },
+    {
+        "title": "Camp Verde Journal",
+        "image": "http://www.journalaz.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.journalaz.com/"
+        ]
+    },
+    {
+        "title": "Catholic Sun",
+        "image": "http://www.catholicsun.org/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.catholicsun.org/"
+        ]
+    },
+    {
+        "title": "Chino Valley Review",
+        "image": "http://cvrnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://cvrnews.com/"
+        ]
+    },
+    {
+        "title": "Chino Valley Review",
+        "image": "http://chinovalleyreview.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://chinovalleyreview.com/"
+        ]
+    },
+    {
+        "title": "City Sun Times",
+        "image": "http://news.citysuntimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://news.citysuntimes.com/"
+        ]
+    },
+    {
+        "title": "City Sun Times Carefree Cave Creek",
+        "image": "https://news.citysuntimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://news.citysuntimes.com/"
+        ]
+    },
+    {
+        "title": "Daily Miner",
+        "image": "http://kdminer.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://kdminer.com/"
+        ]
+    },
+    {
+        "title": "Daily News Sun",
+        "image": "http://www.yourwestvalley.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.yourwestvalley.com/eedition/news/daily_news_sun/"
+        ]
+    },
+    {
+        "title": "Desert Leaf",
+        "image": "http://www.desertleaf.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.desertleaf.com/"
+        ]
+    },
+    {
+        "title": "Desert Lightning News",
+        "image": "http://www.aerotechnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.aerotechnews.com/davis-monthanafb/"
+        ]
+    },
+    {
+        "title": "Downtown Devil",
+        "image": "https://downtowndevil.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://downtowndevil.com/"
+        ]
+    },
+    {
+        "title": "Echo Mag",
+        "image": "http://www.echomag.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.echomag.com/"
+        ]
+    },
+    {
+        "title": "Entertainer Magazine",
+        "image": "http://entertainermag.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://entertainermag.com/"
+        ]
+    },
+    {
+        "title": "Foothills Focus",
+        "image": "http://www.thefoothillsfocus.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.thefoothillsfocus.com/"
+        ]
+    },
+    {
+        "title": "Gilla Valley Central",
+        "image": "https://gilavalleycentral.net/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://gilavalleycentral.net/"
+        ]
+    },
+    {
+        "title": "Glendale Daily Planet",
+        "image": "http://www.glendaledailyplanet.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.glendaledailyplanet.com/"
+        ]
+    },
+    {
+        "title": "Grand Canyon News",
+        "image": "http://www.grandcanyonnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.grandcanyonnews.com/"
+        ]
+    },
+    {
+        "title": "In Maricopa The Magazine",
+        "image": "http://www.inmaricopa.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.inmaricopa.com/"
+        ]
+    },
+    {
+        "title": "Kudos",
+        "image": "http://www.kudosaz.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.kudosaz.com/"
+        ]
+    },
+    {
+        "title": "Lonesome Valley Newspaper",
+        "image": "http://www.lonesomevalleynewspaper.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.lonesomevalleynewspaper.com/"
+        ]
+    },
+    {
+        "title": "Lovin' Life After 50",
+        "image": "https://lovinlife.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://lovinlife.com/"
+        ]
+    },
+    {
+        "title": "Mesa Legend",
+        "image": "http://mesalegend.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://mesalegend.com/"
+        ]
+    },
+    {
+        "title": "Moon Valley Tattler",
+        "image": "http://www.moonvalleytattler.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.moonvalleytattler.com/"
+        ]
+    },
+    {
+        "title": "Navajo Hopi Observer",
+        "image": "http://www.navajohopiobserver.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.navajohopiobserver.com/"
+        ]
+    },
+    {
+        "title": "Nearby News",
+        "image": "https://nearbynews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://nearbynews.com/"
+        ]
+    },
+    {
+        "title": "North Central News",
+        "image": "http://northcentralnews.net/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://northcentralnews.net/"
+        ]
+    },
+    {
+        "title": "Northeast Valley News",
+        "image": "https://nevalleynews.org/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://nevalleynews.org/"
+        ]
+    },
+    {
+        "title": "Northwest Valley Independent",
+        "image": "https://yourvalley.net/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://yourvalley.net/northwest-valley-homes/"
+        ]
+    },
+    {
+        "title": "Our Town Magazine",
+        "image": "http://ourtownbhc.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://ourtownbhc.com/"
+        ]
+    },
+    {
+        "title": "Parker Live",
+        "image": "http://www.parkerliveonline.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.parkerliveonline.com/"
+        ]
+    },
+    {
+        "title": "Pebble Creek Post",
+        "image": "http://pebblecreekpost.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://pebblecreekpost.com/"
+        ]
+    },
+    {
+        "title": "Peoria Independent",
+        "image": "http://peoriaindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://peoriaindependent.com/"
+        ]
+    },
+    {
+        "title": "Prescott E News",
+        "image": "http://www.prescottenews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.prescottenews.com/"
+        ]
+    },
+    {
+        "title": "Prescott Valley Tribune",
+        "image": "http://pvtrib.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://pvtrib.com/"
+        ]
+    },
+    {
+        "title": "Quail Creek Crossing",
+        "image": "http://quailcreekcrossing.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://quailcreekcrossing.com/"
+        ]
+    },
+    {
+        "title": "Quartzsite Times",
+        "image": "http://paloverdevalleytimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://paloverdevalleytimes.com/"
+        ]
+    },
+    {
+        "title": "Queen Creek San Tan Valley",
+        "image": "http://queencreekindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://queencreekindependent.com/"
+        ]
+    },
+    {
+        "title": "Rim Country Gazette",
+        "image": "http://rimcountrygazette.blogspot.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://rimcountrygazette.blogspot.com/"
+        ]
+    },
+    {
+        "title": "Robson Ranch Views",
+        "image": "http://robsonranchviews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://robsonranchviews.com/"
+        ]
+    },
+    {
+        "title": "San Tan Sun News",
+        "image": "https://santansun.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://santansun.com/"
+        ]
+    },
+    {
+        "title": "San Tan Valley",
+        "image": "http://www.santanvalley.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.santanvalley.com/"
+        ]
+    },
+    {
+        "title": "Scottsdale Airpark News",
+        "image": "http://www.scottsdaleairpark.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.scottsdaleairpark.com/"
+        ]
+    },
+    {
+        "title": "Sedona Biz",
+        "image": "http://www.sedona.biz/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.sedona.biz/"
+        ]
+    },
+    {
+        "title": "Sedona Red Rock News",
+        "image": "http://www.redrocknews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.redrocknews.com/"
+        ]
+    },
+    {
+        "title": "Sonoran News",
+        "image": "http://www.sonorannews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.sonorannews.com/"
+        ]
+    },
+    {
+        "title": "Sound of Freedom",
+        "image": "https://lukecommunity.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://lukecommunity.com/"
+        ]
+    },
+    {
+        "title": "Standard",
+        "image": "http://www.thestandardnewspaper.net/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.thestandardnewspaper.net/"
+        ]
+    },
+    {
+        "title": "Sun City Independent",
+        "image": "http://suncityindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://suncityindependent.com/"
+        ]
+    },
+    {
+        "title": "Sun City West Independent",
+        "image": "http://suncitywestindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://suncitywestindependent.com/"
+        ]
+    },
+    {
+        "title": "Sun Lakes Splash",
+        "image": "http://sunlakessplash.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://sunlakessplash.com/"
+        ]
+    },
+    {
+        "title": "Surprise Independent",
+        "image": "http://surpriseindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://surpriseindependent.com/"
+        ]
+    },
+    {
+        "title": "The Verde Valley Independent & Camp Verde Bugle",
+        "image": "http://verdenews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://verdenews.com/"
+        ]
+    },
+    {
+        "title": "Thunderbolt",
+        "image": "http://www.aerotechnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.aerotechnews.com/lukeafb/"
+        ]
+    },
+    {
+        "title": "Tombstone News",
+        "image": "http://thetombstonenews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://thetombstonenews.com/"
+        ]
+    },
+    {
+        "title": "Town of Paradise Valley Independent",
+        "image": "http://paradisevalleyindependent.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://paradisevalleyindependent.com/"
+        ]
+    },
+    {
+        "title": "Tucson Post",
+        "image": "http://www.tucsonpost.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.tucsonpost.com/"
+        ]
+    },
+    {
+        "title": "Wickenburg Sun",
+        "image": "http://www.wickenburgsun.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.wickenburgsun.com/"
+        ]
+    },
+    {
+        "title": "Williams News",
+        "image": "http://www.williamsnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.williamsnews.com/"
+        ]
+    },
+    {
+        "title": "Wrangler News",
+        "image": "http://www.wranglernews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.wranglernews.com/"
+        ]
+    },
+    {
+        "title": "Yuma News Now",
+        "image": "http://www.yumanewsnow.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.yumanewsnow.com/"
+        ]
+    },
+    {
+        "title": "lakepowellife.com",
+        "image": "http://www.lakepowelllife.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "http://www.lakepowelllife.com/"
+        ]
+    }
+]

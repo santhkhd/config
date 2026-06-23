@@ -3,7 +3,7 @@
     "name": "7S Music",
     "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
     "logo": "https://i.imgur.com/zDiIhdN.png",
-    "category": "Live TV"
+    "category": "Music"
   },
   {
     "name": "Aaryaa TV",
@@ -15,186 +15,702 @@
     "name": "Raj Musix Tamil",
     "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",
-    "category": "Live TV"
+    "category": "Music"
   },
   {
     "name": "Max Music",
     "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
     "logo": "https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg",
-    "category": "Live TV"
+    "category": "Music"
   },
   {
     "name": "Kalaignar Murasu",
     "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s143561_ld_h15_aa.png?lock=720x540",
-    "category": "Live TV"
+    "category": "Movies"
   },
   {
-    "name": "Big FM Tamil",
-    "url": "https://stream.zeno.fm/r2gn1pgm4qruv",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/92.7_BIG_FM_Logo.png",
-    "category": "Tamil FM"
+    "name": "&flix HD (1080p)",
+    "url": "http://103.72.101.252:8080/live/1322.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png",
+    "category": "Movies"
   },
   {
-    "name": "89.4 Tamil FM",
-    "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
-    "logo": "https://img.icons8.com/fluent/96/radio.png",
-    "category": "Tamil FM"
+    "name": "Aaseervatham TV (576p)",
+    "url": "https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8",
+    "logo": "https://i.imgur.com/GlfrYs7.png",
+    "category": "Religious"
   },
   {
-    "name": "Lankasri FM",
-    "url": "http://media2.lankasri.fm/;stream.mp3",
-    "logo": "https://img.icons8.com/fluent/96/radio.png",
-    "category": "Tamil FM"
+    "name": "Aastha Tamil (480p)",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8",
+    "logo": "https://i.imgur.com/YQK9ewf.png",
+    "category": "Religious"
   },
   {
-    "name": "East FM 102.7",
-    "url": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
-    "logo": "https://img.icons8.com/fluent/96/radio.png",
-    "category": "Tamil FM"
+    "name": "Aathavan TV (720p)",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
+    "logo": "https://i.imgur.com/LEVEhTH.png",
+    "category": "Entertainment"
   },
   {
-    "name": "Arni City FM",
-    "url": "https://usa9.fastcast4u.com/proxy/arnifm?mp=/1",
-    "logo": "https://img.icons8.com/fluent/96/radio.png",
-    "category": "Tamil FM"
+    "name": "Angel TV (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "category": "Religious"
   },
   {
-    "name": "IBC Tamil Radio",
-    "url": "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3",
-    "logo": "https://img.icons8.com/fluent/96/radio.png",
-    "category": "Tamil FM"
+    "name": "Angel TV America (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "category": "Religious"
   },
   {
-    "name": "Chellame FM",
-    "url": "https://sugu.radioca.st/stream/;stream/1",
-    "logo": "https://img.icons8.com/fluent/96/radio.png",
-    "category": "Tamil FM"
+    "name": "Angel TV Indo-China (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "category": "Religious"
   },
   {
-    "name": "SPB Hits",
-    "url": "https://stream.zeno.fm/9adkzdcqi4jvv",
-    "logo": "https://c.saavncdn.com/artists/S_P_Balasubrahmanyam_500x500.jpg",
-    "category": "Artist Radio"
+    "name": "Angel TV Indonesia (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "category": "Religious"
   },
   {
-    "name": "Ilayaraja FM",
-    "url": "https://stream.zeno.fm/nlgefxkh8utuv",
-    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg",
-    "category": "Artist Radio"
+    "name": "Arputhar Yesu TV (720p)",
+    "url": "https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8",
+    "logo": "https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",
+    "category": "Religious"
   },
   {
-    "name": "Ilayaraja Tamil Songs",
-    "url": "https://stream.zeno.fm/pwm9y3eud5zuv",
-    "logo": "https://c.saavncdn.com/artists/Ilayaraja_500x500.jpg",
-    "category": "Artist Radio"
+    "name": "Asia TV (720p)",
+    "url": "https://stream.asiatvnet.com/1/live/master.m3u8",
+    "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
+    "category": "Entertainment;Family;General"
   },
   {
-    "name": "Harris Jayaraj FM",
-    "url": "http://stream.zeno.fm/ob6tjg8gulptv",
-    "logo": "https://c.saavncdn.com/artists/Harris_Jayaraj_500x500.jpg",
-    "category": "Artist Radio"
+    "name": "Brio TV (576p)",
+    "url": "https://mumt02.tangotv.in/BRIOTV/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
+    "category": "Entertainment"
   },
   {
-    "name": "Harris Jayaraj Radio",
-    "url": "https://stream.zeno.fm/0bhsthssutzuv",
-    "logo": "https://c.saavncdn.com/artists/Harris_Jayaraj_500x500.jpg",
-    "category": "Artist Radio"
+    "name": "Chithiram (576p)",
+    "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+    "logo": "https://i.imgur.com/xv9cWSh.png",
+    "category": "Kids"
   },
   {
-    "name": "M.S. Viswanathan FM",
-    "url": "http://stream.zeno.fm/x7wc1xgllvsvv",
-    "logo": "https://img.icons8.com/fluent/96/retro-music-player.png",
-    "category": "Artist Radio"
+    "name": "Colors Tamil HD (1080p)",
+    "url": "http://103.72.101.252:8080/live/429.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",
+    "category": "Entertainment"
   },
   {
-    "name": "KS Chitra Radio",
-    "url": "https://stream.zeno.fm/aad4e51qz7zuv",
-    "logo": "https://c.saavncdn.com/artists/K_S_Chithra_500x500.jpg",
-    "category": "Artist Radio"
+    "name": "DD Tamil (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png",
+    "category": "General"
   },
   {
-    "name": "Ajith FM",
-    "url": "https://stream.zeno.fm/ntkhu40k17zuv",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ajith_Kumar_in_2011.jpg",
-    "category": "Artist Radio"
+    "name": "Dharsan TV (720p)",
+    "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",
+    "category": "Religious"
   },
   {
-    "name": "90s Tamil Melodies",
-    "url": "https://stream.zeno.fm/tqnws2eafwzuv.aac",
-    "logo": "https://img.icons8.com/fluent/96/music.png",
-    "category": "Hits & Classics"
+    "name": "Disney Junior (576p)",
+    "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+    "category": "Kids"
   },
   {
-    "name": "80s Tamil Hits",
-    "url": "https://stream.zeno.fm/48w230kx8vzuv.aac",
-    "logo": "https://img.icons8.com/fluent/96/retro-music-player.png",
-    "category": "Hits & Classics"
+    "name": "EET TV (1080p)",
+    "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+    "logo": "https://i.imgur.com/rntSEDZ.png",
+    "category": "Culture"
   },
   {
-    "name": "Evergreen Tamil Radio",
-    "url": "https://stream.zeno.fm/2fhh49f3zf8uv",
-    "logo": "https://img.icons8.com/fluent/96/headphones.png",
-    "category": "Hits & Classics"
+    "name": "EET TV (1080p)",
+    "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "logo": "https://i.imgur.com/rMldFW8.png",
+    "category": "Entertainment"
   },
   {
-    "name": "Chillax FM",
-    "url": "http://stream.zeno.fm/ohhsihm2byluv",
-    "logo": "https://img.icons8.com/fluent/96/dance-music.png",
-    "category": "Hits & Classics"
+    "name": "Hebron TV (1080p)",
+    "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+    "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
+    "category": "Religious"
   },
   {
-    "name": "Isai FM",
-    "url": "https://stream.zeno.fm/7b78sdv2x1zuv",
-    "logo": "https://img.icons8.com/fluent/96/headphones.png",
-    "category": "Hits & Classics"
+    "name": "History TV18 (576p)",
+    "url": "http://103.72.101.252:8080/live/1471.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
+    "category": "Documentary"
   },
   {
-    "name": "JN FM Tamil Classic",
-    "url": "http://stream.zeno.fm/qkdmq6d7kfhvv",
-    "logo": "https://img.icons8.com/fluent/96/music.png",
-    "category": "Hits & Classics"
+    "name": "History TV18 HD (1080p)",
+    "url": "http://103.154.3.101:5001/live/577.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+    "category": "Documentary"
   },
   {
-    "name": "Inbam FM",
-    "url": "http://stream.radio.co/sf55ced545/listen",
-    "logo": "https://inbamfm.com/wp-content/uploads/2020/06/Logo-Inbam.png",
-    "category": "Hits & Classics"
+    "name": "Hungama TV (576p)",
+    "url": "http://149.71.34.166:8000/play/a075/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
+    "category": "Kids"
   },
   {
-    "name": "Bhakti Sangeet",
-    "url": "http://stream.zeno.fm/ut3kgm1vsa0uv",
-    "logo": "https://img.icons8.com/fluent/96/om.png",
-    "category": "Devotional"
+    "name": "IBC Bakthi (1080p)",
+    "url": "https://ibc.massstream.net/IBC2/index.m3u8",
+    "logo": "https://i.imgur.com/ZNEz5Wx.png",
+    "category": "Religious"
   },
   {
-    "name": "Sivan Radio",
-    "url": "https://sivanradio.radioca.st/stream",
-    "logo": "https://img.icons8.com/fluent/96/om.png",
-    "category": "Devotional"
+    "name": "IBC Tamil (1080p)",
+    "url": "https://ibc.massstream.net/IBC/index.m3u8",
+    "logo": "https://i.imgur.com/uVt9vBa.png",
+    "category": "General"
   },
   {
-    "name": "Bakthi Malai Radio",
-    "url": "https://bakthiisai-unicast2u.radioca.st/stream",
-    "logo": "https://img.icons8.com/fluent/96/om.png",
-    "category": "Devotional"
+    "name": "Imai TV (1080p)",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+    "logo": "https://i.imgur.com/9tODclu.png",
+    "category": "Culture"
   },
   {
-    "name": "Tamil Amuthu Bakthi Radio",
-    "url": "https://stream.zeno.fm/bpc3ucypmm0uv",
-    "logo": "https://img.icons8.com/fluent/96/om.png",
-    "category": "Devotional"
+    "name": "Isai Aruvi (576p)",
+    "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png",
+    "category": "Music"
   },
   {
-    "name": "Anbu FM (Christian)",
-    "url": "https://stream.zeno.fm/c2p4f1np4bruv",
-    "logo": "https://img.icons8.com/fluent/96/cross.png",
-    "category": "Devotional"
+    "name": "J Movie (576p)",
+    "url": "http://103.72.101.252:8080/live/417.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png",
+    "category": "Movies"
   },
   {
-    "name": "Sajeeva Vahini Christian",
-    "url": "http://stream.zeno.fm/akdry3prf5zuv",
-    "logo": "https://img.icons8.com/fluent/96/cross.png",
-    "category": "Devotional"
+    "name": "Jaya Max (576p)",
+    "url": "http://103.72.101.252:8080/live/420.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png",
+    "category": "Culture;Entertainment"
+  },
+  {
+    "name": "Jaya TV (1080p)",
+    "url": "http://103.72.101.252:8080/live/419.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png",
+    "category": "Culture;Entertainment"
+  },
+  {
+    "name": "Jothi TV (1080p)",
+    "url": "http://103.154.3.101:5001/live/2768.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png",
+    "category": "Religious"
+  },
+  {
+    "name": "Joy TV (1080p)",
+    "url": "https://ktismaservers.in:3412/live/joytvlive.m3u8",
+    "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
+    "category": "Religious"
+  },
+  {
+    "name": "Kalaignar Seithigal (720p)",
+    "url": "https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143769_ld_h15_aa.png?lock=720x540",
+    "category": "News"
+  },
+  {
+    "name": "Kalaignar TV (576p)",
+    "url": "http://103.72.101.252:8080/live/1209.m3u8",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png",
+    "category": "General"
+  },
+  {
+    "name": "Life TV (720p)",
+    "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+    "logo": "https://i.ibb.co/v1C0bdR/logo-1.png",
+    "category": "Religious"
+  },
+  {
+    "name": "M Nadu TV (576p)",
+    "url": "https://mumt01.tangotv.in/MNADU/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",
+    "category": "News"
+  },
+  {
+    "name": "Madha TV (576p)",
+    "url": "https://mumt02.tangotv.in/MADHATV/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540",
+    "category": "Religious"
+  },
+  {
+    "name": "Madhimugam TV (576p)",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png",
+    "category": "News"
+  },
+  {
+    "name": "Makkal TV (576i)",
+    "url": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png",
+    "category": "General"
+  },
+  {
+    "name": "Malai Murasu TV (1080p)",
+    "url": "https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8",
+    "logo": "https://i.imgur.com/OC5TQxp.png",
+    "category": "News"
+  },
+  {
+    "name": "Malar TV (720p)",
+    "url": "https://cdn-3.pishow.tv/live/473/master.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "name": "Max Movies (1080p)",
+    "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
+    "logo": "https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg",
+    "category": "Movies"
+  },
+  {
+    "name": "MK Six (720p)",
+    "url": "https://cdn-3.pishow.tv/live/1253/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "MNTV (1080p)",
+    "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+    "logo": "https://i.imgur.com/cFNw4Af.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Monara TV (720p)",
+    "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "logo": "https://i.imgur.com/EB99mzR.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Moon TV (720p)",
+    "url": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
+    "logo": "https://i.imgur.com/3l25EZI.png",
+    "category": "News"
+  },
+  {
+    "name": "Movies Now + (1080p)",
+    "url": "http://149.71.34.166:8000/play/a05t/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Movies Now HD (1080p)",
+    "url": "http://103.161.153.165:8000/play/mnh/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
+    "category": "Movies"
+  },
+  {
+    "name": "MTA6 Asia (1080p)",
+    "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8",
+    "logo": "https://i.imgur.com/nhCNPJI.png",
+    "category": "Religious"
+  },
+  {
+    "name": "MTA7 Asia (1080p)",
+    "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8",
+    "logo": "https://i.imgur.com/3Nl8Tpu.png",
+    "category": "Religious"
+  },
+  {
+    "name": "Nambikkai TV (576p)",
+    "url": "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png",
+    "category": "Religious"
+  },
+  {
+    "name": "National Geographic HD (576p)",
+    "url": "http://149.71.34.166:8002/play/a013/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+    "category": "Documentary"
+  },
+  {
+    "name": "National Geographic Wild HD (1080p)",
+    "url": "http://149.71.34.166:8002/play/a012/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+    "category": "Documentary"
+  },
+  {
+    "name": "NDTV Good Times (1080p)",
+    "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "NDTV LANKA (1080p)",
+    "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
+    "logo": "https://i.imgur.com/5cyTVRJ.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "News 7 Tamil (576p)",
+    "url": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png",
+    "category": "News"
+  },
+  {
+    "name": "News18 Tamil Nadu (1080p)",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU/images/LOGO_HD/image.png",
+    "category": "News"
+  },
+  {
+    "name": "News J (720p)",
+    "url": "https://cdn-3.pishow.tv/live/1279/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png",
+    "category": "News"
+  },
+  {
+    "name": "News Tamil 24x7 (1080p)",
+    "url": "https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png",
+    "category": "News"
+  },
+  {
+    "name": "Nickelodeon (576p)",
+    "url": "http://149.71.34.166:8000/play/a00u/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+    "category": "Kids"
+  },
+  {
+    "name": "NTC TV (720p)",
+    "url": "https://galaxyott.live/hls/ntv.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Oli TV (1080p)",
+    "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+    "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "OM TV (576p)",
+    "url": "https://mumt01.tangotv.in/OMTV/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
+    "category": "Religious"
+  },
+  {
+    "name": "Peppers TV (751p)",
+    "url": "https://cdn-2.pishow.tv/live/1383/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",
+    "category": "Music"
+  },
+  {
+    "name": "Polimer News (720p)",
+    "url": "https://live-cf-polimernews.dailyhunt.in/master.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540",
+    "category": "News"
+  },
+  {
+    "name": "Polimer TV (720p)",
+    "url": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Puthiya Thalaimurai (576p)",
+    "url": "https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",
+    "category": "News"
+  },
+  {
+    "name": "Puthuyugam TV (576p)",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540",
+    "category": "Undefined"
+  },
+  {
+    "name": "Raj Digital Plus (1080p)",
+    "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Raj News (576p)",
+    "url": "http://103.72.101.252:8080/live/767.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL/images/LOGO_HD/image.png",
+    "category": "News"
+  },
+  {
+    "name": "Raj TV (576p)",
+    "url": "http://103.72.101.252:8080/live/707.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "RC Music (720p)",
+    "url": "https://view.rcserver.in/tmp_hls1/stream/index.m3u8",
+    "logo": "https://rctv.in/logo_s.png",
+    "category": "Music"
+  },
+  {
+    "name": "Roja Movies (1080p)",
+    "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Roja TV (1080p)",
+    "url": "https://live.rojatv.cloud/rojatv/rojatv/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Sai TV (576p)",
+    "url": "https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "Sairam TV (576p)",
+    "url": "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8",
+    "logo": "",
+    "category": "Religious"
+  },
+  {
+    "name": "Sana Plus (1080p)",
+    "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
+    "logo": "https://i.imgur.com/N6tKUZv.png",
+    "category": "Music"
+  },
+  {
+    "name": "Sana TV (1080p)",
+    "url": "https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8",
+    "logo": "https://i.imgur.com/CR7DGBv.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Sankara TV (576p)",
+    "url": "https://cdn-3.pishow.tv/live/1135/master.m3u8",
+    "logo": "https://i.imgur.com/2z0bDRD.png",
+    "category": "Religious"
+  },
+  {
+    "name": "Sathiyam TV (720p)",
+    "url": "https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143765_ld_h15_aa.png?lock=720x540",
+    "category": "News"
+  },
+  {
+    "name": "Shakthi TV (720p)",
+    "url": "https://mini.allinonereborn.fun/tata.php?id=11612",
+    "logo": "https://i.imgur.com/RX6IwK8.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "Shalini TV (576p)",
+    "url": "https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8",
+    "logo": "https://i.imgur.com/fDdG6Y2.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "Sirippoli TV (576p)",
+    "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",
+    "category": "Comedy"
+  },
+  {
+    "name": "Sivan TV (1080p)",
+    "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+    "logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
+    "category": "Religious"
+  },
+  {
+    "name": "Sooriyan TV (1080p)",
+    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+    "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Subin TV (1080p)",
+    "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Suriya TV (1080p)",
+    "url": "https://stream.ottlive.co.in/suryatvtamil/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Suriyan TV (576p)",
+    "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png",
+    "category": "Movies"
+  },
+  {
+    "name": "SVBC 2 (1080p)",
+    "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540",
+    "category": "Religious"
+  },
+  {
+    "name": "Tamil Entertainment Television (1080p)",
+    "url": "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Tamil Janam (576p)",
+    "url": "https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png",
+    "category": "News"
+  },
+  {
+    "name": "Tamilan TV (1080p)",
+    "url": "https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "TamilVision-TV (1080p)",
+    "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
+    "logo": "https://i.imgur.com/DodsLuW.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "Thalaa TV (1080p)",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Thanthi One (576p)",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png?lock=720x540",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Thanthi TV (576p)",
+    "url": "https://cdn-3.pishow.tv/live/1612/master.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540",
+    "category": "News"
+  },
+  {
+    "name": "Travelxp 4K HDR (2160p)",
+    "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "category": "Travel"
+  },
+  {
+    "name": "Travelxp HD (1080p)",
+    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "category": "Travel"
+  },
+  {
+    "name": "Travelxp Tamil (576p)",
+    "url": "http://103.72.101.252:8080/live/814.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",
+    "category": "Travel"
+  },
+  {
+    "name": "Tunes 6 (720p)",
+    "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png",
+    "category": "Music"
+  },
+  {
+    "name": "Ultimate TV (1080p)",
+    "url": "https://stream.ottlive.co.in/utvtamil/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png",
+    "category": "Music"
+  },
+  {
+    "name": "Vaanavil TV (720p)",
+    "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png",
+    "category": "Music"
+  },
+  {
+    "name": "Vasanth TV (576p)",
+    "url": "https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Vasantham",
+    "url": "https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8",
+    "logo": "https://i.imgur.com/vqVEcuT.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "Vasantham TV (720p)",
+    "url": "https://mini.allinonereborn.fun/tata.php?id=11610",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg",
+    "category": "Undefined"
+  },
+  {
+    "name": "Velicham TV (576p)",
+    "url": "https://cdn-3.pishow.tv/live/461/master.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png",
+    "category": "News"
+  },
+  {
+    "name": "Vendhar TV (576p)",
+    "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Verbum TV (1080p)",
+    "url": "https://samson.streamerr.co:8081/verbumtv/index.m3u8",
+    "logo": "https://i.imgur.com/YEKEaB4.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "Vijay Super (576p)",
+    "url": "http://202.70.146.135:8000/play/a008/index.m3u8",
+    "logo": "https://i.imgur.com/3MWm9nD.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Vijay Takkar APAC (1080p)",
+    "url": "https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd",
+    "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",
+    "category": "Music"
+  },
+  {
+    "name": "Village TV (576p)",
+    "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",
+    "category": "Religious"
+  },
+  {
+    "name": "Win TV (576p)",
+    "url": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png",
+    "category": "Undefined"
+  },
+  {
+    "name": "Zee Tamil News (720p)",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8",
+    "logo": "https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg",
+    "category": "News"
+  },
+  {
+    "name": "Zee Zest HD (1080p)",
+    "url": "http://103.72.101.252:8080/live/2757.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Aastha Gujarati (576p)",
+    "url": "https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
+    "category": "Religious"
   }
 ]

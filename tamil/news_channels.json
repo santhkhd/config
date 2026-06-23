@@ -134,5 +134,293 @@
             "https://www.youtube.com/feeds/videos.xml?channel_id=UCEhsOgK2u8GDDoynMCj78Ng"
         ],
         "link": "https://www.youtube.com/channel/UCEhsOgK2u8GDDoynMCj78Ng"
+    },
+    {
+        "title": "Tamil Hindu",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ36XbT02JNAlBEBgZtW7GQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCJ36XbT02JNAlBEBgZtW7GQ"
+    },
+    {
+        "title": "Sun News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCYlh4lH762HvHt6mmiecyWQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ"
+    },
+    {
+        "title": "NewsTamil 24X7",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCtbo6_eDG7zEtaOtcSltJkA"
+        ],
+        "link": "https://www.youtube.com/channel/UCtbo6_eDG7zEtaOtcSltJkA"
+    },
+    {
+        "title": "Sathiyam News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ziCMHFPWkFHjocUMXT__Q"
+        ],
+        "link": "https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q"
+    },
+    {
+        "title": "IBC Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCZinho9wu3iAeRpUXvAMzBQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCZinho9wu3iAeRpUXvAMzBQ"
+    },
+    {
+        "title": "YouTurn",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCCLsLUlxvfdnRwG8_Uh40Ew"
+        ],
+        "link": "https://www.youtube.com/channel/UCCLsLUlxvfdnRwG8_Uh40Ew"
+    },
+    {
+        "title": "RedPix News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCe1Nb-N6XgLFHfGxZjIkF8A"
+        ],
+        "link": "https://www.youtube.com/channel/UCe1Nb-N6XgLFHfGxZjIkF8A"
+    },
+    {
+        "title": "Behindwoods News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCJTXuHAlDM9d08ymLpWEvKg"
+        ],
+        "link": "https://www.youtube.com/channel/UCJTXuHAlDM9d08ymLpWEvKg"
+    },
+    {
+        "title": "Galatta News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCG52PQcFSdxKB3FpqmUKWJA"
+        ],
+        "link": "https://www.youtube.com/channel/UCG52PQcFSdxKB3FpqmUKWJA"
+    },
+    {
+        "title": "Behindwoods Air",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCm4PlToTlCcOf-jUWSFB3iw"
+        ],
+        "link": "https://www.youtube.com/channel/UCm4PlToTlCcOf-jUWSFB3iw"
+    },
+    {
+        "title": "Jeyam TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC7CpSQPk_4Ay9sUPGWMtWMQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC7CpSQPk_4Ay9sUPGWMtWMQ"
+    },
+    {
+        "title": "Velicham TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCxWRAeRVun91LzMG2hM14QQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCxWRAeRVun91LzMG2hM14QQ"
+    },
+    {
+        "title": "Moon TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbzoOKIPAXEWsBiOY1cE-Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCHbzoOKIPAXEWsBiOY1cE-Q"
+    },
+    {
+        "title": "Lotus News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCZPBEt3FJssk0sP4qiF-mBw"
+        ],
+        "link": "https://www.youtube.com/channel/UCZPBEt3FJssk0sP4qiF-mBw"
+    },
+    {
+        "title": "Cauvery News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCiiNw0Tnqoe65x0Bl7KzP3Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCiiNw0Tnqoe65x0Bl7KzP3Q"
+    },
+    {
+        "title": "News Fast",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC_cZYFovNQTsKw1ZLmO_AMA"
+        ],
+        "link": "https://www.youtube.com/channel/UC_cZYFovNQTsKw1ZLmO_AMA"
+    },
+    {
+        "title": "Samayam Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCR6rQiV0hNsFyjFD7qqwOew"
+        ],
+        "link": "https://www.youtube.com/channel/UCR6rQiV0hNsFyjFD7qqwOew"
+    },
+    {
+        "title": "Asianet News Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCruehWR8BCDIK6qbjPhqL6g"
+        ],
+        "link": "https://www.youtube.com/channel/UCruehWR8BCDIK6qbjPhqL6g"
+    },
+    {
+        "title": "Chennai City News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC0C3kipEr72V6BYM_fvabdg"
+        ],
+        "link": "https://www.youtube.com/channel/UC0C3kipEr72V6BYM_fvabdg"
+    },
+    {
+        "title": "Raj News Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC1mkFVHzP87YQ87PSMxo9MQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ"
+    },
+    {
+        "title": "Jaya Plus",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCOP4Gbw-T1ofcW8vyL89ZDw"
+        ],
+        "link": "https://www.youtube.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw"
+    },
+    {
+        "title": "Captain TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCWM5yg0NRdGagLP8lFPNjMA"
+        ],
+        "link": "https://www.youtube.com/channel/UCWM5yg0NRdGagLP8lFPNjMA"
+    },
+    {
+        "title": "News Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCGyZswzm4G-wEfRQHgMSAuw"
+        ],
+        "link": "https://www.youtube.com/channel/UCGyZswzm4G-wEfRQHgMSAuw"
+    },
+    {
+        "title": "Dinamani News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC3jcdpf8dWtljex9PyhSM6w"
+        ],
+        "link": "https://www.youtube.com/channel/UC3jcdpf8dWtljex9PyhSM6w"
+    },
+    {
+        "title": "Nakkeeran News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdMtj4CiqlZTgzFT5FdDd7A"
+        ],
+        "link": "https://www.youtube.com/channel/UCdMtj4CiqlZTgzFT5FdDd7A"
+    },
+    {
+        "title": "Tamil News Live",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmyKnNRH0wH-r8I-ceP-dsg"
+        ],
+        "link": "https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg"
+    },
+    {
+        "title": "Malaimurasu TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCXbufH95DIUqyAWSzeDI0JQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCXbufH95DIUqyAWSzeDI0JQ"
+    },
+    {
+        "title": "Thanthi News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC-JFyL0zDFOsPMpuWu39rPA"
+        ],
+        "link": "https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA"
+    },
+    {
+        "title": "News Tamil Live",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmyKnNRH0wH-r8I-ceP-dsg"
+        ],
+        "link": "https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg"
+    },
+    {
+        "title": "Puthiya Thalaimurai News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmyKnNRH0wH-r8I-ceP-dsg"
+        ],
+        "link": "https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg"
+    },
+    {
+        "title": "Tamil News Today",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8Z-VjXBtDJTvq6aqkIskPg"
+        ],
+        "link": "https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg"
+    },
+    {
+        "title": "Polimer News Live",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8Z-VjXBtDJTvq6aqkIskPg"
+        ],
+        "link": "https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg"
+    },
+    {
+        "title": "News7 Tamil Live",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCGyZswzm4G-wEfRQHgMSAuw"
+        ],
+        "link": "https://www.youtube.com/channel/UCGyZswzm4G-wEfRQHgMSAuw"
+    },
+    {
+        "title": "News18 Tamil Live",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCat88i6_rELqI_prwvjspRA"
+        ],
+        "link": "https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA"
+    },
+    {
+        "title": "Cauvery News Live",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCiiNw0Tnqoe65x0Bl7KzP3Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCiiNw0Tnqoe65x0Bl7KzP3Q"
+    },
+    {
+        "title": "Sathiyam News Live",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ziCMHFPWkFHjocUMXT__Q"
+        ],
+        "link": "https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q"
     }
 ]

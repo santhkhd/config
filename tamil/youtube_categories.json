@@ -38,5 +38,21 @@
         "arguments": [
             "troll_channels.json"
         ]
+    },
+    {
+        "title": "Cooking Hub",
+        "image": "https://img.icons8.com/color/96/chef-hat.png",
+        "provider": "overview",
+        "arguments": [
+            "cooking_channels.json"
+        ]
+    },
+    {
+        "title": "Cinema Reviews",
+        "image": "https://img.icons8.com/color/96/movie.png",
+        "provider": "overview",
+        "arguments": [
+            "cinema_channels.json"
+        ]
     }
 ]

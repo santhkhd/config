@@ -30,5 +30,381 @@
             "https://www.youtube.com/feeds/videos.xml?channel_id=UClkJpyZusuVbmSm4XEVTxRA"
         ],
         "link": "https://www.youtube.com/channel/UClkJpyZusuVbmSm4XEVTxRA"
+    },
+    {
+        "title": "Troll Vedi",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCcfnTSfxZlIIj8lZpkl-PoQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCcfnTSfxZlIIj8lZpkl-PoQ"
+    },
+    {
+        "title": "Troll Cinema",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCd1MJ9QT1n_PH5N_egeKGmw"
+        ],
+        "link": "https://www.youtube.com/channel/UCd1MJ9QT1n_PH5N_egeKGmw"
+    },
+    {
+        "title": "Tamil Troll Master",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCF4m9BQarv6Ki0Xcvg2u0sg"
+        ],
+        "link": "https://www.youtube.com/channel/UCF4m9BQarv6Ki0Xcvg2u0sg"
+    },
+    {
+        "title": "Cinema Ticket",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC7z3Odkn0pDTbZoLSbzmmHA"
+        ],
+        "link": "https://www.youtube.com/channel/UC7z3Odkn0pDTbZoLSbzmmHA"
+    },
+    {
+        "title": "Vera Level Trolls",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCc_YIMIN82GGfTiccpWmjnQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCc_YIMIN82GGfTiccpWmjnQ"
+    },
+    {
+        "title": "Doomangoli",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCJjzc6yNyVyIrjQjAhhePug"
+        ],
+        "link": "https://www.youtube.com/channel/UCJjzc6yNyVyIrjQjAhhePug"
+    },
+    {
+        "title": "Plip Plip",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCbq544I2cTyvcrZwmnSIj9Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCbq544I2cTyvcrZwmnSIj9Q"
+    },
+    {
+        "title": "Temple Monkeys Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC3uLjl5v-L3_x-2m_AoGAaw"
+        ],
+        "link": "https://www.youtube.com/channel/UC3uLjl5v-L3_x-2m_AoGAaw"
+    },
+    {
+        "title": "Sweat Shop",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz0zDynsbI_9lxC-7mcfMA"
+        ],
+        "link": "https://www.youtube.com/channel/UCvz0zDynsbI_9lxC-7mcfMA"
+    },
+    {
+        "title": "Naan Thaan Da Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCRa0qMfUnTkF5W9EJmjsx1g"
+        ],
+        "link": "https://www.youtube.com/channel/UCRa0qMfUnTkF5W9EJmjsx1g"
+    },
+    {
+        "title": "Mr. Local Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCxTx0PFJrhTM3tyYbUxhq-g"
+        ],
+        "link": "https://www.youtube.com/channel/UCxTx0PFJrhTM3tyYbUxhq-g"
+    },
+    {
+        "title": "Tamil Memes",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqjfaIX0OfSDVxirOxiADCQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCqjfaIX0OfSDVxirOxiADCQ"
+    },
+    {
+        "title": "Fun Panrom Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC0L82h5Em-i1KjvcJPP9N2Q"
+        ],
+        "link": "https://www.youtube.com/channel/UC0L82h5Em-i1KjvcJPP9N2Q"
+    },
+    {
+        "title": "Troll Boys",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCE0Re1-jCf0ULjWZ9GM-r_A"
+        ],
+        "link": "https://www.youtube.com/channel/UCE0Re1-jCf0ULjWZ9GM-r_A"
+    },
+    {
+        "title": "Chella Kutty Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCWMshFLKIbmxhD4qV24WemA"
+        ],
+        "link": "https://www.youtube.com/channel/UCWMshFLKIbmxhD4qV24WemA"
+    },
+    {
+        "title": "Madan Gowri Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCLM1ImYIS4L6S1LfPiLg2cQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCLM1ImYIS4L6S1LfPiLg2cQ"
+    },
+    {
+        "title": "GP Muthu Trolls",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCcSU4Ct6_JUOzQ4SyWMMxxg"
+        ],
+        "link": "https://www.youtube.com/channel/UCcSU4Ct6_JUOzQ4SyWMMxxg"
+    },
+    {
+        "title": "TT Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCG0m9a2z1ziRm2YlaFuyU7A"
+        ],
+        "link": "https://www.youtube.com/channel/UCG0m9a2z1ziRm2YlaFuyU7A"
+    },
+    {
+        "title": "Cinema Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKk0x9ds9EBeHFV9KAAv_A"
+        ],
+        "link": "https://www.youtube.com/channel/UCAKk0x9ds9EBeHFV9KAAv_A"
+    },
+    {
+        "title": "Vadivelu Troll Hub",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqwdcbESzRye3oK5bFbLfIw"
+        ],
+        "link": "https://www.youtube.com/channel/UCqwdcbESzRye3oK5bFbLfIw"
+    },
+    {
+        "title": "Goundamani Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4KpPrHVx4uJd4T4lpoLaw"
+        ],
+        "link": "https://www.youtube.com/channel/UCQ4KpPrHVx4uJd4T4lpoLaw"
+    },
+    {
+        "title": "Santhanam Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCA4RIAzLiXzaQUxhZXewLTA"
+        ],
+        "link": "https://www.youtube.com/channel/UCA4RIAzLiXzaQUxhZXewLTA"
+    },
+    {
+        "title": "Vivek Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuN7Z6SGaN6Mjxwqcwdh4kg"
+        ],
+        "link": "https://www.youtube.com/channel/UCuN7Z6SGaN6Mjxwqcwdh4kg"
+    },
+    {
+        "title": "Lollu Sabha Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCKOAjPfarAlYrBlH4J2tBwg"
+        ],
+        "link": "https://www.youtube.com/channel/UCKOAjPfarAlYrBlH4J2tBwg"
+    },
+    {
+        "title": "Tamil Roasters",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCzoMkvzjT7cIKxH8N3LUMCQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCzoMkvzjT7cIKxH8N3LUMCQ"
+    },
+    {
+        "title": "Roaster Rithu",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmz8ROsDlkaF-_-lHmjhuiQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCmz8ROsDlkaF-_-lHmjhuiQ"
+    },
+    {
+        "title": "Roast Mortem",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC6TTaG3bmtBEfHaHotQyvMQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC6TTaG3bmtBEfHaHotQyvMQ"
+    },
+    {
+        "title": "Tamil Tech Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCDavwWx8pdCbPklBIEIxKxg"
+        ],
+        "link": "https://www.youtube.com/channel/UCDavwWx8pdCbPklBIEIxKxg"
+    },
+    {
+        "title": "VJ Siddhu Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCVju9DWln2WC_XyIabPmVQA"
+        ],
+        "link": "https://www.youtube.com/channel/UCVju9DWln2WC_XyIabPmVQA"
+    },
+    {
+        "title": "Irfan Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCfUVRZWkAjHnm0Ye9l633PA"
+        ],
+        "link": "https://www.youtube.com/channel/UCfUVRZWkAjHnm0Ye9l633PA"
+    },
+    {
+        "title": "Behindwoods Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCtF-zoZZ_wDVUMyF70djURg"
+        ],
+        "link": "https://www.youtube.com/channel/UCtF-zoZZ_wDVUMyF70djURg"
+    },
+    {
+        "title": "Galatta Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCq3A00KHfFdimNFKSUl1CzA"
+        ],
+        "link": "https://www.youtube.com/channel/UCq3A00KHfFdimNFKSUl1CzA"
+    },
+    {
+        "title": "Sun TV Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UClakru-iSdv_JbF6LuF-09g"
+        ],
+        "link": "https://www.youtube.com/channel/UClakru-iSdv_JbF6LuF-09g"
+    },
+    {
+        "title": "Vijay TV Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCllexOeS4Lm3DNuPhHh6MUg"
+        ],
+        "link": "https://www.youtube.com/channel/UCllexOeS4Lm3DNuPhHh6MUg"
+    },
+    {
+        "title": "Cook with Comali Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCItP3QP5QpfBROWY2zSarQg"
+        ],
+        "link": "https://www.youtube.com/channel/UCItP3QP5QpfBROWY2zSarQg"
+    },
+    {
+        "title": "Bigg Boss Tamil Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC7rl9FIIiwGSw4Yg-yu2lfQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC7rl9FIIiwGSw4Yg-yu2lfQ"
+    },
+    {
+        "title": "Local Troll Boy",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEXLibZZVmhg_IaTPtCkYQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCEEXLibZZVmhg_IaTPtCkYQ"
+    },
+    {
+        "title": "Chennai Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC4h0zQCXPDj0PEw_58YVfDg"
+        ],
+        "link": "https://www.youtube.com/channel/UC4h0zQCXPDj0PEw_58YVfDg"
+    },
+    {
+        "title": "Madurai Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCGSsoXfgVhNCxrV_KiuMWZw"
+        ],
+        "link": "https://www.youtube.com/channel/UCGSsoXfgVhNCxrV_KiuMWZw"
+    },
+    {
+        "title": "Coimbatore Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCcfnTSfxZlIIj8lZpkl-PoQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCcfnTSfxZlIIj8lZpkl-PoQ"
+    },
+    {
+        "title": "Trichy Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UClkJpyZusuVbmSm4XEVTxRA"
+        ],
+        "link": "https://www.youtube.com/channel/UClkJpyZusuVbmSm4XEVTxRA"
+    },
+    {
+        "title": "Nelli Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdQQjX-aoLAtyHAFyRe1EcQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCdQQjX-aoLAtyHAFyRe1EcQ"
+    },
+    {
+        "title": "Salem Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCwxOt2905Ou_8MbEDwUDCaw"
+        ],
+        "link": "https://www.youtube.com/channel/UCwxOt2905Ou_8MbEDwUDCaw"
+    },
+    {
+        "title": "Kovai Troll",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCcfnTSfxZlIIj8lZpkl-PoQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCcfnTSfxZlIIj8lZpkl-PoQ"
+    },
+    {
+        "title": "Tamil Meme Creator",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCrcsCQaK97leOZqY9qzykrA"
+        ],
+        "link": "https://www.youtube.com/channel/UCrcsCQaK97leOZqY9qzykrA"
+    },
+    {
+        "title": "Meme Nation Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCOe8iouVSVcsZAT9wmf35SQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCOe8iouVSVcsZAT9wmf35SQ"
+    },
+    {
+        "title": "Meme Hub Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCTFMMv5JlsQ82ZKDu7TKvfg"
+        ],
+        "link": "https://www.youtube.com/channel/UCTFMMv5JlsQ82ZKDu7TKvfg"
     }
 ]

@@ -1,0 +1,44 @@
+{
+    "overview": [
+        {
+            "title": "Daily Panchangam",
+            "provider": "web",
+            "arguments": [
+                "file:///android_asset/calendar.html"
+            ],
+            "image": "https://img.icons8.com/fluent/96/calendar.png"
+        },
+        {
+            "title": "Upcoming Kollywood",
+            "provider": "web",
+            "arguments": [
+                "file:///android_asset/cinema.html"
+            ],
+            "image": "https://img.icons8.com/fluent/96/clapperboard.png"
+        },
+        {
+            "title": "Daily Thirukkural",
+            "provider": "web",
+            "arguments": [
+                "file:///android_asset/quotes.html"
+            ],
+            "image": "https://img.icons8.com/fluent/96/quote-left.png"
+        },
+        {
+            "title": "Tamil Samayal",
+            "provider": "web",
+            "arguments": [
+                "file:///android_asset/samayal.html"
+            ],
+            "image": "https://img.icons8.com/fluent/96/chef-hat.png"
+        },
+        {
+            "title": "Meme Gallery",
+            "provider": "web",
+            "arguments": [
+                "file:///android_asset/memes.html"
+            ],
+            "image": "https://img.icons8.com/fluent/96/laughing.png"
+        }
+    ]
+}

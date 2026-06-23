@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>தினசரி திருக்குறள் - Daily Thirukkural</title>
+    <style>
+        :root {
+            --bg-color: #fdfaf6;
+            --card-bg: #ffffff;
+            --text-color: #3e2723;
+            --text-muted: #795548;
+            --primary: #8d6e63;
+            --accent: #d84315;
+            --border: #efebe9;
+            --shadow: rgba(141, 110, 99, 0.15);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #1a120b;
+                --card-bg: #2c1e11;
+                --text-color: #f5ebe0;
+                --text-muted: #d5bdaf;
+                --primary: #d5bdaf;
+                --accent: #e07a5f;
+                --border: #3d2b1f;
+                --shadow: rgba(0, 0, 0, 0.4);
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 16px;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            color: var(--accent);
+            margin: 0 0 6px 0;
+            font-weight: bold;
+        }
+
+        .header p {
+            font-size: 14px;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: 0 6px 18px var(--shadow);
+            border: 1px solid var(--border);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card::before {
+            content: "“";
+            position: absolute;
+            top: -20px;
+            left: 10px;
+            font-size: 120px;
+            color: var(--border);
+            font-family: Georgia, serif;
+            line-height: 1;
+            opacity: 0.5;
+        }
+
+        .kural-num {
+            font-size: 12px;
+            font-weight: bold;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            position: relative;
+        }
+
+        .kural-text {
+            font-size: 18px;
+            font-weight: bold;
+            line-height: 1.6;
+            margin-bottom: 16px;
+            position: relative;
+        }
+
+        .meaning-section {
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px dashed var(--border);
+            position: relative;
+        }
+
+        .meaning-title {
+            font-size: 13px;
+            font-weight: bold;
+            color: var(--accent);
+            margin-bottom: 6px;
+            text-transform: uppercase;
+        }
+
+        .meaning-text {
+            font-size: 14px;
+            line-height: 1.5;
+            color: var(--text-color);
+        }
+
+        .share-row {
+            display: flex;
+            gap: 8px;
+            margin-top: 20px;
+            position: relative;
+        }
+
+        .share-btn {
+            flex: 1;
+            background-color: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 12px;
+            font-weight: bold;
+            font-size: 14px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            transition: background-color 0.2s ease;
+        }
+
+        .share-btn:hover {
+            background-color: #bd3a13;
+        }
+
+        .share-btn.secondary {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            border: 1px solid var(--border);
+        }
+
+        .share-btn.secondary:hover {
+            background-color: var(--border);
+        }
+
+        .explore-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: var(--accent);
+            margin-bottom: 12px;
+        }
+
+        .kural-list-item {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .kural-list-item:hover {
+            border-color: var(--accent);
+            transform: scale(1.01);
+        }
+
+        .kural-list-num {
+            font-size: 11px;
+            color: var(--accent);
+            font-weight: bold;
+            margin-bottom: 6px;
+        }
+
+        .kural-list-text {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 1.5;
+        }
+    </style>
+    <script src="thirukkural.js"></script>
+</head>
+<body>
+
+    <div class="header">
+        <h1>தினசரி திருக்குறள்</h1>
+        <p>அதிகாரங்கள், குறள் மற்றும் உரை விளக்கங்கள்</p>
+    </div>
+
+    <!-- Kural of the Day -->
+    <div id="kural-card" class="card">
+        <div id="kural-num" class="kural-num">குறள் #00</div>
+        <div id="kural-text" class="kural-text">Loading...</div>
+        
+        <div class="meaning-section">
+            <div class="meaning-title">தமிழ் விளக்கம்</div>
+            <div id="meaning-ta" class="meaning-text">Loading...</div>
+        </div>
+
+        <div class="meaning-section">
+            <div class="meaning-title">English Meaning</div>
+            <div id="meaning-en" class="meaning-text">Loading...</div>
+        </div>
+
+        <div class="share-row">
+            <button class="share-btn" onclick="copyKural()">
+                📋 பிரதியெடு (Copy)
+            </button>
+            <button class="share-btn secondary" onclick="nextKural()">
+                அடுத்த குறள் ➔
+            </button>
+        </div>
+    </div>
+
+    <div class="explore-title">மேலும் சில குறள்கள்</div>
+    <div id="kural-list">
+        <!-- JS populated -->
+    </div>
+
+    <script>
+        let allKurals = [];
+        let currentIndex = 0;
+
+        // Load Kurals directly from thirukkural.js (bypasses Android WebView CORS/fetch block)
+        if (window.thirukkuralData) {
+            allKurals = window.thirukkuralData;
+            const dayOfYear = Math.floor((new Date() - new Date(new Date().getFullYear(), 0, 1)) / 86400000);
+            currentIndex = dayOfYear % allKurals.length;
+            
+            displayKural(currentIndex);
+            displayList();
+        } else {
+            console.error("thirukkuralData not loaded from thirukkural.js");
+        }
+
+        function displayKural(index) {
+            if (!allKurals.length) return;
+            const kural = allKurals[index];
+            document.getElementById('kural-num').innerText = `குறள் #${kural.number}`;
+            document.getElementById('kural-text').innerHTML = `${kural.line1}<br>${kural.line2}`;
+            document.getElementById('meaning-ta').innerText = kural.meaning_ta;
+            document.getElementById('meaning-en').innerText = kural.meaning_en;
+            currentIndex = index;
+        }
+
+        function nextKural() {
+            const nextIdx = (currentIndex + 1) % allKurals.length;
+            displayKural(nextIdx);
+        }
+
+        function copyKural() {
+            if (!allKurals.length) return;
+            const kural = allKurals[currentIndex];
+            const textToCopy = `திருக்குறள் ${kural.number}:\n${kural.line1}\n${kural.line2}\n\nவிளக்கம்:\n${kural.meaning_ta}\n\nEnglish:\n${kural.meaning_en}`;
+            
+            navigator.clipboard.writeText(textToCopy).then(() => {
+                alert("குறள் நகலெடுக்கப்பட்டது!");
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
+            });
+        }
+
+        function displayList() {
+            const listContainer = document.getElementById('kural-list');
+            listContainer.innerHTML = '';
+
+            allKurals.forEach((kural, idx) => {
+                const item = document.createElement('div');
+                item.className = 'kural-list-item';
+                item.onclick = () => {
+                    displayKural(idx);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                };
+
+                item.innerHTML = `
+                    <div class="kural-list-num">குறள் #${kural.number}</div>
+                    <div class="kural-list-text">${kural.line1}<br>${kural.line2}</div>
+                `;
+                listContainer.appendChild(item);
+            });
+        }
+    </script>
+</body>
+</html>

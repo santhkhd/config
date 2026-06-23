@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>சினிமா கார்னர் - Cinema Corner</title>
+    <style>
+        :root {
+            --bg-color: #0f0f12;
+            --card-bg: rgba(255, 255, 255, 0.05);
+            --card-border: rgba(255, 255, 255, 0.1);
+            --text-color: #ffffff;
+            --text-muted: #b0b3b8;
+            --primary: #e50914;
+            --accent: #ffb74d;
+            --shadow: rgba(0, 0, 0, 0.5);
+            --glass-bg: rgba(20, 20, 25, 0.8);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 16px;
+            box-sizing: border-box;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        .header h1 {
+            font-size: 26px;
+            color: var(--primary);
+            margin: 0 0 6px 0;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-shadow: 0 0 10px rgba(229, 9, 20, 0.4);
+        }
+
+        .header p {
+            font-size: 14px;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        .tabs {
+            display: flex;
+            background-color: var(--glass-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 25px;
+            padding: 4px;
+            margin-bottom: 20px;
+        }
+
+        .tab-btn {
+            flex: 1;
+            background: none;
+            border: none;
+            padding: 10px;
+            border-radius: 20px;
+            color: var(--text-muted);
+            font-weight: bold;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .tab-btn.active {
+            background-color: var(--primary);
+            color: white;
+            box-shadow: 0 4px 10px rgba(229, 9, 20, 0.3);
+        }
+
+        .movie-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 16px;
+        }
+
+        @media (min-width: 600px) {
+            .movie-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        .movie-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 8px 24px var(--shadow);
+            backdrop-filter: blur(10px);
+            transition: transform 0.2s ease;
+        }
+
+        .movie-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--primary);
+        }
+
+        .movie-poster-container {
+            position: relative;
+            width: 100%;
+            height: 180px;
+            background-color: #242526;
+            overflow: hidden;
+        }
+
+        .movie-poster {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .rating-badge {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            background-color: rgba(0, 0, 0, 0.8);
+            border: 1px solid var(--accent);
+            color: var(--accent);
+            padding: 4px 8px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .movie-info {
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+
+        .movie-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 6px;
+        }
+
+        .movie-details {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+        }
+
+        .boxoffice-stats {
+            background-color: rgba(229, 9, 20, 0.1);
+            border: 1px solid rgba(229, 9, 20, 0.2);
+            border-radius: 8px;
+            padding: 8px 12px;
+            margin-bottom: 14px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .boxoffice-label {
+            font-size: 11px;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 2px;
+        }
+
+        .boxoffice-value {
+            color: var(--accent);
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .action-btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 10px;
+            font-weight: bold;
+            font-size: 13px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            margin-top: auto;
+            transition: background-color 0.2s ease;
+        }
+
+        .action-btn:hover {
+            background-color: #b80710;
+        }
+
+        .review-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 14px;
+            margin-bottom: 12px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .review-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .reviewer-name {
+            font-weight: bold;
+            font-size: 14px;
+            color: var(--accent);
+        }
+
+        .review-date {
+            font-size: 11px;
+            color: var(--text-muted);
+        }
+
+        .review-body {
+            font-size: 13px;
+            line-height: 1.4;
+            color: var(--text-muted);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>சினிமா கார்னர்</h1>
+        <p>பாக்ஸ் ஆபீஸ் வசூல் மற்றும் திரைப்பட விமர்சனங்கள்</p>
+    </div>
+
+    <div class="tabs">
+        <button id="boxoffice-tab" class="tab-btn active" onclick="switchTab('boxoffice')">பாக்ஸ் ஆபீஸ் (Box Office)</button>
+        <button id="reviews-tab" class="tab-btn" onclick="switchTab('reviews')">விமர்சனங்கள் (Reviews)</button>
+    </div>
+
+    <!-- Box Office Tab Content -->
+    <div id="boxoffice-content" class="movie-grid">
+        <!-- Movie Card 1 -->
+        <div class="movie-card">
+            <div class="movie-poster-container">
+                <img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500" alt="Amaran" class="movie-poster">
+                <div class="rating-badge">★ 9.1</div>
+            </div>
+            <div class="movie-info">
+                <div class="movie-title">அமரன் (Amaran)</div>
+                <div class="movie-details">ஆக்ஷன் / பயோபிக் • தமிழ்</div>
+                <div class="boxoffice-stats">
+                    <div class="boxoffice-label">உலகளாவிய பாக்ஸ் ஆபீஸ் வசூல்</div>
+                    <div class="boxoffice-value">₹300+ கோடிகள் (Blockbuster)</div>
+                </div>
+                <a href="https://www.youtube.com/results?search_query=Amaran+Tamil+Trailer" class="action-btn">டிரெய்லர் பார்க்க</a>
+            </div>
+        </div>
+
+        <!-- Movie Card 2 -->
+        <div class="movie-card">
+            <div class="movie-poster-container">
+                <img src="https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500" alt="Vettaiyan" class="movie-poster">
+                <div class="rating-badge">★ 8.2</div>
+            </div>
+            <div class="movie-info">
+                <div class="movie-title">வேட்டையன் (Vettaiyan)</div>
+                <div class="movie-details">டிராமா / ஆக்ஷன் • தமிழ்</div>
+                <div class="boxoffice-stats">
+                    <div class="boxoffice-label">உலகளாவிய பாக்ஸ் ஆபீஸ் வசூல்</div>
+                    <div class="boxoffice-value">₹240+ கோடிகள் (Hit)</div>
+                </div>
+                <a href="https://www.youtube.com/results?search_query=Vettaiyan+Official+Trailer" class="action-btn">டிரெய்லர் பார்க்க</a>
+            </div>
+        </div>
+
+        <!-- Movie Card 3 -->
+        <div class="movie-card">
+            <div class="movie-poster-container">
+                <img src="https://images.unsplash.com/photo-1478720143022-10d967278a7b?w=500" alt="The GOAT" class="movie-poster">
+                <div class="rating-badge">★ 7.9</div>
+            </div>
+            <div class="movie-info">
+                <div class="movie-title">தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம் (GOAT)</div>
+                <div class="movie-details">சைன்ஸ் பிக்சன் / ஆக்ஷன் • தமிழ்</div>
+                <div class="boxoffice-stats">
+                    <div class="boxoffice-label">உலகளாவிய பாக்ஸ் ஆபீஸ் வசூல்</div>
+                    <div class="boxoffice-value">₹450+ கோடிகள் (Super Hit)</div>
+                </div>
+                <a href="https://www.youtube.com/results?search_query=The+Greatest+Of+All+Time+Trailer" class="action-btn">டிரெய்லர் பார்க்க</a>
+            </div>
+        </div>
+
+        <!-- Movie Card 4 -->
+        <div class="movie-card">
+            <div class="movie-poster-container">
+                <img src="https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=500" alt="Thangalaan" class="movie-poster">
+                <div class="rating-badge">★ 8.6</div>
+            </div>
+            <div class="movie-info">
+                <div class="movie-title">தங்கலான் (Thangalaan)</div>
+                <div class="movie-details">வரலாறு / பயோபிக் • தமிழ்</div>
+                <div class="boxoffice-stats">
+                    <div class="boxoffice-label">உலகளாவிய பாக்ஸ் ஆபீஸ் வசூல்</div>
+                    <div class="boxoffice-value">₹100+ கோடிகள் (Hit)</div>
+                </div>
+                <a href="https://www.youtube.com/results?search_query=Thangalaan+Official+Trailer" class="action-btn">டிரெய்லர் பார்க்க</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reviews Tab Content -->
+    <div id="reviews-content" style="display: none;">
+        <!-- Review 1 -->
+        <div class="review-card">
+            <div class="review-header">
+                <div class="reviewer-name">அமரன் (Amaran) - விமர்சனம்</div>
+                <div class="review-date">இன்று</div>
+            </div>
+            <div class="review-body">
+                முன்னாள் ராணுவ அதிகாரி மேஜர் முகுந்த் வரதராஜனின் வாழ்க்கை வரலாற்று படம். சிவகார்த்திகேயன் மற்றும் சாய் பல்லவியின் நடிப்பு மிகவும் அற்புதம். ஜி.வி பிரகாஷின் இசை படத்திற்கு பெரும் பலம் சேர்க்கிறது. படம் பார்ப்பவர்களின் கண்களில் கண்ணீரை வரவழைக்கும் உணர்ச்சிகரமான கிளைமாக்ஸ்.
+            </div>
+        </div>
+
+        <!-- Review 2 -->
+        <div class="review-card">
+            <div class="review-header">
+                <div class="reviewer-name">வேட்டையன் (Vettaiyan) - விமர்சனம்</div>
+                <div class="review-date">நேற்று</div>
+            </div>
+            <div class="review-body">
+                சமூகப் பிரச்சினைகளை அலசும் கதைக்களம். ரஜினிகாந்த் அவர்களின் நடிப்பு ஸ்டைலிஷ் ஆக உள்ளது. போலீஸ் என்கவுண்டர் பற்றிய விவாதம் மிக அருமையாக கொண்டு செல்லப்பட்டுள்ளது. அனிருத்தின் பின்னணி இசை திரையரங்குகளை அதிரவைக்கிறது.
+            </div>
+        </div>
+
+        <!-- Review 3 -->
+        <div class="review-card">
+            <div class="review-header">
+                <div class="reviewer-name">தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம் - விமர்சனம்</div>
+                <div class="review-date">3 நாட்களுக்கு முன்</div>
+            </div>
+            <div class="review-body">
+                தளபதி விஜய்யின் இரட்டை வேட நடிப்பு மற்றும் ஆக்ஷன் காட்சிகள் சூப்பர். இளைய தளபதி விஜய்யின் டி-ஏஜிங் காட்சிகள் நன்றாக உள்ளன. கிளைமாக்ஸில் தோன்றும் பல சர்ப்ரைஸ் விஷயங்கள் ரசிகர்களுக்கு பெரும் கொண்டாட்டம்.
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function switchTab(tab) {
+            // Remove active classes
+            document.getElementById('boxoffice-tab').classList.remove('active');
+            document.getElementById('reviews-tab').classList.remove('active');
+
+            // Hide contents
+            document.getElementById('boxoffice-content').style.display = 'none';
+            document.getElementById('reviews-content').style.display = 'none';
+
+            // Show and set active
+            if (tab === 'boxoffice') {
+                document.getElementById('boxoffice-tab').classList.add('active');
+                document.getElementById('boxoffice-content').style.display = 'grid';
+            } else if (tab === 'reviews') {
+                document.getElementById('reviews-tab').classList.add('active');
+                document.getElementById('reviews-content').style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>

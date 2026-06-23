@@ -1,0 +1,50 @@
+[
+    {
+        "title": "CNN",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
+        ],
+        "link": "https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw"
+    },
+    {
+        "title": "ABC News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2erQHQluevwgLzMvLh1g"
+        ],
+        "link": "https://www.youtube.com/channel/UCBi2erQHQluevwgLzMvLh1g"
+    },
+    {
+        "title": "NBC News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg"
+        ],
+        "link": "https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg"
+    },
+    {
+        "title": "CBS News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g"
+        ],
+        "link": "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g"
+    },
+    {
+        "title": "Fox News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCXIJgqnII2ZOINSWNOGFThA"
+        ],
+        "link": "https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA"
+    },
+    {
+        "title": "Associated Press",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5wxOL_s5OtKuze60zdw"
+        ],
+        "link": "https://www.youtube.com/channel/UC52X5wxOL_s5OtKuze60zdw"
+    }
+]

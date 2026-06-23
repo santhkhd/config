@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Behindwoods TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8md0UEGj7UbjcZtMjBVrgQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC8md0UEGj7UbjcZtMjBVrgQ"
+    },
+    {
+        "title": "Galatta Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCSbUX_gKMur5FPcTbH2L5mA"
+        ],
+        "link": "https://www.youtube.com/channel/UCSbUX_gKMur5FPcTbH2L5mA"
+    },
+    {
+        "title": "Tamil Cinema Review",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCZVcQLqXTn1DN-UcDwrc1gQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCZVcQLqXTn1DN-UcDwrc1gQ"
+    },
+    {
+        "title": "Blue Sattai Maaran",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCkI-SYGC8fxPNcp6FsX4SRQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCkI-SYGC8fxPNcp6FsX4SRQ"
+    },
+    {
+        "title": "Valai Pechu",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCRTmSft-1I9f0yzTnz32oMg"
+        ],
+        "link": "https://www.youtube.com/channel/UCRTmSft-1I9f0yzTnz32oMg"
+    },
+    {
+        "title": "Filmi Craft",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UClF9UTljviumfJf7t-VR5tg"
+        ],
+        "link": "https://www.youtube.com/channel/UClF9UTljviumfJf7t-VR5tg"
+    },
+    {
+        "title": "Kodangi Review",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCUNKSB-y7yiiJ_YU45-n56Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCUNKSB-y7yiiJ_YU45-n56Q"
+    },
+    {
+        "title": "Behindwoods Gold",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC1ouA2dttnTYnwehpCHtflg"
+        ],
+        "link": "https://www.youtube.com/channel/UC1ouA2dttnTYnwehpCHtflg"
+    },
+    {
+        "title": "Galatta Voice",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCUWdltdSR6mONwLa5ODDVjw"
+        ],
+        "link": "https://www.youtube.com/channel/UCUWdltdSR6mONwLa5ODDVjw"
+    },
+    {
+        "title": "IndiaGlitz Tamil Movies",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuF8-WmBJvhV5rZj2aYSoYw"
+        ],
+        "link": "https://www.youtube.com/channel/UCuF8-WmBJvhV5rZj2aYSoYw"
+    },
+    {
+        "title": "NewsGlitz Cinema",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuF8-WmBJvhV5rZj2aYSoYw"
+        ],
+        "link": "https://www.youtube.com/channel/UCuF8-WmBJvhV5rZj2aYSoYw"
+    },
+    {
+        "title": "Cineulagam",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCnw6jUU0KaCjgAiRsbuiCgg"
+        ],
+        "link": "https://www.youtube.com/channel/UCnw6jUU0KaCjgAiRsbuiCgg"
+    },
+    {
+        "title": "Cinema Vikatan",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCjF5ecCYXFDvR0UY9GcfnoA"
+        ],
+        "link": "https://www.youtube.com/channel/UCjF5ecCYXFDvR0UY9GcfnoA"
+    },
+    {
+        "title": "RedPix Cinema",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCGmd2my32s620a0LaddZJUQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCGmd2my32s620a0LaddZJUQ"
+    },
+    {
+        "title": "Tamil Talkies",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCkI-SYGC8fxPNcp6FsX4SRQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCkI-SYGC8fxPNcp6FsX4SRQ"
+    },
+    {
+        "title": "ItisPrashanth",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCZVcQLqXTn1DN-UcDwrc1gQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCZVcQLqXTn1DN-UcDwrc1gQ"
+    },
+    {
+        "title": "Cinema Ticket Reviews",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC7z3Odkn0pDTbZoLSbzmmHA"
+        ],
+        "link": "https://www.youtube.com/channel/UC7z3Odkn0pDTbZoLSbzmmHA"
+    },
+    {
+        "title": "Cine Samugam",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCebODn_sBnUkbHF4hchpnLQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCebODn_sBnUkbHF4hchpnLQ"
+    },
+    {
+        "title": "Tamil Cinema News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCXCaf8F6YXh4FcVIxNTvKQg"
+        ],
+        "link": "https://www.youtube.com/channel/UCXCaf8F6YXh4FcVIxNTvKQg"
+    },
+    {
+        "title": "Cinema Express Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCLi4ejQgzO-wYymqnyzkTHQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCLi4ejQgzO-wYymqnyzkTHQ"
+    },
+    {
+        "title": "Indiaglitz News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuF8-WmBJvhV5rZj2aYSoYw"
+        ],
+        "link": "https://www.youtube.com/channel/UCuF8-WmBJvhV5rZj2aYSoYw"
+    },
+    {
+        "title": "Galatta Exclusive",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTUsQJAdGSd2mMsGGfvzhQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCTTUsQJAdGSd2mMsGGfvzhQ"
+    },
+    {
+        "title": "Behindwoods Air Cinema",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8md0UEGj7UbjcZtMjBVrgQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC8md0UEGj7UbjcZtMjBVrgQ"
+    },
+    {
+        "title": "Cinema Central",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7Qv61VNhosaPoQ0xsaSmg"
+        ],
+        "link": "https://www.youtube.com/channel/UCN7Qv61VNhosaPoQ0xsaSmg"
+    },
+    {
+        "title": "Kollywood Cinema",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC--eDrBJZiGi0Xw7i0UJsMg"
+        ],
+        "link": "https://www.youtube.com/channel/UC--eDrBJZiGi0Xw7i0UJsMg"
+    },
+    {
+        "title": "Tamil Cinema Updates",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCAPY9agmayYQ5-tYikGlxhA"
+        ],
+        "link": "https://www.youtube.com/channel/UCAPY9agmayYQ5-tYikGlxhA"
+    },
+    {
+        "title": "Movie Review Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC9Fjz3z9_gvpeRlQiZ1hKGg"
+        ],
+        "link": "https://www.youtube.com/channel/UC9Fjz3z9_gvpeRlQiZ1hKGg"
+    },
+    {
+        "title": "Cine News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCWo474Di8FMdsxwaTG7zV2w"
+        ],
+        "link": "https://www.youtube.com/channel/UCWo474Di8FMdsxwaTG7zV2w"
+    },
+    {
+        "title": "Kollywood News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCgk_aedyHpxcXvbfwQov4Pw"
+        ],
+        "link": "https://www.youtube.com/channel/UCgk_aedyHpxcXvbfwQov4Pw"
+    },
+    {
+        "title": "Behindwoods TV Show",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8md0UEGj7UbjcZtMjBVrgQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC8md0UEGj7UbjcZtMjBVrgQ"
+    },
+    {
+        "title": "Galatta Special",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTUsQJAdGSd2mMsGGfvzhQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCTTUsQJAdGSd2mMsGGfvzhQ"
+    },
+    {
+        "title": "Cinema Hub",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCghaMk_ZdVq-1AT6fIRRsIw"
+        ],
+        "link": "https://www.youtube.com/channel/UCghaMk_ZdVq-1AT6fIRRsIw"
+    },
+    {
+        "title": "Film Companion Local",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1ChzPwGrmf0OwShJkTEQA"
+        ],
+        "link": "https://www.youtube.com/channel/UCL1ChzPwGrmf0OwShJkTEQA"
+    },
+    {
+        "title": "Baradwaj Rangan",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTUsQJAdGSd2mMsGGfvzhQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCTTUsQJAdGSd2mMsGGfvzhQ"
+    },
+    {
+        "title": "Film Companion Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCDw7SknOzhAr4s7eHKlyVjQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCDw7SknOzhAr4s7eHKlyVjQ"
+    },
+    {
+        "title": "Tamil Movie Promos",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCE3eETEsrh6gfI7gvvnVjeA"
+        ],
+        "link": "https://www.youtube.com/channel/UCE3eETEsrh6gfI7gvvnVjeA"
+    },
+    {
+        "title": "Jukebox Tamil Cinema",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCz8iG1IBVOZOeOX4Ffi8jiw"
+        ],
+        "link": "https://www.youtube.com/channel/UCz8iG1IBVOZOeOX4Ffi8jiw"
+    },
+    {
+        "title": "Cinema Box Office Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8Ydc-BtaZY1aqn4Z2jnvXA"
+        ],
+        "link": "https://www.youtube.com/channel/UC8Ydc-BtaZY1aqn4Z2jnvXA"
+    },
+    {
+        "title": "Kollywood Box Office",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCgRb58y-3G6t9cGzT2dHnsg"
+        ],
+        "link": "https://www.youtube.com/channel/UCgRb58y-3G6t9cGzT2dHnsg"
+    },
+    {
+        "title": "Behindwoods Air News",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCm4PlToTlCcOf-jUWSFB3iw"
+        ],
+        "link": "https://www.youtube.com/channel/UCm4PlToTlCcOf-jUWSFB3iw"
+    },
+    {
+        "title": "Cine Time",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCXzaZBUR_PVEPlnFZ2uIrMQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCXzaZBUR_PVEPlnFZ2uIrMQ"
+    },
+    {
+        "title": "Cine Focus",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCbqjcHDLOO_y0iVK_OS4PnQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCbqjcHDLOO_y0iVK_OS4PnQ"
+    },
+    {
+        "title": "Film Focus Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqP9iUFUjfusUE9bn99RyRg"
+        ],
+        "link": "https://www.youtube.com/channel/UCqP9iUFUjfusUE9bn99RyRg"
+    },
+    {
+        "title": "Cinema Cafe",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC5-9VLGHX5465C23S2a69Qw"
+        ],
+        "link": "https://www.youtube.com/channel/UC5-9VLGHX5465C23S2a69Qw"
+    },
+    {
+        "title": "Film Cafe Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC5-9VLGHX5465C23S2a69Qw"
+        ],
+        "link": "https://www.youtube.com/channel/UC5-9VLGHX5465C23S2a69Qw"
+    },
+    {
+        "title": "Kollywood Cafe",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCHkFc97oD1xE_XuLhhsiajg"
+        ],
+        "link": "https://www.youtube.com/channel/UCHkFc97oD1xE_XuLhhsiajg"
+    },
+    {
+        "title": "Behindwoods Interview",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC1_GAegUKlzJVskZKcwpZuA"
+        ],
+        "link": "https://www.youtube.com/channel/UC1_GAegUKlzJVskZKcwpZuA"
+    },
+    {
+        "title": "Galatta Interview",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCSbUX_gKMur5FPcTbH2L5mA"
+        ],
+        "link": "https://www.youtube.com/channel/UCSbUX_gKMur5FPcTbH2L5mA"
+    },
+    {
+        "title": "IndiaGlitz Interview",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuF8-WmBJvhV5rZj2aYSoYw"
+        ],
+        "link": "https://www.youtube.com/channel/UCuF8-WmBJvhV5rZj2aYSoYw"
+    },
+    {
+        "title": "Cineulagam Interview",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCnw6jUU0KaCjgAiRsbuiCgg"
+        ],
+        "link": "https://www.youtube.com/channel/UCnw6jUU0KaCjgAiRsbuiCgg"
+    }
+]

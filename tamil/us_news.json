@@ -1,0 +1,60 @@
+[
+    {
+        "title": "USA TODAY",
+        "image": "https://www.usatoday.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://www.usatoday.com/?target=external"
+        ]
+    },
+    {
+        "title": "The New York Times",
+        "image": "https://www.nytimes.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://www.nytimes.com/?target=external"
+        ]
+    },
+    {
+        "title": "The Wall Street Journal",
+        "image": "https://www.wsj.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://www.wsj.com/?target=external"
+        ]
+    },
+    {
+        "title": "The Washington Post",
+        "image": "https://www.washingtonpost.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+
+
+            "https://www.washingtonpost.com/?target=external"
+        ]
+    },
+    {
+        "title": "CNN News",
+        "image": "https://edition.cnn.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://edition.cnn.com/?target=external"
+        ]
+    },
+    {
+        "title": "Fox News",
+        "image": "https://www.foxnews.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://www.foxnews.com/?target=external"
+        ]
+    },
+    {
+        "title": "Reuters",
+        "image": "https://www.reuters.com/favicon.ico",
+        "provider": "webview",
+        "arguments": [
+            "https://www.reuters.com/?target=external"
+        ]
+    }
+]

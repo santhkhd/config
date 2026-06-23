@@ -1,0 +1,1162 @@
+[
+    {
+        "title": "Alexander City Outlook",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.alexcityoutlook.com/"
+        ]
+    },
+    {
+        "title": "Anniston Star",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.annistonstar.com/"
+        ]
+    },
+    {
+        "title": "Birmingham News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.al.com/birmingham/"
+        ]
+    },
+    {
+        "title": "Cullman Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://cullmantimes.com/"
+        ]
+    },
+    {
+        "title": "Daily Home",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.annistonstar.com/the_daily_home/"
+        ]
+    },
+    {
+        "title": "Daily Mountain Eagle",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.mountaineagle.com/"
+        ]
+    },
+    {
+        "title": "Decatur Daily",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.decaturdaily.com/"
+        ]
+    },
+    {
+        "title": "Dothan Eagle",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://dothaneagle.com/"
+        ]
+    },
+    {
+        "title": "News Courier",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://enewscourier.com/"
+        ]
+    },
+    {
+        "title": "Enterprise Ledger",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://dothaneagle.com/news/community/enterprise-ledger/"
+        ]
+    },
+    {
+        "title": "Gadsden Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.gadsdentimes.com/"
+        ]
+    },
+    {
+        "title": "Hartselle Enquirer",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://hartselleenquirer.com/"
+        ]
+    },
+    {
+        "title": "Ledger-Enquirer",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.ledger-enquirer.com/"
+        ]
+    },
+    {
+        "title": "Montgomery Advertiser",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.montgomeryadvertiser.com/"
+        ]
+    },
+    {
+        "title": "Opelika-Auburn News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://oanow.com/"
+        ]
+    },
+    {
+        "title": "Times Daily",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.timesdaily.com/"
+        ]
+    },
+    {
+        "title": "Times-Journal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://times-journal.com/"
+        ]
+    },
+    {
+        "title": "Huntsville Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.al.com/huntsville/"
+        ]
+    },
+    {
+        "title": "Tuscaloosa News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.tuscaloosanews.com/"
+        ]
+    },
+    {
+        "title": "Sand Mountain Reporter",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.sandmountainreporter.com/"
+        ]
+    },
+    {
+        "title": "Arab Tribune",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.thearabtribune.com/"
+        ]
+    },
+    {
+        "title": "Andalusia Star News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.andalusiastarnews.com/"
+        ]
+    },
+    {
+        "title": "Atmore Advance",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.atmoreadvance.com/"
+        ]
+    },
+    {
+        "title": "Atmore News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://atmorenews.com/"
+        ]
+    },
+    {
+        "title": "Auburn Villager",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.auburnvillager.com/"
+        ]
+    },
+    {
+        "title": "Alabama Baptist",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://thealabamabaptist.org/"
+        ]
+    },
+    {
+        "title": "Alabama Messenger",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.alabamamessenger.com/"
+        ]
+    },
+    {
+        "title": "Birmingham Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.birminghamtimes.com/"
+        ]
+    },
+    {
+        "title": "Latino News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://latino-news.com/"
+        ]
+    },
+    {
+        "title": "Brewton Standard",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.brewtonstandard.com/"
+        ]
+    },
+    {
+        "title": "Pickens County Herald",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://pcherald.com/"
+        ]
+    },
+    {
+        "title": "Post",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.cherokeeherald.com/"
+        ]
+    },
+    {
+        "title": "Call News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.thecallnews.com/"
+        ]
+    },
+    {
+        "title": "Clanton Advertiser",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.clantonadvertiser.com/"
+        ]
+    },
+    {
+        "title": "Shelby County Reporter",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.shelbycountyreporter.com/"
+        ]
+    },
+    {
+        "title": "Cullman Tribune",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.cullmantribune.com/"
+        ]
+    },
+    {
+        "title": "Demopolis Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.demopolistimes.com/"
+        ]
+    },
+    {
+        "title": "Elba Clipper",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.elba-clipper.com/"
+        ]
+    },
+    {
+        "title": "Times Record",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://mytrpaper.com/"
+        ]
+    },
+    {
+        "title": "Tri-City Ledger",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.tricityledger.com/"
+        ]
+    },
+    {
+        "title": "Courier Journal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.courierjournal.net/"
+        ]
+    },
+    {
+        "title": "Lowndes Signal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.lowndessignal.com/"
+        ]
+    },
+    {
+        "title": "Gadsden Messenger",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://gadsdenmessenger.com/"
+        ]
+    },
+    {
+        "title": "Choctaw Sun-Advocate",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.choctawsun.org/"
+        ]
+    },
+    {
+        "title": "Greenville Advocate",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.greenvilleadvocate.com/"
+        ]
+    },
+    {
+        "title": "Greenville Standard",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.thegreenvillestandard.com/"
+        ]
+    },
+    {
+        "title": "Clarke County Democrat",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.clarkecountydemocrat.com/"
+        ]
+    },
+    {
+        "title": "Advertiser Gleam",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.advertisergleam.com/"
+        ]
+    },
+    {
+        "title": "Journal Record",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://myjrpaper.com/"
+        ]
+    },
+    {
+        "title": "South Alabamian",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.southalabamian.com/"
+        ]
+    },
+    {
+        "title": "Valley Times-News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.valleytimes-news.com/"
+        ]
+    },
+    {
+        "title": "Sumpter County Record-Journal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.recordjournal.net/"
+        ]
+    },
+    {
+        "title": "Moulton Advertiser",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.moultonadvertiser.com/"
+        ]
+    },
+    {
+        "title": "Monroe Journal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.monroejournal.com/"
+        ]
+    },
+    {
+        "title": "Moundville Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://moundvilletimes.net/"
+        ]
+    },
+    {
+        "title": "Opelika Observer",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://opelikaobserver.com/"
+        ]
+    },
+    {
+        "title": "Blount Countian",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.blountcountian.com/"
+        ]
+    },
+    {
+        "title": "St. Clair News Aegis",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://newsaegis.com/"
+        ]
+    },
+    {
+        "title": "The Citizen of East Alabama",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.citizenofeastalabama.com/"
+        ]
+    },
+    {
+        "title": "Mountain Valley News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://mountainvalleynewspaper.com/"
+        ]
+    },
+    {
+        "title": "Randolph Leader",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.therandolphleader.com/"
+        ]
+    },
+    {
+        "title": "Jackson County Sentinel",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://jcsentinel.com/"
+        ]
+    },
+    {
+        "title": "Franklin County Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://franklincountytimes.com/"
+        ]
+    },
+    {
+        "title": "Selma Times Journal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.selmatimesjournal.com/"
+        ]
+    },
+    {
+        "title": "Troy Messenger",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.troymessenger.com/"
+        ]
+    },
+    {
+        "title": "Thomasville Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.thethomasvilletimes.com/"
+        ]
+    },
+    {
+        "title": "Trussville News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.thetrussvillenews.com/"
+        ]
+    },
+    {
+        "title": "Planet Weekly",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://theplanetweekly.com/"
+        ]
+    },
+    {
+        "title": "Union Springs Herald",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://unionsprings.news/"
+        ]
+    },
+    {
+        "title": "The Lamar Democrat",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.lamardemocratnews.com/"
+        ]
+    },
+    {
+        "title": "Over the Mountain Journal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.otmj.com/"
+        ]
+    },
+    {
+        "title": "Auburn Plainsman",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.theplainsman.com/"
+        ]
+    },
+    {
+        "title": "Crimson White",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://thecrimsonwhite.com/"
+        ]
+    },
+    {
+        "title": "Lagniappe",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.lagniappemobile.com/"
+        ]
+    },
+    {
+        "title": "Calhoun County News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.calhouncounty.org/news/"
+        ]
+    },
+    {
+        "title": "Cherokee County Herald",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.northwestgeorgianews.com/cherokee_county/"
+        ]
+    },
+    {
+        "title": "Chilton County News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.chiltoncountynews.com/"
+        ]
+    },
+    {
+        "title": "The Choctaw Sun",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.choctawsun.com/"
+        ]
+    },
+    {
+        "title": "The Columbus Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.columbustimes.com/"
+        ]
+    },
+    {
+        "title": "Covington County News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.andalusiastarnews.com/category/news/covington-county/"
+        ]
+    },
+    {
+        "title": "Cullman Sense",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.cullmansense.com/"
+        ]
+    },
+    {
+        "title": "The Cullman Tribune",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.cullmansense.com/news"
+        ]
+    },
+    {
+        "title": "The Dadeville Record",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.alexcityoutlook.com/category/dadeville/"
+        ]
+    },
+    {
+        "title": "The Daily Sentinal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.thedailysentinel.com/"
+        ]
+    },
+    {
+        "title": "Daphne News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.daphneal.com/378/In-the-News"
+        ]
+    },
+    {
+        "title": "Deep South Jewish Voice",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.deepsouthjewishvoice.com/"
+        ]
+    },
+    {
+        "title": "Dekalb County News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.ajc.com/neighborhoods/dekalb/"
+        ]
+    },
+    {
+        "title": "The Enterprise Ledger",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.eprisenow.com/"
+        ]
+    },
+    {
+        "title": "Eufaula News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/eufaula-al"
+        ]
+    },
+    {
+        "title": "The Eufaula Tribune",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.eufaulatribune.com/"
+        ]
+    },
+    {
+        "title": "Fairhope News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/fairhope-al"
+        ]
+    },
+    {
+        "title": "Fort Payne News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/fort-payne-al"
+        ]
+    },
+    {
+        "title": "Gadsden News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/gadsden-al"
+        ]
+    },
+    {
+        "title": "The Harbinger",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.theharbinger.org/"
+        ]
+    },
+    {
+        "title": "Hartselle News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/hartselle-al"
+        ]
+    },
+    {
+        "title": "Henry County Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.henrycountytimes.com/"
+        ]
+    },
+    {
+        "title": "The Homewood Star",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://thehomewoodstar.com/"
+        ]
+    },
+    {
+        "title": "Hoover News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/alabama/hoover"
+        ]
+    },
+    {
+        "title": "Huntsville Madison News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.waff.com/news/huntsville-madison/"
+        ]
+    },
+    {
+        "title": "Jasper News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/jasper-al"
+        ]
+    },
+    {
+        "title": "Jefferson County News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.jeffcountynews.com/"
+        ]
+    },
+    {
+        "title": "Kaleidoscope",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.uabkscope.com/"
+        ]
+    },
+    {
+        "title": "Limestone News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.waff.com/news/limestone-morgan/"
+        ]
+    },
+    {
+        "title": "Madison Pike",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.madisonpike.com/"
+        ]
+    },
+    {
+        "title": "Mobile County News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/alabama/mobile"
+        ]
+    },
+    {
+        "title": "MobileNews.org",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.mobilenews.org/"
+        ]
+    },
+    {
+        "title": "Mobile Register",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.al.com/mobile/"
+        ]
+    },
+    {
+        "title": "Montgomery Independent",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.al.com/montgomery/"
+        ]
+    },
+    {
+        "title": "The Monthly View",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://themonthlyview.home.mindspring.com/"
+        ]
+    },
+    {
+        "title": "Muscle Shoals News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/muscle-shoals-al"
+        ]
+    },
+    {
+        "title": "News Journal",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.annistonstar.com/newsjournal/"
+        ]
+    },
+    {
+        "title": "The North Jefferson News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.njeffersonnews.com/"
+        ]
+    },
+    {
+        "title": "The Northport Gazette",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.facebook.com/northportgazette/"
+        ]
+    },
+    {
+        "title": "Opelika News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/opelika-al"
+        ]
+    },
+    {
+        "title": "The Orange Beach Community Website",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.orangebeach.ws/"
+        ]
+    },
+    {
+        "title": "The Oxford Independent",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.oxfordi.com/"
+        ]
+    },
+    {
+        "title": "Oxford News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/oxford-al"
+        ]
+    },
+    {
+        "title": "Pelham News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/pelham-al"
+        ]
+    },
+    {
+        "title": "Pelham Reporter",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.pelhamreporter.com/"
+        ]
+    },
+    {
+        "title": "Pell City News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/pell-city-al"
+        ]
+    },
+    {
+        "title": "Phenix City News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/phenix-city-al"
+        ]
+    },
+    {
+        "title": "Prattville News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/prattville-al"
+        ]
+    },
+    {
+        "title": "The Red Mountain Post",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.theredmountainpost.com/"
+        ]
+    },
+    {
+        "title": "Saraland News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/saraland-al"
+        ]
+    },
+    {
+        "title": "Scottsboro News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/scottsboro-al"
+        ]
+    },
+    {
+        "title": "Sheffield News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/sheffield-al"
+        ]
+    },
+    {
+        "title": "Shoals Insider",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.shoalsinsider.com/"
+        ]
+    },
+    {
+        "title": "The SouthEast Sun",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.southeastsun.com/fortrucker/"
+        ]
+    },
+    {
+        "title": "Southern Torch",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.southerntorch.com/"
+        ]
+    },
+    {
+        "title": "Speakin' Out News Online",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.speakinoutweeklynews.com/"
+        ]
+    },
+    {
+        "title": "SumteR-News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.sumter-news.com/"
+        ]
+    },
+    {
+        "title": "Sylacauga News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/sylacauga-al"
+        ]
+    },
+    {
+        "title": "Talk Of Semmes",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://talkofsemmes.com/"
+        ]
+    },
+    {
+        "title": "Texelse Courant",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.texelsecourant.nl/"
+        ]
+    },
+    {
+        "title": "Titus News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/titus-al"
+        ]
+    },
+    {
+        "title": "Troy News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://patch.com/t/al/troy-al"
+        ]
+    },
+    {
+        "title": "Trussville Tribune",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.trussvilletribune.com/"
+        ]
+    },
+    {
+        "title": "Tuscaloosa Times",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.tuscaloosatimes.com/"
+        ]
+    },
+    {
+        "title": "Vestavia News",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://patch.com/alabama/vestavia-hills"
+        ]
+    },
+    {
+        "title": "Vestavia Voice",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://vestaviavoice.com/news"
+        ]
+    },
+    {
+        "title": "Village Living",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.villagelivingonline.com/"
+        ]
+    },
+    {
+        "title": "The Weekly Post",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.theweeklypost.com/"
+        ]
+    },
+    {
+        "title": "The West Alabama Gazette",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://www.facebook.com/The-West-Alabama-Gazette-110067155713008/"
+        ]
+    },
+    {
+        "title": "The Wetumpka Herald",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.thewetumpkaherald.com/"
+        ]
+    },
+    {
+        "title": "WHNT News 19",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "http://www.whnt.com/"
+        ]
+    }
+]

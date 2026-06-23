@@ -1,0 +1,53 @@
+{
+  "box_office": [
+    {
+      "title": "அமரன் (Amaran)",
+      "stars": "Sivakarthikeyan, Sai Pallavi, GV Prakash",
+      "rating": "9.1",
+      "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500",
+      "boxOfficeCollection": "₹300+ கோடிகள் (Blockbuster)",
+      "trailerUrl": "https://www.youtube.com/results?search_query=Amaran+Tamil+Trailer"
+    },
+    {
+      "title": "வேட்டையன் (Vettaiyan)",
+      "stars": "Rajinikanth, Amitabh Bachchan, Fahadh Faasil",
+      "rating": "8.2",
+      "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500",
+      "boxOfficeCollection": "₹240+ கோடிகள் (Hit)",
+      "trailerUrl": "https://www.youtube.com/results?search_query=Vettaiyan+Official+Trailer"
+    },
+    {
+      "title": "தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம் (GOAT)",
+      "stars": "Vijay, Prashanth, Sneha, Prabhu Deva",
+      "rating": "7.9",
+      "poster": "https://images.unsplash.com/photo-1478720143022-10d967278a7b?w=500",
+      "boxOfficeCollection": "₹450+ கோடிகள் (Super Hit)",
+      "trailerUrl": "https://www.youtube.com/results?search_query=The+Greatest+Of+All+Time+Trailer"
+    },
+    {
+      "title": "தங்கலான் (Thangalaan)",
+      "stars": "Vikram, Malavika Mohanan, Pasupathy",
+      "rating": "8.6",
+      "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=500",
+      "boxOfficeCollection": "₹100+ கோடிகள் (Hit)",
+      "trailerUrl": "https://www.youtube.com/results?search_query=Thangalaan+Official+Trailer"
+    }
+  ],
+  "reviews": [
+    {
+      "title": "அமரன் (Amaran) - விமர்சனம்",
+      "reviewDate": "இன்று",
+      "reviewBody": "முன்னாள் ராணுவ அதிகாரி மேஜர் முகுந்த் வரதராஜனின் வாழ்க்கை வரலாற்று படம். சிவகார்த்திகேயன் மற்றும் சாய் பல்லவியின் நடிப்பு மிகவும் அற்புதம். ஜி.வி பிரகாஷின் இசை படத்திற்கு பெரும் பலம் சேர்க்கிறது. படம் பார்ப்பவர்களின் கண்களில் கண்ணீரை வரவழைக்கும் உணர்ச்சிகரமான கிளைமாக்ஸ்."
+    },
+    {
+      "title": "வேட்டையன் (Vettaiyan) - விமர்சனம்",
+      "reviewDate": "நேற்று",
+      "reviewBody": "சமூகப் பிரச்சினைகளை அலசும் கதைக்களம். ரஜினிகாந்த் அவர்களின் நடிப்பு ஸ்டைலிஷ் ஆக உள்ளது. போலீஸ் என்கவுண்டர் பற்றிய விவாதம் மிக அருமையாக கொண்டு செல்லப்பட்டுள்ளது. அனிருத்தின் பின்னணி இசை திரையரங்குகளை அதிரவைக்கிறது."
+    },
+    {
+      "title": "தி கிரேட்டஸ்ட் ஆஃப் ஆல் டைம் - விமர்சனம்",
+      "reviewDate": "3 நாட்களுக்கு முன்",
+      "reviewBody": "தளபதி விஜய்யின் இரட்டை வேட நடிப்பு மற்றும் ஆக்ஷன் காட்சிகள் சூப்பர். இளைய தளபதி விஜய்யின் டி-ஏஜிங் காட்சிகள் நன்றாக உள்ளன. கிளைமாக்ஸில் தோன்றும் பல சர்ப்ரைஸ் விஷயங்கள் ரசிகர்களுக்கு பெரும் கொண்டாட்டம்."
+    }
+  ]
+}

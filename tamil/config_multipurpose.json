@@ -1,0 +1,1232 @@
+{
+    "app": {
+        "status": true,
+        "toolbar": true,
+        "navigation_drawer": true,
+        "geolocation": true,
+        "cache": true,
+        "open_link_in_external_browser": false,
+        "zoom_controls": false,
+        "user_agent": "",
+        "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+        "more_apps_url": "https://www.google.com/",
+        "webview_disclaimer_active": true,
+        "redirect_url": "",
+        "force_update": false,
+        "update_url": "https://santhkhd.github.io/tamil/tamilnewmovies_sanshob_up/update.html?target=external",
+        "target_version_code": 109,
+        "server_url": "https://script.google.com/macros/s/AKfycbzksIsp5rwCAaf9yHtb1phc_3BTho-_84t0dm_APTjEh1WkI3xJiWiBkh07FYktbk4S/exec",
+        "show_weather": false,
+        "weather_api_key": "c80a019ff254412a9aa75026241206"
+    },
+    "rss_news": [
+        {
+            "title": "Daily Thanthi",
+            "url": "https://www.dailythanthi.com/RSS/News/TopNews"
+        },
+        {
+            "title": "Dinamalar",
+            "url": "https://feeds.feedburner.com/dinamalar/Front_page_news"
+        },
+        {
+            "title": "Puthiya Thalaimurai",
+            "url": "https://www.puthiyathalaimurai.com/rss/tamilnadu"
+        }
+    ],
+    "custom_images": {
+        "default_movie_image": "https://raw.githubusercontent.com/santhkhd/tamil/refs/heads/main/default.png",
+        "stars_mapping_url": "https://raw.githubusercontent.com/santhkhd/tamil/refs/heads/main/stars.txt"
+    },
+    "intro": {
+        "status": false,
+        "sliders": [
+            {
+                "title": "Welcome to WebDroid",
+                "message": "Native Android App based on WebView with excellent design, beautiful, elegant & clean",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider1.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Navigation menu",
+                "message": "WebDroid integrated with remote json so you can manage the navigation drawer item and url dynamically",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider2.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Push notification",
+                "message": "Integrated with FCM & OneSignal push notification to notify your users",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider3.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Multiple Ad Neworks",
+                "message": "Supports up to 9 ad networks from the most popular providers to make it easier to monetize your app",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider4.png",
+                "background_color": "ffffff"
+            }
+        ]
+    },
+    "youtube_channels": [
+        {
+            "name": "Put Chutney",
+            "channel_id": "UCn2wC753SXLd2BJYLss_jlA"
+        },
+        {
+            "name": "Nakkalites",
+            "channel_id": "UCpnJuQkNm9j9R7LCqWtf56g"
+        },
+        {
+            "name": "Eruma Saani",
+            "channel_id": "UCPyFYlqbkxkWX_dWCg0eekA"
+        },
+        {
+            "name": "Being Thamizhan",
+            "channel_id": "UCF1wPTEdK3RZclxruliajcg"
+        },
+        {
+            "name": "Mic Set",
+            "channel_id": "UC5EQWvy59VeHPJz8mDALPxg"
+        },
+        {
+            "name": "Finally",
+            "channel_id": "UCi3o8sgPl4-Yt501ShuiEgA"
+        },
+        {
+            "name": "Smile Settai",
+            "channel_id": "UCZCaRGGPtHFtp7X3FxtNKhA"
+        },
+        {
+            "name": "Parithabangal",
+            "channel_id": "UCueYcgdqos0_PzNOq81zAFg"
+        },
+        {
+            "name": "Araathi",
+            "channel_id": "UCCMUnWvJyTEUunnygpTGfow"
+        },
+        {
+            "name": "Tamil Short Cuts",
+            "channel_id": "UC2CQx0rPH_h3IqWGCAbQzQQ"
+        },
+        {
+            "name": "Circusgun.com",
+            "channel_id": "UCdwatN-k20-pYHHAw8cSeYQ"
+        },
+        {
+            "name": "Madras Central",
+            "channel_id": "UCGBnz-FR3qaowYsyIEh2-zw"
+        },
+        {
+            "name": "Temple Monkeys",
+            "channel_id": "UCx2SxlhDYl8Rhkw_PqwcdSA"
+        },
+        {
+            "name": "Jump Cuts",
+            "channel_id": "UCpPOf9BQPwa4K11Zjxu1ZPw"
+        },
+        {
+            "name": "BlackSheep",
+            "channel_id": "UCKoQ57VjNbcx9LEfVvTLBdQ"
+        },
+        {
+            "name": "Madras Prank",
+            "channel_id": "UCdE8qg2qrgXSmqp7YqnrkTQ"
+        },
+        {
+            "name": "Fun Panrom",
+            "channel_id": "UCAljwiMh_48aFZ5deidSgPw"
+        },
+        {
+            "name": "Pranksters Rahul",
+            "channel_id": "UCiJKrqlkEha2kj3D9vSUCIg"
+        },
+        {
+            "name": "Cheeky Monkeys",
+            "channel_id": "UCZC_bFBlCLZ1Povca85yupw"
+        },
+        {
+            "name": "Info Bells Tamil",
+            "channel_id": "UCHcn4Ux-sO9nzNu7rDsoQLg"
+        },
+        {
+            "name": "Chutti TV",
+            "channel_id": "UCmTCw2IximiCUYH_Q7bciOA"
+        },
+        {
+            "name": "Smile Web Series",
+            "channel_id": "UCeGviSJUzkapY5UEkuxOqyg"
+        },
+        {
+            "name": "Comedy Raja",
+            "channel_id": "UC4tU8UgR7abCk5IxW7Sgi0g"
+        },
+        {
+            "name": "Vijay TV Comedy",
+            "channel_id": "UCJfUEbZPumV9M5BP3IFhOUw"
+        },
+        {
+            "name": "KPY Comedy",
+            "channel_id": "UCzr9F2lvykH8eJyUy9nkJDg"
+        },
+        {
+            "name": "Kalakka Povathu Yaaru",
+            "channel_id": "UCPvVi56NTVAAQLBwCm7y0xQ"
+        },
+        {
+            "name": "Athu Ithu Ethu",
+            "channel_id": "UCakBST_lpDMTGVxdCleT3Pw"
+        },
+        {
+            "name": "Adithya TV Comedy",
+            "channel_id": "UCx2NCyudktBrTSdgvlY3weg"
+        },
+        {
+            "name": "Sirippoli Comedy",
+            "channel_id": "UCOEAMGcup8b25GbFUlGmk_w"
+        },
+        {
+            "name": "Tamil Comedy Junction",
+            "channel_id": "UCgaBPLMff2bCmrMkpdtPPzQ"
+        },
+        {
+            "name": "Goundamani Senthil Comedy",
+            "channel_id": "UCy1m3P-7_VJtf35VILbS9WA"
+        },
+        {
+            "name": "Vadivelu Comedy Hub",
+            "channel_id": "UCiKADGZpSFIDF_DWVFvt_uQ"
+        },
+        {
+            "name": "Vivek Comedy Scenes",
+            "channel_id": "UCqzcceB6MQJZ5L1xAu_jHiQ"
+        },
+        {
+            "name": "Santhanam Comedy Scenes",
+            "channel_id": "UCK-dh7Yry58uC101xSZjfCQ"
+        },
+        {
+            "name": "Karunas Comedy",
+            "channel_id": "UC5uiUZdUqsj7JjS2v5Etpgg"
+        },
+        {
+            "name": "Yogi Babu Comedy",
+            "channel_id": "UCw69Pyt2dCX02QRZ0WFLodA"
+        },
+        {
+            "name": "Soori Comedy Scenes",
+            "channel_id": "UChCiWOHIElPZQQYJ_cFQN_A"
+        },
+        {
+            "name": "Tamil Cinema Comedy",
+            "channel_id": "UCXJ_3pNTgVd4ZgWiPvHgSyg"
+        },
+        {
+            "name": "Comedy Express",
+            "channel_id": "UCYhhrmmEvgqZd4voFekFO5A"
+        },
+        {
+            "name": "Comedy World Tamil",
+            "channel_id": "UCBPB2M5nSJtOjDbjVBcn0zg"
+        },
+        {
+            "name": "Siri Siri",
+            "channel_id": "UC8QyB6EqaC82_A1dqAszH2A"
+        },
+        {
+            "name": "Fun Unlimited Tamil",
+            "channel_id": "UCl6lT6wJRtshREhX2gHEp3w"
+        },
+        {
+            "name": "Tamil Talkies Comedy",
+            "channel_id": "UCJsxDATkpWOiYZzVciREodg"
+        },
+        {
+            "name": "Comedy Bazaar",
+            "channel_id": "UCfI4F1pWt5_VQyI8VEE1h_Q"
+        },
+        {
+            "name": "Sirippu Varuthu",
+            "channel_id": "UCmFi_6wraDtRIHGCwML60Ug"
+        },
+        {
+            "name": "Lollu Sabha Comedy",
+            "channel_id": "UCgc8h_V49roDmKMWSmFiX5w"
+        },
+        {
+            "name": "Vadivelu Memes",
+            "channel_id": "UCcWtWpRjRzT7CtD1CPDRh2w"
+        },
+        {
+            "name": "Tamil Mimicry Show",
+            "channel_id": "UCaX0yTkjsNoEi-cWYr-Rvrw"
+        },
+        {
+            "name": "Trend Music",
+            "channel_id": "UCUgP5pdToi19fWe19NVliFg"
+        },
+        {
+            "name": "Think Music India",
+            "channel_id": "UCLbdVvreihwZRL6kwuEUYsA"
+        },
+        {
+            "name": "IndiaGlitz Tamil Movies",
+            "channel_id": "UCuF8-WmBJvhV5rZj2aYSoYw"
+        },
+        {
+            "name": "Sony Music South",
+            "channel_id": "UCn4rEMqKtwBQ6-oEwbd4PcA"
+        },
+        {
+            "name": "Muzik247",
+            "channel_id": "UChRi1dpwnsZcIo1LSwzY0Iw"
+        },
+        {
+            "name": "Saregama Tamil",
+            "channel_id": "UCzee67JnEcuvjErRyWP3GpQ"
+        },
+        {
+            "name": "Aditya Music Tamil",
+            "channel_id": "UCo_iDY0qQ4d4ad3zRAZtPsg"
+        },
+        {
+            "name": "Lahari Music Tamil",
+            "channel_id": "UCN5cwheKFtBXLQCss18UgpA"
+        },
+        {
+            "name": "Sun Music",
+            "channel_id": "UCLpTl1OxHZnEOJj8gjAycdw"
+        },
+        {
+            "name": "Isaiyaruvi TV",
+            "channel_id": "UCzeeZ_vLk9SbQj6Gx9bKU8A"
+        },
+        {
+            "name": "Raj Musix Tamil",
+            "channel_id": "UCU9Wg8hpL8dp-sr-_5UuI3Q"
+        },
+        {
+            "name": "Divo Music",
+            "channel_id": "UC5rGGthSt-CQue8V0bj1bWg"
+        },
+        {
+            "name": "Noise and Grains",
+            "channel_id": "UC66YBGwJ7_wOtz-YsC-6sJA"
+        },
+        {
+            "name": "U1 Records",
+            "channel_id": "UCf0KybguYN3FqbRoxCbR6kw"
+        },
+        {
+            "name": "Raaga Tamil Music",
+            "channel_id": "UCWIbtrbyg-K3QqBAKxApy6w"
+        },
+        {
+            "name": "Ilaiyaraaja Official",
+            "channel_id": "UCVlWr_LN9y80smEMr0KTBOA"
+        },
+        {
+            "name": "A.R. Rahman Official",
+            "channel_id": "UC3mb5QRlm4VQmOZD_P0ctGw"
+        },
+        {
+            "name": "Anirudh Ravichander Official",
+            "channel_id": "UC1mupr-2YbkxQVmcO3ve6SA"
+        },
+        {
+            "name": "Harris Jayaraj Official",
+            "channel_id": "UCpEMLiQ6EF81BlyIa-uY7Og"
+        },
+        {
+            "name": "Santhosh Narayanan Official",
+            "channel_id": "UCeFsEjAnuLLN1J-ie6lO3jw"
+        },
+        {
+            "name": "G.V. Prakash Kumar Official",
+            "channel_id": "UCLnKZRT9orZAgttWtS2np2g"
+        },
+        {
+            "name": "D. Imman Official",
+            "channel_id": "UCITjml6R6oOanSrj-XLGSKw"
+        },
+        {
+            "name": "Hiphop Tamizha Official",
+            "channel_id": "UC3Izrk2fUSIEwdcH0kNdzeQ"
+        },
+        {
+            "name": "Vijay Antony Official",
+            "channel_id": "UCu2vVoPgxHKcj8geV0pwR-w"
+        },
+        {
+            "name": "Sid Sriram Official",
+            "channel_id": "UCqA05jJsIlK5E0XH91fb2rg"
+        },
+        {
+            "name": "Pradeep Kumar Official",
+            "channel_id": "UCEXud8c4yZmQUuVf33Exyiw"
+        },
+        {
+            "name": "Jonita Gandhi Official",
+            "channel_id": "UCp8v5KixDUzI8z8crVCXj-g"
+        },
+        {
+            "name": "Shreya Ghoshal Official",
+            "channel_id": "UCcL78rRNuUQ8t7Dx4CLmRqA"
+        },
+        {
+            "name": "S.P. Balasubrahmanyam Official",
+            "channel_id": "UCrSit4ra9GmGH6Z0SczTATg"
+        },
+        {
+            "name": "K.J. Yesudas Music",
+            "channel_id": "UCdaHIGLSb30uKav4ogfMl-w"
+        },
+        {
+            "name": "MSV Music",
+            "channel_id": "UCfYahTNDwQoxN6O0b87oa-A"
+        },
+        {
+            "name": "Deva Hits Music",
+            "channel_id": "UCVuTIZekdurF86IcwLeTRDg"
+        },
+        {
+            "name": "Vidyasagar Hits",
+            "channel_id": "UCXBlZ0P4wAHyTl6I6wsqQ5g"
+        },
+        {
+            "name": "Mani Sharma Music",
+            "channel_id": "UCDM0WFCSZeCxN79Tgbqvr0A"
+        },
+        {
+            "name": "Karthik Music",
+            "channel_id": "UCr4MOIgQ5vCPxgQzJ7VjWyQ"
+        },
+        {
+            "name": "Vijay Yesudas Music",
+            "channel_id": "UCPqQ6MQrWAB3gigb_ut-aMQ"
+        },
+        {
+            "name": "Haricharan Music",
+            "channel_id": "UCfdb4uAPO0MPoMyjBR9WwuA"
+        },
+        {
+            "name": "Chinmayi Sripada Official",
+            "channel_id": "UCmcUNcukFwJ64_THjgNVaiA"
+        },
+        {
+            "name": "Shweta Mohan Official",
+            "channel_id": "UCdEuF8BZZPtzxJnJmRqLKEw"
+        },
+        {
+            "name": "Anuradha Sriram Music",
+            "channel_id": "UCHew3D0hwG84QNtstMKhLyQ"
+        },
+        {
+            "name": "Andrea Jeremiah Official",
+            "channel_id": "UCRCpKM3iWeZLZI3bKz8-0wQ"
+        },
+        {
+            "name": "Tamil Devotional Songs",
+            "channel_id": "UCfatU6YbsZSorD3uaLLknMw"
+        },
+        {
+            "name": "Saregama Devotional Tamil",
+            "channel_id": "UCdPc54sruYz59yz9iYEHFYQ"
+        },
+        {
+            "name": "Symphony Devotional Tamil",
+            "channel_id": "UCWicUQh_wTfNy9dBSAQ3DZw"
+        },
+        {
+            "name": "Bakthi Music Tamil",
+            "channel_id": "UCfEXxVA-PdLABdlJD0zLxbw"
+        },
+        {
+            "name": "Christian Songs Tamil",
+            "channel_id": "UCij7fXcLBdjzDUpCtN-MnoA"
+        },
+        {
+            "name": "Tamil Folk Music",
+            "channel_id": "UCqIN8VfXHmNIZzMSYNA0qVQ"
+        },
+        {
+            "name": "Independent Tamil Music",
+            "channel_id": "UCbDPrWWApHKtd4EdIsZLxIg"
+        },
+        {
+            "name": "Tamil Rap Music",
+            "channel_id": "UCAfF18-lKbdI4lqHGmlO9-A"
+        },
+        {
+            "name": "Behindwoods Music",
+            "channel_id": "UC8md0UEGj7UbjcZtMjBVrgQ"
+        },
+        {
+            "name": "NewsGlitz",
+            "channel_id": "UCiqE4DQsQ0zlwjOV04s2gEA"
+        },
+        {
+            "name": "Tamilcinemareview",
+            "channel_id": "UCZVcQLqXTn1DN-UcDwrc1gQ"
+        },
+        {
+            "name": "Nakkheeran Studio",
+            "channel_id": "UCd9KkPAQjmINi4IDsnDw0hA"
+        },
+        {
+            "name": "Nakkheeran webtv",
+            "channel_id": "UCdMtj4CiqlZTgzFT5FdDd7A"
+        },
+        {
+            "name": "Red Pix News24x7",
+            "channel_id": "UCe1Nb-N6XgLFHfGxZjIkF8A"
+        },
+        {
+            "name": "Captain News",
+            "channel_id": "UCno6OgN7-NDmRTNBgqWevlw"
+        },
+        {
+            "name": "Polimer News",
+            "channel_id": "UC8Z-VjXBtDJTvq6aqkIskPg"
+        },
+        {
+            "name": "News7 Tamil",
+            "channel_id": "UC2f4w_ppqHplvjiNaoTAK9w"
+        },
+        {
+            "name": "News18 Tamilnadu",
+            "channel_id": "UCat88i6_rELqI_pjspRA"
+        },
+        {
+            "name": "Oneindia Tamil",
+            "channel_id": "UCpZBvTbjam0yTrD4HUUWTZw"
+        },
+        {
+            "name": "Tamil The Hindu",
+            "channel_id": "UCJ36XbT02JNAlBEBgZtW7GQ"
+        },
+        {
+            "name": "Dinamalar",
+            "channel_id": "UChcR8SrIiSON4KxmtpwfMgw"
+        },
+        {
+            "name": "BBC News Tamil",
+            "channel_id": "UCxD03AhBg9LWQuJfijnzhhQ"
+        },
+        {
+            "name": "Thanthi TV",
+            "channel_id": "UC-JFyL0zDFOsPMpuWu39rPA"
+        },
+        {
+            "name": "Kalaignar TV News",
+            "channel_id": "UCcVF2Fth-qEA4T1Lhn3CgKg"
+        },
+        {
+            "name": "Puthiyathalaimurai TV",
+            "channel_id": "UCmyKnNRH0wH-r8I-ceP-dsg"
+        },
+        {
+            "name": "Vikatan WebTV",
+            "channel_id": "UCEhsOgK2u8GDDoynMCj78Ng"
+        },
+        {
+            "name": "Sun News",
+            "channel_id": "UCYlh4lH762HvHt6mmiecyWQ"
+        },
+        {
+            "name": "NewsTamil 24X7",
+            "channel_id": "UCtbo6_eDG7zEtaOtcSltJkA"
+        },
+        {
+            "name": "Sathiyam News",
+            "channel_id": "UC2ziCMHFPWkFHjocUMXT__Q"
+        },
+        {
+            "name": "IBC Tamil",
+            "channel_id": "UCZinho9wu3iAeRpUXvAMzBQ"
+        },
+        {
+            "name": "YouTurn",
+            "channel_id": "UCCLsLUlxvfdnRwG8_Uh40Ew"
+        },
+        {
+            "name": "Behindwoods News",
+            "channel_id": "UCJTXuHAlDM9d08ymLpWEvKg"
+        },
+        {
+            "name": "Galatta News",
+            "channel_id": "UCG52PQcFSdxKB3FpqmUKWJA"
+        },
+        {
+            "name": "Behindwoods Air",
+            "channel_id": "UCm4PlToTlCcOf-jUWSFB3iw"
+        },
+        {
+            "name": "Jeyam TV",
+            "channel_id": "UC7CpSQPk_4Ay9sUPGWMtWMQ"
+        },
+        {
+            "name": "Velicham TV",
+            "channel_id": "UCxWRAeRVun91LzMG2hM14QQ"
+        },
+        {
+            "name": "Moon TV",
+            "channel_id": "UCHbzoOKIPAXEWsBiOY1cE-Q"
+        },
+        {
+            "name": "Lotus News",
+            "channel_id": "UCZPBEt3FJssk0sP4qiF-mBw"
+        },
+        {
+            "name": "Cauvery News",
+            "channel_id": "UCiiNw0Tnqoe65x0Bl7KzP3Q"
+        },
+        {
+            "name": "News Fast",
+            "channel_id": "UC_cZYFovNQTsKw1ZLmO_AMA"
+        },
+        {
+            "name": "Samayam Tamil",
+            "channel_id": "UCR6rQiV0hNsFyjFD7qqwOew"
+        },
+        {
+            "name": "Asianet News Tamil",
+            "channel_id": "UCruehWR8BCDIK6qbjPhqL6g"
+        },
+        {
+            "name": "Chennai City News",
+            "channel_id": "UC0C3kipEr72V6BYM_fvabdg"
+        },
+        {
+            "name": "Raj News Tamil",
+            "channel_id": "UC1mkFVHzP87YQ87PSMxo9MQ"
+        },
+        {
+            "name": "Jaya Plus",
+            "channel_id": "UCOP4Gbw-T1ofcW8vyL89ZDw"
+        },
+        {
+            "name": "Captain TV",
+            "channel_id": "UCWM5yg0NRdGagLP8lFPNjMA"
+        },
+        {
+            "name": "News Tamil",
+            "channel_id": "UCGyZswzm4G-wEfRQHgMSAuw"
+        },
+        {
+            "name": "Dinamani News",
+            "channel_id": "UC3jcdpf8dWtljex9PyhSM6w"
+        },
+        {
+            "name": "Malaimurasu TV",
+            "channel_id": "UCXbufH95DIUqyAWSzeDI0JQ"
+        },
+        {
+            "name": "News18 Tamil Live",
+            "channel_id": "UCat88i6_rELqI_prwvjspRA"
+        },
+        {
+            "name": "Today Trending",
+            "channel_id": "UCG0m9a2z1ziRm2YlaFuyU7A"
+        },
+        {
+            "name": "TP MEMES",
+            "channel_id": "UCGj6lZmKddgqoYygpTS4WHA"
+        },
+        {
+            "name": "KP TROLL",
+            "channel_id": "UClkJpyZusuVbmSm4XEVTxRA"
+        },
+        {
+            "name": "Troll Vedi",
+            "channel_id": "UCcfnTSfxZlIIj8lZpkl-PoQ"
+        },
+        {
+            "name": "Troll Cinema",
+            "channel_id": "UCd1MJ9QT1n_PH5N_egeKGmw"
+        },
+        {
+            "name": "Tamil Troll Master",
+            "channel_id": "UCF4m9BQarv6Ki0Xcvg2u0sg"
+        },
+        {
+            "name": "Cinema Ticket",
+            "channel_id": "UC7z3Odkn0pDTbZoLSbzmmHA"
+        },
+        {
+            "name": "Vera Level Trolls",
+            "channel_id": "UCc_YIMIN82GGfTiccpWmjnQ"
+        },
+        {
+            "name": "Doomangoli",
+            "channel_id": "UCJjzc6yNyVyIrjQjAhhePug"
+        },
+        {
+            "name": "Plip Plip",
+            "channel_id": "UCbq544I2cTyvcrZwmnSIj9Q"
+        },
+        {
+            "name": "Temple Monkeys Troll",
+            "channel_id": "UC3uLjl5v-L3_x-2m_AoGAaw"
+        },
+        {
+            "name": "Sweat Shop",
+            "channel_id": "UCvz0zDynsbI_9lxC-7mcfMA"
+        },
+        {
+            "name": "Naan Thaan Da Troll",
+            "channel_id": "UCRa0qMfUnTkF5W9EJmjsx1g"
+        },
+        {
+            "name": "Mr. Local Troll",
+            "channel_id": "UCxTx0PFJrhTM3tyYbUxhq-g"
+        },
+        {
+            "name": "Tamil Memes",
+            "channel_id": "UCqjfaIX0OfSDVxirOxiADCQ"
+        },
+        {
+            "name": "Fun Panrom Troll",
+            "channel_id": "UC0L82h5Em-i1KjvcJPP9N2Q"
+        },
+        {
+            "name": "Troll Boys",
+            "channel_id": "UCE0Re1-jCf0ULjWZ9GM-r_A"
+        },
+        {
+            "name": "Chella Kutty Troll",
+            "channel_id": "UCWMshFLKIbmxhD4qV24WemA"
+        },
+        {
+            "name": "Madan Gowri Troll",
+            "channel_id": "UCLM1ImYIS4L6S1LfPiLg2cQ"
+        },
+        {
+            "name": "GP Muthu Trolls",
+            "channel_id": "UCcSU4Ct6_JUOzQ4SyWMMxxg"
+        },
+        {
+            "name": "Cinema Troll",
+            "channel_id": "UCAKk0x9ds9EBeHFV9KAAv_A"
+        },
+        {
+            "name": "Vadivelu Troll Hub",
+            "channel_id": "UCqwdcbESzRye3oK5bFbLfIw"
+        },
+        {
+            "name": "Goundamani Troll",
+            "channel_id": "UCQ4KpPrHVx4uJd4T4lpoLaw"
+        },
+        {
+            "name": "Santhanam Troll",
+            "channel_id": "UCA4RIAzLiXzaQUxhZXewLTA"
+        },
+        {
+            "name": "Vivek Troll",
+            "channel_id": "UCuN7Z6SGaN6Mjxwqcwdh4kg"
+        },
+        {
+            "name": "Lollu Sabha Troll",
+            "channel_id": "UCKOAjPfarAlYrBlH4J2tBwg"
+        },
+        {
+            "name": "Tamil Roasters",
+            "channel_id": "UCzoMkvzjT7cIKxH8N3LUMCQ"
+        },
+        {
+            "name": "Roaster Rithu",
+            "channel_id": "UCmz8ROsDlkaF-_-lHmjhuiQ"
+        },
+        {
+            "name": "Roast Mortem",
+            "channel_id": "UC6TTaG3bmtBEfHaHotQyvMQ"
+        },
+        {
+            "name": "Tamil Tech Troll",
+            "channel_id": "UCDavwWx8pdCbPklBIEIxKxg"
+        },
+        {
+            "name": "VJ Siddhu Troll",
+            "channel_id": "UCVju9DWln2WC_XyIabPmVQA"
+        },
+        {
+            "name": "Irfan Troll",
+            "channel_id": "UCfUVRZWkAjHnm0Ye9l633PA"
+        },
+        {
+            "name": "Behindwoods Troll",
+            "channel_id": "UCtF-zoZZ_wDVUMyF70djURg"
+        },
+        {
+            "name": "Galatta Troll",
+            "channel_id": "UCq3A00KHfFdimNFKSUl1CzA"
+        },
+        {
+            "name": "Sun TV Troll",
+            "channel_id": "UClakru-iSdv_JbF6LuF-09g"
+        },
+        {
+            "name": "Vijay TV Troll",
+            "channel_id": "UCllexOeS4Lm3DNuPhHh6MUg"
+        },
+        {
+            "name": "Cook with Comali Troll",
+            "channel_id": "UCItP3QP5QpfBROWY2zSarQg"
+        },
+        {
+            "name": "Bigg Boss Tamil Troll",
+            "channel_id": "UC7rl9FIIiwGSw4Yg-yu2lfQ"
+        },
+        {
+            "name": "Local Troll Boy",
+            "channel_id": "UCEEXLibZZVmhg_IaTPtCkYQ"
+        },
+        {
+            "name": "Chennai Troll",
+            "channel_id": "UC4h0zQCXPDj0PEw_58YVfDg"
+        },
+        {
+            "name": "Madurai Troll",
+            "channel_id": "UCGSsoXfgVhNCxrV_KiuMWZw"
+        },
+        {
+            "name": "Nelli Troll",
+            "channel_id": "UCdQQjX-aoLAtyHAFyRe1EcQ"
+        },
+        {
+            "name": "Salem Troll",
+            "channel_id": "UCwxOt2905Ou_8MbEDwUDCaw"
+        },
+        {
+            "name": "Tamil Meme Creator",
+            "channel_id": "UCrcsCQaK97leOZqY9qzykrA"
+        },
+        {
+            "name": "Meme Nation Tamil",
+            "channel_id": "UCOe8iouVSVcsZAT9wmf35SQ"
+        },
+        {
+            "name": "Meme Hub Tamil",
+            "channel_id": "UCTFMMv5JlsQ82ZKDu7TKvfg"
+        },
+        {
+            "name": "Village Cooking Channel",
+            "channel_id": "UCk3JZr7eS3pg5AGEvBdEvFg"
+        },
+        {
+            "name": "Madras Samayal",
+            "channel_id": "UCHGktfcQq2BY_8tGPHwvm7g"
+        },
+        {
+            "name": "Chef Damu",
+            "channel_id": "UC3aHdsm-cfKcLyVe1O8Xu6A"
+        },
+        {
+            "name": "Venkatesh Bhat's Idhayam Thotta Samayal",
+            "channel_id": "UC_exm4hbJ2zV-4SrqrL9IRw"
+        },
+        {
+            "name": "Village Food Factory",
+            "channel_id": "UC-j7LP4at37y3uNTdWLq-vQ"
+        },
+        {
+            "name": "Gomathi's Kitchen",
+            "channel_id": "UCNERXF060DNFKV8y_xw9Iug"
+        },
+        {
+            "name": "Salem Kitchen",
+            "channel_id": "UCDqkjYB8ku3YlDaqwohm7PQ"
+        },
+        {
+            "name": "Kovai Samayal",
+            "channel_id": "UCmpyYVTfWXY-NqO0ZikELbg"
+        },
+        {
+            "name": "Tamil Food Masala",
+            "channel_id": "UC1k3o_uC52ik9BbQ3Whofnw"
+        },
+        {
+            "name": "Traditional Tamil Samayal",
+            "channel_id": "UCvaMpohMIVypvEWBEOHo1wA"
+        },
+        {
+            "name": "Grandma's Kitchen",
+            "channel_id": "UCIlWK53MrJtWNrXSul-lJ7A"
+        },
+        {
+            "name": "Subbu's Kitchen",
+            "channel_id": "UCla9LAE6rFUfNOT-OftJkQg"
+        },
+        {
+            "name": "Amma Samayal",
+            "channel_id": "UC-w2vyX6uMb8k4AZwnQN_MA"
+        },
+        {
+            "name": "Cooking Bow",
+            "channel_id": "UCRE7DIpWHNXHMlx_H9JsI5Q"
+        },
+        {
+            "name": "Simply Samayal",
+            "channel_id": "UCuITtiBlk9cNApMKb-x8dDg"
+        },
+        {
+            "name": "Madurai Samayal",
+            "channel_id": "UC18EAMu6c285U2n0vXG0kpA"
+        },
+        {
+            "name": "Apoorvas Nalabagam",
+            "channel_id": "UCiYDDqu07eZ6jHhqghPkQRg"
+        },
+        {
+            "name": "Master Chef Tamil",
+            "channel_id": "UCMBuhLCDDmxfwa01TuuvTgA"
+        },
+        {
+            "name": "Danush Samayal",
+            "channel_id": "UCfaPI-dbazfiyEixNDGCMIA"
+        },
+        {
+            "name": "Nanjil Samayal",
+            "channel_id": "UCGOI6aS81zfvhQk5h5jVkTw"
+        },
+        {
+            "name": "Chettinad Samayal",
+            "channel_id": "UCOGEds3gBPV7_DQYQvtik7g"
+        },
+        {
+            "name": "Village Food Secrets",
+            "channel_id": "UC-exx5JkLPpVfld-Pk-LZkQ"
+        },
+        {
+            "name": "Foodie Woodie",
+            "channel_id": "UCqlpnOpyyWdyhWTBKF28jHQ"
+        },
+        {
+            "name": "Foodie Tamizha",
+            "channel_id": "UC1eVTa8-e7uenX0dEASD1eg"
+        },
+        {
+            "name": "Shravanthi's Kitchen",
+            "channel_id": "UCvLj42lkMc6SlWcKXFFVu6w"
+        },
+        {
+            "name": "Wow Varuni",
+            "channel_id": "UCXNMz5wE3O9wJOFZGa5IABg"
+        },
+        {
+            "name": "Hema's Kitchen",
+            "channel_id": "UCZM82IdwJeS1As0lPZu5_Xg"
+        },
+        {
+            "name": "Srimathi's Kitchen",
+            "channel_id": "UCHDwV4S0xGpv0bMfPQmG4cQ"
+        },
+        {
+            "name": "Jeya Samayal",
+            "channel_id": "UCuHXxy_byYEaK-_qY6PltSg"
+        },
+        {
+            "name": "Kavitha Samayal",
+            "channel_id": "UCAuhPbhpIDhUquHYkOPyX4w"
+        },
+        {
+            "name": "South Indian Samayal",
+            "channel_id": "UC-kXWPET4Z2GPCMBR8Ra7uQ"
+        },
+        {
+            "name": "Cook with Puttu",
+            "channel_id": "UCqoKKhGSx27S7QI6IE1IDag"
+        },
+        {
+            "name": "Subha Samayal",
+            "channel_id": "UCKXSb_XXtwtkEmDcU46Fu6A"
+        },
+        {
+            "name": "Mrs. Karthik Samayal",
+            "channel_id": "UCtsoDBNMKVeg-w0cZmuNV4A"
+        },
+        {
+            "name": "Deepa's Kitchen",
+            "channel_id": "UC8W2QCSDlmTz6jgo33diVZQ"
+        },
+        {
+            "name": "Annapoorna Samayal",
+            "channel_id": "UCMgT_JbzzV9YHLUOIOyDTAQ"
+        },
+        {
+            "name": "Peppa Foodie Cooking",
+            "channel_id": "UC8wwXAm77RNzVN-cJOy8t8g"
+        },
+        {
+            "name": "Food Imprints",
+            "channel_id": "UC0fh-aOShH1DDUY9qnrFUJA"
+        },
+        {
+            "name": "Innaiku Enna Samayal",
+            "channel_id": "UCMd07ilsid_BHjBkOVXTN3g"
+        },
+        {
+            "name": "Abhi Lifestory Cooking",
+            "channel_id": "UCPnGN6fKboTzb4OTAYg-uxw"
+        },
+        {
+            "name": "Revathy Shanmugam Cooking",
+            "channel_id": "UC7P3XyR-t8ZKipSsLtMNCsg"
+        },
+        {
+            "name": "Samayal Samayal Food",
+            "channel_id": "UC8H6icXC3vMR7lWtvDTw2Xg"
+        },
+        {
+            "name": "Food Area Tamil",
+            "channel_id": "UCUzsP2NMaAvy9nSvb3IjVkA"
+        },
+        {
+            "name": "Veg Recipes of Karnataka Tamil",
+            "channel_id": "UC8ywe-yqxdvDFvjKX_TM3yg"
+        },
+        {
+            "name": "Semma Samayal Cooking",
+            "channel_id": "UC1OcTbi9XoAqcZ54pUNQjYg"
+        },
+        {
+            "name": "Galatta Tamil",
+            "channel_id": "UCSbUX_gKMur5FPcTbH2L5mA"
+        },
+        {
+            "name": "Blue Sattai Maaran",
+            "channel_id": "UCkI-SYGC8fxPNcp6FsX4SRQ"
+        },
+        {
+            "name": "Valai Pechu",
+            "channel_id": "UCRTmSft-1I9f0yzTnz32oMg"
+        },
+        {
+            "name": "Filmi Craft",
+            "channel_id": "UClF9UTljviumfJf7t-VR5tg"
+        },
+        {
+            "name": "Kodangi Review",
+            "channel_id": "UCUNKSB-y7yiiJ_YU45-n56Q"
+        },
+        {
+            "name": "Behindwoods Gold",
+            "channel_id": "UC1ouA2dttnTYnwehpCHtflg"
+        },
+        {
+            "name": "Galatta Voice",
+            "channel_id": "UCUWdltdSR6mONwLa5ODDVjw"
+        },
+        {
+            "name": "Cineulagam",
+            "channel_id": "UCnw6jUU0KaCjgAiRsbuiCgg"
+        },
+        {
+            "name": "Cinema Vikatan",
+            "channel_id": "UCjF5ecCYXFDvR0UY9GcfnoA"
+        },
+        {
+            "name": "RedPix Cinema",
+            "channel_id": "UCGmd2my32s620a0LaddZJUQ"
+        },
+        {
+            "name": "Cine Samugam",
+            "channel_id": "UCebODn_sBnUkbHF4hchpnLQ"
+        },
+        {
+            "name": "Tamil Cinema News",
+            "channel_id": "UCXCaf8F6YXh4FcVIxNTvKQg"
+        },
+        {
+            "name": "Cinema Express Tamil",
+            "channel_id": "UCLi4ejQgzO-wYymqnyzkTHQ"
+        },
+        {
+            "name": "Galatta Exclusive",
+            "channel_id": "UCTTUsQJAdGSd2mMsGGfvzhQ"
+        },
+        {
+            "name": "Cinema Central",
+            "channel_id": "UCN7Qv61VNhosaPoQ0xsaSmg"
+        },
+        {
+            "name": "Kollywood Cinema",
+            "channel_id": "UC--eDrBJZiGi0Xw7i0UJsMg"
+        },
+        {
+            "name": "Tamil Cinema Updates",
+            "channel_id": "UCAPY9agmayYQ5-tYikGlxhA"
+        },
+        {
+            "name": "Movie Review Tamil",
+            "channel_id": "UC9Fjz3z9_gvpeRlQiZ1hKGg"
+        },
+        {
+            "name": "Cine News",
+            "channel_id": "UCWo474Di8FMdsxwaTG7zV2w"
+        },
+        {
+            "name": "Kollywood News",
+            "channel_id": "UCgk_aedyHpxcXvbfwQov4Pw"
+        },
+        {
+            "name": "Cinema Hub",
+            "channel_id": "UCghaMk_ZdVq-1AT6fIRRsIw"
+        },
+        {
+            "name": "Film Companion Local",
+            "channel_id": "UCL1ChzPwGrmf0OwShJkTEQA"
+        },
+        {
+            "name": "Film Companion Tamil",
+            "channel_id": "UCDw7SknOzhAr4s7eHKlyVjQ"
+        },
+        {
+            "name": "Tamil Movie Promos",
+            "channel_id": "UCE3eETEsrh6gfI7gvvnVjeA"
+        },
+        {
+            "name": "Jukebox Tamil Cinema",
+            "channel_id": "UCz8iG1IBVOZOeOX4Ffi8jiw"
+        },
+        {
+            "name": "Cinema Box Office Tamil",
+            "channel_id": "UC8Ydc-BtaZY1aqn4Z2jnvXA"
+        },
+        {
+            "name": "Kollywood Box Office",
+            "channel_id": "UCgRb58y-3G6t9cGzT2dHnsg"
+        },
+        {
+            "name": "Cine Time",
+            "channel_id": "UCXzaZBUR_PVEPlnFZ2uIrMQ"
+        },
+        {
+            "name": "Cine Focus",
+            "channel_id": "UCbqjcHDLOO_y0iVK_OS4PnQ"
+        },
+        {
+            "name": "Film Focus Tamil",
+            "channel_id": "UCqP9iUFUjfusUE9bn99RyRg"
+        },
+        {
+            "name": "Cinema Cafe",
+            "channel_id": "UC5-9VLGHX5465C23S2a69Qw"
+        },
+        {
+            "name": "Kollywood Cafe",
+            "channel_id": "UCHkFc97oD1xE_XuLhhsiajg"
+        },
+        {
+            "name": "Behindwoods Interview",
+            "channel_id": "UC1_GAegUKlzJVskZKcwpZuA"
+        }
+    ],
+    "menus": [
+        {
+            "name": "Home Dashboard",
+            "type": "category",
+            "url": "home.json",
+            "icon": "https://img.icons8.com/fluent/96/home.png"
+        },
+        {
+            "name": "Main Breaking News",
+            "type": "tabbed_rss",
+            "url": "top_news_rss.json",
+            "icon": "https://img.icons8.com/fluent/96/news.png"
+        },
+        {
+            "name": "Tamil Newspapers",
+            "type": "category",
+            "url": "tamilnews.json",
+            "icon": "https://img.icons8.com/fluent/96/bulleted-list.png"
+        },
+        {
+            "name": "Digital Channels",
+            "type": "category",
+            "url": "youtube_categories.json",
+            "icon": "https://img.icons8.com/fluent/96/youtube-play--v1.png"
+        },
+        {
+            "name": "Live TV Channels",
+            "type": "live_channels",
+            "url": "tamil_live_channels.json",
+            "icon": "https://img.icons8.com/fluent/96/television.png"
+        },
+        {
+            "name": "Entertainment Box",
+            "type": "category",
+            "url": "comedy.json",
+            "icon": "https://img.icons8.com/fluent/96/theatre_mask.png"
+        },
+        {
+            "name": "Cinema Collections",
+            "type": "category",
+            "url": "https://config-rsk.pages.dev/tamil.json",
+            "icon": "https://img.icons8.com/fluent/96/cinema.png"
+        },
+        {
+            "name": "Tamil Radio & FM",
+            "type": "radio_channels",
+            "url": "tamil_radio_channels.json",
+            "icon": "https://img.icons8.com/fluent/96/radio.png"
+        },
+        {
+            "name": "Favorite Items",
+            "type": "favorites",
+            "url": "",
+            "icon": "https://img.icons8.com/fluent/96/hearts.png"
+        },
+        {
+            "name": "Privacy Policy",
+            "type": "assets",
+            "url": "privacy_policy.html",
+            "icon": "https://img.icons8.com/fluent/96/privacy.png"
+        }
+    ],
+    "ads": {
+        "ad_status": true,
+        "main_ads": "admob",
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+        "fan_banner_unit_id": "1173301553686204_1173301610352865",
+        "fan_interstitial_unit_id": "1173301553686204_1173301603686199",
+        "fan_native_unit_id": "1173301553686204_1173301600352866",
+        "startapp_app_id": "0",
+        "unity_game_id": "4089993",
+        "unity_banner_placement_id": "banner",
+        "unity_interstitial_placement_id": "video",
+        "applovin_banner_ad_unit_id": "0",
+        "applovin_interstitial_ad_unit_id": "0",
+        "applovin_native_ad_manual_unit_id": "0",
+        "applovin_app_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_banner_mrec_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "85460dcd",
+        "ironsource_banner_placement_name": "DefaultBanner",
+        "ironsource_interstitial_placement_name": "DefaultInterstitial",
+        "interstitial_ad_interval_on_drawer_menu": 3,
+        "interstitial_ad_interval_on_web_page_link": 3,
+        "native_ad_style_drawer_menu": "medium",
+        "native_ad_style_exit_dialog": "medium",
+        "native_ad_style_product_list": "medium",
+        "native_ad_index": 4,
+        "interstitial_ad_on_list_item_click": true,
+        "interstitial_ad_interval_on_list_item_click": 3,
+        "placement": {
+            "banner_home": true,
+            "interstitial_drawer_menu": true,
+            "interstitial_web_page_link": true,
+            "native_drawer_menu": true,
+            "native_exit_dialog": true,
+            "app_open_ad_on_start": false,
+            "app_open_ad_on_resume": true
+        }
+    }
+}

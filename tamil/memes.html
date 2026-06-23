@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>தமிழ் மீம்ஸ் ஸ்டுடியோ - Tamil Meme Studio</title>
+    <style>
+        :root {
+            --bg-color: #0F1015;
+            --card-bg: #1A1B26;
+            --text-color: #F2F2F7;
+            --text-muted: #8E8E93;
+            --primary: #7AA2F7;
+            --primary-glow: rgba(122, 162, 247, 0.15);
+            --accent: #2AC3DE;
+            --border: #2A2B36;
+            --input-bg: #13141F;
+            --shadow: rgba(0, 0, 0, 0.5);
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 16px;
+            box-sizing: border-box;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .header h1 {
+            font-size: 22px;
+            color: var(--primary);
+            margin: 0 0 4px 0;
+            letter-spacing: 0.5px;
+        }
+
+        .header p {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        /* Search & Filters */
+        .controls-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .search-box {
+            display: flex;
+            background-color: var(--input-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 8px 12px;
+            align-items: center;
+        }
+
+        .search-input {
+            background: none;
+            border: none;
+            color: var(--text-color);
+            font-size: 14px;
+            width: 100%;
+            outline: none;
+        }
+
+        .search-input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .upload-trigger-btn {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: #000;
+            border: none;
+            border-radius: 12px;
+            padding: 12px;
+            font-weight: bold;
+            font-size: 13px;
+            cursor: pointer;
+            text-align: center;
+            transition: var(--transition);
+            box-shadow: 0 4px 12px var(--primary-glow);
+        }
+
+        .upload-trigger-btn:active {
+            transform: scale(0.98);
+        }
+
+        /* Category Tabs */
+        .tabs-wrapper {
+            overflow-x: auto;
+            white-space: nowrap;
+            margin-bottom: 16px;
+            padding-bottom: 4px;
+            scrollbar-width: none; /* Hide scrollbar for Firefox */
+        }
+        .tabs-wrapper::-webkit-scrollbar {
+            display: none; /* Hide scrollbar for Chrome/Safari */
+        }
+
+        .tab-btn {
+            display: inline-block;
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 8px 16px;
+            margin-right: 8px;
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-color);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .tab-btn.active {
+            background-color: var(--primary);
+            color: #000;
+            border-color: var(--primary);
+            font-weight: bold;
+        }
+
+        /* Meme Grid */
+        .meme-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .meme-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            cursor: pointer;
+            transition: var(--transition);
+            aspect-ratio: 1;
+            position: relative;
+        }
+
+        .meme-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-2px);
+        }
+
+        .meme-img-thumb {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            background-color: #111;
+        }
+
+        .meme-card-title {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            font-size: 10px;
+            padding: 4px 6px;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        /* Pagination */
+        .pagination-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 16px;
+            padding-top: 12px;
+            border-top: 1px solid var(--border);
+        }
+
+        .page-btn {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            color: var(--text-color);
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: bold;
+            transition: var(--transition);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .page-info {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        /* Editor Modal */
+        .editor-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: var(--bg-color);
+            z-index: 1000;
+            padding: 16px;
+            overflow-y: auto;
+            box-sizing: border-box;
+        }
+
+        .editor-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .editor-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            color: var(--text-color);
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        .canvas-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 16px;
+            background-color: #000;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px var(--shadow);
+            max-width: 100%;
+        }
+
+        #meme-canvas {
+            max-width: 100%;
+            max-height: 380px;
+            object-fit: contain;
+        }
+
+        .editor-form {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .input-group label {
+            font-size: 11px;
+            color: var(--text-muted);
+            font-weight: bold;
+        }
+
+        .text-input {
+            background-color: var(--input-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 10px;
+            color: #fff;
+            font-size: 14px;
+            outline: none;
+        }
+
+        .text-input:focus {
+            border-color: var(--primary);
+        }
+
+        .style-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .slider-group {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .slider-group label {
+            font-size: 10px;
+            color: var(--text-muted);
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .slider-control {
+            width: 100%;
+            accent-color: var(--primary);
+        }
+
+        .color-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .color-picker-container {
+            display: flex;
+            align-items: center;
+            background-color: var(--input-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 6px 10px;
+            gap: 8px;
+        }
+
+        .color-picker-container span {
+            font-size: 12px;
+        }
+
+        .color-input {
+            border: none;
+            background: none;
+            width: 32px;
+            height: 32px;
+            cursor: pointer;
+            padding: 0;
+        }
+
+        .actions-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-top: 12px;
+            margin-bottom: 24px;
+        }
+
+        .action-btn {
+            border: none;
+            border-radius: 8px;
+            padding: 12px;
+            font-weight: bold;
+            font-size: 13px;
+            cursor: pointer;
+            text-align: center;
+            transition: var(--transition);
+        }
+
+        .download-btn {
+            background-color: var(--accent);
+            color: #000;
+        }
+
+        .share-btn {
+            background-color: var(--primary);
+            color: #000;
+        }
+
+        .action-btn:active {
+            transform: scale(0.98);
+        }
+    </style>
+    <script src="memes_data.js"></script>
+</head>
+<body>
+
+    <!-- Main Directory view -->
+    <div id="main-view">
+        <div class="header">
+            <h1>தமிழ் மீம்ஸ் ஸ்டுடியோ</h1>
+            <p>10,000+ காமெடி டெம்ப்ளேட்டுகள் &amp; எடிட்டர்</p>
+        </div>
+
+        <div class="controls-container">
+            <button class="upload-trigger-btn" onclick="triggerFileUpload()">
+                + சொந்த புகைப்படம் மூலம் மீம் உருவாக்கவும்
+            </button>
+            <input type="file" id="custom-file-upload" accept="image/*" style="display: none;" onchange="handleCustomImage(event)">
+
+            <div class="search-box">
+                <input type="text" id="search-input" class="search-input" placeholder="தேடவும் (எ.கா. வடிவேலு, IT)..." oninput="handleSearch()">
+            </div>
+        </div>
+
+        <div class="tabs-wrapper" id="categories-tabs">
+            <!-- Dynamically populated categories -->
+        </div>
+
+        <div class="meme-grid" id="templates-grid">
+            <!-- Dynamically loaded templates -->
+        </div>
+
+        <div class="pagination-container">
+            <button class="page-btn" id="prev-page-btn" onclick="changePage(-1)" disabled>முந்தைய</button>
+            <span class="page-info" id="page-info-label">பக்கம் 1 / 1</span>
+            <button class="page-btn" id="next-page-btn" onclick="changePage(1)">அடுத்தது</button>
+        </div>
+    </div>
+
+    <!-- Meme Editor Modal -->
+    <div id="editor-view" class="editor-modal">
+        <div class="editor-header">
+            <div class="editor-title" id="editor-mode-title">மீம்ஸ் எடிட்டர்</div>
+            <button class="close-btn" onclick="closeEditor()">&times;</button>
+        </div>
+
+        <div class="canvas-container">
+            <canvas id="meme-canvas"></canvas>
+        </div>
+
+        <div class="editor-form">
+            <div class="input-group">
+                <label>மேல் வசனம் (Top Text)</label>
+                <input type="text" id="top-text-input" class="text-input" placeholder="Enter top text" oninput="drawMeme()">
+            </div>
+
+            <div class="input-group">
+                <label>கீழ் வசனம் (Bottom Text)</label>
+                <input type="text" id="bottom-text-input" class="text-input" placeholder="Enter bottom text" oninput="drawMeme()">
+            </div>
+
+            <div class="style-row">
+                <div class="slider-group">
+                    <label>எழுத்து அளவு (Font Size) <span id="font-size-val">30px</span></label>
+                    <input type="range" id="font-size-slider" class="slider-control" min="16" max="60" value="30" oninput="updateStyle('fontSize', this.value)">
+                </div>
+
+                <div class="slider-group">
+                    <label>எழுத்து தடிமன் (Outline) <span id="outline-val">5px</span></label>
+                    <input type="range" id="outline-slider" class="slider-control" min="1" max="10" value="5" oninput="updateStyle('outline', this.value)">
+                </div>
+            </div>
+
+            <div class="style-row">
+                <div class="slider-group">
+                    <label>மேல் வசனம் இடம் (Top Pos) <span id="top-pos-val">20px</span></label>
+                    <input type="range" id="top-pos-slider" class="slider-control" min="5" max="150" value="20" oninput="updateStyle('topPos', this.value)">
+                </div>
+
+                <div class="slider-group">
+                    <label>கீழ் வசனம் இடம் (Bottom Pos) <span id="bottom-pos-val">20px</span></label>
+                    <input type="range" id="bottom-pos-slider" class="slider-control" min="5" max="150" value="20" oninput="updateStyle('bottomPos', this.value)">
+                </div>
+            </div>
+
+            <div class="color-row">
+                <div class="color-picker-container">
+                    <input type="color" id="text-color-picker" class="color-input" value="#FFFFFF" onchange="updateStyle('textColor', this.value)">
+                    <span>எழுத்து வண்ணம்</span>
+                </div>
+                <div class="color-picker-container">
+                    <input type="color" id="stroke-color-picker" class="color-input" value="#000000" onchange="updateStyle('strokeColor', this.value)">
+                    <span>அவுட்லைன் வண்ணம்</span>
+                </div>
+            </div>
+
+            <div class="actions-row">
+                <button class="action-btn download-btn" onclick="downloadMeme()">பதிவிறக்கம்</button>
+                <button class="action-btn share-btn" onclick="shareMeme()">பகிர்க</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allMemes = [];
+        let filteredMemes = [];
+        let currentCategory = "All";
+        let currentPage = 1;
+        const itemsPerPage = 20;
+
+        // Editor state
+        let canvas, ctx, currentImage = new Image();
+        let editorState = {
+            topText: "",
+            bottomText: "",
+            fontSize: 30,
+            outline: 5,
+            topPos: 20,
+            bottomPos: 20,
+            textColor: "#FFFFFF",
+            strokeColor: "#000000"
+        };
+
+        window.onload = function() {
+            canvas = document.getElementById('meme-canvas');
+            ctx = canvas.getContext('2d');
+            
+            // Load generated 10,000 meme templates directly from memes_data.js
+            if (window.memesData) {
+                allMemes = window.memesData;
+                filteredMemes = window.memesData;
+                setupCategories();
+                renderTemplates();
+            } else {
+                console.error("Error: window.memesData not found in memes_data.js");
+                // Fallback local mock data
+                allMemes = [
+                    {
+                        "id": 1,
+                        "title": "வடிவேலு காமெடி ரியாக்ஷன்",
+                        "category": "Vadivelu Reactions",
+                        "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=500",
+                        "topText": "மச்சான் எக்ஸாம் பாஸ்",
+                        "bottomText": "இப்ப நான் என்ன சொல்லிட்டேன்னு இப்டி குதிக்கிறீங்க?"
+                    }
+                ];
+                filteredMemes = allMemes;
+                setupCategories();
+                renderTemplates();
+            }
+        };
+
+        function setupCategories() {
+            const cats = new Set();
+            cats.add("All");
+            allMemes.forEach(m => {
+                if (m.category) cats.add(m.category);
+            });
+
+            const tabsContainer = document.getElementById('categories-tabs');
+            tabsContainer.innerHTML = "";
+            cats.forEach(c => {
+                const btn = document.createElement('button');
+                btn.className = `tab-btn ${c === currentCategory ? 'active' : ''}`;
+                btn.innerText = getCategoryNameInTamil(c);
+                btn.onclick = () => selectCategory(c);
+                tabsContainer.appendChild(btn);
+            });
+        }
+
+        function getCategoryNameInTamil(cat) {
+            const tamilMap = {
+                "All": "அனைத்தும்",
+                "Vadivelu Reactions": "வடிவேலு",
+                "Goundamani Classic Sarcasm": "கவுண்டமணி",
+                "Santhanam Counters": "சந்தானம்",
+                "IT/Corporate Life": "IT / வேலை",
+                "College/School Life": "கல்லூரி / பள்ளி",
+                "Daily Life & Relationships": "அன்றாட வாழ்க்கை"
+            };
+            return tamilMap[cat] || cat;
+        }
+
+        function selectCategory(cat) {
+            currentCategory = cat;
+            currentPage = 1;
+            setupCategories();
+            filterMemes();
+        }
+
+        function handleSearch() {
+            currentPage = 1;
+            filterMemes();
+        }
+
+        function filterMemes() {
+            const query = document.getElementById('search-input').value.toLowerCase().trim();
+            
+            filteredMemes = allMemes.filter(m => {
+                const matchesCat = (currentCategory === "All" || m.category === currentCategory);
+                const matchesSearch = (!query || m.title.toLowerCase().includes(query) || m.category.toLowerCase().includes(query));
+                return matchesCat && matchesSearch;
+            });
+
+            renderTemplates();
+        }
+
+        function renderTemplates() {
+            const grid = document.getElementById('templates-grid');
+            grid.innerHTML = "";
+
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = Math.min(startIndex + itemsPerPage, filteredMemes.length);
+            const pageItems = filteredMemes.slice(startIndex, endIndex);
+
+            pageItems.forEach(m => {
+                const card = document.createElement('div');
+                card.className = "meme-card";
+                card.onclick = () => openEditorWithTemplate(m);
+
+                const img = document.createElement('img');
+                img.className = "meme-img-thumb";
+                img.src = m.image;
+                img.loading = "lazy";
+
+                const title = document.createElement('div');
+                title.className = "meme-card-title";
+                title.innerText = m.title;
+
+                card.appendChild(img);
+                card.appendChild(title);
+                grid.appendChild(card);
+            });
+
+            // Update Pagination state
+            const totalPages = Math.max(1, Math.ceil(filteredMemes.length / itemsPerPage));
+            document.getElementById('prev-page-btn').disabled = (currentPage === 1);
+            document.getElementById('next-page-btn').disabled = (currentPage === totalPages);
+            document.getElementById('page-info-label').innerText = `பக்கம் ${currentPage} / ${totalPages}`;
+        }
+
+        function changePage(direction) {
+            currentPage += direction;
+            renderTemplates();
+            window.scrollTo(0, 0);
+        }
+
+        // Custom image upload
+        function triggerFileUpload() {
+            document.getElementById('custom-file-upload').click();
+        }
+
+        function handleCustomImage(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    openEditorWithCustomImage(e.target.result);
+                };
+                reader.readAsDataURL(file);
+            }
+        }
+
+        // Editor Operations
+        function openEditorWithTemplate(meme) {
+            document.getElementById('editor-mode-title').innerText = "காமெடி டெம்ப்ளேட் எடிட்டர்";
+            
+            // Set input values
+            document.getElementById('top-text-input').value = meme.topText || "";
+            document.getElementById('bottom-text-input').value = meme.bottomText || "";
+            
+            // Sync local state
+            editorState.topText = meme.topText || "";
+            editorState.bottomText = meme.bottomText || "";
+
+            // Reset sliders
+            resetSliders();
+
+            document.getElementById('editor-view').style.display = "block";
+            
+            currentImage.crossOrigin = "anonymous";
+            currentImage.src = meme.image;
+            currentImage.onload = function() {
+                setupCanvas();
+            };
+        }
+
+        function openEditorWithCustomImage(imageSrc) {
+            document.getElementById('editor-mode-title').innerText = "சொந்த புகைப்படம் எடிட்டர்";
+            document.getElementById('top-text-input').value = "";
+            document.getElementById('bottom-text-input').value = "";
+            
+            editorState.topText = "";
+            editorState.bottomText = "";
+
+            resetSliders();
+
+            document.getElementById('editor-view').style.display = "block";
+
+            currentImage.src = imageSrc;
+            currentImage.onload = function() {
+                setupCanvas();
+            };
+        }
+
+        function resetSliders() {
+            editorState.fontSize = 30;
+            editorState.outline = 5;
+            editorState.topPos = 20;
+            editorState.bottomPos = 20;
+            editorState.textColor = "#FFFFFF";
+            editorState.strokeColor = "#000000";
+
+            document.getElementById('font-size-slider').value = 30;
+            document.getElementById('font-size-val').innerText = "30px";
+            document.getElementById('outline-slider').value = 5;
+            document.getElementById('outline-val').innerText = "5px";
+            document.getElementById('top-pos-slider').value = 20;
+            document.getElementById('top-pos-val').innerText = "20px";
+            document.getElementById('bottom-pos-slider').value = 20;
+            document.getElementById('bottom-pos-val').innerText = "20px";
+            document.getElementById('text-color-picker').value = "#FFFFFF";
+            document.getElementById('stroke-color-picker').value = "#000000";
+        }
+
+        function setupCanvas() {
+            // Adjust canvas resolution dynamically based on image size to prevent blurry rendering
+            const maxDimension = 800;
+            let width = currentImage.naturalWidth || 600;
+            let height = currentImage.naturalHeight || 600;
+
+            if (width > maxDimension || height > maxDimension) {
+                if (width > height) {
+                    height = Math.round((height * maxDimension) / width);
+                    width = maxDimension;
+                } else {
+                    width = Math.round((width * maxDimension) / height);
+                    height = maxDimension;
+                }
+            }
+
+            canvas.width = width;
+            canvas.height = height;
+
+            drawMeme();
+        }
+
+        function drawMeme() {
+            if (!currentImage.src) return;
+
+            // 1. Draw Image
+            ctx.drawImage(currentImage, 0, 0, canvas.width, canvas.height);
+
+            // Get Input values
+            const topText = document.getElementById('top-text-input').value.toUpperCase();
+            const bottomText = document.getElementById('bottom-text-input').value.toUpperCase();
+
+            // 2. Configure font styles
+            ctx.fillStyle = editorState.textColor;
+            ctx.strokeStyle = editorState.strokeColor;
+            ctx.lineWidth = editorState.outline;
+            ctx.textAlign = 'center';
+            
+            // Adjust font size proportional to canvas width
+            const scaleFactor = canvas.width / 500;
+            const actualFontSize = Math.round(editorState.fontSize * scaleFactor);
+            ctx.font = `bold ${actualFontSize}px Impact, sans-serif`;
+
+            // Draw Top Text
+            if (topText) {
+                ctx.textBaseline = 'top';
+                const wrapTop = wrapText(ctx, topText, canvas.width - 40);
+                let currentY = editorState.topPos * scaleFactor;
+                wrapTop.forEach(line => {
+                    ctx.strokeText(line, canvas.width / 2, currentY);
+                    ctx.fillText(line, canvas.width / 2, currentY);
+                    currentY += actualFontSize + 6;
+                });
+            }
+
+            // Draw Bottom Text
+            if (bottomText) {
+                ctx.textBaseline = 'bottom';
+                const wrapBot = wrapText(ctx, bottomText, canvas.width - 40);
+                let currentY = canvas.height - (editorState.bottomPos * scaleFactor);
+                // Draw bottom lines starting from the last line going up
+                for (let i = wrapBot.length - 1; i >= 0; i--) {
+                    ctx.strokeText(wrapBot[i], canvas.width / 2, currentY);
+                    ctx.fillText(wrapBot[i], canvas.width / 2, currentY);
+                    currentY -= actualFontSize + 6;
+                }
+            }
+        }
+
+        // Helper to wrap long Tamil words/phrases nicely
+        function wrapText(context, text, maxWidth) {
+            const words = text.split(' ');
+            const lines = [];
+            let currentLine = words[0];
+
+            for (let i = 1; i < words.length; i++) {
+                const word = words[i];
+                const width = context.measureText(currentLine + " " + word).width;
+                if (width < maxWidth) {
+                    currentLine += " " + word;
+                } else {
+                    lines.push(currentLine);
+                    currentLine = word;
+                }
+            }
+            lines.push(currentLine);
+            return lines;
+        }
+
+        function updateStyle(prop, val) {
+            editorState[prop] = val;
+            
+            // Update labels
+            if (prop === 'fontSize') {
+                document.getElementById('font-size-val').innerText = val + "px";
+            } else if (prop === 'outline') {
+                document.getElementById('outline-val').innerText = val + "px";
+            } else if (prop === 'topPos') {
+                document.getElementById('top-pos-val').innerText = val + "px";
+            } else if (prop === 'bottomPos') {
+                document.getElementById('bottom-pos-val').innerText = val + "px";
+            }
+
+            drawMeme();
+        }
+
+        function closeEditor() {
+            document.getElementById('editor-view').style.display = "none";
+        }
+
+        // Export/Download Meme
+        function downloadMeme() {
+            const dataUrl = canvas.toDataURL('image/jpeg', 0.9);
+            const link = document.createElement('a');
+            link.download = `tamil_meme_${Date.now()}.jpg`;
+            link.href = dataUrl;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // Native Web Share or clipboard fallback
+        function shareMeme() {
+            canvas.toBlob(blob => {
+                const file = new File([blob], `tamil_meme_${Date.now()}.jpg`, { type: 'image/jpeg' });
+                
+                if (navigator.canShare && navigator.canShare({ files: [file] })) {
+                    navigator.share({
+                        files: [file],
+                        title: 'Tamil Comedy Meme',
+                        text: 'Created using Tamil Meme Studio!'
+                    }).catch(err => console.log('Error sharing:', err));
+                } else {
+                    // Fallback to text download url or copy alert
+                    downloadMeme();
+                    alert("உள்ளூர் சாதனத்தில் சேமிக்கப்பட்டது! பகிரவும் தயாராக உள்ளது.");
+                }
+            }, 'image/jpeg', 0.9);
+        }
+    </script>
+</body>
+</html>

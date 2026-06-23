@@ -22,5 +22,389 @@
             "https://www.youtube.com/feeds/videos.xml?channel_id=UCuF8-WmBJvhV5rZj2aYSoYw"
         ],
         "link": "https://www.youtube.com/channel/UCuF8-WmBJvhV5rZj2aYSoYw"
+    },
+    {
+        "title": "Sony Music South",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCn4rEMqKtwBQ6-oEwbd4PcA"
+        ],
+        "link": "https://www.youtube.com/channel/UCn4rEMqKtwBQ6-oEwbd4PcA"
+    },
+    {
+        "title": "Muzik247",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UChRi1dpwnsZcIo1LSwzY0Iw"
+        ],
+        "link": "https://www.youtube.com/channel/UChRi1dpwnsZcIo1LSwzY0Iw"
+    },
+    {
+        "title": "Saregama Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCzee67JnEcuvjErRyWP3GpQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCzee67JnEcuvjErRyWP3GpQ"
+    },
+    {
+        "title": "Aditya Music Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCo_iDY0qQ4d4ad3zRAZtPsg"
+        ],
+        "link": "https://www.youtube.com/channel/UCo_iDY0qQ4d4ad3zRAZtPsg"
+    },
+    {
+        "title": "Lahari Music Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCN5cwheKFtBXLQCss18UgpA"
+        ],
+        "link": "https://www.youtube.com/channel/UCN5cwheKFtBXLQCss18UgpA"
+    },
+    {
+        "title": "Sun Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCLpTl1OxHZnEOJj8gjAycdw"
+        ],
+        "link": "https://www.youtube.com/channel/UCLpTl1OxHZnEOJj8gjAycdw"
+    },
+    {
+        "title": "Isaiyaruvi TV",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCzeeZ_vLk9SbQj6Gx9bKU8A"
+        ],
+        "link": "https://www.youtube.com/channel/UCzeeZ_vLk9SbQj6Gx9bKU8A"
+    },
+    {
+        "title": "Raj Musix Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCU9Wg8hpL8dp-sr-_5UuI3Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCU9Wg8hpL8dp-sr-_5UuI3Q"
+    },
+    {
+        "title": "Divo Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC5rGGthSt-CQue8V0bj1bWg"
+        ],
+        "link": "https://www.youtube.com/channel/UC5rGGthSt-CQue8V0bj1bWg"
+    },
+    {
+        "title": "Noise and Grains",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC66YBGwJ7_wOtz-YsC-6sJA"
+        ],
+        "link": "https://www.youtube.com/channel/UC66YBGwJ7_wOtz-YsC-6sJA"
+    },
+    {
+        "title": "U1 Records",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCf0KybguYN3FqbRoxCbR6kw"
+        ],
+        "link": "https://www.youtube.com/channel/UCf0KybguYN3FqbRoxCbR6kw"
+    },
+    {
+        "title": "Raaga Tamil Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCWIbtrbyg-K3QqBAKxApy6w"
+        ],
+        "link": "https://www.youtube.com/channel/UCWIbtrbyg-K3QqBAKxApy6w"
+    },
+    {
+        "title": "Ilaiyaraaja Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCVlWr_LN9y80smEMr0KTBOA"
+        ],
+        "link": "https://www.youtube.com/channel/UCVlWr_LN9y80smEMr0KTBOA"
+    },
+    {
+        "title": "A.R. Rahman Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC3mb5QRlm4VQmOZD_P0ctGw"
+        ],
+        "link": "https://www.youtube.com/channel/UC3mb5QRlm4VQmOZD_P0ctGw"
+    },
+    {
+        "title": "Anirudh Ravichander Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC1mupr-2YbkxQVmcO3ve6SA"
+        ],
+        "link": "https://www.youtube.com/channel/UC1mupr-2YbkxQVmcO3ve6SA"
+    },
+    {
+        "title": "Harris Jayaraj Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCpEMLiQ6EF81BlyIa-uY7Og"
+        ],
+        "link": "https://www.youtube.com/channel/UCpEMLiQ6EF81BlyIa-uY7Og"
+    },
+    {
+        "title": "Yuvan Shankar Raja Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCf0KybguYN3FqbRoxCbR6kw"
+        ],
+        "link": "https://www.youtube.com/channel/UCf0KybguYN3FqbRoxCbR6kw"
+    },
+    {
+        "title": "Santhosh Narayanan Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCeFsEjAnuLLN1J-ie6lO3jw"
+        ],
+        "link": "https://www.youtube.com/channel/UCeFsEjAnuLLN1J-ie6lO3jw"
+    },
+    {
+        "title": "G.V. Prakash Kumar Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCLnKZRT9orZAgttWtS2np2g"
+        ],
+        "link": "https://www.youtube.com/channel/UCLnKZRT9orZAgttWtS2np2g"
+    },
+    {
+        "title": "D. Imman Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCITjml6R6oOanSrj-XLGSKw"
+        ],
+        "link": "https://www.youtube.com/channel/UCITjml6R6oOanSrj-XLGSKw"
+    },
+    {
+        "title": "Hiphop Tamizha Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC3Izrk2fUSIEwdcH0kNdzeQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC3Izrk2fUSIEwdcH0kNdzeQ"
+    },
+    {
+        "title": "Vijay Antony Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCu2vVoPgxHKcj8geV0pwR-w"
+        ],
+        "link": "https://www.youtube.com/channel/UCu2vVoPgxHKcj8geV0pwR-w"
+    },
+    {
+        "title": "Sid Sriram Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqA05jJsIlK5E0XH91fb2rg"
+        ],
+        "link": "https://www.youtube.com/channel/UCqA05jJsIlK5E0XH91fb2rg"
+    },
+    {
+        "title": "Pradeep Kumar Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCEXud8c4yZmQUuVf33Exyiw"
+        ],
+        "link": "https://www.youtube.com/channel/UCEXud8c4yZmQUuVf33Exyiw"
+    },
+    {
+        "title": "Jonita Gandhi Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCp8v5KixDUzI8z8crVCXj-g"
+        ],
+        "link": "https://www.youtube.com/channel/UCp8v5KixDUzI8z8crVCXj-g"
+    },
+    {
+        "title": "Shreya Ghoshal Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCcL78rRNuUQ8t7Dx4CLmRqA"
+        ],
+        "link": "https://www.youtube.com/channel/UCcL78rRNuUQ8t7Dx4CLmRqA"
+    },
+    {
+        "title": "S.P. Balasubrahmanyam Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCrSit4ra9GmGH6Z0SczTATg"
+        ],
+        "link": "https://www.youtube.com/channel/UCrSit4ra9GmGH6Z0SczTATg"
+    },
+    {
+        "title": "K.J. Yesudas Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdaHIGLSb30uKav4ogfMl-w"
+        ],
+        "link": "https://www.youtube.com/channel/UCdaHIGLSb30uKav4ogfMl-w"
+    },
+    {
+        "title": "MSV Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCfYahTNDwQoxN6O0b87oa-A"
+        ],
+        "link": "https://www.youtube.com/channel/UCfYahTNDwQoxN6O0b87oa-A"
+    },
+    {
+        "title": "Deva Hits Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCVuTIZekdurF86IcwLeTRDg"
+        ],
+        "link": "https://www.youtube.com/channel/UCVuTIZekdurF86IcwLeTRDg"
+    },
+    {
+        "title": "Vidyasagar Hits",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCXBlZ0P4wAHyTl6I6wsqQ5g"
+        ],
+        "link": "https://www.youtube.com/channel/UCXBlZ0P4wAHyTl6I6wsqQ5g"
+    },
+    {
+        "title": "Mani Sharma Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCDM0WFCSZeCxN79Tgbqvr0A"
+        ],
+        "link": "https://www.youtube.com/channel/UCDM0WFCSZeCxN79Tgbqvr0A"
+    },
+    {
+        "title": "Karthik Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCr4MOIgQ5vCPxgQzJ7VjWyQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCr4MOIgQ5vCPxgQzJ7VjWyQ"
+    },
+    {
+        "title": "Vijay Yesudas Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCPqQ6MQrWAB3gigb_ut-aMQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCPqQ6MQrWAB3gigb_ut-aMQ"
+    },
+    {
+        "title": "Haricharan Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdb4uAPO0MPoMyjBR9WwuA"
+        ],
+        "link": "https://www.youtube.com/channel/UCfdb4uAPO0MPoMyjBR9WwuA"
+    },
+    {
+        "title": "Chinmayi Sripada Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmcUNcukFwJ64_THjgNVaiA"
+        ],
+        "link": "https://www.youtube.com/channel/UCmcUNcukFwJ64_THjgNVaiA"
+    },
+    {
+        "title": "Shweta Mohan Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdEuF8BZZPtzxJnJmRqLKEw"
+        ],
+        "link": "https://www.youtube.com/channel/UCdEuF8BZZPtzxJnJmRqLKEw"
+    },
+    {
+        "title": "Anuradha Sriram Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCHew3D0hwG84QNtstMKhLyQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCHew3D0hwG84QNtstMKhLyQ"
+    },
+    {
+        "title": "Andrea Jeremiah Official",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCRCpKM3iWeZLZI3bKz8-0wQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCRCpKM3iWeZLZI3bKz8-0wQ"
+    },
+    {
+        "title": "Tamil Devotional Songs",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCfatU6YbsZSorD3uaLLknMw"
+        ],
+        "link": "https://www.youtube.com/channel/UCfatU6YbsZSorD3uaLLknMw"
+    },
+    {
+        "title": "Saregama Devotional Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdPc54sruYz59yz9iYEHFYQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCdPc54sruYz59yz9iYEHFYQ"
+    },
+    {
+        "title": "Symphony Devotional Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCWicUQh_wTfNy9dBSAQ3DZw"
+        ],
+        "link": "https://www.youtube.com/channel/UCWicUQh_wTfNy9dBSAQ3DZw"
+    },
+    {
+        "title": "Bakthi Music Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCfEXxVA-PdLABdlJD0zLxbw"
+        ],
+        "link": "https://www.youtube.com/channel/UCfEXxVA-PdLABdlJD0zLxbw"
+    },
+    {
+        "title": "Christian Songs Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCij7fXcLBdjzDUpCtN-MnoA"
+        ],
+        "link": "https://www.youtube.com/channel/UCij7fXcLBdjzDUpCtN-MnoA"
+    },
+    {
+        "title": "Tamil Folk Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqIN8VfXHmNIZzMSYNA0qVQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCqIN8VfXHmNIZzMSYNA0qVQ"
+    },
+    {
+        "title": "Independent Tamil Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCbDPrWWApHKtd4EdIsZLxIg"
+        ],
+        "link": "https://www.youtube.com/channel/UCbDPrWWApHKtd4EdIsZLxIg"
+    },
+    {
+        "title": "Tamil Rap Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCAfF18-lKbdI4lqHGmlO9-A"
+        ],
+        "link": "https://www.youtube.com/channel/UCAfF18-lKbdI4lqHGmlO9-A"
+    },
+    {
+        "title": "Behindwoods Music",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8md0UEGj7UbjcZtMjBVrgQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC8md0UEGj7UbjcZtMjBVrgQ"
     }
 ]

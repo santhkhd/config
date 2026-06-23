@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>தமிழ் நாள்காட்டி & ராசிபலன்</title>
+    <style>
+        :root {
+            --bg-color: #f0f2f5;
+            --card-bg: #ffffff;
+            --text-color: #212529;
+            --text-muted: #6c757d;
+            --primary: #ff5722;
+            --primary-light: #ffebe5;
+            --accent: #ff9800;
+            --border: #e0e0e0;
+            --success: #4caf50;
+            --error: #f44336;
+            --shadow: rgba(0, 0, 0, 0.08);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #121212;
+                --card-bg: #1e1e1e;
+                --text-color: #e0e0e0;
+                --text-muted: #a0a0a0;
+                --primary: #ff7043;
+                --primary-light: #2c1a16;
+                --accent: #ffb74d;
+                --border: #2d2d2d;
+                --shadow: rgba(0, 0, 0, 0.3);
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 16px;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            color: var(--primary);
+            margin: 0 0 6px 0;
+        }
+
+        .header p {
+            font-size: 14px;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 16px;
+            box-shadow: 0 4px 12px var(--shadow);
+            border: 1px solid var(--border);
+        }
+
+        .date-card {
+            text-align: center;
+            border-left: 5px solid var(--primary);
+        }
+
+        .gregorian-date {
+            font-size: 16px;
+            font-weight: bold;
+            color: var(--text-muted);
+            margin-bottom: 4px;
+        }
+
+        .tamil-date {
+            font-size: 26px;
+            font-weight: bold;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+
+        .tamil-year-name {
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text-color);
+        }
+
+        .grid-timings {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .timing-item {
+            background-color: var(--bg-color);
+            padding: 12px;
+            border-radius: 12px;
+            text-align: center;
+            border: 1px solid var(--border);
+        }
+
+        .timing-title {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 6px;
+            font-weight: 600;
+        }
+
+        .timing-value {
+            font-size: 15px;
+            font-weight: bold;
+            color: var(--text-color);
+        }
+
+        .timing-item.good {
+            border-left: 4px solid var(--success);
+        }
+
+        .timing-item.bad {
+            border-left: 4px solid var(--error);
+        }
+
+        .rasi-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 12px;
+            color: var(--primary);
+        }
+
+        .rasi-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+
+        .rasi-btn {
+            background-color: var(--bg-color);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 10px 4px;
+            font-size: 13px;
+            font-weight: bold;
+            color: var(--text-color);
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.2s ease;
+        }
+
+        .rasi-btn:hover, .rasi-btn.active {
+            background-color: var(--primary);
+            color: #ffffff;
+            border-color: var(--primary);
+            transform: scale(1.05);
+        }
+
+        .rasi-result {
+            background-color: var(--primary-light);
+            border-radius: 12px;
+            padding: 16px;
+            border: 1px dashed var(--primary);
+            display: none;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .rasi-result h3 {
+            margin: 0 0 8px 0;
+            font-size: 16px;
+            color: var(--primary);
+        }
+
+        .rasi-result p {
+            margin: 0;
+            font-size: 14px;
+            line-height: 1.5;
+            color: var(--text-color);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5dp); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>தினசரி தமிழ் நாள்காட்டி</h1>
+        <p>நல்ல நேரம், ராசிபலன் மற்றும் கால விவரங்கள்</p>
+    </div>
+
+    <!-- Date Picker Card -->
+    <div class="card" style="text-align: center; border-bottom: 4px solid var(--accent);">
+        <label for="date-picker" style="font-weight: bold; margin-right: 8px; font-size: 14px; display: block; margin-bottom: 8px;">தேதியைத் தேர்ந்தெடுக்கவும் (Select Date):</label>
+        <input type="date" id="date-picker" style="padding: 10px 16px; border-radius: 8px; border: 1px solid var(--border); background-color: var(--bg-color); color: var(--text-color); font-size: 14px; font-weight: bold; cursor: pointer; outline: none; transition: border-color 0.2s;">
+    </div>
+
+    <!-- Date Card -->
+    <div class="card date-card">
+        <div id="gregorian-date" class="gregorian-date">Loading...</div>
+        <div id="tamil-date" class="tamil-date">Loading...</div>
+        <div id="tamil-year" class="tamil-year-name">Loading...</div>
+    </div>
+
+    <!-- Timings Card -->
+    <div class="card">
+        <div class="rasi-title">இன்றைய நேரங்கள்</div>
+        <div class="grid-timings">
+            <div class="timing-item good">
+                <div class="timing-title">நல்ல நேரம் (Nalla Neram)</div>
+                <div id="nalla-neram" class="timing-value">காலை: 09:00 - 10:30<br>மாலை: 04:30 - 05:30</div>
+            </div>
+            <div class="timing-item bad">
+                <div class="timing-title">ராகு காலம் (Rahu Kaalam)</div>
+                <div id="rahu-kaalam" class="timing-value">Loading...</div>
+            </div>
+            <div class="timing-item bad">
+                <div class="timing-title">எமகண்டம் (Yamagandam)</div>
+                <div id="yamagandam" class="timing-value">Loading...</div>
+            </div>
+            <div class="timing-item good">
+                <div class="timing-title">குளிகை (Gulikai)</div>
+                <div id="gulikai" class="timing-value">Loading...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rasi Palan Card -->
+    <div class="card">
+        <div class="rasi-title">இன்றைய ராசிபலன்</div>
+        <div class="rasi-grid">
+            <button class="rasi-btn" onclick="showRasi(0, 'மேஷம்')">மேஷம்</button>
+            <button class="rasi-btn" onclick="showRasi(1, 'ரிஷபம்')">ரிஷபம்</button>
+            <button class="rasi-btn" onclick="showRasi(2, 'மிதுனம்')">மிதுனம்</button>
+            <button class="rasi-btn" onclick="showRasi(3, 'கடகம்')">கடகம்</button>
+            <button class="rasi-btn" onclick="showRasi(4, 'சிம்மம்')">சிம்மம்</button>
+            <button class="rasi-btn" onclick="showRasi(5, 'கன்னி')">கன்னி</button>
+            <button class="rasi-btn" onclick="showRasi(6, 'துலாம்')">துலாம்</button>
+            <button class="rasi-btn" onclick="showRasi(7, 'விருச்சிகம்')">விருச்சிகம்</button>
+            <button class="rasi-btn" onclick="showRasi(8, 'தனுசு')">தனுசு</button>
+            <button class="rasi-btn" onclick="showRasi(9, 'மகரம்')">மகரம்</button>
+            <button class="rasi-btn" onclick="showRasi(10, 'கும்பம்')">கும்பம்</button>
+            <button class="rasi-btn" onclick="showRasi(11, 'மீனம்')">மீனம்</button>
+        </div>
+        <div id="rasi-result" class="rasi-result">
+            <h3 id="rasi-name">ராசி பெயர்</h3>
+            <p id="rasi-desc">ராசி பலன் விவரங்கள்...</p>
+        </div>
+    </div>
+
+    <script>
+        const today = new Date();
+
+        // Tamil Date Calculation (Approximate)
+        function getTamilDate(date) {
+            const day = date.getDate();
+            const month = date.getMonth(); // 0-indexed
+
+            const tamilMonths = [
+                "மார்கழி (Margazhi)", "தை (Thai)", "மாசி (Masi)", "பங்குனி (Panguni)",
+                "சித்திரை (Chithirai)", "வைகாசி (Vaikasi)", "ஆனி (Aani)", "ஆடி (Aadi)",
+                "ஆவணி (Avani)", "புரட்டாசி (Purattasi)", "ஐப்பசி (Aippasi)", "கார்த்திகை (Karthigai)"
+            ];
+
+            // Approximate conversion maps
+            let tMonthIndex = 0;
+            let tDay = 1;
+
+            if (month === 0) { // Jan
+                if (day < 15) { tMonthIndex = 0; tDay = day + 16; }
+                else { tMonthIndex = 1; tDay = day - 14; }
+            } else if (month === 1) { // Feb
+                if (day < 13) { tMonthIndex = 1; tDay = day + 17; }
+                else { tMonthIndex = 2; tDay = day - 12; }
+            } else if (month === 2) { // Mar
+                if (day < 15) { tMonthIndex = 2; tDay = day + 16; }
+                else { tMonthIndex = 3; tDay = day - 14; }
+            } else if (month === 3) { // Apr
+                if (day < 14) { tMonthIndex = 3; tDay = day + 17; }
+                else { tMonthIndex = 4; tDay = day - 13; }
+            } else if (month === 4) { // May
+                if (day < 15) { tMonthIndex = 4; tDay = day + 17; }
+                else { tMonthIndex = 5; tDay = day - 14; }
+            } else if (month === 5) { // Jun
+                if (day < 15) { tMonthIndex = 5; tDay = day + 17; }
+                else { tMonthIndex = 6; tDay = day - 14; }
+            } else if (month === 6) { // Jul
+                if (day < 17) { tMonthIndex = 6; tDay = day + 16; }
+                else { tMonthIndex = 7; tDay = day - 16; }
+            } else if (month === 7) { // Aug
+                if (day < 17) { tMonthIndex = 7; tDay = day + 15; }
+                else { tMonthIndex = 8; tDay = day - 16; }
+            } else if (month === 8) { // Sep
+                if (day < 17) { tMonthIndex = 8; tDay = day + 15; }
+                else { tMonthIndex = 9; tDay = day - 16; }
+            } else if (month === 9) { // Oct
+                if (day < 18) { tMonthIndex = 9; tDay = day + 14; }
+                else { tMonthIndex = 10; tDay = day - 17; }
+            } else if (month === 10) { // Nov
+                if (day < 17) { tMonthIndex = 10; tDay = day + 14; }
+                else { tMonthIndex = 11; tDay = day - 16; }
+            } else if (month === 11) { // Dec
+                if (day < 17) { tMonthIndex = 11; tDay = day + 14; }
+                else { tMonthIndex = 0; tDay = day - 16; }
+            }
+
+            return `${tamilMonths[tMonthIndex]} ${tDay}`;
+        }
+
+        // Timings mapping
+        const times = {
+            rahu: ["மாலை 04:30 - 06:00", "காலை 07:30 - 09:00", "மதியம் 03:00 - 04:30", "மதியம் 12:00 - 01:30", "பிற்பகல் 01:30 - 03:00", "காலை 10:30 - 12:00", "காலை 09:00 - 10:30"],
+            yama: ["மதியம் 12:00 - 01:30", "காலை 10:30 - 12:00", "காலை 09:00 - 10:30", "காலை 07:30 - 09:00", "காலை 06:00 - 07:30", "மதியம் 03:00 - 04:30", "பிற்பகல் 01:30 - 03:00"],
+            guli: ["மதியம் 03:00 - 04:30", "பிற்பகல் 01:30 - 03:00", "மதியம் 12:00 - 01:30", "காலை 10:30 - 12:00", "காலை 09:00 - 10:30", "காலை 07:30 - 09:00", "காலை 06:00 - 07:30"]
+        };
+
+        // Update UI helper
+        function updateAllDetails(date) {
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+            document.getElementById('gregorian-date').innerText = date.toLocaleDateString('ta-IN', options);
+            document.getElementById('tamil-date').innerText = getTamilDate(date);
+            
+            const year = date.getFullYear();
+            if (year === 2026) {
+                document.getElementById('tamil-year').innerText = "தமிழ் ஆண்டு: குரோதி வருடம் (Krodhi Year)";
+            } else if (year === 2025) {
+                document.getElementById('tamil-year').innerText = "தமிழ் ஆண்டு: குரோதினி வருடம் (Krodhini Year)";
+            } else {
+                document.getElementById('tamil-year').innerText = "தமிழ் ஆண்டு: சோபகிருது வருடம் (Sobhakrithu Year)";
+            }
+
+            const dayOfWeek = date.getDay();
+            document.getElementById('rahu-kaalam').innerText = times.rahu[dayOfWeek];
+            document.getElementById('yamagandam').innerText = times.yama[dayOfWeek];
+            document.getElementById('gulikai').innerText = times.guli[dayOfWeek];
+
+            // Reset rasi view to avoid mismatched date predictions
+            document.getElementById('rasi-result').style.display = 'none';
+            const buttons = document.querySelectorAll('.rasi-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+        }
+
+        // Set datepicker default
+        const datePicker = document.getElementById('date-picker');
+        const yyyy = today.getFullYear();
+        const mm = String(today.getMonth() + 1).padStart(2, '0');
+        const dd = String(today.getDate()).padStart(2, '0');
+        datePicker.value = `${yyyy}-${mm}-${dd}`;
+
+        updateAllDetails(today);
+
+        // Date Picker Listener
+        datePicker.addEventListener('change', (e) => {
+            const selectedDate = new Date(e.target.value);
+            updateAllDetails(selectedDate);
+        });
+
+        // Horoscope descriptions
+        const horoscopes = [
+            "இன்று புதிய வாய்ப்புகள் உங்களைத் தேடி வரும். தொழிலில் நல்ல லாபம் கிடைக்கும். நண்பர்கள் உதவி செய்வார்கள். உற்சாகமான நாள்.",
+            "பொருளாதார நிலை சீராக இருக்கும். குடும்பத்தில் அமைதியும் மகிழ்ச்சியும் நிலவும். எடுத்த காரியங்களில் வெற்றி காண்பீர்கள்.",
+            "திட்டமிட்ட காரியங்கள் திட்டமிட்டபடி நிறைவேறும். உயர் அதிகாரிகளின் பாராட்டு கிடைக்கும். ஆரோக்கியம் மேம்படும்.",
+            "உறவினர்களின் வருகையால் மகிழ்ச்சி உண்டாகும். புதிய சேமிப்பு திட்டங்களில் ஈடுபடுவீர்கள். மன நிம்மதி கூடும்.",
+            "வியாபாரத்தில் எதிர்பார்த்த லாபம் கிடைக்கும். புதிய நண்பர்களின் அறிமுகம் நன்மைகளைத் தரும். குடும்ப ஒற்றுமை கூடும்.",
+            "நீண்ட நாள் ஆசைகள் நிறைவேறும். உத்தியோகத்தில் நல்ல செய்தி வந்து சேரும். எதிர்பார்த்த பணம் கைக்கு வரும்.",
+            "கல்வியில் மாணவர்கள் சிறந்த முன்னேற்றம் காண்பார்கள். வியாபாரப் பயணங்கள் சாதகமாக அமையும். சுபச் செய்திகள் வரும்.",
+            "இன்று புதிய முயற்சிகளில் வெற்றி பெறுவீர்கள். கணவன்-மனைவி இடையே அன்யோன்யம் அதிகரிக்கும். மன அமைதி உண்டாகும்.",
+            "தொழிலில் முன்னேற்றம் ஏற்படும். புதிய சொத்துக்கள் வாங்கும் யோகம் உண்டு. உடன்பிறந்தவர்கள் ஆதரவாக இருப்பார்கள்.",
+            "பணிபுரியும் இடத்தில் மரியாதை கூடும். குடும்பப் பிரச்சினைகள் தீரும். வியாபாரத்தில் புதிய வாடிக்கையாளர்கள் வருவர்.",
+            "நெருங்கிய நண்பர்களால் உதவிகள் கிடைக்கும். புதிய தொழில் தொடங்க வாய்ப்புகள் கூடிவரும். மகிழ்ச்சி பெருகும்.",
+            "பொருளாதார வருவாய் திருப்திகரமாக இருக்கும். நினைத்த காரியங்கள் தடையின்றி முடியும். குடும்பத்தில் சுப நிகழ்வுகள் கூடும்."
+        ];
+
+        function showRasi(index, rasiName) {
+            const buttons = document.querySelectorAll('.rasi-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            buttons[index].classList.add('active');
+
+            document.getElementById('rasi-name').innerText = `ராசி பலன்: ${rasiName}`;
+            document.getElementById('rasi-desc').innerText = horoscopes[index];
+            document.getElementById('rasi-result').style.display = 'block';
+        }
+    </script>
+</body>
+</html>

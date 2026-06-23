@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Village Cooking Channel",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCk3JZr7eS3pg5AGEvBdEvFg"
+        ],
+        "link": "https://www.youtube.com/channel/UCk3JZr7eS3pg5AGEvBdEvFg"
+    },
+    {
+        "title": "Madras Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCHGktfcQq2BY_8tGPHwvm7g"
+        ],
+        "link": "https://www.youtube.com/channel/UCHGktfcQq2BY_8tGPHwvm7g"
+    },
+    {
+        "title": "Chef Damu",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC3aHdsm-cfKcLyVe1O8Xu6A"
+        ],
+        "link": "https://www.youtube.com/channel/UC3aHdsm-cfKcLyVe1O8Xu6A"
+    },
+    {
+        "title": "Venkatesh Bhat's Idhayam Thotta Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC_exm4hbJ2zV-4SrqrL9IRw"
+        ],
+        "link": "https://www.youtube.com/channel/UC_exm4hbJ2zV-4SrqrL9IRw"
+    },
+    {
+        "title": "Village Food Factory",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC-j7LP4at37y3uNTdWLq-vQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC-j7LP4at37y3uNTdWLq-vQ"
+    },
+    {
+        "title": "Gomathi's Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCNERXF060DNFKV8y_xw9Iug"
+        ],
+        "link": "https://www.youtube.com/channel/UCNERXF060DNFKV8y_xw9Iug"
+    },
+    {
+        "title": "Salem Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCDqkjYB8ku3YlDaqwohm7PQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCDqkjYB8ku3YlDaqwohm7PQ"
+    },
+    {
+        "title": "Kovai Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCmpyYVTfWXY-NqO0ZikELbg"
+        ],
+        "link": "https://www.youtube.com/channel/UCmpyYVTfWXY-NqO0ZikELbg"
+    },
+    {
+        "title": "Tamil Food Masala",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC1k3o_uC52ik9BbQ3Whofnw"
+        ],
+        "link": "https://www.youtube.com/channel/UC1k3o_uC52ik9BbQ3Whofnw"
+    },
+    {
+        "title": "Traditional Tamil Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCvaMpohMIVypvEWBEOHo1wA"
+        ],
+        "link": "https://www.youtube.com/channel/UCvaMpohMIVypvEWBEOHo1wA"
+    },
+    {
+        "title": "Grandma's Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCIlWK53MrJtWNrXSul-lJ7A"
+        ],
+        "link": "https://www.youtube.com/channel/UCIlWK53MrJtWNrXSul-lJ7A"
+    },
+    {
+        "title": "Subbu's Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCla9LAE6rFUfNOT-OftJkQg"
+        ],
+        "link": "https://www.youtube.com/channel/UCla9LAE6rFUfNOT-OftJkQg"
+    },
+    {
+        "title": "Amma Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC-w2vyX6uMb8k4AZwnQN_MA"
+        ],
+        "link": "https://www.youtube.com/channel/UC-w2vyX6uMb8k4AZwnQN_MA"
+    },
+    {
+        "title": "Cooking Bow",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCRE7DIpWHNXHMlx_H9JsI5Q"
+        ],
+        "link": "https://www.youtube.com/channel/UCRE7DIpWHNXHMlx_H9JsI5Q"
+    },
+    {
+        "title": "Simply Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuITtiBlk9cNApMKb-x8dDg"
+        ],
+        "link": "https://www.youtube.com/channel/UCuITtiBlk9cNApMKb-x8dDg"
+    },
+    {
+        "title": "Madurai Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC18EAMu6c285U2n0vXG0kpA"
+        ],
+        "link": "https://www.youtube.com/channel/UC18EAMu6c285U2n0vXG0kpA"
+    },
+    {
+        "title": "Chennai Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCHGktfcQq2BY_8tGPHwvm7g"
+        ],
+        "link": "https://www.youtube.com/channel/UCHGktfcQq2BY_8tGPHwvm7g"
+    },
+    {
+        "title": "Apoorvas Nalabagam",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCiYDDqu07eZ6jHhqghPkQRg"
+        ],
+        "link": "https://www.youtube.com/channel/UCiYDDqu07eZ6jHhqghPkQRg"
+    },
+    {
+        "title": "Master Chef Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCMBuhLCDDmxfwa01TuuvTgA"
+        ],
+        "link": "https://www.youtube.com/channel/UCMBuhLCDDmxfwa01TuuvTgA"
+    },
+    {
+        "title": "Danush Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCfaPI-dbazfiyEixNDGCMIA"
+        ],
+        "link": "https://www.youtube.com/channel/UCfaPI-dbazfiyEixNDGCMIA"
+    },
+    {
+        "title": "Nanjil Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOI6aS81zfvhQk5h5jVkTw"
+        ],
+        "link": "https://www.youtube.com/channel/UCGOI6aS81zfvhQk5h5jVkTw"
+    },
+    {
+        "title": "Chettinad Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCOGEds3gBPV7_DQYQvtik7g"
+        ],
+        "link": "https://www.youtube.com/channel/UCOGEds3gBPV7_DQYQvtik7g"
+    },
+    {
+        "title": "Village Food Secrets",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC-exx5JkLPpVfld-Pk-LZkQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC-exx5JkLPpVfld-Pk-LZkQ"
+    },
+    {
+        "title": "Foodie Woodie",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqlpnOpyyWdyhWTBKF28jHQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCqlpnOpyyWdyhWTBKF28jHQ"
+    },
+    {
+        "title": "Foodie Tamizha",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC1eVTa8-e7uenX0dEASD1eg"
+        ],
+        "link": "https://www.youtube.com/channel/UC1eVTa8-e7uenX0dEASD1eg"
+    },
+    {
+        "title": "Gomathi Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCNERXF060DNFKV8y_xw9Iug"
+        ],
+        "link": "https://www.youtube.com/channel/UCNERXF060DNFKV8y_xw9Iug"
+    },
+    {
+        "title": "Shravanthi's Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCvLj42lkMc6SlWcKXFFVu6w"
+        ],
+        "link": "https://www.youtube.com/channel/UCvLj42lkMc6SlWcKXFFVu6w"
+    },
+    {
+        "title": "Wow Varuni",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCXNMz5wE3O9wJOFZGa5IABg"
+        ],
+        "link": "https://www.youtube.com/channel/UCXNMz5wE3O9wJOFZGa5IABg"
+    },
+    {
+        "title": "Hema's Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM82IdwJeS1As0lPZu5_Xg"
+        ],
+        "link": "https://www.youtube.com/channel/UCZM82IdwJeS1As0lPZu5_Xg"
+    },
+    {
+        "title": "Srimathi's Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCHDwV4S0xGpv0bMfPQmG4cQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCHDwV4S0xGpv0bMfPQmG4cQ"
+    },
+    {
+        "title": "Jeya Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCuHXxy_byYEaK-_qY6PltSg"
+        ],
+        "link": "https://www.youtube.com/channel/UCuHXxy_byYEaK-_qY6PltSg"
+    },
+    {
+        "title": "Kavitha Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuhPbhpIDhUquHYkOPyX4w"
+        ],
+        "link": "https://www.youtube.com/channel/UCAuhPbhpIDhUquHYkOPyX4w"
+    },
+    {
+        "title": "South Indian Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC-kXWPET4Z2GPCMBR8Ra7uQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC-kXWPET4Z2GPCMBR8Ra7uQ"
+    },
+    {
+        "title": "Tamil Food",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCk3JZr7eS3pg5AGEvBdEvFg"
+        ],
+        "link": "https://www.youtube.com/channel/UCk3JZr7eS3pg5AGEvBdEvFg"
+    },
+    {
+        "title": "Cook with Puttu",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCqoKKhGSx27S7QI6IE1IDag"
+        ],
+        "link": "https://www.youtube.com/channel/UCqoKKhGSx27S7QI6IE1IDag"
+    },
+    {
+        "title": "Subha Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCKXSb_XXtwtkEmDcU46Fu6A"
+        ],
+        "link": "https://www.youtube.com/channel/UCKXSb_XXtwtkEmDcU46Fu6A"
+    },
+    {
+        "title": "Mrs. Karthik Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCtsoDBNMKVeg-w0cZmuNV4A"
+        ],
+        "link": "https://www.youtube.com/channel/UCtsoDBNMKVeg-w0cZmuNV4A"
+    },
+    {
+        "title": "Deepa's Kitchen",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8W2QCSDlmTz6jgo33diVZQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC8W2QCSDlmTz6jgo33diVZQ"
+    },
+    {
+        "title": "Annapoorna Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCMgT_JbzzV9YHLUOIOyDTAQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCMgT_JbzzV9YHLUOIOyDTAQ"
+    },
+    {
+        "title": "Peppa Foodie Cooking",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8wwXAm77RNzVN-cJOy8t8g"
+        ],
+        "link": "https://www.youtube.com/channel/UC8wwXAm77RNzVN-cJOy8t8g"
+    },
+    {
+        "title": "Food Imprints",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC0fh-aOShH1DDUY9qnrFUJA"
+        ],
+        "link": "https://www.youtube.com/channel/UC0fh-aOShH1DDUY9qnrFUJA"
+    },
+    {
+        "title": "Innaiku Enna Samayal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCMd07ilsid_BHjBkOVXTN3g"
+        ],
+        "link": "https://www.youtube.com/channel/UCMd07ilsid_BHjBkOVXTN3g"
+    },
+    {
+        "title": "Abhi Lifestory Cooking",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCPnGN6fKboTzb4OTAYg-uxw"
+        ],
+        "link": "https://www.youtube.com/channel/UCPnGN6fKboTzb4OTAYg-uxw"
+    },
+    {
+        "title": "Revathy Shanmugam Cooking",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC7P3XyR-t8ZKipSsLtMNCsg"
+        ],
+        "link": "https://www.youtube.com/channel/UC7P3XyR-t8ZKipSsLtMNCsg"
+    },
+    {
+        "title": "Samayal Samayal Food",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8H6icXC3vMR7lWtvDTw2Xg"
+        ],
+        "link": "https://www.youtube.com/channel/UC8H6icXC3vMR7lWtvDTw2Xg"
+    },
+    {
+        "title": "Food Area Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCUzsP2NMaAvy9nSvb3IjVkA"
+        ],
+        "link": "https://www.youtube.com/channel/UCUzsP2NMaAvy9nSvb3IjVkA"
+    },
+    {
+        "title": "Veg Recipes of Karnataka Tamil",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ywe-yqxdvDFvjKX_TM3yg"
+        ],
+        "link": "https://www.youtube.com/channel/UC8ywe-yqxdvDFvjKX_TM3yg"
+    },
+    {
+        "title": "Semma Samayal Cooking",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC1OcTbi9XoAqcZ54pUNQjYg"
+        ],
+        "link": "https://www.youtube.com/channel/UC1OcTbi9XoAqcZ54pUNQjYg"
+    },
+    {
+        "title": "Grandma Traditional Food",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC8H6icXC3vMR7lWtvDTw2Xg"
+        ],
+        "link": "https://www.youtube.com/channel/UC8H6icXC3vMR7lWtvDTw2Xg"
+    },
+    {
+        "title": "Village Village Cooking",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCk3JZr7eS3pg5AGEvBdEvFg"
+        ],
+        "link": "https://www.youtube.com/channel/UCk3JZr7eS3pg5AGEvBdEvFg"
+    }
+]

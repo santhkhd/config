@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>தமிழ் சமையல் குறிப்புகள் - Tamil Samayal</title>
+    <style>
+        :root {
+            --bg-color: #faf6f0;
+            --card-bg: #ffffff;
+            --text-color: #2e1d11;
+            --text-muted: #705844;
+            --primary: #d84315;
+            --primary-light: #fbe9e7;
+            --accent: #ffb300;
+            --border: #eddcd2;
+            --shadow: rgba(46, 29, 17, 0.08);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #150f0a;
+                --card-bg: #211710;
+                --text-color: #f7ebe1;
+                --text-muted: #c9b19f;
+                --primary: #ff5722;
+                --primary-light: #2c1610;
+                --accent: #ffc107;
+                --border: #3d2b1f;
+                --shadow: rgba(0, 0, 0, 0.4);
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 16px;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            color: var(--primary);
+            margin: 0 0 6px 0;
+        }
+
+        .header p {
+            font-size: 14px;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        .tabs {
+            display: flex;
+            overflow-x: auto;
+            gap: 8px;
+            padding-bottom: 12px;
+            margin-bottom: 20px;
+            scrollbar-width: none;
+        }
+
+        .tabs::-webkit-scrollbar {
+            display: none;
+        }
+
+        .tab-btn {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 8px 16px;
+            color: var(--text-muted);
+            font-weight: bold;
+            font-size: 13px;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+        }
+
+        .tab-btn.active {
+            background-color: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .recipe-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 16px;
+        }
+
+        .recipe-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px var(--shadow);
+            transition: transform 0.2s ease;
+        }
+
+        .recipe-image-container {
+            position: relative;
+            width: 100%;
+            height: 160px;
+            background-color: #e3d5ca;
+        }
+
+        .recipe-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .recipe-time {
+            position: absolute;
+            bottom: 12px;
+            left: 12px;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+
+        .recipe-info {
+            padding: 16px;
+        }
+
+        .recipe-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: var(--text-color);
+        }
+
+        .recipe-desc {
+            font-size: 13px;
+            color: var(--text-muted);
+            line-height: 1.4;
+            margin-bottom: 14px;
+        }
+
+        .recipe-details-toggle {
+            background-color: var(--primary-light);
+            color: var(--primary);
+            border: none;
+            border-radius: 8px;
+            padding: 10px;
+            font-weight: bold;
+            font-size: 13px;
+            cursor: pointer;
+            width: 100%;
+            text-align: center;
+            transition: all 0.2s ease;
+        }
+
+        .recipe-expanded {
+            display: none;
+            padding-top: 14px;
+            border-top: 1px dashed var(--border);
+            margin-top: 14px;
+            animation: slideDown 0.3s ease;
+        }
+
+        .recipe-subtitle {
+            font-size: 14px;
+            font-weight: bold;
+            color: var(--primary);
+            margin-bottom: 6px;
+        }
+
+        .recipe-list {
+            padding-left: 20px;
+            margin: 0 0 14px 0;
+            font-size: 13px;
+            line-height: 1.5;
+            color: var(--text-color);
+        }
+
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>தமிழ் சமையல் குறிப்புகள்</h1>
+        <p>சுவையான மற்றும் பாரம்பரிய தென்னிந்திய உணவு வகைகள்</p>
+    </div>
+
+    <div class="tabs">
+        <button class="tab-btn active" onclick="filterCategory('all', this)">அனைத்தும்</button>
+        <button class="tab-btn" onclick="filterCategory('breakfast', this)">காலை உணவு (Breakfast)</button>
+        <button class="tab-btn" onclick="filterCategory('lunch', this)">மதிய உணவு (Lunch)</button>
+        <button class="tab-btn" onclick="filterCategory('snacks', this)">ஸ்நாக்ஸ் & ஸ்வீட்ஸ்</button>
+        <button class="tab-btn" onclick="filterCategory('healthy', this)">பாரம்பரிய உணவு</button>
+    </div>
+
+    <div class="recipe-grid">
+
+        <div class="recipe-card" data-category="breakfast">
+            <div class="recipe-image-container">
+                <img src="https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500" alt="மல்லிகைப்பூ இட்லி & கதம்ப சாம்பார்" class="recipe-image">
+                <div class="recipe-time">🕒 30 நிமிடங்கள்</div>
+            </div>
+            <div class="recipe-info">
+                <div class="recipe-title">மல்லிகைப்பூ இட்லி & கதம்ப சாம்பார்</div>
+                <div class="recipe-desc">மென்மையான, பஞ்சுபோன்ற இட்லி மற்றும் சுவையான பாரம்பரிய காய்கறி சாம்பார் செய்யும் எளிய முறை.</div>
+                <button class="recipe-details-toggle" onclick="toggleDetails(this)">செய்முறை பார்க்க</button>
+                <div class="recipe-expanded">
+                    <div class="recipe-subtitle">தேவையான பொருட்கள்:</div>
+                    <ul class="recipe-list">
+                        <li>இட்லி அரிசி - 4 ஆழாக்கு</li><li>உளுந்து - 1 ஆழாக்கு</li><li>வெந்தயம் - 1 தேக்கரண்டி</li><li>துவரம் பருப்பு (சாம்பாருக்கு) - 1 கப்</li><li>காய்கறிகள் - முருங்கைக்காய், கத்திரிக்காய், கேரட்</li>
+                    </ul>
+                    <div class="recipe-subtitle">செய்முறை விளக்கம்:</div>
+                    <p class="recipe-desc">அரிசி மற்றும் உளுந்தை நன்கு ஊறவைத்து தனித்தனியாக அரைக்கவும். இரண்டையும் ஒன்றாக கலந்து புளிக்க வைக்கவும். மறுநாள் காலையில் இட்லி தட்டில் ஊற்றி 10 நிமிடங்கள் வேகவைக்கவும். வெந்த பருப்புடன் காய்கறிகள், புளி கரைசல், சாம்பார் தூள் சேர்த்து கொதிக்க வைத்து சாம்பார் தயார் செய்யவும்.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="recipe-card" data-category="breakfast">
+            <div class="recipe-image-container">
+                <img src="https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500" alt="மொறுமொறு நெய் ரோஸ்ட் தோசை" class="recipe-image">
+                <div class="recipe-time">🕒 15 நிமிடங்கள்</div>
+            </div>
+            <div class="recipe-info">
+                <div class="recipe-title">மொறுமொறு நெய் ரோஸ்ட் தோசை</div>
+                <div class="recipe-desc">ஹோட்டல் ஸ்டைல் மொறுமொறுப்பான நெய் தோசை தேங்காய் சட்னியுடன்.</div>
+                <button class="recipe-details-toggle" onclick="toggleDetails(this)">செய்முறை பார்க்க</button>
+                <div class="recipe-expanded">
+                    <div class="recipe-subtitle">தேவையான பொருட்கள்:</div>
+                    <ul class="recipe-list">
+                        <li>தோசை மாவு - 3 கப்</li><li>நெய் - தேவையான அளவு</li><li>நல்லெண்ணெய் - 2 தேக்கரண்டி</li>
+                    </ul>
+                    <div class="recipe-subtitle">செய்முறை விளக்கம்:</div>
+                    <p class="recipe-desc">தோசை கல்லை நன்றாக சூடாக்கி, மாவை மெலிதாக தேய்க்கவும். சுற்றிலும் நெய் ஊற்றி பொன்னிறமாக மொறுமொறுப்பாக வரும் வரை வேகவிட்டு எடுக்கவும்.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="recipe-card" data-category="breakfast">
+            <div class="recipe-image-container">
+                <img src="https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500" alt="மதுரை கார குழிப்பணியாரம்" class="recipe-image">
+                <div class="recipe-time">🕒 25 நிமிடங்கள்</div>
+            </div>
+            <div class="recipe-info">
+                <div class="recipe-title">மதுரை கார குழிப்பணியாரம்</div>
+                <div class="recipe-desc">புளித்த மாவில் சின்ன வெங்காயம், பச்சை மிளகாய் சேர்த்து காரசாரமாக செய்யப்படும் பணியாரம்.</div>
+                <button class="recipe-details-toggle" onclick="toggleDetails(this)">செய்முறை பார்க்க</button>
+                <div class="recipe-expanded">
+                    <div class="recipe-subtitle">தேவையான பொருட்கள்:</div>
+                    <ul class="recipe-list">
+                        <li>புளித்த மாவு - 2 கப்</li><li>சின்ன வெங்காயம் - 1/2 கப்</li><li>கடுகு, உளுந்து, கடலைப்பருப்பு - தாளிக்க</li>
+                    </ul>
+                    <div class="recipe-subtitle">செய்முறை விளக்கம்:</div>
+                    <p class="recipe-desc">வெங்காயம், மிளகாய், கடுகு, பருப்புகளை தாளித்து மாவில் கலக்கவும். பணியாரக் கல்லில் எண்ணெய் ஊற்றி மாவை ஊற்றி இருபுறமும் வேகவைத்து எடுக்கவும்.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="recipe-card" data-category="lunch">
+            <div class="recipe-image-container">
+                <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=500" alt="தலப்பாகட்டி மட்டன் பிரியாணி" class="recipe-image">
+                <div class="recipe-time">🕒 45 நிமிடங்கள்</div>
+            </div>
+            <div class="recipe-info">
+                <div class="recipe-title">தலப்பாகட்டி மட்டன் பிரியாணி</div>
+                <div class="recipe-desc">திண்டுக்கல் பிரசித்தி பெற்ற சீரகச் சம்பா மட்டன் பிரியாணி மணம் மற்றும் சுவையுடன் செய்யும் முறை.</div>
+                <button class="recipe-details-toggle" onclick="toggleDetails(this)">செய்முறை பார்க்க</button>
+                <div class="recipe-expanded">
+                    <div class="recipe-subtitle">தேவையான பொருட்கள்:</div>
+                    <ul class="recipe-list">
+                        <li>சீரகச் சம்பா அரிசி - 500 கிராம்</li><li>மட்டன் (ஆட்டுக்கறி) - 500 கிராம்</li><li>சின்ன வெங்காயம் - 200 கிராம் (அரைத்தது)</li><li>இஞ்சி பூண்டு விழுது - 2 மேஜைக்கரண்டி</li><li>நெய் மற்றும் எண்ணெய் - தேவையான அளவு</li>
+                    </ul>
+                    <div class="recipe-subtitle">செய்முறை விளக்கம்:</div>
+                    <p class="recipe-desc">குக்கரில் எண்ணெய், நெய் சூடாக்கி பட்டை, கிராம்பு தாளிக்கவும். சின்ன வெங்காய விழுது, இஞ்சி பூண்டு விழுது சேர்த்து வதக்கவும். பின் மட்டன், தயிர், புதினா, மல்லித்தழை சேர்த்து வதக்கி வேகவிடவும். மட்டன் வெந்ததும் சீரகச் சம்பா அரிசி சேர்த்து தகுந்த தண்ணீர் ஊற்றி தம் போடவும்.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="recipe-card" data-category="snacks">
+            <div class="recipe-image-container">
+                <img src="https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=500" alt="மதுரை ஜிகர்தண்டா" class="recipe-image">
+                <div class="recipe-time">🕒 30 நிமிடங்கள்</div>
+            </div>
+            <div class="recipe-info">
+                <div class="recipe-title">மதுரை ஜிகர்தண்டா</div>
+                <div class="recipe-desc">மதுரையின் புகழ்பெற்ற குளுமையான ஜிகர்தண்டா வீட்டிலேயே செய்யும் எளிய முறை.</div>
+                <button class="recipe-details-toggle" onclick="toggleDetails(this)">செய்முறை பார்க்க</button>
+                <div class="recipe-expanded">
+                    <div class="recipe-subtitle">தேவையான பொருட்கள்:</div>
+                    <ul class="recipe-list">
+                        <li>கெட்டிப் பால் - 1 லிட்டர்</li><li>பாதாம் பிசின் - 2 தேக்கரண்டி (ஊறவைத்தது)</li><li>நன்னாரி சர்பத் - 4 மேஜைக்கரண்டி</li><li>வெனிலா ஐஸ்கிரீம் - தேவையான அளவு</li>
+                    </ul>
+                    <div class="recipe-subtitle">செய்முறை விளக்கம்:</div>
+                    <p class="recipe-desc">பாலை சுண்டக் காய்ச்சி பாலாடை தயாரிக்கவும். ஒரு கிளாஸில் பாதாம் பிசின், சர்பத், காய்ச்சிய பால் சேர்த்து கலந்து, மேலே பாலாடை மற்றும் ஐஸ்கிரீம் வைத்து பரிமாறவும்.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="recipe-card" data-category="healthy">
+            <div class="recipe-image-container">
+                <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500" alt="பாரம்பரிய கம்பு கூழ்" class="recipe-image">
+                <div class="recipe-time">🕒 25 நிமிடங்கள்</div>
+            </div>
+            <div class="recipe-info">
+                <div class="recipe-title">பாரம்பரிய கம்பு கூழ்</div>
+                <div class="recipe-desc">கோடைகாலத்திற்கு ஏற்ற, உடலுக்கு குளிர்ச்சி தரும் பாரம்பரிய சத்துக்கள் நிறைந்த கம்பு கூழ்.</div>
+                <button class="recipe-details-toggle" onclick="toggleDetails(this)">செய்முறை பார்க்க</button>
+                <div class="recipe-expanded">
+                    <div class="recipe-subtitle">தேவையான பொருட்கள்:</div>
+                    <ul class="recipe-list">
+                        <li>கம்பு குறுணை - 1 கப்</li><li>தயிர் அல்லது மோர் - 2 கப்</li><li>சின்ன வெங்காயம் - 10 (நறுக்கியது)</li><li>பச்சை மிளகாய் - 1</li><li>உப்பு - தேவையான அளவு</li>
+                    </ul>
+                    <div class="recipe-subtitle">செய்முறை விளக்கம்:</div>
+                    <p class="recipe-desc">கம்பை சிறிது தண்ணீர் தெளித்து மிக்ஸியில் கொரகொரப்பாக அரைத்துக் கொள்ளவும். தண்ணீரை கொதிக்க வைத்து கம்பைச் சேர்த்து கிளறவும். கம்பு வெந்து கெட்டியானதும் ஆறவிடவும். ஆறிய கம்பை சிறு உருண்டைகளாக உருட்டி தண்ணீரில் வைக்கவும். காலையில் மோர், நறுக்கிய வெங்காயம், உப்பு சேர்த்து கரைத்து குடிக்கவும்.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        function filterCategory(category, element) {
+            const buttons = document.querySelectorAll('.tab-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            element.classList.add('active');
+
+            const cards = document.querySelectorAll('.recipe-card');
+            cards.forEach(card => {
+                if (category === 'all' || card.getAttribute('data-category') === category) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        function toggleDetails(button) {
+            const card = button.closest('.recipe-card');
+            const expanded = card.querySelector('.recipe-expanded');
+
+            if (expanded.style.display === 'block') {
+                expanded.style.display = 'none';
+                button.innerText = 'செய்முறை பார்க்க';
+            } else {
+                expanded.style.display = 'block';
+                button.innerText = 'விவரங்களை மறைக்க';
+            }
+        }
+    </script>
+</body>
+</html>
