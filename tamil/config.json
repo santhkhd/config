@@ -1152,6 +1152,12 @@
             "icon": "https://img.icons8.com/fluent/96/television.png"
         },
         {
+            "name": "YouTube Live News",
+            "type": "live_channels",
+            "url": "tamil_live_news_youtube.json",
+            "icon": "https://img.icons8.com/fluent/96/news.png"
+        },
+        {
             "name": "Entertainment Box",
             "type": "category",
             "url": "comedy.json",
@@ -1191,7 +1197,7 @@
         }
     ],
     "ads": {
-        "ad_status": false,
+        "ad_status": true,
         "main_ads": "admob",
         "backup_ads": "none",
         "admob_banner_unit_id": "ca-app-pub-8211285362401989/2478876602",
