@@ -1,0 +1,53 @@
+name: Feed Monitor and Push Notifications
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  check-feeds:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r automation/requirements.txt
+
+      - name: Run Tamil Feed Monitor
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.TAMIL_ONESIGNAL_APP_ID || secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_REST_KEY: ${{ secrets.TAMIL_ONESIGNAL_REST_KEY || secrets.ONESIGNAL_REST_KEY }}
+          SCAN_DIR: tamil
+        run: |
+          if [ -d "tamil" ]; then
+            python automation/feed_monitor.py
+          fi
+
+      - name: Run Malayalam Feed Monitor
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.MALAYALAM_ONESIGNAL_APP_ID || secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_REST_KEY: ${{ secrets.MALAYALAM_ONESIGNAL_REST_KEY || secrets.ONESIGNAL_REST_KEY }}
+          SCAN_DIR: malayalam
+        run: |
+          if [ -d "malayalam" ]; then
+            python automation/feed_monitor.py
+          fi
+
+      - name: Commit and Push State (Update last_seen.json)
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add automation/last_seen.json
+          git commit -m "Update feed monitor state [skip ci]" || echo "No changes to commit"
+          git pull --rebase
+          git push
