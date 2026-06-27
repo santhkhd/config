@@ -21,16 +21,16 @@
     },
     "rss_news": [
         {
+            "title": "Calamity Alerts",
+            "url": "https://www.gdacs.org/xml/rss.xml"
+        },
+        {
             "title": "Daily Thanthi",
             "url": "https://www.dailythanthi.com/RSS/News/TopNews"
         },
         {
             "title": "Dinamalar",
             "url": "https://feeds.feedburner.com/dinamalar/Front_page_news"
-        },
-        {
-            "title": "Puthiya Thalaimurai",
-            "url": "https://www.puthiyathalaimurai.com/rss/tamilnadu"
         }
     ],
     "custom_images": {
