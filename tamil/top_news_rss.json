@@ -1,5 +1,12 @@
 [
   {
+    "category": "Calamity Alerts",
+    "name": "Live Alerts",
+    "url": "https://www.gdacs.org/",
+    "rss_url": "https://www.gdacs.org/xml/rss.xml",
+    "image": "https://www.gdacs.org/favicon.ico"
+  },
+  {
     "category": "General News",
     "name": "Dinamani",
     "url": "https://www.dinamani.com/",
