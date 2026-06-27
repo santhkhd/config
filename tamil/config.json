@@ -1128,6 +1128,11 @@
             "icon": "https://img.icons8.com/fluent/96/home.png"
         },
         {
+    "title": "Calamity Alerts",
+    "url": "https://www.gdacs.org/xml/rss.xml"
+},
+
+        {
             "name": "Main Breaking News",
             "type": "tabbed_rss",
             "url": "top_news_rss.json",
