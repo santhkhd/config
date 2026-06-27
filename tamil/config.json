@@ -1127,10 +1127,10 @@
             "url": "home.json",
             "icon": "https://img.icons8.com/fluent/96/home.png"
         },
-        {
+          {
             "name": "Main Breaking News",
             "type": "tabbed_rss",
-            "url": "top_news_rss.json",
+            "url": "https://config-rsk.pages.dev/top_news_rss.json",
             "icon": "https://img.icons8.com/fluent/96/news.png"
         },
         {
