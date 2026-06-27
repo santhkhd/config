@@ -15,7 +15,7 @@
         "force_update": false,
         "update_url": "https://santhkhd.github.io/tamil/tamilnewmovies_sanshob_up/update.html?target=external",
         "target_version_code": 109,
-        "server_url": "https://script.google.com/macros/s/AKfycbzksIsp5rwCAaf9yHtb1phc_3BTho-_84t0dm_APTjEh1WkI3xJiWiBkh07FYktbk4S/exec",
+        "server_url": "https://script.google.com/macros/s/AKfycbza9uq8E7lFzC0OgEMZiENkGTqNbq3Ke5ZGDntjFRf2otbUFlcGBDfn0oAQMoVphvJB/exec",
         "show_weather": false,
         "weather_api_key": "c80a019ff254412a9aa75026241206"
     },
@@ -1128,11 +1128,6 @@
             "icon": "https://img.icons8.com/fluent/96/home.png"
         },
         {
-    "title": "Calamity Alerts",
-    "url": "https://www.gdacs.org/xml/rss.xml"
-},
-
-        {
             "name": "Main Breaking News",
             "type": "tabbed_rss",
             "url": "top_news_rss.json",
@@ -1202,7 +1197,7 @@
         }
     ],
     "ads": {
-        "ad_status": false,
+        "ad_status": true,
         "main_ads": "admob",
         "backup_ads": "none",
         "admob_banner_unit_id": "ca-app-pub-8211285362401989/2478876602",
