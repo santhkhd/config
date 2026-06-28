@@ -72,20 +72,7 @@
             ],
             "image": "https://img.icons8.com/color/96/opened-folder.png"
         },
-        {
-            "title": "Favorite Items",
-            "provider": "favorites",
-            "arguments": [],
-            "image": "https://img.icons8.com/color/96/hearts.png"
-        },
-        {
-            "title": "Privacy Policy",
-            "provider": "assets",
-            "arguments": [
-                "privacy_policy.html"
-            ],
-            "image": "https://img.icons8.com/color/96/shield.png"
-        },
+       
         {
             "title": "HD movies",
             "provider": "movies",
@@ -102,6 +89,7 @@
             ],
             "image": "https://img.icons8.com/color/96/play.png"
         },
+        
         {
             "title": "Live TV & Shows",
             "provider": "overview",
@@ -109,6 +97,21 @@
                 "tv_channels.json"
             ],
             "image": "https://img.icons8.com/color/96/tv.png"
+        },
+         {
+            "title": "Favorite Items",
+            "provider": "favorites",
+            "arguments": [],
+            "image": "https://img.icons8.com/color/96/hearts.png"
+        },
+        {
+            "title": "Privacy Policy",
+            "provider": "assets",
+            "arguments": [
+                "privacy_policy.html"
+            ],
+            "image": "https://img.icons8.com/color/96/shield.png"
         }
+        
     ]
 }
