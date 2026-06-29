@@ -1124,7 +1124,7 @@
         {
             "name": "Home Dashboard",
             "type": "category",
-            "url": "home.json",
+            "url": "https://config-rsk.pages.dev/home.json",
             "icon": "https://img.icons8.com/fluent/96/home.png"
         },
           {
@@ -1136,25 +1136,25 @@
         {
             "name": "Tamil Newspapers",
             "type": "category",
-            "url": "tamilnews.json",
+            "url": "https://config-rsk.pages.dev/tamilnews.json",
             "icon": "https://img.icons8.com/fluent/96/bulleted-list.png"
         },
         {
             "name": "Digital Channels",
             "type": "category",
-            "url": "youtube_categories.json",
+            "url": "https://config-rsk.pages.dev/youtube_categories.json",
             "icon": "https://img.icons8.com/fluent/96/youtube-play--v1.png"
         },
         {
             "name": "Live TV Channels",
             "type": "live_channels",
-            "url": "tamil_live_channels.json",
+            "url": "https://config-rsk.pages.dev/tamil_live_channels.json",
             "icon": "https://img.icons8.com/fluent/96/television.png"
         },
         {
             "name": "YouTube Live News",
             "type": "live_channels",
-            "url": "tamil_live_news_youtube.json",
+            "url": "https://config-rsk.pages.dev/tamil_live_news_youtube.json",
             "icon": "https://img.icons8.com/fluent/96/news.png"
         },
         {
@@ -1172,14 +1172,14 @@
         {
             "name": "Tamil Radio & FM",
             "type": "radio_channels",
-            "url": "tamil_radio_channels.json",
+            "url": "https://config-rsk.pages.dev/tamil_radio_channels.json",
             "icon": "https://img.icons8.com/fluent/96/radio.png"
         },
         {
             
             "name": "Tamil Info & Utilities",
             "type": "category",
-            "url": "tamil_special.json",
+            "url": "https://config-rsk.pages.dev/tamil_special.json",
             "icon": "https://img.icons8.com/fluent/96/opened-folder.png"
         },
         {
