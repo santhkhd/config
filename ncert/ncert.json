@@ -1,0 +1,3476 @@
+{
+  "classes": [
+    {
+      "id": "class_1",
+      "name": "Class 1",
+      "subjects": [
+        {
+          "id": "c1_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c1_math_en",
+              "title": "Math Magic",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/aemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c1m01",
+                  "title": "Chapter 1 - Shapes and Space",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m02",
+                  "title": "Chapter 2 - Numbers from One to Nine",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m03",
+                  "title": "Chapter 3 - Addition",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m04",
+                  "title": "Chapter 4 - Subtraction",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m05",
+                  "title": "Chapter 5 - Numbers from Ten to Twenty",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m06",
+                  "title": "Chapter 6 - Time",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m07",
+                  "title": "Chapter 7 - Measurement",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m08",
+                  "title": "Chapter 8 - Numbers from Twenty-one to Fifty",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m09",
+                  "title": "Chapter 9 - Data Handling",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m10",
+                  "title": "Chapter 10 - Patterns",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m11",
+                  "title": "Chapter 11 - Numbers",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m12",
+                  "title": "Chapter 12 - Money",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m13",
+                  "title": "Chapter 13 - How Many",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/aemh113.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c1_math_hi",
+              "title": "Ganit Ka Jadu",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/ahmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c1m01",
+                  "title": "पाठ 1 - आकृतियाँ और स्थान",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m02",
+                  "title": "पाठ 2 - एक से नौ तक की संख्याएँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m03",
+                  "title": "पाठ 3 - जोड़",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m04",
+                  "title": "पाठ 4 - घटाव",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m05",
+                  "title": "पाठ 5 - दस से बीस तक की संख्याएँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m06",
+                  "title": "पाठ 6 - समय",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m07",
+                  "title": "पाठ 7 - माप",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m08",
+                  "title": "पाठ 8 - इक्कीस से पचास तक की संख्याएँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m09",
+                  "title": "पाठ 9 - आँकड़ों का उपयोग",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m10",
+                  "title": "पाठ 10 - पैटर्न",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m11",
+                  "title": "पाठ 11 - संख्याएँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m12",
+                  "title": "पाठ 12 - मुद्रा",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c1m13",
+                  "title": "पाठ 13 - कितने",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ahmh113.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_2",
+      "name": "Class 2",
+      "subjects": [
+        {
+          "id": "c2_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c2_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/bemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c2m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c2_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/bhmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c2m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c2m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/bhmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_3",
+      "name": "Class 3",
+      "subjects": [
+        {
+          "id": "c3_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c3_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/cemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c3m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/cemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c3_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/chmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c3m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c3m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/chmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_4",
+      "name": "Class 4",
+      "subjects": [
+        {
+          "id": "c4_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c4_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/demh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c4m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/demh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c4_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/dhmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c4m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c4m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/dhmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_5",
+      "name": "Class 5",
+      "subjects": [
+        {
+          "id": "c5_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c5_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/eemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c5m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/eemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c5_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/ehmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c5m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c5m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ehmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_6",
+      "name": "Class 6",
+      "subjects": [
+        {
+          "id": "c6_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c6_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/femh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c6m01",
+                  "title": "Chapter 1 - Knowing Our Numbers",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m02",
+                  "title": "Chapter 2 - Whole Numbers",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m03",
+                  "title": "Chapter 3 - Playing with Numbers",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m04",
+                  "title": "Chapter 4 - Basic Geometrical Ideas",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m05",
+                  "title": "Chapter 5 - Understanding Elementary Shapes",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m06",
+                  "title": "Chapter 6 - Integers",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m07",
+                  "title": "Chapter 7 - Fractions",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m08",
+                  "title": "Chapter 8 - Decimals",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m09",
+                  "title": "Chapter 9 - Data Handling",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m10",
+                  "title": "Chapter 10 - Mensuration",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m11",
+                  "title": "Chapter 11 - Algebra",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m12",
+                  "title": "Chapter 12 - Ratio and Proportion",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/femh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c6_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/fhmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c6m01",
+                  "title": "पाठ 1 - अपनी संख्याओं की जानकारी",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m02",
+                  "title": "पाठ 2 - पूर्ण संख्याएँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m03",
+                  "title": "पाठ 3 - संख्याओं के साथ खेलना",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m04",
+                  "title": "पाठ 4 - आधारभूत ज्यामितीय अवधारणाएँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m05",
+                  "title": "पाठ 5 - प्रारंभिक आकारों को समझना",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m06",
+                  "title": "पाठ 6 - पूर्णांक",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m07",
+                  "title": "पाठ 7 - भिन्न",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m08",
+                  "title": "पाठ 8 - दशमलव",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m09",
+                  "title": "पाठ 9 - आँकड़ों का प्रबंधन",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m10",
+                  "title": "पाठ 10 - क्षेत्रमिति",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m11",
+                  "title": "पाठ 11 - बीजगणित",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6m12",
+                  "title": "पाठ 12 - अनुपात और समानुपात",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c6_science",
+          "name": "Science",
+          "icon": "https://img.icons8.com/fluent/96/test-tube.png",
+          "books": [
+            {
+              "id": "c6_science_en",
+              "title": "Science",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/fesc1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c6s01",
+                  "title": "Chapter 1 - Components of Food",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s02",
+                  "title": "Chapter 2 - Sorting Materials into Groups",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s03",
+                  "title": "Chapter 3 - Separation of Substances",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s04",
+                  "title": "Chapter 4 - Getting to Know Plants",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s05",
+                  "title": "Chapter 5 - Body Movements",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s06",
+                  "title": "Chapter 6 - The Living Organisms and Their Surroundings",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s07",
+                  "title": "Chapter 7 - Motion and Measurement of Distances",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s08",
+                  "title": "Chapter 8 - Light, Shadows and Reflections",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s09",
+                  "title": "Chapter 9 - Electricity and Circuits",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s10",
+                  "title": "Chapter 10 - Fun with Magnets",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s11",
+                  "title": "Chapter 11 - Air Around Us",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fesc111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c6_science_hi",
+              "title": "Vigyan",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/fhsc1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c6s01",
+                  "title": "पाठ 1 - भोजन के घटक",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s02",
+                  "title": "पाठ 2 - वस्तुओं के समूह बनाना",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s03",
+                  "title": "पाठ 3 - पदार्थों का पृथक्करण",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s04",
+                  "title": "पाठ 4 - पौधों को जानिए",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s05",
+                  "title": "पाठ 5 - शरीर में गति",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s06",
+                  "title": "पाठ 6 - सजीव - विशेषताएँ एवं आवास",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s07",
+                  "title": "पाठ 7 - गति एवं दूरियों का मापन",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s08",
+                  "title": "पाठ 8 - प्रकाश - छायाएँ एवं परावर्तन",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s09",
+                  "title": "पाठ 9 - विद्युत तथा परिपथ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s10",
+                  "title": "पाठ 10 - चुंबकों द्वारा मनोरंजन",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c6s11",
+                  "title": "पाठ 11 - हमारे चारों ओर वायु",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/fhsc111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_7",
+      "name": "Class 7",
+      "subjects": [
+        {
+          "id": "c7_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c7_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/gemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c7m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/gemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c7_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/ghmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c7m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c7m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ghmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_8",
+      "name": "Class 8",
+      "subjects": [
+        {
+          "id": "c8_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c8_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/hemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c8m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c8_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/hhmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c8m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c8m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/hhmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_9",
+      "name": "Class 9",
+      "subjects": [
+        {
+          "id": "c9_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c9_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/iemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c9m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/iemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c9_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/ihmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c9m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c9m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/ihmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_10",
+      "name": "Class 10",
+      "subjects": [
+        {
+          "id": "c10_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c10_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/jemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c10m01",
+                  "title": "Chapter 1 - Real Numbers",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m02",
+                  "title": "Chapter 2 - Polynomials",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m03",
+                  "title": "Chapter 3 - Pair of Linear Equations in Two Variables",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m04",
+                  "title": "Chapter 4 - Quadratic Equations",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m05",
+                  "title": "Chapter 5 - Arithmetic Progressions",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m06",
+                  "title": "Chapter 6 - Triangles",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m07",
+                  "title": "Chapter 7 - Coordinate Geometry",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m08",
+                  "title": "Chapter 8 - Introduction to Trigonometry",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m09",
+                  "title": "Chapter 9 - Some Applications of Trigonometry",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m10",
+                  "title": "Chapter 10 - Circles",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m11",
+                  "title": "Chapter 11 - Areas Related to Circles",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m12",
+                  "title": "Chapter 12 - Surface Areas and Volumes",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m13",
+                  "title": "Chapter 13 - Statistics",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh113.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m14",
+                  "title": "Chapter 14 - Probability",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jemh114.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c10_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/jhmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c10m01",
+                  "title": "पाठ 1 - वास्तविक संख्याएँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m02",
+                  "title": "पाठ 2 - बहुपद",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m03",
+                  "title": "पाठ 3 - दो चर वाले रैखिक समीकरण युग्म",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m04",
+                  "title": "पाठ 4 - द्विघात समीकरण",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m05",
+                  "title": "पाठ 5 - समांतर श्रेढियाँ",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m06",
+                  "title": "पाठ 6 - त्रिभुज",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m07",
+                  "title": "पाठ 7 - निर्देशांक ज्यामिति",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m08",
+                  "title": "पाठ 8 - त्रिकोणमिति का परिचय",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m09",
+                  "title": "पाठ 9 - त्रिकोणमिति के कुछ अनुप्रयोग",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m10",
+                  "title": "पाठ 10 - वृत्त",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m11",
+                  "title": "पाठ 11 - वृत्तों से संबंधित क्षेत्रफल",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m12",
+                  "title": "पाठ 12 - पृष्ठीय क्षेत्रफल और आयतन",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m13",
+                  "title": "पाठ 13 - सांख्यिकी",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh113.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10m14",
+                  "title": "पाठ 14 - प्रायिकता",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhmh114.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c10_science",
+          "name": "Science",
+          "icon": "https://img.icons8.com/fluent/96/test-tube.png",
+          "books": [
+            {
+              "id": "c10_science_en",
+              "title": "Science",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/jesc1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c10s01",
+                  "title": "Chapter 1 - Chemical Reactions and Equations",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s02",
+                  "title": "Chapter 2 - Acids, Bases and Salts",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s03",
+                  "title": "Chapter 3 - Metals and Non-metals",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s04",
+                  "title": "Chapter 4 - Carbon and its Compounds",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s05",
+                  "title": "Chapter 5 - Life Processes",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s06",
+                  "title": "Chapter 6 - Control and Coordination",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s07",
+                  "title": "Chapter 7 - How do Organisms Reproduce?",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s08",
+                  "title": "Chapter 8 - Heredity",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s09",
+                  "title": "Chapter 9 - Light - Reflection and Refraction",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s10",
+                  "title": "Chapter 10 - The Human Eye and the Colorful World",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s11",
+                  "title": "Chapter 11 - Electricity",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s12",
+                  "title": "Chapter 12 - Magnetic Effects of Electric Current",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s13",
+                  "title": "Chapter 13 - Our Environment",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jesc113.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c10_science_hi",
+              "title": "Vigyan",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/jhsc1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c10s01",
+                  "title": "पाठ 1 - रासायनिक अभिक्रियाएं एवं समीकरण",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s02",
+                  "title": "पाठ 2 - अम्ल, क्षारक एवं लवण",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s03",
+                  "title": "पाठ 3 - धातु एवं अधातु",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s04",
+                  "title": "पाठ 4 - कार्बन एवं उसके यौगिक",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s05",
+                  "title": "पाठ 5 - जैव प्रक्रम",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s06",
+                  "title": "पाठ 6 - नियंत्रण एवं समन्वय",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s07",
+                  "title": "पाठ 7 - जीव जनन कैसे करते हैं?",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s08",
+                  "title": "पाठ 8 - आनुवंशिकता",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s09",
+                  "title": "पाठ 9 - प्रकाश – परावर्तन तथा अपवर्तन",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s10",
+                  "title": "पाठ 10 - मानव नेत्र तथा रंगबिरंगा संसार",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s11",
+                  "title": "पाठ 11 - विद्युत",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s12",
+                  "title": "पाठ 12 - विद्युत धारा के चुंबकीय प्रभाव",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c10s13",
+                  "title": "पाठ 13 - हमारा पर्यावरण",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/jhsc113.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_11",
+      "name": "Class 11",
+      "subjects": [
+        {
+          "id": "c11_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c11_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/kemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c11m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/kemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c11_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/khmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c11m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c11m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/khmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class_12",
+      "name": "Class 12",
+      "subjects": [
+        {
+          "id": "c12_math",
+          "name": "Math",
+          "icon": "https://img.icons8.com/fluent/96/math.png",
+          "books": [
+            {
+              "id": "c12_math_en",
+              "title": "Mathematics",
+              "language": "ENGLISH",
+              "cover": "https://ncert.nic.in/textbook/pdf/lemh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c12m01",
+                  "title": "Chapter 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m02",
+                  "title": "Chapter 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m03",
+                  "title": "Chapter 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m04",
+                  "title": "Chapter 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m05",
+                  "title": "Chapter 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m06",
+                  "title": "Chapter 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m07",
+                  "title": "Chapter 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m08",
+                  "title": "Chapter 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m09",
+                  "title": "Chapter 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m10",
+                  "title": "Chapter 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m11",
+                  "title": "Chapter 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m12",
+                  "title": "Chapter 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lemh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            },
+            {
+              "id": "c12_math_hi",
+              "title": "Ganit",
+              "language": "HINDI",
+              "cover": "https://ncert.nic.in/textbook/pdf/lhmh1cover.jpg",
+              "chapters": [
+                {
+                  "id": "c12m01",
+                  "title": "पाठ 1",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh101.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m02",
+                  "title": "पाठ 2",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh102.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m03",
+                  "title": "पाठ 3",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh103.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m04",
+                  "title": "पाठ 4",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh104.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m05",
+                  "title": "पाठ 5",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh105.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m06",
+                  "title": "पाठ 6",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh106.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m07",
+                  "title": "पाठ 7",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh107.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m08",
+                  "title": "पाठ 8",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh108.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m09",
+                  "title": "पाठ 9",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh109.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m10",
+                  "title": "पाठ 10",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh110.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m11",
+                  "title": "पाठ 11",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh111.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                },
+                {
+                  "id": "c12m12",
+                  "title": "पाठ 12",
+                  "pdf_url": "https://ncert.nic.in/textbook/pdf/lhmh112.pdf",
+                  "size": "1.2 MB",
+                  "video_url": "",
+                  "notes_url": "",
+                  "solution_url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
