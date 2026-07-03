@@ -1,0 +1,108 @@
+{
+    "app": {
+        "status": true,
+        "toolbar": true,
+        "navigation_drawer": true,
+        "geolocation": false,
+        "cache": true,
+        "open_link_in_external_browser": false,
+        "zoom_controls": false,
+        "user_agent": "",
+        "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+        "more_apps_url": "https://www.google.com/",
+        "webview_disclaimer_active": false,
+        "redirect_url": "",
+        "force_update": false,
+        "update_url": "https://santhkhd.github.io/tamil/tamilnewmovies_sanshob_up/update.html?target=external",
+        "target_version_code": 109,
+        "server_url": "https://script.google.com/macros/s/AKfycbza9uq8E7lFzC0OgEMZiENkGTqNbq3Ke5ZGDntjFRf2otbUFlcGBDfn0oAQMoVphvJB/exec",
+        "show_weather": false,
+        "weather_api_key": ""
+    },
+    "rss_news": [],
+    "youtube_channels": [],
+    "custom_images": {
+        "default_movie_image": "",
+        "stars_mapping_url": ""
+    },
+    "intro": {
+        "status": true,
+        "sliders": [
+            {
+                "title": "NCERT Study Hub",
+                "message": "Access NCERT Books, Solutions, Notes, Videos & CBSE Papers for Classes 1 to 12 — all in one place.",
+                "image": "https://img.icons8.com/fluent/200/book-reading.png",
+                "background_color": "1a237e"
+            },
+            {
+                "title": "All Classes Covered",
+                "message": "Complete NCERT textbooks for Class 1 to 12 in English and Hindi medium with chapter-wise PDFs.",
+                "image": "https://img.icons8.com/fluent/200/graduation-cap.png",
+                "background_color": "004d40"
+            },
+            {
+                "title": "Free & Official",
+                "message": "All content is sourced directly from NCERT official website. 100% free to read and download.",
+                "image": "https://img.icons8.com/fluent/200/certificate.png",
+                "background_color": "bf360c"
+            }
+        ]
+    },
+    "menus": [
+        {
+            "name": "NCERT Study Hub",
+            "type": "ncert",
+            "url": "https://tamilconfigtamilmoviesanshob.pages.dev/ncert.json",
+            "icon": "https://img.icons8.com/fluent/96/book-reading.png"
+        },
+        {
+            "name": "Privacy Policy",
+            "type": "assets",
+            "url": "privacy_policy.html",
+            "icon": "https://img.icons8.com/fluent/96/privacy.png"
+        }
+    ],
+    "ads": {
+        "ad_status": false,
+        "main_ads": "none",
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+        "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+        "startapp_app_id": "0",
+        "unity_game_id": "0",
+        "unity_banner_placement_id": "banner",
+        "unity_interstitial_placement_id": "video",
+        "applovin_banner_ad_unit_id": "0",
+        "applovin_interstitial_ad_unit_id": "0",
+        "applovin_native_ad_manual_unit_id": "0",
+        "applovin_app_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_banner_mrec_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "0",
+        "ironsource_banner_placement_name": "DefaultBanner",
+        "ironsource_interstitial_placement_name": "DefaultInterstitial",
+        "interstitial_ad_interval_on_drawer_menu": 5,
+        "interstitial_ad_interval_on_web_page_link": 5,
+        "native_ad_style_drawer_menu": "medium",
+        "native_ad_style_exit_dialog": "medium",
+        "native_ad_style_product_list": "medium",
+        "native_ad_index": 4,
+        "interstitial_ad_on_list_item_click": false,
+        "interstitial_ad_interval_on_list_item_click": 3,
+        "placement": {
+            "banner_home": false,
+            "interstitial_drawer_menu": false,
+            "interstitial_web_page_link": false,
+            "native_drawer_menu": false,
+            "native_exit_dialog": false,
+            "app_open_ad_on_start": false,
+            "app_open_ad_on_resume": false
+        }
+    }
+}
