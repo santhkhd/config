@@ -52,7 +52,7 @@
         {
             "name": "NCERT Study Hub",
             "type": "ncert",
-            "url": "https://tamilconfigtamilmoviesanshob.pages.dev/ncert.json",
+            "url": "https://raw.githubusercontent.com/santhkhd/config/refs/heads/main/ncert/ncert_all_in_one.json",
             "icon": "https://img.icons8.com/fluent/96/book-reading.png"
         },
         {
