@@ -1,0 +1,484 @@
+{
+    "app": {
+        "status": true,
+        "toolbar": true,
+        "navigation_drawer": true,
+        "geolocation": true,
+        "cache": true,
+        "open_link_in_external_browser": false,
+        "zoom_controls": false,
+        "user_agent": "",
+        "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+        "more_apps_url": "https://www.google.com/",
+        "webview_disclaimer_active": true,
+        "redirect_url": "",
+        "force_update": false,
+        "update_url": "https://santhkhd.github.io/tamil/tamilnewmovies_sanshob_up/update.html?target=external",
+        "target_version_code": 109,
+        "server_url": "https://script.google.com/macros/s/AKfycbza9uq8E7lFzC0OgEMZiENkGTqNbq3Ke5ZGDntjFRf2otbUFlcGBDfn0oAQMoVphvJB/exec",
+        "show_weather": false,
+        "weather_api_key": "c80a019ff254412a9aa75026241206"
+    },
+    "rss_news": [
+        {
+            "title": "Daily Thanthi",
+            "url": "https://www.dailythanthi.com/RSS/News/TopNews"
+        },
+        {
+            "title": "Dinamalar",
+            "url": "https://feeds.feedburner.com/dinamalar/Front_page_news"
+        },
+        {
+            "title": "Puthiya Thalaimurai",
+            "url": "https://www.puthiyathalaimurai.com/rss/tamilnadu"
+        }
+    ],
+    "custom_images": {
+        "default_movie_image": "https://raw.githubusercontent.com/santhkhd/tamil/refs/heads/main/default.png",
+        "stars_mapping_url": "https://raw.githubusercontent.com/santhkhd/tamil/refs/heads/main/stars.txt"
+    },
+    "intro": {
+        "status": false,
+        "sliders": [
+            {
+                "title": "Welcome to WebDroid",
+                "message": "Native Android App based on WebView with excellent design, beautiful, elegant & clean",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider1.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Navigation menu",
+                "message": "WebDroid integrated with remote json so you can manage the navigation drawer item and url dynamically",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider2.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Push notification",
+                "message": "Integrated with FCM & OneSignal push notification to notify your users",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider3.png",
+                "background_color": "ffffff"
+            },
+            {
+                "title": "Multiple Ad Neworks",
+                "message": "Supports up to 9 ad networks from the most popular providers to make it easier to monetize your app",
+                "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider4.png",
+                "background_color": "ffffff"
+            }
+        ]
+    },
+    "youtube_channels": [
+        {
+            "name": "Arjyou Shorts",
+            "channel_id": "UC9I8DWhqm5q7U_4fhfDwZIw"
+        },
+        {
+            "name": "Troll & thug Videos",
+            "channel_id": "UCanrTK6vweh6F_E_7XuSW9Q"
+        },
+        {
+            "name": "Mallu Trollen",
+            "channel_id": "UCg3e_EOlwStar4uN5I0LNjQ"
+        },
+        {
+            "name": "akv editzs",
+            "channel_id": "UChp2AAqaq9yqvn_7O4WDvFA"
+        },
+        {
+            "name": "SHA!BAN TROLLz",
+            "channel_id": "UCpjHjQKtyClmXbo3r3SX64A"
+        },
+        {
+            "name": "Pewer Trolls",
+            "channel_id": "UCtZezDrbDdvub8-x8AH8Tgg"
+        },
+        {
+            "name": "Vyshnav TrOlls",
+            "channel_id": "UClFqBIscDpLSIt_vE6aqo7Q"
+        },
+        {
+            "name": "JisHnu TrOlls",
+            "channel_id": "UC7WzWRSK9YOsVKgs8mrg4Iw"
+        },
+        {
+            "name": "Troll Unit Malayalam",
+            "channel_id": "UCw-har2mizQ8tB4rV7BN3RQ"
+        },
+        {
+            "name": "Outspoken Media",
+            "channel_id": "UCkLXdmIsS_KAkt-p3523o5Q"
+        },
+        {
+            "name": "Pyaari Trolls",
+            "channel_id": "UCAWJb7EEimZI7EGjcBr-dmg"
+        },
+        {
+            "name": "Malayalam Thugs",
+            "channel_id": "UC8u5z9Zf9aHW-ATWD3VOILg"
+        },
+        {
+            "name": "Thug Life Kerala",
+            "channel_id": "UCca2FAgLNggIZrIn69VF8kw"
+        },
+        {
+            "name": "Kerala Thug Life",
+            "channel_id": "UC_wPVrGeJQ46yeciyJmhOAg"
+        },
+        {
+            "name": "Troll Kerala",
+            "channel_id": "UCwFbElX6CBW-Uji6m5JxbDg"
+        },
+        {
+            "name": "Kappalandi Trolls",
+            "channel_id": "UCq3qG5xf3rmtE_pE91ryuHQ"
+        },
+        {
+            "name": "Troll Kolam",
+            "channel_id": "UCLh3cyDtd1KSuVjqlKG4YiA"
+        },
+        {
+            "name": "Troll Master Malayalam",
+            "channel_id": "UCNIljvccbCR-Bhg-TDiSiaQ"
+        },
+        {
+            "name": "Kidu Trolls",
+            "channel_id": "UCItvMJntQZuV_jmaYZbUzXg"
+        },
+        {
+            "name": "Troll Panda",
+            "channel_id": "UCE8dJLRHjAm6_w2OtaH1_EA"
+        },
+        {
+            "name": "Troll Machan",
+            "channel_id": "UC7EeEbw67T1E4T7MtwZ3Phw"
+        },
+        {
+            "name": "Troll Ustad",
+            "channel_id": "UC4oRF7OBMLVQF8al3xJGYgA"
+        },
+        {
+            "name": "Troll Addict",
+            "channel_id": "UCSLIkO8ZJam62xv9QaRr4Zg"
+        },
+        {
+            "name": "Troll Kuthiravattam",
+            "channel_id": "UCyaA7CkORBH6epjoFz7FlTw"
+        },
+        {
+            "name": "Troll Hub Malayalam",
+            "channel_id": "UCUKwrOM9Q11tDTZUaknzEBg"
+        },
+        {
+            "name": "Troll Town Malayalam",
+            "channel_id": "UCMh9PVSYPRzrCC7HrSsaBlQ"
+        },
+        {
+            "name": "Troll Express Malayalam",
+            "channel_id": "UCLF0NSyBUMMGP1GWv4l2vvw"
+        },
+        {
+            "name": "Troll Studio Malayalam",
+            "channel_id": "UCdle9OS29M1zIsheKmu5WnA"
+        },
+        {
+            "name": "Troll King Malayalam",
+            "channel_id": "UCR4c9uhAUjpEbYd8lvsQrag"
+        },
+        {
+            "name": "Troll World Malayalam",
+            "channel_id": "UC4YVzqwwO4VXTcrGbQhfkyg"
+        },
+        {
+            "name": "Troll Corner Malayalam",
+            "channel_id": "UCmB7Welj_vtTalXUv-nJVug"
+        },
+        {
+            "name": "Troll Junction Malayalam",
+            "channel_id": "UCu3oKfoUkFpttFB32-JRSjg"
+        },
+        {
+            "name": "Troll Station Malayalam",
+            "channel_id": "UCnQV3OmttQY5AGSBTs4pycg"
+        },
+        {
+            "name": "Troll Zone Malayalam",
+            "channel_id": "UCmmEKwcjR8wcC7qmdwLAzLQ"
+        },
+        {
+            "name": "Troll Media Malayalam",
+            "channel_id": "UCsa0EWzBM0w43I0tq0nftCg"
+        },
+        {
+            "name": "Troll Factory Malayalam",
+            "channel_id": "UC-HELpN_prQ96CIjtnaSs8w"
+        },
+        {
+            "name": "Troll Planet Malayalam",
+            "channel_id": "UCjX3uOXbTgVJqNB-UQwMZJA"
+        },
+        {
+            "name": "Troll Nation Malayalam",
+            "channel_id": "UC5erHHFfS8jiF5Z777XfjDg"
+        },
+        {
+            "name": "Troll Network Malayalam",
+            "channel_id": "UCBKnpgjCk5a6wBF_21KFjgA"
+        },
+        {
+            "name": "Troll Army Malayalam",
+            "channel_id": "UCCTq7wYaGopx2Tq0fk5vW7Q"
+        },
+        {
+            "name": "Troll Squad Malayalam",
+            "channel_id": "UCMPyIQxxAXy-QjL4Z5MfE_w"
+        },
+        {
+            "name": "Troll Crew Malayalam",
+            "channel_id": "UCVfXyX9al4AsXT4oDfx5uoQ"
+        },
+        {
+            "name": "Troll Gang Malayalam",
+            "channel_id": "UCWj0Y4QSdpSFRGCKkeCe1Sg"
+        },
+        {
+            "name": "Arjyoulive",
+            "channel_id": "UC-68Ds2KY4hTtb2O2EUHCCg"
+        },
+        {
+            "name": "Mallu Analyst Vlogs",
+            "channel_id": "UC4Mxrr6it6tn6FMsvoyk_-Q"
+        },
+        {
+            "name": "Roaster Chachu Live",
+            "channel_id": "UC63ykjEm6tFTFxlSgZ_NPsg"
+        },
+        {
+            "name": "Secret Agent Vlogs",
+            "channel_id": "UCnYvT1git-T2jcn_wT1utjQ"
+        },
+        {
+            "name": "Chekuthan Vlogs",
+            "channel_id": "UCwKcVRs66z-uFzGQe7cmEYQ"
+        },
+        {
+            "name": "Ubaid Ibrahim 2.0",
+            "channel_id": "UC-efdZRoOp_r7ZwjNnwnDyQ"
+        },
+        {
+            "name": "Jithosh Kumar",
+            "channel_id": "UC_tcdFjmqjlCPs5_sYqrdbA"
+        },
+        {
+            "name": "Amigo From Kerala",
+            "channel_id": "UCFvOZDJVkdywRYeFGuoJg9g"
+        },
+        {
+            "name": "Ramzan ATL",
+            "channel_id": "UCDvus9rVlZVWPZwfMHH3v7g"
+        },
+        {
+            "name": "APEX Die",
+            "channel_id": "UC0ZV6M2THA81QT9hrVWJG3A"
+        },
+        {
+            "name": "MUHEEN DCP",
+            "channel_id": "UC0HGykYLxgFpSoLUb8yDZvg"
+        },
+        {
+            "name": "Mallu Yankee",
+            "channel_id": "UCn6AZYvCQuCbuYyonkY0tog"
+        },
+        {
+            "name": "Hussain kt",
+            "channel_id": "UC6yNznM4KEXTR41DFAiPQBw"
+        },
+        {
+            "name": "SUBIN DUTTU",
+            "channel_id": "UC7bz40hFRIMR6No5BS6Z4zQ"
+        },
+        {
+            "name": "Karikku Original",
+            "channel_id": "UC2bNrKQbJLphxNCd6BSnTkA"
+        },
+        {
+            "name": "Jash Bro",
+            "channel_id": "UC05TAuIO1i3-AvvxtHUq9GA"
+        },
+        {
+            "name": "Tharanganeffect",
+            "channel_id": "UCff3e9Qf9YFaVghhjBoEOJA"
+        },
+        {
+            "name": "Albin Joshy",
+            "channel_id": "UC3Zl7mX83P0_2_XArE6mvlA"
+        },
+        {
+            "name": "Unni Vlogs Live",
+            "channel_id": "UC60YvD_EAsoU2lIcQdxwR1Q"
+        },
+        {
+            "name": "M4 Tech",
+            "channel_id": "UClfll_TO6FpOPLUg4Aawhlw"
+        },
+        {
+            "name": "Sanju Techy",
+            "channel_id": "UCtHCRF5bNn_ImDkn4w47L4Q"
+        },
+        {
+            "name": "Karikku FLIK",
+            "channel_id": "UC6RsQGglWCXre5du9GuLX2A"
+        },
+        {
+            "name": "Silly Monks Malayalam",
+            "channel_id": "UC96MCpGZsAyv1lmJI4BM5Vg"
+        },
+        {
+            "name": "Saina Comedy Lounge",
+            "channel_id": "UCMpPXCPSzzAvFX7NvJau5eA"
+        },
+        {
+            "name": "Millennium Comedy",
+            "channel_id": "UCOxo27RyQnq8K9TXfmLJskg"
+        },
+        {
+            "name": "Badaai Bungalow Comedy",
+            "channel_id": "UC2xyf6AbSfmanu8aGXTas_w"
+        },
+        {
+            "name": "Flowers Comedy Channel",
+            "channel_id": "UCmAPdImtXLGh5E-lTTH4Qmg"
+        },
+        {
+            "name": "Surya Comedy Channel",
+            "channel_id": "UCG9xw4kFo11e39yaaN09BtQ"
+        },
+        {
+            "name": "Niranjana Webseries Comedy",
+            "channel_id": "UCsiTW5-RCOOALF1VVx3Kcyg"
+        },
+        {
+            "name": "Fishing Freaks Comedy",
+            "channel_id": "UCVUojO3yGdMx1O3NOtjZX1A"
+        },
+        {
+            "name": "Salt N Pepper Comedy",
+            "channel_id": "UCakQcBIYmlb6hq0I4pXgHNA"
+        },
+        {
+            "name": "Pearle Maaney Vlogs",
+            "channel_id": "UCeALltNJ6GDNRwA0B7clXyA"
+        },
+        {
+            "name": "VlogSree Comedy",
+            "channel_id": "UCXmEe7GrufJ20HhxclJq7sQ"
+        },
+        {
+            "name": "Mr. Mallu Comedy",
+            "channel_id": "UCjZkSj-IAR1mbGiGvbh13Sg"
+        },
+        {
+            "name": "Mallu Knight Comedy",
+            "channel_id": "UCiTjVaNz3zWmCAOI7JDbYoA"
+        },
+        {
+            "name": "Kochi Comedy",
+            "channel_id": "UCNI4H1gOW9mVn-P3UGCrleA"
+        },
+        {
+            "name": "Trivandrum Comedy Club",
+            "channel_id": "UCvT65X-GdzOU7OdGL7uFrrQ"
+        },
+        {
+            "name": "Calicut Comedy Club",
+            "channel_id": "UCJvF-gYMj-nXui7OT9pXvbw"
+        },
+        {
+            "name": "Mimicry Malayalam Channel",
+            "channel_id": "UCjZTnrXvZlBO2pyucAyXgjg"
+        }
+    ],
+    "menus": [
+        {
+            "name": "Home Dashboard",
+            "type": "category",
+            "url": "home.json",
+            "icon": "https://img.icons8.com/fluent/96/home.png"
+        },
+        {
+            "name": "Malayalam Trolls & Memes",
+            "type": "category",
+            "url": "troll_channels.json",
+            "icon": "https://img.icons8.com/color/96/troll.png"
+        },
+        {
+            "name": "Roasting & Reactions",
+            "type": "category",
+            "url": "roast_channels.json",
+            "icon": "https://img.icons8.com/color/96/comedy.png"
+        },
+        {
+            "name": "Comedy & Sketches",
+            "type": "category",
+            "url": "comedy_channels.json",
+            "icon": "https://img.icons8.com/color/96/tv-show.png"
+        },
+        {
+            "name": "Favorite Items",
+            "type": "favorites",
+            "url": "",
+            "icon": "https://img.icons8.com/fluent/96/hearts.png"
+        },
+        {
+            "name": "Privacy Policy",
+            "type": "assets",
+            "url": "privacy_policy.html",
+            "icon": "https://img.icons8.com/fluent/96/privacy.png"
+        }
+    ],
+    "ads": {
+        "ad_status": true,
+        "main_ads": "admob",
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-8211285362401989/7287645967",
+        "admob_interstitial_unit_id": "ca-app-pub-8211285362401989/4581591573",
+        "admob_native_unit_id": "ca-app-pub-8211285362401989/6494250951",
+        "admob_app_open_ad_unit_id": "ca-app-pub-8211285362401989/2663194454",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+        "fan_banner_unit_id": "1173301553686204_1173301610352865",
+        "fan_interstitial_unit_id": "1173301553686204_1173301603686199",
+        "fan_native_unit_id": "1173301553686204_1173301600352866",
+        "startapp_app_id": "0",
+        "unity_game_id": "4089993",
+        "unity_banner_placement_id": "banner",
+        "unity_interstitial_placement_id": "video",
+        "applovin_banner_ad_unit_id": "0",
+        "applovin_interstitial_ad_unit_id": "0",
+        "applovin_native_ad_manual_unit_id": "0",
+        "applovin_app_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_banner_mrec_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "85460dcd",
+        "ironsource_banner_placement_name": "DefaultBanner",
+        "ironsource_interstitial_placement_name": "DefaultInterstitial",
+        "interstitial_ad_interval_on_drawer_menu": 5,
+        "interstitial_ad_interval_on_web_page_link": 5,
+        "native_ad_style_drawer_menu": "medium",
+        "native_ad_style_exit_dialog": "medium",
+        "native_ad_style_product_list": "medium",
+        "native_ad_index": 4,
+        "interstitial_ad_on_list_item_click": true,
+        "interstitial_ad_interval_on_list_item_click": 3,
+        "placement": {
+            "banner_home": true,
+            "interstitial_drawer_menu": true,
+            "interstitial_web_page_link": true,
+            "native_drawer_menu": true,
+            "native_exit_dialog": true,
+            "app_open_ad_on_start": false,
+            "app_open_ad_on_resume": true
+        }
+    }
+}
