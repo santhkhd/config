@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Asianet News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCf8w5m0YsRa8MHQ5bwSGmbw"
+    ],
+    "image": "https://yt3.googleusercontent.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "24 News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Xtp6_0zYhq8Z18GVI6Bmw"
+    ],
+    "image": "https://yt3.googleusercontent.com/1aHj2DTEXgAR86S6btYaUbV714eIBJFrQA899QbLMCC8rfcMcTr8whoTbjsQ_rGnpgRA2I5dtg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Manorama News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCP0uG-mcMImgKnJz-VjJZmQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ZYxJvUMw4-3IZvUc7JP9IsZjOUbHQv5zJ9Tg4qZqSQF5ly2l28J8xekqgHFL7TtrUe1Rkh1Wsg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Mathrubhumi News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC09eWekVDztdoRUS-s3CQ7A"
+    ],
+    "image": "https://yt3.googleusercontent.com/_rx-3_wlurx2SqNOiJy_3MrkOvDru0QQ4Wp3-a4RiRfFC2OMiwCS3umMD6PDnzm3Lxg9mEERwQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "MediaOne News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC-f7r46JhYv78q5pGrO6ivA"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nFqgCQfk09vEWUTJ8YLJqTaahT-cqdX1fP8-rv7ZI5Kos=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Reporter Live",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCFx1nseXKTc1Culiu3neeSQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/bJDd0TLwG0dXlTmaX9RvX1Ch99KMWU8tqpMIXu6W46dNfIS7gK3pC243M--uLOHgPaNKTaQF=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Janam TV",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCiT5h66Pm06Eu6R7eQflFWQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nF-1NoZ_EIbtaJkAwELkk45T0PZBOr2pjD0VPQHg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Kaumudy TV News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCTojB9v5tkn3UyiUsx8cE3g"
+    ],
+    "image": "https://yt3.googleusercontent.com/EKtMuzaVrMGtk4qZLQrm1CvP8UFdhWN4y8WfJFoJVCThZb6wek8s7EWR0lqU0AyJLCMlCvqVkeU=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Kairali News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCnEvxaWfVL91XIYuyQRO5QA"
+    ],
+    "image": "https://yt3.googleusercontent.com/oYCJSNCRQMinymACQmOVjkQwTvjTXWWAJBwc-M1e00-B2DNgNyZFSrNhd0Lu6oaAKK_V5ZFqwl4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Jaihind TV News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCDM528eqIJElfflkvfT-MuQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/xjrt1EqY-Kvajn_-3rA_vOArGzkUgXQ-qpwqvr4HGI3Wir6iwygBH0X08LHWbGEvsfSyglBg1A=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

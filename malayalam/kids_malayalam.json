@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Infobells Malayalam Rhymes",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCTg9DAHnodNmVqF_P_Ru1sQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mFFn5bHnT8BVFHFj4ARnnJJGGd1S1DsfdltLZ7ePVxDw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "ChuChu TV Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC3Ql9k6IBARtaszU099kQUA"
+    ],
+    "image": "https://yt3.googleusercontent.com/R9GGKNBwXXhW2cs2mSeN6MMF7N72aG4vHopZKNFMzWscXuwazlN4x8eMLM2oowbrDewzYSBz5Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "KidsOne Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCcUl07tKsYNEZn-5k491SLA"
+    ],
+    "image": "https://yt3.googleusercontent.com/JKlo-mraUcMwr-Sq8pcni9UMwO3376bhpGHuBEv2KpHLv8FlLA9gx3ZyW-DJsKyrT-p7zGMsFA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Malayalam Fairy Tales",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCsyoNsqE37tZIkuvqVPTa7g"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lqmtEvf6L9bdsc5poXPyEG6yj0vu2tW6HKeyEOpa6Dbg=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "title": "🎵 Search 27,000+ Malayalam Songs (1938-2026)",
+    "provider": "songs",
+    "arguments": [
+      "songs.json"
+    ],
+    "image": "https://img.icons8.com/color/96/musical-notes.png"
+  },
+  {
+    "title": "Muzik247",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UChRi1dpwnsZcIo1LSwzY0Iw"
+    ],
+    "image": "https://yt3.googleusercontent.com/JQp4obXbjVgBZQVwqPZGh3xH3gdVauepsuVhPApwSdnmVIjBOd_Ul3Ln-pltoOWdWJ2Z8v-JDa0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Saregama Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCoRF8GByEjmM_yHwUGIDGyQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/6VCyyEoydV8dQyCq0OzXQm_lfgrUuHAvjZTw6cCIOrzRXfuNW8tPzrWmkcZIYoUMA_uRM40v=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Millennium Audios",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCsbrh297T27EZVf8qnLQTdQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lW80-ZMwW-JKMQCJp_EKCeMAByuJMXPqfmINGhlT71Xw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Goodwill Entertainments Music",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCGRqH4OaI1687ZAvR80khWw"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kwuzOzplcCg5m4Pkb_5bwJE7mg6yFiMcjIhSd251DAxw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "MC Audios & Videos Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCconyutZsNdtDR5LaiP-nLg"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_l1SMyDIGFtf0fEBesepI7D16_7go2YYUd66MWXoXTFNg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Think Music Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCAtehwA95bgdVT4c4Ukdbow"
+    ],
+    "image": "https://yt3.googleusercontent.com/7Gj2DSO4QimMI8wtNlBMlW4Pz6PlCqgNAliCqlHWTBhYpcvZhvNW3hq8ICG7JfLc0XYCKoSgcQ=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

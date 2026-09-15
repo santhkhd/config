@@ -1,0 +1,366 @@
+{
+    "google_sheet_url": "https://script.google.com/macros/s/AKfycbzUVsELXXxwyPZNGxGiglLIgp4C8yGHflkwQB-JIaDMKoKPTR0AgHcdNjoLdnIsyibMOg/exec",
+    "app": {
+        "status": true,
+        "toolbar": true,
+        "navigation_drawer": true,
+        "geolocation": true,
+        "cache": true,
+        "open_link_in_external_browser": false,
+        "zoom_controls": false,
+        "user_agent": "",
+        "privacy_policy_url": "privacy_policy.html",
+        "more_apps_url": "https://play.google.com/store/apps/developer?id=Shivappa+Developer",
+        "webview_disclaimer_active": false,
+        "redirect_url": ""
+    },
+    "intro": {
+        "status": false,
+        "sliders": []
+    },
+    "menus": [
+        {
+            "name": "Home",
+            "type": "category",
+            "url": "home.json",
+            "icon": "https://img.icons8.com/color/96/home.png"
+        },
+        {
+            "name": "Malayalam Channels (50+)",
+            "type": "category",
+            "url": "youtube_categories.json",
+            "icon": "https://img.icons8.com/color/96/youtube-play.png"
+        },
+        {
+            "name": "Latest Videos",
+            "type": "YOUTUBE",
+            "url": "ALL_VIDEOS",
+            "icon": "https://img.icons8.com/color/96/youtube-play.png"
+        },
+        {
+            "name": "Malayalam Radio",
+            "type": "radio",
+            "url": "radio_malayalam.json",
+            "icon": "https://img.icons8.com/color/96/radio-tower.png"
+        },
+        {
+            "name": "OTT This Week",
+            "type": "category",
+            "url": "ott_releases_malayalam.json",
+            "icon": "https://img.icons8.com/color/96/clapperboard.png"
+        },
+        {
+            "name": "Top TV Shows",
+            "type": "category",
+            "url": "top_shows_malayalam.json",
+            "icon": "https://img.icons8.com/color/96/retro-tv.png"
+        },
+        {
+            "name": "Malayalam Movie ",
+            "type": "category",
+            "url": "movies_categories.json",
+            "icon": "https://img.icons8.com/color/96/movie.png"
+        },
+        {
+            "name": "Malayalam Songs (27,000+)",
+            "type": "SONGS",
+            "url": "songs.json",
+            "icon": "https://img.icons8.com/color/96/musical-notes.png"
+        },
+        {
+            "name": "Newspapers",
+            "type": "category",
+            "url": "newspapers_malayalam.json",
+            "icon": "https://img.icons8.com/color/96/newspaper.png"
+        },
+        {
+            "name": "News",
+            "type": "RSS",
+            "url": "ALL_NEWS",
+            "icon": "https://img.icons8.com/color/96/rss.png"
+        },
+        {
+            "name": "WhatsApp Status ",
+            "type": "category",
+            "url": "status_clips_malayalam.json",
+            "icon": "https://img.icons8.com/color/96/whatsapp--v1.png"
+        },
+        {
+            "name": "Daily Cinema Quiz",
+            "type": "assets",
+            "url": "malayalam/quiz.html",
+            "icon": "https://img.icons8.com/color/96/idea.png"
+        },
+        {
+            "name": "Fan Battles & Polls",
+            "type": "assets",
+            "url": "malayalam/polls.html",
+            "icon": "https://img.icons8.com/color/96/elections.png"
+        },
+        {
+            "name": "Malayalam Trolls",
+            "type": "assets",
+            "url": "malayalam/trolls.html",
+            "icon": "https://img.icons8.com/color/96/comedy.png"
+        }
+    ],
+    "ads": {
+        "ad_status": true,
+        "main_ads": "admob",
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+        "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+        "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+        "startapp_app_id": "0",
+        "unity_game_id": "4089993",
+        "unity_banner_placement_id": "banner",
+        "unity_interstitial_placement_id": "video",
+        "applovin_banner_ad_unit_id": "0",
+        "applovin_interstitial_ad_unit_id": "0",
+        "applovin_native_ad_manual_unit_id": "0",
+        "applovin_app_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_banner_mrec_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "85460dcd",
+        "ironsource_banner_placement_name": "DefaultBanner",
+        "ironsource_interstitial_placement_name": "DefaultInterstitial",
+        "interstitial_ad_interval_on_drawer_menu": 3,
+        "interstitial_ad_interval_on_web_page_link": 5,
+        "native_ad_style_drawer_menu": "medium",
+        "native_ad_style_exit_dialog": "medium",
+        "native_ad_style_product_list": "medium",
+        "native_ad_index": 4,
+        "interstitial_ad_on_list_item_click": true,
+        "interstitial_ad_interval_on_list_item_click": 3,
+        "placement": {
+            "banner_home": true,
+            "interstitial_drawer_menu": true,
+            "interstitial_web_page_link": true,
+            "native_drawer_menu": true,
+            "native_exit_dialog": true,
+            "app_open_ad_on_start": false,
+            "app_open_ad_on_resume": false
+        }
+    },
+    "youtube_channels": [
+        {
+            "name": "Asianet News",
+            "channel_id": "UCf8w5m0YsRa8MHQ5bwSGmbw"
+        },
+        {
+            "name": "Manorama News",
+            "channel_id": "UCP0uG-mcMImgKnJz-VjJZmQ"
+        },
+        {
+            "name": "MediaOne",
+            "channel_id": "UCMFVFKrJgBjn6fDFT-s_ZnA"
+        },
+        {
+            "name": "Mathrubhumi News",
+            "channel_id": "UC7eb0FE-S0cON-qSieb_xQw"
+        },
+        {
+            "name": "Kaumudy TV",
+            "channel_id": "UCTojB9v5tkn3UyiUsx8cE3g"
+        },
+        {
+            "name": "Janam TV",
+            "channel_id": "UCt2U-e139BOMPX3TJXbyJaQ"
+        },
+        {
+            "name": "Mazhavil Manorama",
+            "channel_id": "UCUPD0jQo-EP0B1Nf4uzeIMA"
+        },
+        {
+            "name": "Asianet",
+            "channel_id": "UCp_r6Z-Oh0YTf-ym71z5Nqg"
+        },
+        {
+            "name": "Karikku",
+            "channel_id": "UCXuSYBF4mcxhrgDmZOrezJg"
+        },
+        {
+            "name": "Saregama Malayalam",
+            "channel_id": "UCzee67JnEcuvjErRyWP3GpQ"
+        },
+        {
+            "name": "Millennium Audios",
+            "channel_id": "UCsbrh297T27EZVf8qnLQTdQ"
+        },
+        {
+            "name": "Veena's Curryworld",
+            "channel_id": "UCugwC12zllpi9zJoUP5ZVyw"
+        },
+        {
+            "name": "Shaan Geo",
+            "channel_id": "UC75_5G5PZgO9L5XpQ5tD8oA"
+        },
+        {
+            "name": "Tech Travel Eat",
+            "channel_id": "UCeoRAN5sr02w8_9aFWxIM4g"
+        },
+        {
+            "name": "Mallu Analyst",
+            "channel_id": "UCyDHNAdWLlsV-9tgqG6OJDg"
+        },
+        {
+            "name": "Behindwoods Ice",
+            "channel_id": "UC1_GAegUKlzJVskZKcwpZuA"
+        }
+    ],
+    "rss_news": [
+        {
+            "title": "Google News Malayalam (പ്രധാന വാർത്തകൾ)",
+            "url": "https://news.google.com/rss?hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (ഇന്ത്യൻ വാർത്തകൾ - India & National)",
+            "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (ശാസ്ത്രം - Science & Research)",
+            "url": "https://news.google.com/rss/search?q=%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82&hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (ബഹിരാകാശം & ISRO - Space)",
+            "url": "https://news.google.com/rss/search?q=ISRO+OR+NASA+OR+%E0%B4%B5%E0%B4%BF%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%8D&hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (സാങ്കേതികവിദ്യ - Tech)",
+            "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (സിനിമ & വിനോദം - Cinema)",
+            "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (കായികം - Sports)",
+            "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (ബിസിനസ്സ് - Business)",
+            "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "Google News (ലോകം - World News)",
+            "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ml&gl=IN&ceid=IN:ml"
+        },
+        {
+            "title": "DoolNews (ഇന്ത്യൻ വാർത്തകൾ - National)",
+            "url": "https://www.doolnews.com/category/india/feed"
+        },
+        {
+            "title": "DoolNews (ലോക വാർത്തകൾ - World)",
+            "url": "https://www.doolnews.com/category/world/feed"
+        },
+        {
+            "title": "Mathrubhumi (Latest News)",
+            "url": "https://www.mathrubhumi.com/rss/latest-news"
+        },
+        {
+            "title": "Mathrubhumi (Movies & Music)",
+            "url": "https://www.mathrubhumi.com/rss/movies-music"
+        },
+        {
+            "title": "Mathrubhumi (Sports News)",
+            "url": "https://www.mathrubhumi.com/rss/sports"
+        },
+        {
+            "title": "OneIndia Malayalam (Top Stories)",
+            "url": "https://malayalam.oneindia.com/rss/malayalam-news-fb.xml"
+        },
+        {
+            "title": "Filmibeat Malayalam (Cinema)",
+            "url": "https://malayalam.filmibeat.com/rss/filmibeat-malayalam-fb.xml"
+        },
+        {
+            "title": "MyKhel Malayalam (Sports)",
+            "url": "https://malayalam.mykhel.com/rss/mykhel-malayalam-fb.xml"
+        },
+        {
+            "title": "DriveSpark Malayalam (Automobiles)",
+            "url": "https://malayalam.drivespark.com/rss/drivespark-malayalam-fb.xml"
+        },
+        {
+            "title": "Gizbot Malayalam (Technology)",
+            "url": "https://malayalam.gizbot.com/rss/gizbot-malayalam-fb.xml"
+        },
+        {
+            "title": "24 News Live Breaking",
+            "url": "https://www.twentyfournews.com/feed"
+        },
+        {
+            "title": "DoolNews (Politics & Kerala)",
+            "url": "https://www.doolnews.com/feed"
+        },
+        {
+            "title": "DoolNews (Cinema & Culture)",
+            "url": "https://www.doolnews.com/category/cinema/feed"
+        },
+        {
+            "title": "DoolNews (Sports)",
+            "url": "https://www.doolnews.com/category/sports/feed"
+        },
+        {
+            "title": "Marunadan Malayalee (Breaking)",
+            "url": "https://www.marunadanmalayalee.com/feed"
+        },
+        {
+            "title": "Janmabhumi Daily (News)",
+            "url": "https://janmabhumi.in/feed"
+        },
+        {
+            "title": "Janmabhumi (Sports)",
+            "url": "https://janmabhumi.in/category/sports/feed"
+        },
+        {
+            "title": "E-Vartha Kerala (Live)",
+            "url": "https://www.evartha.in/feed"
+        },
+        {
+            "title": "Kairali News Online (Breaking)",
+            "url": "https://kairalinewsonline.com/feed"
+        },
+        {
+            "title": "Kairali News (Cinema & Entertainment)",
+            "url": "https://kairalinewsonline.com/category/entertainment/feed"
+        },
+        {
+            "title": "Kairali News (Sports)",
+            "url": "https://kairalinewsonline.com/category/sports/feed"
+        },
+        {
+            "title": "Siraj Daily (Live News)",
+            "url": "https://www.sirajlive.com/feed/"
+        },
+        {
+            "title": "Express Kerala (News)",
+            "url": "https://www.expresskerala.com/feed"
+        },
+        {
+            "title": "Southlive Malayalam (News)",
+            "url": "https://southlive.in/feed/"
+        },
+        {
+            "title": "Southlive (Cinema Reviews)",
+            "url": "https://southlive.in/category/movie/feed/"
+        },
+        {
+            "title": "Anweshanam News",
+            "url": "https://anweshanam.com/feed/"
+        },
+        {
+            "title": "Daily Indian Herald",
+            "url": "https://dailyindianherald.com/feed/"
+        }
+    ]
+}

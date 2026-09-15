@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Muzik247",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UChRi1dpwnsZcIo1LSwzY0Iw"
+    ],
+    "image": "https://img.icons8.com/color/96/music.png"
+  },
+  {
+    "title": "Saregama Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCoRF8GByEjmM_yHwUGIDGyQ"
+    ],
+    "image": "https://img.icons8.com/color/96/musical-notes.png"
+  },
+  {
+    "title": "Millennium Audios",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCsbrh297T27EZVf8qnLQTdQ"
+    ],
+    "image": "https://img.icons8.com/color/96/headphones.png"
+  },
+  {
+    "title": "Goodwill Entertainments Music",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCGRqH4OaI1687ZAvR80khWw"
+    ],
+    "image": "https://img.icons8.com/color/96/sound-speaker.png"
+  },
+  {
+    "title": "MC Audios & Videos Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCconyutZsNdtDR5LaiP-nLg"
+    ],
+    "image": "https://img.icons8.com/color/96/compact-disk.png"
+  },
+  {
+    "title": "Think Music Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCAtehwA95bgdVT4c4Ukdbow"
+    ],
+    "image": "https://img.icons8.com/color/96/boombox.png"
+  }
+]

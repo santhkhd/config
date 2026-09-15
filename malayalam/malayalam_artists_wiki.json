@@ -1,0 +1,1227 @@
+[
+  {
+    "name": "Mohanlal",
+    "clean": "mohanlal",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Mohanlal_%28cropped%29.jpg/500px-Mohanlal_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mohanlal"
+  },
+  {
+    "name": "Mammootty",
+    "clean": "mammootty",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Mammootty%2C_2022.jpg/500px-Mammootty%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mammootty"
+  },
+  {
+    "name": "Fahadh Faasil",
+    "clean": "fahadh faasil",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Fahadh_Faasil_2019.jpg/500px-Fahadh_Faasil_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fahadh_Faasil"
+  },
+  {
+    "name": "Prithviraj Sukumaran",
+    "clean": "prithviraj sukumaran",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Prithviraj_at_Aiyyaa_event.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Prithviraj_Sukumaran"
+  },
+  {
+    "name": "Tovino Thomas",
+    "clean": "tovino thomas",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Tovino_Thomas_At_The_%E2%80%98Maari_2%E2%80%99_Press_Meet.jpg/500px-Tovino_Thomas_At_The_%E2%80%98Maari_2%E2%80%99_Press_Meet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tovino_Thomas"
+  },
+  {
+    "name": "Dulquer Salmaan",
+    "clean": "dulquer salmaan",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Dulquer_promoting_Zoya_Factor_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dulquer_Salmaan"
+  },
+  {
+    "name": "Suresh Gopi",
+    "clean": "suresh gopi",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/H20250927192514.jpg/500px-H20250927192514.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Suresh_Gopi"
+  },
+  {
+    "name": "Jayaram",
+    "clean": "jayaram",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jayaram%2C_actor_photograph_%28cropped%29.jpg/500px-Jayaram%2C_actor_photograph_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jayaram"
+  },
+  {
+    "name": "Dileep",
+    "clean": "dileep",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Dileep2016.jpg/500px-Dileep2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dileep"
+  },
+  {
+    "name": "Nivin Pauly",
+    "clean": "nivin pauly",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Realnivi.jpg/500px-Realnivi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nivin_Pauly"
+  },
+  {
+    "name": "Asif Ali",
+    "clean": "asif ali",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Asif_Ali_Malayalam_Actor.jpg/500px-Asif_Ali_Malayalam_Actor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Asif_Ali_(actor)"
+  },
+  {
+    "name": "Kunchacko Boban",
+    "clean": "kunchacko boban",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kunchacko_boban.JPG/500px-Kunchacko_boban.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kunchacko_Boban"
+  },
+  {
+    "name": "Jayasurya",
+    "clean": "jayasurya",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Jayasurya_in_2016.jpg/500px-Jayasurya_in_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jayasurya"
+  },
+  {
+    "name": "Biju Menon",
+    "clean": "biju menon",
+    "type": "actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmU4M2E1YmYtNjEyMC00ZjVkLTgwNDctMDI0NzVkZTczOGM5XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Biju_Menon"
+  },
+  {
+    "name": "Basil Joseph",
+    "clean": "basil joseph",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Basil_Joseph_2023s_%28cropped%29.jpg/500px-Basil_Joseph_2023s_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Basil_Joseph"
+  },
+  {
+    "name": "Prem Nazir",
+    "clean": "prem nazir",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Prem_Nazir_2013_stamp_of_India.jpg/500px-Prem_Nazir_2013_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Prem_Nazir"
+  },
+  {
+    "name": "Madhu",
+    "clean": "madhu",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Madhu_2008.jpg/500px-Madhu_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Madhu_(actor)"
+  },
+  {
+    "name": "Jayan",
+    "clean": "jayan",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Malayalam_actor_Jayan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jayan"
+  },
+  {
+    "name": "Adoor Bhasi",
+    "clean": "adoor bhasi",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Adoorbhasi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Adoor_Bhasi"
+  },
+  {
+    "name": "Bahadoor",
+    "clean": "bahadoor",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Bahadoor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bahadoor"
+  },
+  {
+    "name": "Thikkurisy Sukumaran Nair",
+    "clean": "thikkurisy sukumaran nair",
+    "type": "actor",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Thikkurisy%20Sukumaran%20Nair"
+  },
+  {
+    "name": "Sankaradi",
+    "clean": "sankaradi",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Sankaradi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sankaradi"
+  },
+  {
+    "name": "Nedumudi Venu",
+    "clean": "nedumudi venu",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Nedumudi_Venu_2008.jpg/500px-Nedumudi_Venu_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nedumudi_Venu"
+  },
+  {
+    "name": "Thilakan",
+    "clean": "thilakan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/THILAKAN-OIL_PAINTING_%28cropped%29.jpg/500px-THILAKAN-OIL_PAINTING_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Thilakan"
+  },
+  {
+    "name": "Jagathy Sreekumar",
+    "clean": "jagathy sreekumar",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Jagathy_Sreekumar_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jagathy_Sreekumar"
+  },
+  {
+    "name": "Innocent",
+    "clean": "innocent",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Innocent_%28Actor%29_2011.png/500px-Innocent_%28Actor%29_2011.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Innocent_(actor)"
+  },
+  {
+    "name": "Mala Aravindan",
+    "clean": "mala aravindan",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/85/Mala_Aravindan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mala_Aravindan"
+  },
+  {
+    "name": "Kuthiravattam Pappu",
+    "clean": "kuthiravattam pappu",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b3/K_pappu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kuthiravattam_Pappu"
+  },
+  {
+    "name": "Mamukkoya",
+    "clean": "mamukkoya",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mamukoya1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mamukkoya"
+  },
+  {
+    "name": "Cochin Haneefa",
+    "clean": "cochin haneefa",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cochin_Haneefa_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Cochin_Haneefa"
+  },
+  {
+    "name": "Salim Kumar",
+    "clean": "salim kumar",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Salim_kumar.jpg/500px-Salim_kumar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Salim_Kumar"
+  },
+  {
+    "name": "Suraj Venjaramoodu",
+    "clean": "suraj venjaramoodu",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Photo_of_Suraj_captured_by_Ujwal_Rajeev.jpg/500px-Photo_of_Suraj_captured_by_Ujwal_Rajeev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Suraj_Venjaramoodu"
+  },
+  {
+    "name": "Harisree Ashokan",
+    "clean": "harisree ashokan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Harisree_Ashokan_2007.jpg/500px-Harisree_Ashokan_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Harisree_Ashokan"
+  },
+  {
+    "name": "Mukesh",
+    "clean": "mukesh",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mukesh_DSW.jpg/500px-Mukesh_DSW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mukesh_(actor)"
+  },
+  {
+    "name": "Jagadish",
+    "clean": "jagadish",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Jagadish_-_Thriller_Express_-_Asianet_Tour_-_Atlanata.jpg/500px-Jagadish_-_Thriller_Express_-_Asianet_Tour_-_Atlanata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jagadish"
+  },
+  {
+    "name": "Siddique",
+    "clean": "siddique",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Siddiquee_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Siddique_(actor)"
+  },
+  {
+    "name": "Saikumar",
+    "clean": "saikumar",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Saikumar.jpg/500px-Saikumar.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Saikumar_(actor)"
+  },
+  {
+    "name": "Manoj K. Jayan",
+    "clean": "manoj k. jayan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/ManojKJayan2016SOP.jpg/500px-ManojKJayan2016SOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Manoj_K._Jayan"
+  },
+  {
+    "name": "Kalabhavan Mani",
+    "clean": "kalabhavan mani",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mani2.jpg/500px-Mani2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kalabhavan_Mani"
+  },
+  {
+    "name": "Indrans",
+    "clean": "indrans",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Indrans.jpg/500px-Indrans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Indrans"
+  },
+  {
+    "name": "Lalu Alex",
+    "clean": "lalu alex",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lalu_alex.jpg/500px-Lalu_alex.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lalu_Alex"
+  },
+  {
+    "name": "Janardhanan",
+    "clean": "janardhanan",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Janardhanan_Malayalam_Actor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Janardhanan_(actor)"
+  },
+  {
+    "name": "Vijayaraghavan",
+    "clean": "vijayaraghavan",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Vijayaraghavan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vijayaraghavan"
+  },
+  {
+    "name": "Babu Antony",
+    "clean": "babu antony",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Babu_Antony_in_Karinkunnam_6s_movie.jpg/500px-Babu_Antony_in_Karinkunnam_6s_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Babu_Antony"
+  },
+  {
+    "name": "Rahman",
+    "clean": "rahman",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Rahman_%28actor%29.jpg/500px-Rahman_%28actor%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rahman_(actor)"
+  },
+  {
+    "name": "Soubin Shahir",
+    "clean": "soubin shahir",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Soubin_Shahir_2019.jpg/500px-Soubin_Shahir_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Soubin_Shahir"
+  },
+  {
+    "name": "Shane Nigam",
+    "clean": "shane nigam",
+    "type": "actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTU0YjZhMWQtYTI3MC00Njg4LTg3OGMtYTMzOWJhNjcyYzcxXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shane_Nigam"
+  },
+  {
+    "name": "Antony Varghese",
+    "clean": "antony varghese",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Antony_Varghese_2025.jpg/500px-Antony_Varghese_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Antony_Varghese"
+  },
+  {
+    "name": "Naslen",
+    "clean": "naslen",
+    "type": "actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWY3ZjE1YzctNzRmMS00MDkxLWI1MjUtNTBmZGExOGMzODk5XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Naslen_K._Gafoor"
+  },
+  {
+    "name": "Mathew Thomas",
+    "clean": "mathew thomas",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mathew_Thomas_2020.jpg/500px-Mathew_Thomas_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mathew_Thomas"
+  },
+  {
+    "name": "Unni Mukundan",
+    "clean": "unni mukundan",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Unnimukundan_at_92.7_Big_fm_Trivandrum_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Unni_Mukundan"
+  },
+  {
+    "name": "Sunny Wayne",
+    "clean": "sunny wayne",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Sunny_Wayne_location_%28cropped%29.jpg/500px-Sunny_Wayne_location_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sunny_Wayne"
+  },
+  {
+    "name": "Dhyan Sreenivasan",
+    "clean": "dhyan sreenivasan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dhyan_sreenivasan.png/500px-Dhyan_sreenivasan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dhyan_Sreenivasan"
+  },
+  {
+    "name": "Vineeth Sreenivasan",
+    "clean": "vineeth sreenivasan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Vineeth_Sreenivasan_Aravindante_Athidhikal.jpg/500px-Vineeth_Sreenivasan_Aravindante_Athidhikal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vineeth_Sreenivasan"
+  },
+  {
+    "name": "Chemban Vinod Jose",
+    "clean": "chemban vinod jose",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Chemban_Vinod_Jose_4.jpg/500px-Chemban_Vinod_Jose_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Chemban_Vinod_Jose"
+  },
+  {
+    "name": "Sreenivasan",
+    "clean": "sreenivasan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%E0%B4%B6%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B4%A8%E0%B4%BF%E0%B4%B5%E0%B4%BE%E0%B4%B8%E0%B5%BB_%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%87%E0%B4%9C%E0%B5%8D_%E0%B4%B7%E0%B5%8B.jpg/500px-%E0%B4%B6%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B4%A8%E0%B4%BF%E0%B4%B5%E0%B4%BE%E0%B4%B8%E0%B5%BB_%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%87%E0%B4%9C%E0%B5%8D_%E0%B4%B7%E0%B5%8B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sreenivasan"
+  },
+  {
+    "name": "Kalabhavan Shajohn",
+    "clean": "kalabhavan shajohn",
+    "type": "actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzA2ZDczNGYtODFjZS00Y2NhLTgwYTctMjcxMDRlMjczZGY2XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kalabhavan_Shajohn"
+  },
+  {
+    "name": "Baburaj",
+    "clean": "baburaj",
+    "type": "actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2Y0ZGI3NWItMTI1Yi00YTc5LWJkOGMtZGFkNjcxYjVmMmI1XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Baburaj_(actor)"
+  },
+  {
+    "name": "Sudarshan",
+    "clean": "sudarshan",
+    "type": "actor",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sudarshan"
+  },
+  {
+    "name": "Alummoodan",
+    "clean": "alummoodan",
+    "type": "actor",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Alummoodan"
+  },
+  {
+    "name": "Paravoor Bharathan",
+    "clean": "paravoor bharathan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Paravoor_bharathan.jpg/500px-Paravoor_bharathan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Paravoor_Bharathan"
+  },
+  {
+    "name": "N. F. Varghese",
+    "clean": "n. f. varghese",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/N._F._Varghese.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/N._F._Varghese"
+  },
+  {
+    "name": "Rajan P. Dev",
+    "clean": "rajan p. dev",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Rajan_P._Dev_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rajan_P._Dev"
+  },
+  {
+    "name": "Narendra Prasad",
+    "clean": "narendra prasad",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/Narendra_Prasad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Narendra_Prasad"
+  },
+  {
+    "name": "Murali",
+    "clean": "murali",
+    "type": "actor",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Murali_%28actor%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Murali_(Malayalam_actor)"
+  },
+  {
+    "name": "Kollam Thulasi",
+    "clean": "kollam thulasi",
+    "type": "actor",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kollam_Thulasi"
+  },
+  {
+    "name": "Suresh Krishna",
+    "clean": "suresh krishna",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Suresh_10.jpg/500px-Suresh_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Suresh_Krishna_(actor)"
+  },
+  {
+    "name": "Jaffer Idukki",
+    "clean": "jaffer idukki",
+    "type": "actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTIxOTMwOWUtNmI5MS00NmZmLWIzZTktMmUyZTg1NTdlOTkzXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jaffer%20Idukki"
+  },
+  {
+    "name": "Lukman Avaran",
+    "clean": "lukman avaran",
+    "type": "actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzdmOWVhM2QtYjYyOS00YzgxLThhM2ItYTU1Yzc5NTVjZTRkXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lukman_Avaran"
+  },
+  {
+    "name": "Arjun Ashokan",
+    "clean": "arjun ashokan",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Arjun_Ashokan_2026.jpg/500px-Arjun_Ashokan_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Arjun_Ashokan"
+  },
+  {
+    "name": "Ganapathi",
+    "clean": "ganapathi",
+    "type": "actor",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ganapathi_(actor)"
+  },
+  {
+    "name": "Sreenath Bhasi",
+    "clean": "sreenath bhasi",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Sreenath_Bhasi_latest_.jpg/500px-Sreenath_Bhasi_latest_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sreenath_Bhasi"
+  },
+  {
+    "name": "Shine Tom Chacko",
+    "clean": "shine tom chacko",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Shine_Tom_Chacko.png/500px-Shine_Tom_Chacko.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shine_Tom_Chacko"
+  },
+  {
+    "name": "Tovino Thomas",
+    "clean": "tovino thomas",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Tovino_Thomas_At_The_%E2%80%98Maari_2%E2%80%99_Press_Meet.jpg/500px-Tovino_Thomas_At_The_%E2%80%98Maari_2%E2%80%99_Press_Meet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tovino_Thomas"
+  },
+  {
+    "name": "Neeraj Madhav",
+    "clean": "neeraj madhav",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Neeraj_Madhav_during_success_party_of_the_movie_Adi_Kapyare_Koottamani.jpg/500px-Neeraj_Madhav_during_success_party_of_the_movie_Adi_Kapyare_Koottamani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Neeraj_Madhav"
+  },
+  {
+    "name": "Roshan Mathew",
+    "clean": "roshan mathew",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Roshan_Mathew.jpg/500px-Roshan_Mathew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Roshan_Mathew"
+  },
+  {
+    "name": "Biju Sopanam",
+    "clean": "biju sopanam",
+    "type": "actor",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Biju_Sopanam_in_September_2022.png/500px-Biju_Sopanam_in_September_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Biju_Sopanam"
+  },
+  {
+    "name": "Manju Warrier",
+    "clean": "manju warrier",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Sadhguru%2C_Manju_Warrier_%26_Shashi_Kumar_at_KLF_2017_%28cropped%29_%28cropped%29.jpg/500px-Sadhguru%2C_Manju_Warrier_%26_Shashi_Kumar_at_KLF_2017_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Manju_Warrier"
+  },
+  {
+    "name": "Urvashi",
+    "clean": "urvashi",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Urvashi_%282022%29_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Urvashi_(actress)"
+  },
+  {
+    "name": "Shobana",
+    "clean": "shobana",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Shobhana_%28cropped%29.jpg/500px-Shobhana_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shobana"
+  },
+  {
+    "name": "Revathi",
+    "clean": "revathi",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Revathi_at_the_screening_of_Masaala_at_PVR_Phoenix_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Revathi"
+  },
+  {
+    "name": "Parvathy Thiruvothu",
+    "clean": "parvathy thiruvothu",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Actress_Parvathi.jpg/500px-Actress_Parvathi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Parvathy_Thiruvothu"
+  },
+  {
+    "name": "Nazriya Nazim",
+    "clean": "nazriya nazim",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Nazriya_Nazim.jpg/500px-Nazriya_Nazim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nazriya_Nazim"
+  },
+  {
+    "name": "Mamitha Baiju",
+    "clean": "mamitha baiju",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mamitha2024.jpg/500px-Mamitha2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mamitha_Baiju"
+  },
+  {
+    "name": "Anaswara Rajan",
+    "clean": "anaswara rajan",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Anaswara_Rajan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anaswara_Rajan"
+  },
+  {
+    "name": "Keerthy Suresh",
+    "clean": "keerthy suresh",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Keerthy_Suresh_at_Bhola_Shankar_pre_release_event_%282%29_%28cropped%29.jpg/500px-Keerthy_Suresh_at_Bhola_Shankar_pre_release_event_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Keerthy_Suresh"
+  },
+  {
+    "name": "Kalyani Priyadarshan",
+    "clean": "kalyani priyadarshan",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/KalyaniP_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kalyani_Priyadarshan"
+  },
+  {
+    "name": "Darshana Rajendran",
+    "clean": "darshana rajendran",
+    "type": "actress",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDg5NmQzNDMtYWM4Ni00MmEwLTlkOWQtZjEwYTg2MGY0OGNmXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Darshana_Rajendran"
+  },
+  {
+    "name": "Nikhila Vimal",
+    "clean": "nikhila vimal",
+    "type": "actress",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjYwOTg1OTctMzA1Ni00MjJhLThhZGEtNTI1MDI2YTYxMDVlXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nikhila_Vimal"
+  },
+  {
+    "name": "Aishwarya Lekshmi",
+    "clean": "aishwarya lekshmi",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Aishwarya_Lekshmi_%28Ponniyin-Selvan-Part-2-snapped-promoting-their-film-2%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Aishwarya_Lekshmi"
+  },
+  {
+    "name": "Aparna Balamurali",
+    "clean": "aparna balamurali",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/AparnaAtFilmFareAward.jpg/500px-AparnaAtFilmFareAward.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Aparna_Balamurali"
+  },
+  {
+    "name": "Nimisha Sajayan",
+    "clean": "nimisha sajayan",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Nimisha_Sajayan_%28cropped%29.jpg/500px-Nimisha_Sajayan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nimisha_Sajayan"
+  },
+  {
+    "name": "Anna Ben",
+    "clean": "anna ben",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Anna_Ben_2020.jpg/500px-Anna_Ben_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anna_Ben"
+  },
+  {
+    "name": "Samyuktha Menon",
+    "clean": "samyuktha menon",
+    "type": "actress",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTRjN2ViYzItNzY5Yi00YzM4LWE0YmYtYzZlYmE1NzFjMTViXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Samyuktha_Menon"
+  },
+  {
+    "name": "Amala Paul",
+    "clean": "amala paul",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Amala_Paul_at_60th_South_Filmfare_Awards_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Amala_Paul"
+  },
+  {
+    "name": "Bhavana",
+    "clean": "bhavana",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Actor_Bhavana_by_Shagil_Kannur_001_%28cropped%29.jpg/500px-Actor_Bhavana_by_Shagil_Kannur_001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bhavana_(actress)"
+  },
+  {
+    "name": "Navya Nair",
+    "clean": "navya nair",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Navya_Nair_in_January_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Navya_Nair"
+  },
+  {
+    "name": "Kavya Madhavan",
+    "clean": "kavya madhavan",
+    "type": "actress",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTJhZTItMjVlMy00MGMwLThhMzgtYTVmYzFhZGVkY2M5XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kavya_Madhavan"
+  },
+  {
+    "name": "Meera Jasmine",
+    "clean": "meera jasmine",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Meera_Jasmine_2011_Ma.jpg/500px-Meera_Jasmine_2011_Ma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Meera_Jasmine"
+  },
+  {
+    "name": "Geetu Mohandas",
+    "clean": "geetu mohandas",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Geethu_mohandas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Geetu_Mohandas"
+  },
+  {
+    "name": "Padmapriya",
+    "clean": "padmapriya",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Padmapriya_2008.jpg/500px-Padmapriya_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Padmapriya_Janakiraman"
+  },
+  {
+    "name": "Jyothirmayi",
+    "clean": "jyothirmayi",
+    "type": "actress",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jyothirmayi"
+  },
+  {
+    "name": "Sheela",
+    "clean": "sheela",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Sheela.png/500px-Sheela.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sheela"
+  },
+  {
+    "name": "Sharada",
+    "clean": "sharada",
+    "type": "actress",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sharada_(actress)"
+  },
+  {
+    "name": "Jayabharathi",
+    "clean": "jayabharathi",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jayabharathi_kollam.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jayabharathi"
+  },
+  {
+    "name": "K. P. A. C. Lalitha",
+    "clean": "k. p. a. c. lalitha",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/KPAC_Lailtha_at_KSNA_Award_night_Kollam_2019.jpg/500px-KPAC_Lailtha_at_KSNA_Award_night_Kollam_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/K._P._A._C._Lalitha"
+  },
+  {
+    "name": "Sukumari",
+    "clean": "sukumari",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Sukumari_at_kollam.JPG/500px-Sukumari_at_kollam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sukumari"
+  },
+  {
+    "name": "Kaviyoor Ponnamma",
+    "clean": "kaviyoor ponnamma",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kaviyoor_Ponnamma_2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kaviyoor_Ponnamma"
+  },
+  {
+    "name": "Philomina",
+    "clean": "philomina",
+    "type": "actress",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Philomina"
+  },
+  {
+    "name": "Bindu Panicker",
+    "clean": "bindu panicker",
+    "type": "actress",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bindu_Panicker"
+  },
+  {
+    "name": "Kalpana",
+    "clean": "kalpana",
+    "type": "actress",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kalpana_(actress)"
+  },
+  {
+    "name": "Ambika",
+    "clean": "ambika",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Actress_Ambika_%28cropped%29.JPG/500px-Actress_Ambika_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ambika_(actress)"
+  },
+  {
+    "name": "Seema",
+    "clean": "seema",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Seema_at_62nd_FF_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Seema_(actress)"
+  },
+  {
+    "name": "Menaka",
+    "clean": "menaka",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Menaka_actress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Menaka_(actress)"
+  },
+  {
+    "name": "Karthika",
+    "clean": "karthika",
+    "type": "actress",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Karthika_(actress)"
+  },
+  {
+    "name": "Shari",
+    "clean": "shari",
+    "type": "actress",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shari_(actress)"
+  },
+  {
+    "name": "Roma Asrani",
+    "clean": "roma asrani",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Roma_Asrani_%282011%29_%28cropped%29.jpg/500px-Roma_Asrani_%282011%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Roma_Asrani"
+  },
+  {
+    "name": "Remya Nambeesan",
+    "clean": "remya nambeesan",
+    "type": "actress",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWY0NDhkMmUtM2JhMC00Njg4LWI4ZmMtMDMxMzU4YTkwYjVjXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Remya_Nambeesan"
+  },
+  {
+    "name": "Honey Rose",
+    "clean": "honey rose",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Honey_Rose_2019.jpg/500px-Honey_Rose_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Honey_Rose"
+  },
+  {
+    "name": "Prayaga Martin",
+    "clean": "prayaga martin",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Prayaga_Martin.jpg/500px-Prayaga_Martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Prayaga_Martin"
+  },
+  {
+    "name": "Grace Antony",
+    "clean": "grace antony",
+    "type": "actress",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjc4NDg2ZjMtOTY2Ni00Y2Y0LWIzODgtNzFiYTA1MGUwMDk2XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grace_Antony"
+  },
+  {
+    "name": "Rajisha Vijayan",
+    "clean": "rajisha vijayan",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Rajisha_Vijayan_In_a_Audio_Launch.jpg/500px-Rajisha_Vijayan_In_a_Audio_Launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rajisha_Vijayan"
+  },
+  {
+    "name": "Surabhi Lakshmi",
+    "clean": "surabhi lakshmi",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Surabhi_Lakkshmi.jpg/500px-Surabhi_Lakkshmi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Surabhi_Lakshmi"
+  },
+  {
+    "name": "Lijomol Jose",
+    "clean": "lijomol jose",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lijomol_Jose_%28cropped%29.jpg/500px-Lijomol_Jose_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lijomol_Jose"
+  },
+  {
+    "name": "Madonna Sebastian",
+    "clean": "madonna sebastian",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Madonna_Sebastian.png/500px-Madonna_Sebastian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Madonna_Sebastian"
+  },
+  {
+    "name": "Anupama Parameswaran",
+    "clean": "anupama parameswaran",
+    "type": "actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/AnupamaParameswaran_%28cropped%29.jpg/500px-AnupamaParameswaran_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anupama_Parameswaran"
+  },
+  {
+    "name": "Sai Pallavi",
+    "clean": "sai pallavi",
+    "type": "actress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sai_Pallavi_at_Ramayana_launch_event_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sai_Pallavi"
+  },
+  {
+    "name": "Priyadarshan",
+    "clean": "priyadarshan",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Priyadarshan_at_a_press_conference_for_%E2%80%98Kamaal_Dhamaal_Malamaal%E2%80%99_%28cropped%29.jpg/500px-Priyadarshan_at_a_press_conference_for_%E2%80%98Kamaal_Dhamaal_Malamaal%E2%80%99_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Priyadarshan"
+  },
+  {
+    "name": "Sathyan Anthikad",
+    "clean": "sathyan anthikad",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/SATHYAN_ANTHIKAD.png/500px-SATHYAN_ANTHIKAD.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sathyan_Anthikad"
+  },
+  {
+    "name": "I. V. Sasi",
+    "clean": "i. v. sasi",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/IV_Sasi_62nd_Filmfare_Awards_South.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/I._V._Sasi"
+  },
+  {
+    "name": "Joshiy",
+    "clean": "joshiy",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Joshi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Joshiy"
+  },
+  {
+    "name": "K. S. Sethumadhavan",
+    "clean": "k. s. sethumadhavan",
+    "type": "director",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/K._S._Sethumadhavan"
+  },
+  {
+    "name": "Adoor Gopalakrishnan",
+    "clean": "adoor gopalakrishnan",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Director_Adoor_Gopalakrishnan.jpg/500px-Director_Adoor_Gopalakrishnan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Adoor_Gopalakrishnan"
+  },
+  {
+    "name": "G. Aravindan",
+    "clean": "g. aravindan",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/15/G._Aravindan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/G._Aravindan"
+  },
+  {
+    "name": "John Abraham",
+    "clean": "john abraham",
+    "type": "director",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/John_Abraham_(director)"
+  },
+  {
+    "name": "Padmarajan",
+    "clean": "padmarajan",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/P_Padmarajan.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/P._Padmarajan"
+  },
+  {
+    "name": "Bharathan",
+    "clean": "bharathan",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bharathan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bharathan"
+  },
+  {
+    "name": "Sibi Malayil",
+    "clean": "sibi malayil",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Sibi_Malayil_at_IFFK.jpg/500px-Sibi_Malayil_at_IFFK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sibi_Malayil"
+  },
+  {
+    "name": "Fazil",
+    "clean": "fazil",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Fazil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fazil_(director)"
+  },
+  {
+    "name": "Kamal",
+    "clean": "kamal",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kamal_Director_at_IFFK.jpg/500px-Kamal_Director_at_IFFK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kamal_(director)"
+  },
+  {
+    "name": "Shaji Kailas",
+    "clean": "shaji kailas",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Shaji_Kailas.jpg/500px-Shaji_Kailas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shaji_Kailas"
+  },
+  {
+    "name": "Jayaraj",
+    "clean": "jayaraj",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jayaraj.jpg/500px-Jayaraj.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jayaraj"
+  },
+  {
+    "name": "Bhadran",
+    "clean": "bhadran",
+    "type": "director",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bhadran_(director)"
+  },
+  {
+    "name": "Lal Jose",
+    "clean": "lal jose",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Laljose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lal_Jose"
+  },
+  {
+    "name": "Ranjith",
+    "clean": "ranjith",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Ranjith_%28director%29.jpg/500px-Ranjith_%28director%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ranjith_(director)"
+  },
+  {
+    "name": "Blessy",
+    "clean": "blessy",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Director_Blessy.jpg/500px-Director_Blessy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Blessy"
+  },
+  {
+    "name": "Anwar Rasheed",
+    "clean": "anwar rasheed",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Anwar_Rasheed.jpg/500px-Anwar_Rasheed.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anwar_Rasheed"
+  },
+  {
+    "name": "Amal Neerad",
+    "clean": "amal neerad",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Amal_neerad.jpg/500px-Amal_neerad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Amal_Neerad"
+  },
+  {
+    "name": "Lijo Jose Pellissery",
+    "clean": "lijo jose pellissery",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Lijo_at_IFFI_2018.jpg/500px-Lijo_at_IFFI_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lijo_Jose_Pellissery"
+  },
+  {
+    "name": "Dileesh Pothan",
+    "clean": "dileesh pothan",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Dileesh_Pothan_2019.jpg/500px-Dileesh_Pothan_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dileesh_Pothan"
+  },
+  {
+    "name": "Jeethu Joseph",
+    "clean": "jeethu joseph",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jeethu1.png/500px-Jeethu1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jeethu_Joseph"
+  },
+  {
+    "name": "Aashiq Abu",
+    "clean": "aashiq abu",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Aashiq_Abu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Aashiq_Abu"
+  },
+  {
+    "name": "Girish A. D.",
+    "clean": "girish a. d.",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Girish_A.D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/Girish_A._D."
+  },
+  {
+    "name": "Chidambaram",
+    "clean": "chidambaram",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chidambaram_Poduval.jpg/500px-Chidambaram_Poduval.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Chidambaram%20%28director%29"
+  },
+  {
+    "name": "Rahul Sadasivan",
+    "clean": "rahul sadasivan",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/RahulSpic_2024_-_jpg.jpg/500px-RahulSpic_2024_-_jpg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rahul_Sadasivan"
+  },
+  {
+    "name": "Khalid Rahman",
+    "clean": "khalid rahman",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Khalid_Rahman_2.jpg/500px-Khalid_Rahman_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Khalid_Rahman"
+  },
+  {
+    "name": "Mahesh Narayanan",
+    "clean": "mahesh narayanan",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Mahesh_Narayanan.jpg/500px-Mahesh_Narayanan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mahesh_Narayanan"
+  },
+  {
+    "name": "Vipin Das",
+    "clean": "vipin das",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Vipin_Das_Malayalam_Film_Director_at_Film_Shooting_Site.jpg/500px-Vipin_Das_Malayalam_Film_Director_at_Film_Shooting_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vipin_Das"
+  },
+  {
+    "name": "Alphonse Puthren",
+    "clean": "alphonse puthren",
+    "type": "director",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5OTE5NDcyM15BMl5BanBnXkFtZTgwNjA2MjM3OTE@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Alphonse_Puthren"
+  },
+  {
+    "name": "Sasikumar",
+    "clean": "sasikumar",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/71/J._Sasikumar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/J._Sasikumar"
+  },
+  {
+    "name": "P. G. Viswambharan",
+    "clean": "p. g. viswambharan",
+    "type": "director",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Pg_Viswambaran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wiki_url": "https://en.wikipedia.org/wiki/P._G._Viswambharan"
+  },
+  {
+    "name": "T. Hariharan",
+    "clean": "t. hariharan",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Hariharan_director.jpg/500px-Hariharan_director.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Hariharan_(director)"
+  },
+  {
+    "name": "Balachandra Menon",
+    "clean": "balachandra menon",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Balachandra_Menon_%28cropped%29.JPG/500px-Balachandra_Menon_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Balachandra_Menon"
+  },
+  {
+    "name": "Rajasenan",
+    "clean": "rajasenan",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Rajasenan280521.jpg/500px-Rajasenan280521.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rajasenan"
+  },
+  {
+    "name": "Siddique-Lal",
+    "clean": "siddique-lal",
+    "type": "director",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ5OWY2MDUtOTRjYi00YzM4LWJmNzItZjYxMmM5MWNlZGEzXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Siddique-Lal"
+  },
+  {
+    "name": "Siddique",
+    "clean": "siddique",
+    "type": "director",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ5OWY2MDUtOTRjYi00YzM4LWJmNzItZjYxMmM5MWNlZGEzXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Siddique_(director)"
+  },
+  {
+    "name": "Lal",
+    "clean": "lal",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Lal_%28actor%29_BNC.jpg/500px-Lal_%28actor%29_BNC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lal_(actor)"
+  },
+  {
+    "name": "Rosshan Andrrews",
+    "clean": "rosshan andrrews",
+    "type": "director",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTJiNzFkM2ItMTMwMC00OGI4LWE1NjItZjQxNTczNjRhM2E5XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rosshan_Andrrews"
+  },
+  {
+    "name": "Midhun Manuel Thomas",
+    "clean": "midhun manuel thomas",
+    "type": "director",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTIxZDhjYTgtYzdmNy00MmVkLWEzNDctNGM0N2RhNDcwMmUyXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "wiki_url": "https://en.wikipedia.org/wiki/Midhun_Manuel_Thomas"
+  },
+  {
+    "name": "Ratheesh Balakrishnan Poduval",
+    "clean": "ratheesh balakrishnan poduval",
+    "type": "director",
+    "image": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ratheesh_Balakrishnan_Poduval"
+  },
+  {
+    "name": "Tharun Moorthy",
+    "clean": "tharun moorthy",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tharunmoorthy.jpg/500px-Tharunmoorthy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tharun_Moorthy"
+  },
+  {
+    "name": "Senna Hegde",
+    "clean": "senna hegde",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/JIM03022.jpg/500px-JIM03022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Senna_Hegde"
+  },
+  {
+    "name": "Muhsin Parari",
+    "clean": "muhsin parari",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/09tvm_muhsin.jpg/500px-09tvm_muhsin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Muhsin_Parari"
+  },
+  {
+    "name": "Zakariya Mohammed",
+    "clean": "zakariya mohammed",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Zakariya_Valancheri.jpg/500px-Zakariya_Valancheri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Zakariya_Mohammed"
+  },
+  {
+    "name": "Nivin Pauly",
+    "clean": "nivin pauly",
+    "type": "director",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Realnivi.jpg/500px-Realnivi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nivin_Pauly"
+  }
+]

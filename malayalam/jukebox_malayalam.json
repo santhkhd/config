@@ -1,0 +1,26 @@
+[
+  {
+    "title": "K.J. Yesudas Evergreen Melodies",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=kj+yesudas+malayalam+hits+jukebox"
+    ],
+    "image": "https://img.icons8.com/color/96/cd.png"
+  },
+  {
+    "title": "K.S. Chithra Melodious Hits",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=ks+chithra+malayalam+songs+jukebox"
+    ],
+    "image": "https://img.icons8.com/color/96/retro-audio-tape.png"
+  },
+  {
+    "title": "Johnson Master All-Time Classics",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=johnson+master+malayalam+songs+jukebox"
+    ],
+    "image": "https://img.icons8.com/color/96/gramophone.png"
+  }
+]

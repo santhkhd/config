@@ -1,0 +1,89 @@
+[
+  {
+    "title": "⚡ പ്രധാന വാർത്തകൾ (Top Headlines)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss?hl=ml&gl=IN&ceid=IN:ml",
+      "https://www.mathrubhumi.com/rss/latest-news",
+      "https://malayalam.oneindia.com/rss/malayalam-news-fb.xml",
+      "https://www.twentyfournews.com/feed"
+    ],
+    "image": "https://img.icons8.com/color/96/breaking-news.png"
+  },
+  {
+    "title": "🇮🇳 ഇന്ത്യൻ വാർത്തകൾ (India & National)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/NATION?hl=ml&gl=IN&ceid=IN:ml",
+      "https://www.doolnews.com/category/india/feed"
+    ],
+    "image": "https://img.icons8.com/color/96/india.png"
+  },
+  {
+    "title": "🔬 ശാസ്ത്രം & സാങ്കേതികവിദ്യ (Science & Space)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/search?q=%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82&hl=ml&gl=IN&ceid=IN:ml",
+      "https://news.google.com/rss/search?q=ISRO+OR+NASA+OR+%E0%B4%B5%E0%B4%BF%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%8D&hl=ml&gl=IN&ceid=IN:ml",
+      "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ml&gl=IN&ceid=IN:ml",
+      "https://malayalam.gizbot.com/rss/gizbot-malayalam-fb.xml"
+    ],
+    "image": "https://img.icons8.com/color/96/telescope.png"
+  },
+  {
+    "title": "🌴 കേരളം & രാഷ്ട്രീയം (Kerala & Politics)",
+    "provider": "rss",
+    "arguments": [
+      "https://www.doolnews.com/feed",
+      "https://www.marunadanmalayalee.com/feed",
+      "https://janmabhumi.in/feed",
+      "https://kairalinewsonline.com/feed",
+      "https://southlive.in/feed/",
+      "https://www.sirajlive.com/feed/",
+      "https://www.expresskerala.com/feed"
+    ],
+    "image": "https://img.icons8.com/color/96/kerala.png"
+  },
+  {
+    "title": "🎬 സിനിമ & വിനോദം (Cinema & Culture)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=ml&gl=IN&ceid=IN:ml",
+      "https://www.mathrubhumi.com/rss/movies-music",
+      "https://malayalam.filmibeat.com/rss/filmibeat-malayalam-fb.xml",
+      "https://www.doolnews.com/category/cinema/feed",
+      "https://southlive.in/category/movie/feed/"
+    ],
+    "image": "https://img.icons8.com/color/96/clapperboard.png"
+  },
+  {
+    "title": "⚽ കായിക ലോകം (Sports & Games)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ml&gl=IN&ceid=IN:ml",
+      "https://www.mathrubhumi.com/rss/sports",
+      "https://malayalam.mykhel.com/rss/mykhel-malayalam-fb.xml",
+      "https://www.doolnews.com/category/sports/feed",
+      "https://janmabhumi.in/category/sports/feed"
+    ],
+    "image": "https://img.icons8.com/color/96/trophy.png"
+  },
+  {
+    "title": "💼 ബിസിനസ്സ് & ധനകാര്യം (Business & Finance)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ml&gl=IN&ceid=IN:ml",
+      "https://malayalam.drivespark.com/rss/drivespark-malayalam-fb.xml"
+    ],
+    "image": "https://img.icons8.com/color/96/money-circulation.png"
+  },
+  {
+    "title": "🌍 ലോക വാർത്തകൾ (World & International)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ml&gl=IN&ceid=IN:ml",
+      "https://www.doolnews.com/category/world/feed"
+    ],
+    "image": "https://img.icons8.com/color/96/globe--v1.png"
+  }
+]

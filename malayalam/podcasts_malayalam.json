@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Malayalam Crime Files & Mystery Audio",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=malayalam+true+crime+podcast"
+    ],
+    "image": "https://img.icons8.com/color/96/podcast.png"
+  },
+  {
+    "title": "Ghost & Paranormal Stories Kerala",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=malayalam+ghost+stories+audio+podcast"
+    ],
+    "image": "https://img.icons8.com/color/96/ghost.png"
+  }
+]

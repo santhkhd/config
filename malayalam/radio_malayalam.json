@@ -1,0 +1,214 @@
+[
+  {
+    "category": "Popular FM Live",
+    "stations": [
+      {
+        "name": "Radio Suno 91.7 FM",
+        "tagline": "Kettukonde Irikkam • Qatar & Kerala Live",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+        "logo_url": "https://onlineradiohub.com/wp-content/uploads/2022/03/radio-suno-malayalam-fm.jpg",
+        "accent_color": "#F97316",
+        "is_live": true
+      },
+      {
+        "name": "Radio Malayalam 98.6 FM",
+        "tagline": "Gulf & Kerala Superhit Malayalam Radio",
+        "stream_url": "https://stream.zeno.fm/512rbf1e3qzuv",
+        "logo_url": "https://onlineradiohub.com/wp-content/uploads/2022/03/qatar-malayalam-986-fm.jpg",
+        "accent_color": "#E11D48",
+        "is_live": true
+      },
+      {
+        "name": "Club FM 94.3",
+        "tagline": "Ton Kanakkinu Fun • Mathrubhumi Live",
+        "stream_url": "https://strw3.openstream.co/1459?aw_0_1st.collectionid%3D4635%26stationId%3D4635%26publisherId%3D1483%26k%3D1769584850",
+        "logo_url": "https://onlineradiofm.in/assets/image/radio/180/clubfmnewlogo.webp",
+        "accent_color": "#EAB308",
+        "is_live": true
+      },
+      {
+        "name": "AIR Malayalam (All India Radio)",
+        "tagline": "Prasar Bharati National Malayalam Service",
+        "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+        "logo_url": "https://radiosindia.com/images/air.jpg",
+        "accent_color": "#0284C7",
+        "is_live": true
+      },
+      {
+        "name": "AIR Ananthapuri FM 101.9",
+        "tagline": "Thiruvananthapuram Vividh Bharati Live",
+        "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8",
+        "logo_url": "https://radiosindia.com/images/air.jpg",
+        "accent_color": "#0369A1",
+        "is_live": true
+      },
+      {
+        "name": "Radio Keralam Live",
+        "tagline": "Kerala's Vibrant 24x7 Digital FM",
+        "stream_url": "https://ice31.securenetsystems.net/RADIOKERAL",
+        "logo_url": "https://radiosindia.com/images/radiokeralam.jpg",
+        "accent_color": "#16A34A",
+        "is_live": true
+      },
+      {
+        "name": "Radio Digital Malayali",
+        "tagline": "24/7 Superhit Malayalam Beats",
+        "stream_url": "https://radio.digitalmalayali.in/listen/stream/radio.mp3",
+        "logo_url": "https://radio.digitalmalayali.in/static/uploads/album_art.1688135987.jpg",
+        "accent_color": "#3B82F6",
+        "is_live": true
+      },
+      {
+        "name": "Ahalia FM 90.4",
+        "tagline": "Community Radio Palakkad Live",
+        "stream_url": "https://cast1.my-control-panel.com/proxy/ahaliafm/stream",
+        "logo_url": "https://radiosindia.com/images/air.jpg",
+        "accent_color": "#10B981",
+        "is_live": true
+      },
+      {
+        "name": "Radio Mattoli 90.4 FM",
+        "tagline": "Wayanad Community Radio Live",
+        "stream_url": "https://cast1.my-control-panel.com/proxy/radiomattoli/stream",
+        "logo_url": "https://radiosindia.com/images/radiomattoli.jpg",
+        "accent_color": "#06B6D4",
+        "is_live": true
+      },
+      {
+        "name": "Anbu FM Malayalam",
+        "tagline": "Heart-Touching Malayalam Melodies Live",
+        "stream_url": "https://stream.zeno.fm/8ca40byv4x8uv",
+        "logo_url": "https://radiosindia.com/images/malayalammusic.jpg",
+        "accent_color": "#D97706",
+        "is_live": true
+      },
+      {
+        "name": "London Malayalam Radio",
+        "tagline": "Global Pravasi Malayalam Live",
+        "stream_url": "https://ais-edge105-live365-dal02.cdnstream.com/a50671",
+        "logo_url": "https://radiosindia.com/images/986malayalamradio.jpg",
+        "accent_color": "#8B5CF6",
+        "is_live": true
+      }
+    ]
+  },
+  {
+    "category": "Singers & Stars",
+    "stations": [
+      {
+        "name": "KJ Yesudas Hits Radio",
+        "tagline": "Ganagandharvan K.J. Yesudas Evergreen Hits",
+        "stream_url": "https://stream.zeno.fm/9x1sw687nf9uv",
+        "logo_url": "https://onlineradiohub.com/wp-content/uploads/2023/03/Yesudas-Radio.jpg",
+        "accent_color": "#4F46E5",
+        "is_live": true
+      },
+      {
+        "name": "KS Chithra Hits Radio",
+        "tagline": "Vanambadi K.S. Chithra's Melodious Evergreens",
+        "stream_url": "http://stream.zeno.fm/dubvcz3rkrhvv",
+        "logo_url": "https://radiosindia.com/images/kschitra.jpg",
+        "accent_color": "#DB2777",
+        "is_live": true
+      },
+      {
+        "name": "Mohanlal Hits Radio",
+        "tagline": "Complete Actor Mohanlal Blockbuster Songs",
+        "stream_url": "https://stream.zeno.fm/5vva7u4ts0quv",
+        "logo_url": "https://radiosindia.com/images/mohanlalhits.jpg",
+        "accent_color": "#7C3AED",
+        "is_live": true
+      }
+    ]
+  },
+  {
+    "category": "Golden Eras & Hits",
+    "stations": [
+      {
+        "name": "Malayalam 80s 90s Classics",
+        "tagline": "Golden Era Nostalgic Movie Hits",
+        "stream_url": "https://stream.zeno.fm/g8cx7tggb3quv.aac",
+        "logo_url": "https://radiosindia.com/images/malayalammusic.jpg",
+        "accent_color": "#CA8A04",
+        "is_live": true
+      },
+      {
+        "name": "Aaha Radio Classics",
+        "tagline": "Old is Gold • 70s, 80s, 90s Hits",
+        "stream_url": "https://s2.radio.co/s3801784f1/listen",
+        "logo_url": "https://radiosindia.com/images/kschitra.jpg",
+        "accent_color": "#059669",
+        "is_live": true
+      },
+      {
+        "name": "Kaathoram Live Melodies",
+        "tagline": "Evergreen Malayalam Classic Melodies",
+        "stream_url": "https://c30.radioboss.fm/stream/560",
+        "logo_url": "https://radiosindia.com/images/malayalammusic.jpg",
+        "accent_color": "#EA580C",
+        "is_live": true
+      },
+      {
+        "name": "Kancheeravam Radio",
+        "tagline": "Folk, Kavitha & Evergreen Malayalam",
+        "stream_url": "https://radiosavre.com:8020/radio.mp3",
+        "logo_url": "https://radiosindia.com/images/malayalammusic.jpg",
+        "accent_color": "#65A30D",
+        "is_live": true
+      }
+    ]
+  },
+  {
+    "category": "Devotional Radio",
+    "stations": [
+      {
+        "name": "Malayalam Bhakthi Ganam",
+        "tagline": "Devotional Hymns & Bhajans 24x7",
+        "stream_url": "https://stream.zeno.fm/08e1vkshcc9uv",
+        "logo_url": "https://radiosindia.com/images/iyalisaibakthiradio.jpg",
+        "accent_color": "#DC2626",
+        "is_live": true
+      },
+      {
+        "name": "Shaiva Lahari Bhakthi Ganam",
+        "tagline": "Lord Shiva & Hindu Devotional 24/7",
+        "stream_url": "https://radio.shaivam.org/listen/shaiva-lahari/radio.mp3",
+        "logo_url": "https://radiosindia.com/images/iyalisaibakthiradio.jpg",
+        "accent_color": "#F59E0B",
+        "is_live": true
+      },
+      {
+        "name": "Revive Radio Malayalam",
+        "tagline": "Christian Worship, Gospel & Prayers",
+        "stream_url": "https://gains.reviveradio.net/proxy/revivemalayalam?mp=/stream",
+        "logo_url": "https://radiosindia.com/images/reviveradio.jpg",
+        "accent_color": "#2563EB",
+        "is_live": true
+      },
+      {
+        "name": "Jesus Reigns Christian Radio",
+        "tagline": "Gospel Songs & Worship 24/7",
+        "stream_url": "https://gains.reviveradio.net/proxy/jesusreigns?mp=/stream",
+        "logo_url": "https://onlineradiohub.com/wp-content/uploads/2023/03/JesusRadio.jpg",
+        "accent_color": "#3B82F6",
+        "is_live": true
+      },
+      {
+        "name": "Mary Matha Radio",
+        "tagline": "Malayalam Christian Devotional Prayers",
+        "stream_url": "https://stream.zeno.fm/g5ay9q4dgrruv",
+        "logo_url": "https://radiosindia.com/images/reviveradio.jpg",
+        "accent_color": "#6366F1",
+        "is_live": true
+      },
+      {
+        "name": "Peace Radio Live",
+        "tagline": "Islamic Speeches & Nasheeds Live",
+        "stream_url": "https://peaceradio.out.airtime.pro/peaceradio_a",
+        "logo_url": "https://onlineradiohub.com/wp-content/uploads/2023/03/PeaceRadio.jpg",
+        "accent_color": "#10B981",
+        "is_live": true
+      }
+    ]
+  }
+]

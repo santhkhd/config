@@ -1,0 +1,66 @@
+[
+  {
+    "title": "All-Time Most Viewed Songs (100M+ Views)",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam hit video songs|CAM%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/GGTOqTZnMDA/hqdefault.jpg"
+  },
+  {
+    "title": "All-Time Most Viewed Movie Trailers",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam movie official trailer|CAM%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/hf96obsJIGU/hqdefault.jpg"
+  },
+  {
+    "title": "All-Time Most Viewed Comedy Scenes",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam super hit comedy scenes|CAM%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/B8jYGPeXsNo/hqdefault.jpg"
+  },
+  {
+    "title": "Top Rated Malayalam Short Films",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam award winning short film|CAE%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/X2XfkAK7r4Y/hqdefault.jpg"
+  },
+  {
+    "title": "Most Viewed Movie Teasers & Glimpses",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam movie official teaser|CAM%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/yGzKq7E8mR8/hqdefault.jpg"
+  },
+  {
+    "title": "All-Time Golden Evergreen Classic Songs",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam evergreen classic old songs|CAM%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/7BGxDH891Qk/hqdefault.jpg"
+  },
+  {
+    "title": "Top Rated Reviews & Movie Analyses",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam movie review analysis|CAE%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/RYgorPNspoI/hqdefault.jpg"
+  },
+  {
+    "title": "Most Viewed Kerala Stage Shows & Events",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam stage show mega event dance comedy|CAM%3D"
+    ],
+    "image": "https://i.ytimg.com/vi/JFpopjemrF8/hqdefault.jpg"
+  }
+]

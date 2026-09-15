@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Asianet News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCf8w5m0YsRa8MHQ5bwSGmbw"
+    ],
+    "image": "https://img.icons8.com/color/96/news.png"
+  },
+  {
+    "title": "24 News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Xtp6_0zYhq8Z18GVI6Bmw"
+    ],
+    "image": "https://img.icons8.com/color/96/tv-show.png"
+  },
+  {
+    "title": "Manorama News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCP0uG-mcMImgKnJz-VjJZmQ"
+    ],
+    "image": "https://img.icons8.com/color/96/live-video.png"
+  },
+  {
+    "title": "Mathrubhumi News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC09eWekVDztdoRUS-s3CQ7A"
+    ],
+    "image": "https://img.icons8.com/color/96/tv.png"
+  },
+  {
+    "title": "MediaOne News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC-f7r46JhYv78q5pGrO6ivA"
+    ],
+    "image": "https://img.icons8.com/color/96/media.png"
+  },
+  {
+    "title": "Reporter Live",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCFx1nseXKTc1Culiu3neeSQ"
+    ],
+    "image": "https://img.icons8.com/color/96/microphone.png"
+  },
+  {
+    "title": "Janam TV",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCiT5h66Pm06Eu6R7eQflFWQ"
+    ],
+    "image": "https://img.icons8.com/color/96/india.png"
+  },
+  {
+    "title": "Kaumudy TV News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCTojB9v5tkn3UyiUsx8cE3g"
+    ],
+    "image": "https://img.icons8.com/color/96/video.png"
+  },
+  {
+    "title": "Kairali News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCnEvxaWfVL91XIYuyQRO5QA"
+    ],
+    "image": "https://img.icons8.com/color/96/news.png"
+  },
+  {
+    "title": "Jaihind TV News",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCDM528eqIJElfflkvfT-MuQ"
+    ],
+    "image": "https://img.icons8.com/color/96/flag.png"
+  }
+]

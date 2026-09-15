@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Marimayam (1250+ Episodes)",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLQNCaDxtvXKRFGSoP9eQIgThMBnOadHyO.json"
+    ],
+    "image": "https://img.icons8.com/color/96/comedy.png"
+  },
+  {
+    "title": "Uppum Mulakum (690+ Episodes)",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLlCMxD9I3oIlbCMt5bw3tz16LG_3lGh3Y.json"
+    ],
+    "image": "https://img.icons8.com/color/96/salt-shaker.png"
+  },
+  {
+    "title": "Thatteem Mutteem (610+ Episodes)",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLQNCaDxtvXKSfKc8-v-WA-qZQ3EM155F4.json"
+    ],
+    "image": "https://img.icons8.com/color/96/family.png"
+  },
+  {
+    "title": "Chakkappazham (470+ Episodes)",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLo6nvUgrCYly1-xEGBNu4E2cqnFLIoEXW.json"
+    ],
+    "image": "https://img.icons8.com/color/96/jackfruit.png"
+  },
+  {
+    "title": "Asianet Comedy Stars (1490+ Episodes)",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PL06gwaCm769I83Aw9T7WkfZyioIpdz1oz.json"
+    ],
+    "image": "https://img.icons8.com/color/96/clown-fish.png"
+  },
+  {
+    "title": "Flowers Top Singer (410+ Episodes)",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLo6nvUgrCYly_IxKn0Xh32zdQn6nWped4.json"
+    ],
+    "image": "https://img.icons8.com/color/96/musical-notes.png"
+  },
+  {
+    "title": "Akkarakazhchakal Iconic Sitcom",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLyr-328vWiQ3hZK1q-Hq0P5_XWnocDCoy.json"
+    ],
+    "image": "https://img.icons8.com/color/96/theatre-mask.png"
+  },
+  {
+    "title": "Star Singer Asianet",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLS6GOsr8ulfVuKwcoE83OqzmhsVXHtxMd.json"
+    ],
+    "image": "https://img.icons8.com/color/96/microphone.png"
+  },
+  {
+    "title": "Badai Bungalow Comedy",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLOUsdOhe9vrH_IhgXHV6QAEZTzIMpCR7C.json"
+    ],
+    "image": "https://img.icons8.com/color/96/retro-tv.png"
+  },
+  {
+    "title": "Karikku Web Series Episodes",
+    "provider": "videos",
+    "arguments": [
+      "playlists/PLtV_yvBUCcokb_tGMWTMLjJrHFNInB8WM.json"
+    ],
+    "image": "https://img.icons8.com/color/96/popcorn.png"
+  }
+]

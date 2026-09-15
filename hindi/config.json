@@ -1,0 +1,59 @@
+{
+    "app": {
+        "status": true,
+        "toolbar": true,
+        "navigation_drawer": true,
+        "geolocation": true,
+        "cache": true,
+        "open_link_in_external_browser": false,
+        "zoom_controls": false,
+        "privacy_policy_url": "privacy_policy.html",
+        "more_apps_url": "https://play.google.com/store/apps/developer?id=Shivappa+Developer"
+    },
+    "rss_news": [
+        {
+            "title": "Aaj Tak News",
+            "url": "https://www.aajtak.in/rssfeeds/?id=home"
+        },
+        {
+            "title": "Dainik Bhaskar",
+            "url": "https://www.bhaskar.com/rss-feed/2322/"
+        },
+        {
+            "title": "NDTV India",
+            "url": "https://feeds.feedburner.com/ndtvkhabar"
+        }
+    ],
+    "youtube_channels": [
+        {
+            "name": "T-Series",
+            "channel_id": "UCq-Fj5jknLsUf-MWSy4_brA"
+        },
+        {
+            "name": "Aaj Tak",
+            "channel_id": "UCt4t-jeY85JegMlZ-E5UWtA"
+        },
+        {
+            "name": "Zee News",
+            "channel_id": "UCtts0Z91n6FmK6PqW_e0_2g"
+        },
+        {
+            "name": "Sony SAB",
+            "channel_id": "UC6-F5tO4NE_P4G5QG_e0_2g"
+        }
+    ],
+    "menus": [
+        {
+            "name": "Home",
+            "type": "category",
+            "url": "home.json",
+            "icon": "https://img.icons8.com/color/96/home.png"
+        },
+        {
+            "name": "Hindi News",
+            "type": "rss",
+            "url": "https://www.aajtak.in/rssfeeds/?id=home",
+            "icon": "https://img.icons8.com/color/96/newspaper.png"
+        }
+    ]
+}

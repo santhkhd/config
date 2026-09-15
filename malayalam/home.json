@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Malayalam Channels & Creators (50+)",
+    "provider": "overview",
+    "arguments": [
+      "youtube_categories.json"
+    ],
+    "image": "https://img.icons8.com/color/96/youtube-play.png"
+  },
+  {
+    "title": "Malayalam Movie Zone (6,150+)",
+    "provider": "overview",
+    "arguments": [
+      "movies_categories.json"
+    ],
+    "image": "https://img.icons8.com/color/96/movie.png"
+  },
+  {
+    "title": "Malayalam Songs (27,000+ • 1938-2026)",
+    "provider": "songs",
+    "arguments": [
+      "songs.json"
+    ],
+    "image": "https://img.icons8.com/color/96/musical-notes.png"
+  },
+  {
+    "title": "24/7 Live Malayalam Radio",
+    "provider": "radio",
+    "arguments": [
+      "radio_malayalam.json"
+    ],
+    "image": "https://img.icons8.com/color/96/radio-tower.png"
+  },
+  {
+    "title": "OTT Releases This Week",
+    "provider": "overview",
+    "arguments": [
+      "ott_releases_malayalam.json"
+    ],
+    "image": "https://img.icons8.com/color/96/clapperboard.png"
+  },
+  {
+    "title": "Newspapers & E-Papers",
+    "provider": "overview",
+    "arguments": [
+      "newspapers_malayalam.json"
+    ],
+    "image": "https://img.icons8.com/color/96/newspaper.png"
+  },
+  {
+    "title": "Live News RSS Articles",
+    "provider": "rss",
+    "arguments": [
+      "ALL_NEWS"
+    ],
+    "image": "https://img.icons8.com/color/96/rss.png"
+  },
+  {
+    "title": "News by Topics (India, Science, Cinema...)",
+    "provider": "overview",
+    "arguments": [
+      "news_topics.json"
+    ],
+    "image": "https://img.icons8.com/color/96/news.png"
+  },
+  {
+    "title": "Trending Status & Story Clips",
+    "provider": "overview",
+    "arguments": [
+      "status_clips_malayalam.json"
+    ],
+    "image": "https://img.icons8.com/fluency/96/video-playlist.png"
+  },
+  {
+    "title": "Daily Cinema Quiz",
+    "provider": "assets",
+    "arguments": [
+      "malayalam/quiz.html"
+    ],
+    "image": "https://img.icons8.com/color/96/idea.png"
+  },
+  {
+    "title": "Fan Battles & Weekly Polls",
+    "provider": "assets",
+    "arguments": [
+      "malayalam/polls.html"
+    ],
+    "image": "https://img.icons8.com/color/96/elections.png"
+  },
+  {
+    "title": "Daily Malayalam Trolls & Memes",
+    "provider": "assets",
+    "arguments": [
+      "malayalam/trolls.html"
+    ],
+    "image": "https://img.icons8.com/color/96/comedy.png"
+  }
+]

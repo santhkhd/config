@@ -1,0 +1,50 @@
+[
+  {
+    "title": "MC Audios Devotional Songs",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_-BE6CExJUP5ITshoL8LA"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nBKfsnLiDdU0VPCGnCK7heps5_OVQl3X5kBkatY_iVzA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Shalom Television Official",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCsh010y2VMniw_d0yvcjy0g"
+    ],
+    "image": "https://yt3.googleusercontent.com/KQRbDmdrR4y1Z47KC0tcBw8RJBbIEUIlA1o8EuoWwkGtnwnGFcsOiHqh-d_kBUmbCRKHm9DvCg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Goodness TV Channel",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCeqkjb2eXWvMbFAsTGkeTfw"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mpEXE57XrC03DLf2IPj1Ejjns6kxhI6XKJocveN-JBvQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Shekinah News & Devotional",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCHtYUfPnQci6GoUpPlWfrOg"
+    ],
+    "image": "https://yt3.googleusercontent.com/r-0zbuQYyggshIMxBm1J472TusBL5eOSBTLPTisboAFY8tExNPFwJBXM-x20GhUa1oz57PQBuA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Powervision TV Official",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCMtJwsvbaujprVOjp4ulWfA"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nKkIBEl86bDoyoZYcEvMwbd0x5Axmi0i87zaV1WT0oqGA60CgbEDEinqUAaa9pb4TwIQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Shalom Peace Media",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCILgojoeDahxOuzbHfb2OUw"
+    ],
+    "image": "https://yt3.googleusercontent.com/iSyqR8fAy5qmnzDuGAX_99l3z34QUzoeC0qgpC6K11rOl0GD890lIWrMSIFfLxCHiOdcusJ268U=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

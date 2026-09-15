@@ -1,0 +1,162 @@
+[
+  {
+    "title": "🎵 Malayalam Songs (27,000+ • 1938-2026)",
+    "image": "https://img.icons8.com/color/96/musical-notes.png",
+    "provider": "songs",
+    "arguments": [
+      "songs.json"
+    ]
+  },
+  {
+    "title": "⭐ All Channels In One Place",
+    "image": "https://img.icons8.com/color/96/youtube-play.png",
+    "provider": "overview",
+    "arguments": [
+      "channels.json"
+    ]
+  },
+  {
+    "title": "Malayalam Live TV (24x7)",
+    "image": "https://img.icons8.com/color/96/live-video.png",
+    "provider": "overview",
+    "arguments": [
+      "live_tv_malayalam.json"
+    ]
+  },
+  {
+    "title": "Kerala Local Cable & District IPTV",
+    "image": "https://img.icons8.com/fluency/96/tv.png",
+    "provider": "overview",
+    "arguments": [
+      "local_iptv_malayalam.json"
+    ]
+  },
+  {
+    "title": "Latest Movie Trailers & Songs",
+    "image": "https://img.icons8.com/color/96/film-reel.png",
+    "provider": "overview",
+    "arguments": [
+      "trailers_malayalam.json"
+    ]
+  },
+  {
+    "title": "All-Time Record Breakers & Hits",
+    "image": "https://img.icons8.com/color/96/trophy.png",
+    "provider": "overview",
+    "arguments": [
+      "all_time_hits_malayalam.json"
+    ]
+  },
+  {
+    "title": "Malayalam Superstars Specials & Filmography",
+    "image": "https://img.icons8.com/color/96/theatre-mask.png",
+    "provider": "overview",
+    "arguments": [
+      "star_specials_malayalam.json"
+    ]
+  },
+  {
+    "title": "Top TV Shows & Serial Episodes",
+    "image": "https://img.icons8.com/color/96/retro-tv.png",
+    "provider": "overview",
+    "arguments": [
+      "top_shows_malayalam.json"
+    ]
+  },
+  {
+    "title": "Top Malayalam Comedy Stars (ഹാസ്യ താരങ്ങൾ)",
+    "image": "https://img.icons8.com/color/96/theatre-mask.png",
+    "provider": "overview",
+    "arguments": [
+      "comedy_actors_malayalam.json"
+    ]
+  },
+  {
+    "title": "Malayalam News Channels",
+    "image": "https://img.icons8.com/color/96/news.png",
+    "provider": "overview",
+    "arguments": [
+      "news_channels.json"
+    ]
+  },
+  {
+    "title": "Family & TV Entertainment",
+    "image": "https://img.icons8.com/color/96/tv.png",
+    "provider": "overview",
+    "arguments": [
+      "tv_channels.json"
+    ]
+  },
+  {
+    "title": "Comedy & Web Series",
+    "image": "https://img.icons8.com/color/96/comedy.png",
+    "provider": "overview",
+    "arguments": [
+      "comedy_malayalam.json"
+    ]
+  },
+  {
+    "title": "Travel & Exploring Kerala",
+    "image": "https://img.icons8.com/color/96/airplane-take-off.png",
+    "provider": "overview",
+    "arguments": [
+      "travel_malayalam.json"
+    ]
+  },
+  {
+    "title": "Cookery & Recipes",
+    "image": "https://img.icons8.com/color/96/cooking-pot.png",
+    "provider": "overview",
+    "arguments": [
+      "cookery_malayalam.json"
+    ]
+  },
+  {
+    "title": "Music & Audio Hits",
+    "image": "https://img.icons8.com/color/96/music.png",
+    "provider": "overview",
+    "arguments": [
+      "music_channels.json"
+    ]
+  },
+  {
+    "title": "Kids, Rhymes & Cartoons",
+    "image": "https://img.icons8.com/color/96/baby.png",
+    "provider": "overview",
+    "arguments": [
+      "kids_malayalam.json"
+    ]
+  },
+  {
+    "title": "Tech, Automobiles & Reviews",
+    "image": "https://img.icons8.com/color/96/electronics.png",
+    "provider": "overview",
+    "arguments": [
+      "tech_malayalam.json"
+    ]
+  },
+  {
+    "title": "Movie Reviews & Critics",
+    "image": "https://img.icons8.com/color/96/reviewer.png",
+    "provider": "overview",
+    "arguments": [
+      "reviews_malayalam.json"
+    ]
+  },
+  {
+    "title": "Celebrity Interviews & Talks",
+    "image": "https://img.icons8.com/color/96/interview.png",
+    "provider": "overview",
+    "arguments": [
+      "interviews_malayalam.json"
+    ]
+  },
+  {
+    "title": "Devotional & Spiritual",
+    "image": "https://img.icons8.com/color/96/pray.png",
+    "provider": "overview",
+    "arguments": [
+      "devotional_malayalam.json"
+    ]
+  }
+]

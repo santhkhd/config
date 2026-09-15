@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Veena's Curryworld",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCZCk5WyGkPS1r1MujasTmsg"
+    ],
+    "image": "https://yt3.googleusercontent.com/eG8jPW0vH9AGr20PikxF395QOqflazvO0WBb6zzrHBOrekvusEVU5jIoEFS3FPZ65N_R7-z8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Shaan Geo Recipes",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC9nJ4u41qNtCsiJLTJtLLvA"
+    ],
+    "image": "https://yt3.googleusercontent.com/WBCEHmRzNBjxGZsTscidw7rjo1_6fYPMCZ4dxz-AK4LZfBDn0U0YUZxboTDpM-NiyJYdjZBUosQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Mia Kitchen Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCvrKA2V99QpgpeS7UPIPA_Q"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lae1GPn4ZFu2ij06F6NpjA4qfEtOe4P7rpWRlw7Um1gQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Lekshmi Nair Cooking Secrets",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC6rmUd48cwi8UBkqQLtODfQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/5FFQo9JHCptGuh7hcbUzV3HEFi2LupstnxQwzdxj46sahr6lXgWVXD63L8C-MCG1gOazuVyoBLg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Kannur Kitchen Special Recipes",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCFgG-ffAKtNHrA16HE3qF5Q"
+    ],
+    "image": "https://yt3.googleusercontent.com/3vZEr_2ZCN3qMndiN-cflQZszlH3PRtDehi1hHDBiD4F3dH5rfqS8T_DMD73zA5UlizDEl9B=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Salu Kitchen Easy Dishes",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCWGAcCViFtudxlnJuJwkdkw"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kZBUy_Ha-ABZk6lJZ8HtVpYZUW2EQwMM9-IE6gPkHVDw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Amrita TV Cookery Show",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCrPnM7ZC2hqZciQGO0JGxGQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/WWWw6qk2MRia0pbog9zPY4HDYldHThHgCxCJy7d7wTDoATCy0-r_qexJ60abOyQf2Fj5jGtP=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Jagathy Sreekumar (ജഗതി ശ്രീകുമാർ)",
+    "image": "https://i.ytimg.com/vi/h3ka9dCpN0I/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_jagathy.json"
+    ]
+  },
+  {
+    "title": "Innocent (ഇന്നസെന്റ്)",
+    "image": "https://i.ytimg.com/vi/77Xtbnqpquc/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_innocent.json"
+    ]
+  },
+  {
+    "title": "Salim Kumar (സലിം കുമാർ - മണവാളൻ)",
+    "image": "https://i.ytimg.com/vi/GuPr306G1F4/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_salimkumar.json"
+    ]
+  },
+  {
+    "title": "Suraj Venjaramoodu (ദശമൂലം ദാമു)",
+    "image": "https://i.ytimg.com/vi/kxY2-qcIHC4/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_suraj.json"
+    ]
+  },
+  {
+    "title": "Harisree Ashokan (രമണൻ & അശോകൻ)",
+    "image": "https://i.ytimg.com/vi/frvlhftH2wo/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_ashokan.json"
+    ]
+  },
+  {
+    "title": "Mamukkoya (മാമുക്കോയ - ഗഫൂർ കാ ദോസ്ത്)",
+    "image": "https://i.ytimg.com/vi/hTf1THOrE6Y/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_mamukkoya.json"
+    ]
+  },
+  {
+    "title": "Cochin Haneefa (കൊച്ചിൻ ഹനീഫ)",
+    "image": "https://i.ytimg.com/vi/8S8CCcRw74w/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_haneefa.json"
+    ]
+  },
+  {
+    "title": "Kuthiravattam Pappu (കുതിരവട്ടം പപ്പു)",
+    "image": "https://i.ytimg.com/vi/Ck6htpSrY2c/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_pappu.json"
+    ]
+  },
+  {
+    "title": "Dileep Comedy Hits (ദിലീപ് കോമഡി)",
+    "image": "https://i.ytimg.com/vi/QPb21-yxkDU/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_dileep.json"
+    ]
+  },
+  {
+    "title": "Mukesh Comedy Hits (മുകേഷ് കോമഡി)",
+    "image": "https://i.ytimg.com/vi/Wmotonz6i4o/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_mukesh.json"
+    ]
+  },
+  {
+    "title": "Jagadish (ജഗദീഷ് - അപ്പുക്കുട്ടൻ)",
+    "image": "https://i.ytimg.com/vi/0aVAW68yazk/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_jagadish.json"
+    ]
+  },
+  {
+    "title": "Sreenivasan Classics (ശ്രീനിവാസൻ ഹാസ്യങ്ങൾ)",
+    "image": "https://i.ytimg.com/vi/WZJjtmdPVOE/hqdefault.jpg",
+    "provider": "videos",
+    "arguments": [
+      "comedy_sreenivasan.json"
+    ]
+  }
+]

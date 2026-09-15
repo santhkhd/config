@@ -1,0 +1,83 @@
+[
+  {
+    "app_id": "malayalam",
+    "name": "Malayalam Cinema & Media",
+    "folder": "malayalam",
+    "fcm_topic": "malayalam_topic",
+    "env_app_id": "MALAYALAM_ONESIGNAL_APP_ID",
+    "env_rest_key": "MALAYALAM_ONESIGNAL_REST_KEY",
+    "accent_color": "FFE11D48",
+    "emoji": "🎬",
+    "daily_limit": 5,
+    "min_gap_hours": 2,
+    "active_hours": [
+      8,
+      22
+    ],
+    "priority_channels": [
+      "Karikku",
+      "Saregama Malayalam",
+      "Manorama News",
+      "Asianet News",
+      "Behindwoods Ice",
+      "Mallu Analyst",
+      "Flowers Comedy",
+      "Mazhavil Manorama"
+    ]
+  },
+  {
+    "app_id": "tamil",
+    "name": "Tamil Cinema & TV",
+    "folder": "tamil",
+    "fcm_topic": "tamil_topic",
+    "env_app_id": "TAMIL_ONESIGNAL_APP_ID",
+    "env_rest_key": "TAMIL_ONESIGNAL_REST_KEY",
+    "accent_color": "FFDC2626",
+    "emoji": "📺",
+    "daily_limit": 5,
+    "min_gap_hours": 2,
+    "active_hours": [
+      8,
+      22
+    ],
+    "priority_channels": [
+      "Sun TV",
+      "Vijay Television",
+      "Thanthi TV",
+      "BehindwoodsTV",
+      "Sony Music South"
+    ]
+  },
+  {
+    "app_id": "hindi",
+    "name": "Hindi Movies & Shows",
+    "folder": "hindi",
+    "fcm_topic": "hindi_topic",
+    "env_app_id": "HINDI_ONESIGNAL_APP_ID",
+    "env_rest_key": "HINDI_ONESIGNAL_REST_KEY",
+    "accent_color": "FFEA580C",
+    "emoji": "🍿",
+    "daily_limit": 5,
+    "min_gap_hours": 2,
+    "active_hours": [
+      8,
+      22
+    ]
+  },
+  {
+    "app_id": "malayalamtroll",
+    "name": "Malayalam Troll & Comedy",
+    "folder": "malayalamtroll",
+    "fcm_topic": "malayalamtroll_topic",
+    "env_app_id": "MALAYALAMTROLL_ONESIGNAL_APP_ID",
+    "env_rest_key": "MALAYALAMTROLL_ONESIGNAL_REST_KEY",
+    "accent_color": "FF059669",
+    "emoji": "😂",
+    "daily_limit": 4,
+    "min_gap_hours": 2,
+    "active_hours": [
+      8,
+      22
+    ]
+  }
+]

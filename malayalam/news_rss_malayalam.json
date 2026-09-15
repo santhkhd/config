@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Google News Malayalam (പ്രധാന വാർത്തകൾ)",
+    "url": "https://news.google.com/rss?hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (ഇന്ത്യൻ വാർത്തകൾ - India & National)",
+    "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (ശാസ്ത്രം - Science & Research)",
+    "url": "https://news.google.com/rss/search?q=%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82&hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (ബഹിരാകാശം & ISRO - Space)",
+    "url": "https://news.google.com/rss/search?q=ISRO+OR+NASA+OR+%E0%B4%B5%E0%B4%BF%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%8D&hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (സാങ്കേതികവിദ്യ - Tech)",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (സിനിമ & വിനോദം - Cinema)",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (കായികം - Sports)",
+    "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (ബിസിനസ്സ് - Business)",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "Google News (ലോകം - World News)",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ml&gl=IN&ceid=IN:ml"
+  },
+  {
+    "title": "DoolNews (ഇന്ത്യൻ വാർത്തകൾ - National)",
+    "url": "https://www.doolnews.com/category/india/feed"
+  },
+  {
+    "title": "DoolNews (ലോക വാർത്തകൾ - World)",
+    "url": "https://www.doolnews.com/category/world/feed"
+  },
+  {
+    "title": "Mathrubhumi (Latest News)",
+    "url": "https://www.mathrubhumi.com/rss/latest-news"
+  },
+  {
+    "title": "Mathrubhumi (Movies & Music)",
+    "url": "https://www.mathrubhumi.com/rss/movies-music"
+  },
+  {
+    "title": "Mathrubhumi (Sports News)",
+    "url": "https://www.mathrubhumi.com/rss/sports"
+  },
+  {
+    "title": "OneIndia Malayalam (Top Stories)",
+    "url": "https://malayalam.oneindia.com/rss/malayalam-news-fb.xml"
+  },
+  {
+    "title": "Filmibeat Malayalam (Cinema)",
+    "url": "https://malayalam.filmibeat.com/rss/filmibeat-malayalam-fb.xml"
+  },
+  {
+    "title": "MyKhel Malayalam (Sports)",
+    "url": "https://malayalam.mykhel.com/rss/mykhel-malayalam-fb.xml"
+  },
+  {
+    "title": "DriveSpark Malayalam (Automobiles)",
+    "url": "https://malayalam.drivespark.com/rss/drivespark-malayalam-fb.xml"
+  },
+  {
+    "title": "Gizbot Malayalam (Technology)",
+    "url": "https://malayalam.gizbot.com/rss/gizbot-malayalam-fb.xml"
+  },
+  {
+    "title": "24 News Live Breaking",
+    "url": "https://www.twentyfournews.com/feed"
+  },
+  {
+    "title": "DoolNews (Politics & Kerala)",
+    "url": "https://www.doolnews.com/feed"
+  },
+  {
+    "title": "DoolNews (Cinema & Culture)",
+    "url": "https://www.doolnews.com/category/cinema/feed"
+  },
+  {
+    "title": "DoolNews (Sports)",
+    "url": "https://www.doolnews.com/category/sports/feed"
+  },
+  {
+    "title": "Marunadan Malayalee (Breaking)",
+    "url": "https://www.marunadanmalayalee.com/feed"
+  },
+  {
+    "title": "Janmabhumi Daily (News)",
+    "url": "https://janmabhumi.in/feed"
+  },
+  {
+    "title": "Janmabhumi (Sports)",
+    "url": "https://janmabhumi.in/category/sports/feed"
+  },
+  {
+    "title": "E-Vartha Kerala (Live)",
+    "url": "https://www.evartha.in/feed"
+  },
+  {
+    "title": "Kairali News Online (Breaking)",
+    "url": "https://kairalinewsonline.com/feed"
+  },
+  {
+    "title": "Kairali News (Cinema & Entertainment)",
+    "url": "https://kairalinewsonline.com/category/entertainment/feed"
+  },
+  {
+    "title": "Kairali News (Sports)",
+    "url": "https://kairalinewsonline.com/category/sports/feed"
+  },
+  {
+    "title": "Siraj Daily (Live News)",
+    "url": "https://www.sirajlive.com/feed/"
+  },
+  {
+    "title": "Express Kerala (News)",
+    "url": "https://www.expresskerala.com/feed"
+  },
+  {
+    "title": "Southlive Malayalam (News)",
+    "url": "https://southlive.in/feed/"
+  },
+  {
+    "title": "Southlive (Cinema Reviews)",
+    "url": "https://southlive.in/category/movie/feed/"
+  },
+  {
+    "title": "Anweshanam News",
+    "url": "https://anweshanam.com/feed/"
+  },
+  {
+    "title": "Daily Indian Herald",
+    "url": "https://dailyindianherald.com/feed/"
+  }
+]

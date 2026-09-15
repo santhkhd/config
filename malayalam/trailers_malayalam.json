@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Muzik247 Trailers & Songs",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UChRi1dpwnsZcIo1LSwzY0Iw"
+    ],
+    "image": "https://yt3.googleusercontent.com/JQp4obXbjVgBZQVwqPZGh3xH3gdVauepsuVhPApwSdnmVIjBOd_Ul3Ln-pltoOWdWJ2Z8v-JDa0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Saregama Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCoRF8GByEjmM_yHwUGIDGyQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/6VCyyEoydV8dQyCq0OzXQm_lfgrUuHAvjZTw6cCIOrzRXfuNW8tPzrWmkcZIYoUMA_uRM40v=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Manorama Music",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCyx6Udkt-zEqwEaoq-uWubQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mFK-Sdrv-Tpss7inWRDmIrXHcDOGdP2LSEDSr9_QKx3TI=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Think Music Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCAtehwA95bgdVT4c4Ukdbow"
+    ],
+    "image": "https://yt3.googleusercontent.com/7Gj2DSO4QimMI8wtNlBMlW4Pz6PlCqgNAliCqlHWTBhYpcvZhvNW3hq8ICG7JfLc0XYCKoSgcQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Goodwill Entertainments",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCGRqH4OaI1687ZAvR80khWw"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kwuzOzplcCg5m4Pkb_5bwJE7mg6yFiMcjIhSd251DAxw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Bhavana Studios (Fahadh & Team)",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCPvtzpmgq3fraUXl6lLoK3w"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kLNTkKikssW1kG0XJpNEX7xKdW2TGF_m6UOAOe4visVw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Millennium Audios",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCsbrh297T27EZVf8qnLQTdQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lW80-ZMwW-JKMQCJp_EKCeMAByuJMXPqfmINGhlT71Xw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "123 Musics Malayalam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCDRzBsqVqdgKK4ZGW5zzMGw"
+    ],
+    "image": "https://yt3.googleusercontent.com/C8hGOYq6n4r_gAEIJqG0DuyQOzI1MTN8R9YbDNmRMaJFMIsuW_tM7p6_ubemqH-oFI3CMzXIVw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Latest Malayalam Movie Trailers",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam movie official trailer|CAI%3D"
+    ],
+    "image": "https://yt3.googleusercontent.com/JQp4obXbjVgBZQVwqPZGh3xH3gdVauepsuVhPApwSdnmVIjBOd_Ul3Ln-pltoOWdWJ2Z8v-JDa0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Latest Movie Teasers & Glimpses",
+    "provider": "videos",
+    "arguments": [
+      "search:Malayalam movie official teaser|CAI%3D"
+    ],
+    "image": "https://yt3.googleusercontent.com/6VCyyEoydV8dQyCq0OzXQm_lfgrUuHAvjZTw6cCIOrzRXfuNW8tPzrWmkcZIYoUMA_uRM40v=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

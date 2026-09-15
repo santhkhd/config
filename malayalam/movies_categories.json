@@ -1,0 +1,92 @@
+[
+  {
+    "title": "🏛️ Malayalam Movie Vault (6,150+)",
+    "year": "6,150+ Movies",
+    "genre": "All Classics",
+    "provider": "overview",
+    "arguments": [
+      "malayalam_movies.json"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGE5OGQzNTctN2VlMi00MThlLTg1MjAtYmRkMTkxZDY4YjE1XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg"
+  },
+  {
+    "title": "⭐ Mohanlal Iconic Hits",
+    "year": "Mohanlal Hits",
+    "genre": "1980 - 2024",
+    "provider": "overview",
+    "arguments": [
+      "mohanlal_hits.json"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY2NTFhZjAtZGZhYi00NWFmLWI4ZTctMzhjZjg5NzhlMDczXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg"
+  },
+  {
+    "title": "🔥 Latest OTT Releases",
+    "year": "Streaming Now",
+    "genre": "2024 - 2025",
+    "provider": "overview",
+    "arguments": [
+      "ott_releases_malayalam.json"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Kishkindha_Kaandam.jpeg"
+  },
+  {
+    "title": "👑 Mammootty Mega Hits",
+    "year": "Mammootty Hits",
+    "genre": "Blockbusters",
+    "provider": "overview",
+    "arguments": [
+      "mammootty_hits.json"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDkyYWJlYzAtZWRkZi00NGJlLTgyODAtN2Q1NmYwNmEyMmY5XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg"
+  },
+  {
+    "title": "🎬 New-Gen Cinema Hits",
+    "year": "New-Gen Era",
+    "genre": "2010 - 2025",
+    "provider": "overview",
+    "arguments": [
+      "newgen_malayalam.json"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZmN2FkNmQtMjU0NS00Y2NmLWE2M2EtOGVhN2VhOWYzMjYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "🎞️ Classic Evergreen Movies",
+    "year": "Golden Era",
+    "genre": "Classics",
+    "provider": "overview",
+    "arguments": [
+      "classics_malayalam.json"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExYTY3YTUtZDQzOC00NTVmLWFhOWQtMGI5ZWUxYTY0MjgyXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg"
+  },
+  {
+    "title": "🔍 Mystery & Thrillers",
+    "year": "Suspense",
+    "genre": "Crime & Mystery",
+    "provider": "overview",
+    "arguments": [
+      "mystery_malayalam.json"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjllNGZiYjAtMjVjMy00ZGI4LThiZDAtYzFlOGRkY2E0NDA3XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg"
+  },
+  {
+    "title": "💥 Dubbed Blockbusters",
+    "year": "Pan-India",
+    "genre": "Action Hits",
+    "provider": "overview",
+    "arguments": [
+      "dubbed_malayalam.json"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA2ODQzNDAzMV5BMl5BanBnXkFtZTgwMTQ3Mzk2NTM@._V1_FMjpg_UX600_.jpg"
+  },
+  {
+    "title": "Offline Movie Explorer (Web)",
+    "year": "Offline Web",
+    "genre": "Browse All",
+    "provider": "assets",
+    "arguments": [
+      "malayalam/index.html"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAxNDE4Mzc3MzheQTJeQWpwZ15BbWU4MDEyMTgwNTEx._V1_FMjpg_UX600_.jpg"
+  }
+]

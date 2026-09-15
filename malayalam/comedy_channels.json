@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Put Chutney",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCn2wC753SXLd2BJYLss_jlA"
+        ],
+        "link": "https://www.youtube.com/channel/UCn2wC753SXLd2BJYLss_jlA"
+    },
+    {
+        "title": "Nakkalites",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCpnJuQkNm9j9R7LCqWtf56g"
+        ],
+        "link": "https://www.youtube.com/channel/UCpnJuQkNm9j9R7LCqWtf56g"
+    },
+    {
+        "title": "Eruma Saani",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCPyFYlqbkxkWX_dWCg0eekA"
+        ],
+        "link": "https://www.youtube.com/channel/UCPyFYlqbkxkWX_dWCg0eekA"
+    },
+    {
+        "title": "Being Thamizhan",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCF1wPTEdK3RZclxruliajcg"
+        ],
+        "link": "https://www.youtube.com/channel/UCF1wPTEdK3RZclxruliajcg"
+    },
+    {
+        "title": "Mic Set",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC5EQWvy59VeHPJz8mDALPxg"
+        ],
+        "link": "https://www.youtube.com/channel/UC5EQWvy59VeHPJz8mDALPxg"
+    },
+    {
+        "title": "Finally",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCi3o8sgPl4-Yt501ShuiEgA"
+        ],
+        "link": "https://www.youtube.com/channel/UCi3o8sgPl4-Yt501ShuiEgA"
+    },
+    {
+        "title": "Smile Settai",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCZCaRGGPtHFtp7X3FxtNKhA"
+        ],
+        "link": "https://www.youtube.com/channel/UCZCaRGGPtHFtp7X3FxtNKhA"
+    },
+    {
+        "title": "Parithabangal",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCueYcgdqos0_PzNOq81zAFg"
+        ],
+        "link": "https://www.youtube.com/channel/UCueYcgdqos0_PzNOq81zAFg"
+    },
+    {
+        "title": "Araathi",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCCMUnWvJyTEUunnygpTGfow"
+        ],
+        "link": "https://www.youtube.com/channel/UCCMUnWvJyTEUunnygpTGfow"
+    },
+    {
+        "title": "Tamil Short Cuts",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UC2CQx0rPH_h3IqWGCAbQzQQ"
+        ],
+        "link": "https://www.youtube.com/channel/UC2CQx0rPH_h3IqWGCAbQzQQ"
+    },
+    {
+        "title": "Circusgun.com",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdwatN-k20-pYHHAw8cSeYQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCdwatN-k20-pYHHAw8cSeYQ"
+    },
+    {
+        "title": "Madras Central",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCGBnz-FR3qaowYsyIEh2-zw"
+        ],
+        "link": "https://www.youtube.com/channel/UCGBnz-FR3qaowYsyIEh2-zw"
+    }
+]

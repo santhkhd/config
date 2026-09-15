@@ -1,0 +1,954 @@
+[
+  {
+    "title": "Malayala Manorama",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com"
+  },
+  {
+    "title": "Mathrubhumi Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com"
+  },
+  {
+    "title": "Deshabhimani Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.deshabhimani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deshabhimani.com"
+  },
+  {
+    "title": "Madhyamam Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.madhyamam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madhyamam.com"
+  },
+  {
+    "title": "Kerala Kaumudi",
+    "provider": "web",
+    "arguments": [
+      "https://keralakaumudi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralakaumudi.com"
+  },
+  {
+    "title": "Mangalam Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.mangalam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mangalam.com"
+  },
+  {
+    "title": "Deepika Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.deepika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deepika.com"
+  },
+  {
+    "title": "Janmabhumi Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.janmabhumi.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=janmabhumi.in"
+  },
+  {
+    "title": "Siraj Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.sirajlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sirajlive.com"
+  },
+  {
+    "title": "Suprabhaatham Daily",
+    "provider": "web",
+    "arguments": [
+      "https://suprabhaatham.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=suprabhaatham.com"
+  },
+  {
+    "title": "Chandrika Daily",
+    "provider": "web",
+    "arguments": [
+      "https://chandrikadaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chandrikadaily.com"
+  },
+  {
+    "title": "Veekshanam Daily",
+    "provider": "web",
+    "arguments": [
+      "https://veekshanam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=veekshanam.com"
+  },
+  {
+    "title": "Metro Vaartha",
+    "provider": "web",
+    "arguments": [
+      "https://metrovaartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=metrovaartha.com"
+  },
+  {
+    "title": "Janayugom Daily",
+    "provider": "web",
+    "arguments": [
+      "https://janayugomonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=janayugomonline.com"
+  },
+  {
+    "title": "Thejas Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://thejasnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thejasnews.com"
+  },
+  {
+    "title": "Rashtra Deepika",
+    "provider": "web",
+    "arguments": [
+      "https://rashtradeepika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rashtradeepika.com"
+  },
+  {
+    "title": "Pradeepam Daily Kozhikode",
+    "provider": "web",
+    "arguments": [
+      "https://pradeepamonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pradeepamonline.com"
+  },
+  {
+    "title": "Kerala Bhooshanam Kottayam",
+    "provider": "web",
+    "arguments": [
+      "https://keralabhooshanam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralabhooshanam.com"
+  },
+  {
+    "title": "General Daily Thrissur",
+    "provider": "web",
+    "arguments": [
+      "https://generaldaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=generaldaily.com"
+  },
+  {
+    "title": "Sadvartha Daily",
+    "provider": "web",
+    "arguments": [
+      "https://sadvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sadvartha.com"
+  },
+  {
+    "title": "Asianet News Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.asianetnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=asianetnews.com"
+  },
+  {
+    "title": "24 News Live Portal",
+    "provider": "web",
+    "arguments": [
+      "https://www.twentyfournews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=twentyfournews.com"
+  },
+  {
+    "title": "Manorama News TV Portal",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramanews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramanews.com"
+  },
+  {
+    "title": "Mathrubhumi News TV Portal",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com/news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com"
+  },
+  {
+    "title": "MediaOne Online",
+    "provider": "web",
+    "arguments": [
+      "https://mediaonetv.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mediaonetv.in"
+  },
+  {
+    "title": "Reporter Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.reporterlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reporterlive.com"
+  },
+  {
+    "title": "News18 Kerala Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://malayalam.news18.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalam.news18.com"
+  },
+  {
+    "title": "Kairali News Online",
+    "provider": "web",
+    "arguments": [
+      "https://kairalinewsonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kairalinewsonline.com"
+  },
+  {
+    "title": "Jaihind TV News Portal",
+    "provider": "web",
+    "arguments": [
+      "https://jaihindtv.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jaihindtv.in"
+  },
+  {
+    "title": "Janam TV Online Portal",
+    "provider": "web",
+    "arguments": [
+      "https://janamtv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=janamtv.com"
+  },
+  {
+    "title": "Kaumudy TV News Portal",
+    "provider": "web",
+    "arguments": [
+      "https://keralakaumudi.com/news/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralakaumudi.com"
+  },
+  {
+    "title": "Samayam Malayalam (Times)",
+    "provider": "web",
+    "arguments": [
+      "https://malayalam.samayam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalam.samayam.com"
+  },
+  {
+    "title": "OneIndia Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://malayalam.oneindia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalam.oneindia.com"
+  },
+  {
+    "title": "Marunadan Malayalee",
+    "provider": "web",
+    "arguments": [
+      "https://www.marunadanmalayalee.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marunadanmalayalee.com"
+  },
+  {
+    "title": "DoolNews Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://www.doolnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=doolnews.com"
+  },
+  {
+    "title": "The Cue News & Culture",
+    "provider": "web",
+    "arguments": [
+      "https://thecue.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecue.in"
+  },
+  {
+    "title": "TrueCopy THINK Media",
+    "provider": "web",
+    "arguments": [
+      "https://truecopythink.media"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=truecopythink.media"
+  },
+  {
+    "title": "East Coast Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.eastcoastdaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastcoastdaily.com"
+  },
+  {
+    "title": "Southlive Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://southlive.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southlive.in"
+  },
+  {
+    "title": "E-Vartha Kerala",
+    "provider": "web",
+    "arguments": [
+      "https://www.evartha.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=evartha.in"
+  },
+  {
+    "title": "Kasargod Vartha",
+    "provider": "web",
+    "arguments": [
+      "https://www.kasargodvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kasargodvartha.com"
+  },
+  {
+    "title": "Anweshanam Portal",
+    "provider": "web",
+    "arguments": [
+      "https://anweshanam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=anweshanam.com"
+  },
+  {
+    "title": "Webdunia Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://malayalam.webdunia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalam.webdunia.com"
+  },
+  {
+    "title": "Express Kerala News",
+    "provider": "web",
+    "arguments": [
+      "https://www.expresskerala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=expresskerala.com"
+  },
+  {
+    "title": "Daily Indian Herald",
+    "provider": "web",
+    "arguments": [
+      "https://dailyindianherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyindianherald.com"
+  },
+  {
+    "title": "Pravasi Express Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.pravasiexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pravasiexpress.com"
+  },
+  {
+    "title": "Big14 News Kerala",
+    "provider": "web",
+    "arguments": [
+      "https://big14news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=big14news.com"
+  },
+  {
+    "title": "Malayalam Express Live",
+    "provider": "web",
+    "arguments": [
+      "https://malayalamexpress.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalamexpress.in"
+  },
+  {
+    "title": "Flash News Online Kerala",
+    "provider": "web",
+    "arguments": [
+      "https://flashnewsonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=flashnewsonline.com"
+  },
+  {
+    "title": "Times of Kerala",
+    "provider": "web",
+    "arguments": [
+      "https://timesofkerala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesofkerala.com"
+  },
+  {
+    "title": "Live Kerala News",
+    "provider": "web",
+    "arguments": [
+      "https://livekerala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livekerala.com"
+  },
+  {
+    "title": "Keralam News Online",
+    "provider": "web",
+    "arguments": [
+      "https://keralamnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralamnews.com"
+  },
+  {
+    "title": "Kerala Online News",
+    "provider": "web",
+    "arguments": [
+      "https://keralaonlinenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralaonlinenews.com"
+  },
+  {
+    "title": "Malayalam Today News",
+    "provider": "web",
+    "arguments": [
+      "https://malayalamtoday.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalamtoday.org"
+  },
+  {
+    "title": "Daily Kerala News",
+    "provider": "web",
+    "arguments": [
+      "https://dailykerala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailykerala.com"
+  },
+  {
+    "title": "Kerala Sabdam Online",
+    "provider": "web",
+    "arguments": [
+      "https://keralasabdam.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralasabdam.in"
+  },
+  {
+    "title": "Pravasi Shabdam",
+    "provider": "web",
+    "arguments": [
+      "https://pravasishabdam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pravasishabdam.com"
+  },
+  {
+    "title": "Calicut Times",
+    "provider": "web",
+    "arguments": [
+      "https://calicuttimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calicuttimes.com"
+  },
+  {
+    "title": "Malabar News Live",
+    "provider": "web",
+    "arguments": [
+      "https://malabarnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malabarnews.com"
+  },
+  {
+    "title": "Malabar Flash News",
+    "provider": "web",
+    "arguments": [
+      "https://malabarflash.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malabarflash.com"
+  },
+  {
+    "title": "Kannur Vartha Online",
+    "provider": "web",
+    "arguments": [
+      "https://kannurvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kannurvartha.com"
+  },
+  {
+    "title": "Kannur Metro News",
+    "provider": "web",
+    "arguments": [
+      "https://kannurmetro.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kannurmetro.com"
+  },
+  {
+    "title": "Wayanad Vartha News",
+    "provider": "web",
+    "arguments": [
+      "https://wayanadvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wayanadvartha.com"
+  },
+  {
+    "title": "Kozhikode Vartha",
+    "provider": "web",
+    "arguments": [
+      "https://kozhikodevartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kozhikodevartha.com"
+  },
+  {
+    "title": "Malappuram Vartha",
+    "provider": "web",
+    "arguments": [
+      "https://malappuramvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malappuramvartha.com"
+  },
+  {
+    "title": "Palakkad Vartha",
+    "provider": "web",
+    "arguments": [
+      "https://palakkadvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palakkadvartha.com"
+  },
+  {
+    "title": "Thrissur Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://thrissurdaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thrissurdaily.com"
+  },
+  {
+    "title": "Ernakulam Vartha",
+    "provider": "web",
+    "arguments": [
+      "https://ernakulamvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ernakulamvartha.com"
+  },
+  {
+    "title": "Kochi News Live",
+    "provider": "web",
+    "arguments": [
+      "https://kochinews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kochinews.com"
+  },
+  {
+    "title": "Idukki Vartha News",
+    "provider": "web",
+    "arguments": [
+      "https://idukkivartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idukkivartha.com"
+  },
+  {
+    "title": "Kottayam Vartha Online",
+    "provider": "web",
+    "arguments": [
+      "https://kottayamvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kottayamvartha.com"
+  },
+  {
+    "title": "Alappuzha Vartha",
+    "provider": "web",
+    "arguments": [
+      "https://alappuzhavartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alappuzhavartha.com"
+  },
+  {
+    "title": "Pathanamthitta Media",
+    "provider": "web",
+    "arguments": [
+      "https://pathanamthittamedia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pathanamthittamedia.com"
+  },
+  {
+    "title": "Kollam Vartha Live",
+    "provider": "web",
+    "arguments": [
+      "https://kollamvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kollamvartha.com"
+  },
+  {
+    "title": "Trivandrum Vartha News",
+    "provider": "web",
+    "arguments": [
+      "https://trivandrumvartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=trivandrumvartha.com"
+  },
+  {
+    "title": "Gulf Madhyamam News",
+    "provider": "web",
+    "arguments": [
+      "https://www.madhyamam.com/gulf-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madhyamam.com"
+  },
+  {
+    "title": "Manorama Gulf News",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com/global-malayali/gulf.html"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com"
+  },
+  {
+    "title": "Mathrubhumi Pravasi News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com/pravasi"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com"
+  },
+  {
+    "title": "Malayala Manorama E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.manoramaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.manoramaonline.com"
+  },
+  {
+    "title": "Mathrubhumi E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.mathrubhumi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.mathrubhumi.com"
+  },
+  {
+    "title": "Deshabhimani E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.deshabhimani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.deshabhimani.com"
+  },
+  {
+    "title": "Madhyamam E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.madhyamam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.madhyamam.com"
+  },
+  {
+    "title": "Kerala Kaumudi E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.keralakaumudi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.keralakaumudi.com"
+  },
+  {
+    "title": "Deepika E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.deepika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.deepika.com"
+  },
+  {
+    "title": "Mangalam E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.mangalam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.mangalam.com"
+  },
+  {
+    "title": "Janmabhumi E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.janmabhumi.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.janmabhumi.in"
+  },
+  {
+    "title": "Siraj E-Paper Daily",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.sirajlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.sirajlive.com"
+  },
+  {
+    "title": "Chandrika E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.chandrikadaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.chandrikadaily.com"
+  },
+  {
+    "title": "Suprabhaatham E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.suprabhaatham.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.suprabhaatham.com"
+  },
+  {
+    "title": "Veekshanam E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.veekshanam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.veekshanam.com"
+  },
+  {
+    "title": "Metro Vaartha E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.metrovaartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.metrovaartha.com"
+  },
+  {
+    "title": "Janayugom E-Paper",
+    "provider": "web",
+    "arguments": [
+      "https://epaper.janayugomonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epaper.janayugomonline.com"
+  },
+  {
+    "title": "Cinema Daddy Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://cinemadaddy.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cinemadaddy.com"
+  },
+  {
+    "title": "Vellinakshatram Film Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://vellinakshatram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vellinakshatram.com"
+  },
+  {
+    "title": "Nana Film Weekly Online",
+    "provider": "web",
+    "arguments": [
+      "https://nanaonline.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nanaonline.in"
+  },
+  {
+    "title": "Filmibeat Malayalam Cinema",
+    "provider": "web",
+    "arguments": [
+      "https://malayalam.filmibeat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalam.filmibeat.com"
+  },
+  {
+    "title": "Movie Street Kerala",
+    "provider": "web",
+    "arguments": [
+      "https://moviestreet.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moviestreet.in"
+  },
+  {
+    "title": "Mollywood Times News",
+    "provider": "web",
+    "arguments": [
+      "https://mollywoodtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mollywoodtimes.com"
+  },
+  {
+    "title": "Cinetrooth Cinema News",
+    "provider": "web",
+    "arguments": [
+      "https://cinetrooth.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cinetrooth.in"
+  },
+  {
+    "title": "Metromatinee Mollywood",
+    "provider": "web",
+    "arguments": [
+      "https://metromatinee.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=metromatinee.com"
+  },
+  {
+    "title": "Vanitha Malayalam Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.vanitha.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vanitha.in"
+  },
+  {
+    "title": "Grihalakshmi Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com/grihalakshmi"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com"
+  },
+  {
+    "title": "Mahilarathnam Magazine",
+    "provider": "web",
+    "arguments": [
+      "https://mahilarathnam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mahilarathnam.com"
+  },
+  {
+    "title": "Kanyaka Magazine Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.mangalam.com/kanyaka"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mangalam.com"
+  },
+  {
+    "title": "Snehitha Family Magazine",
+    "provider": "web",
+    "arguments": [
+      "https://snehitha.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=snehitha.in"
+  },
+  {
+    "title": "Karshakasree Agriculture",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com/karshakasree.html"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com"
+  },
+  {
+    "title": "Kerala Karshakan Online",
+    "provider": "web",
+    "arguments": [
+      "https://keralakarshakan.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralakarshakan.com"
+  },
+  {
+    "title": "Krishi Jagran Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://malayalam.krishijagran.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malayalam.krishijagran.com"
+  },
+  {
+    "title": "Balarama Online Portal",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com/children/balarama.html"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com"
+  },
+  {
+    "title": "Balabhumi Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com/balabhumi"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com"
+  },
+  {
+    "title": "Thozhilveedhi Career & Jobs",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com/career-and-education/thozhilveedhi.html"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com"
+  },
+  {
+    "title": "Mathrubhumi Thozhilvartha",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com/career-and-education/thozhilvartha"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com"
+  },
+  {
+    "title": "Dhanam Business Magazine",
+    "provider": "web",
+    "arguments": [
+      "https://dhanammagazine.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dhanammagazine.com"
+  },
+  {
+    "title": "Kerala Business News Portal",
+    "provider": "web",
+    "arguments": [
+      "https://keralabusinessnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralabusinessnews.com"
+  },
+  {
+    "title": "Fasttrack Automobile News",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com/fasttrack.html"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com"
+  },
+  {
+    "title": "Auto Tech Malayalam",
+    "provider": "web",
+    "arguments": [
+      "https://autotechmalayalam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=autotechmalayalam.com"
+  },
+  {
+    "title": "Arogyam Health Magazine",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com/health"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com"
+  },
+  {
+    "title": "Tech Malayalam News",
+    "provider": "web",
+    "arguments": [
+      "https://techmalayalam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=techmalayalam.com"
+  },
+  {
+    "title": "Samakalika Malayalam Varika",
+    "provider": "web",
+    "arguments": [
+      "https://www.samakalikamalayalam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=samakalikamalayalam.com"
+  }
+]

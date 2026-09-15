@@ -1,0 +1,42 @@
+[
+  {
+    "title": "M4 Tech",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCAv-2jJ40AayiRR624u2PNQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kjiVRYD6m5NNaQAc9FQpKRrEsexRWxvm9FN8bExoQ_1UY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "CallMeShazzam Tech",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC9MQp8a5uhaIosZPHaoqEXQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ZoO7uyYvN6323dK6mptyRzlp4AAjpEbPZi_mGp2dS9brme1xk_LU2UeM04HuPCeaziyPmNAFew=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Ratheesh R Menon Tech & Auto",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCM9fQt4Fw4-GxjBwt_PC7bA"
+    ],
+    "image": "https://yt3.googleusercontent.com/syDB50STAExUsWwY9OwU49U85TNjWJOKYo2VTQ6aAW58q-TPNk8N_uLsS6I5CJNzStyehim6cw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Talking System Tech",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UClO1LxyD0E9bpkbegAOlIAA"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kOIcTa3ML__iCX2nBIn38bzJPiGmc-keigP-VSPVrrBDZs-MNU1B5OlxBkfnxQzKJY3g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Mebin Tech",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCo5XoVkBpcjbupRDOg2N31Q"
+    ],
+    "image": "https://yt3.googleusercontent.com/rqouGZVULPU9lPunr-uAgt7kfpK578D53VKKnJZr0e4jEEbVuulu3efSfu80UbCda6lUxy5A4pg=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

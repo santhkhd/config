@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Asianet",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCp_r6Z-Oh0YTf-ym71z5Nqg"
+    ],
+    "image": "https://yt3.googleusercontent.com/rD84Z2RyqjpzQ7xYvOl4Rcn_MnAny8VvcF5a0Iz76A0EnYTRHVYU-SLIIxR_a9dv_95QNCl76WY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Mazhavil Manorama",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCUPD0jQo-EP0B1Nf4uzeIMA"
+    ],
+    "image": "https://yt3.googleusercontent.com/XVaL4VTFxd4173leycvdmoePP6HeDNjUGD_og9ZiFYlekcOw_YwHnOTsziuKFKufHOF1yE32zg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Flowers TV",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCcn-JFlZqV380jsjTF-3Zrg"
+    ],
+    "image": "https://yt3.googleusercontent.com/W-3ix8ITEWi7JB4VoPTgfX-MBXOXUc-JiVdekR9uz2E8rbW43o75PARptYou7vGNaXQ7k4CKEg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Sun Surya TV",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCHyU1e7YmhHgUnVwpP5hpYA"
+    ],
+    "image": "https://yt3.googleusercontent.com/O1wH9kS4_-bpH4nYbdugVFWyaBanxSZhGSbnHero0BpjxhD5NS5S0vwJQTDkWqiAO023qXVSGw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Zee Keralam",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCbrfwFuwMVRtxUTtEYJUKKg"
+    ],
+    "image": "https://yt3.googleusercontent.com/pQRJquvFhuUdAIGJJL7zRtsT-XgEbzQbgYfB9YIyaZ54TjELMzE6d6_Ws_FQKvT3QjIpn0kF=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Amrita TV",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCSFDSevWU-OX8cjZPZZZAnQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/AWYzTte9tk2U6sxi34ohZiBN42zr0t1ZiFoHfHkrnpw6YV_PZIbukw7rf5d1XBXI1X_9-Hnp=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Safari TV",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCfyulcK9tP84epquAb460UQ"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lUi_KZbnNr0IYcDoE-QXkcEwJHWNGcbce203fylbwYe90=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Kairali TV",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCnEvxaWfVL91XIYuyQRO5QA"
+    ],
+    "image": "https://yt3.googleusercontent.com/oYCJSNCRQMinymACQmOVjkQwTvjTXWWAJBwc-M1e00-B2DNgNyZFSrNhd0Lu6oaAKK_V5ZFqwl4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "ACV Kerala Entertainment",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCZdVWlM6w7Lh1dOzElVoggw"
+    ],
+    "image": "https://yt3.googleusercontent.com/yQkWAEk_4_07oll-JKOn1tCChJOOBBwNYervDbChuJzs05ouuTEUNsaTgjoMMypl0eJ5jMokbfs=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

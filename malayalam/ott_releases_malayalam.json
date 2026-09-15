@@ -1,0 +1,391 @@
+[
+  {
+    "title": "Varavu (ZEE5)",
+    "year": "2024",
+    "rating": "7.8",
+    "genre": "Action, Thriller • Streaming on ZEE5",
+    "plot": "A high-octane action thriller tracking an intense pursuit through the rugged terrains of Kerala. Premiered on ZEE5 this week.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Varavu_poster.jpg",
+    "cast": [
+      "Joju George",
+      "Chemban Vinod Jose"
+    ],
+    "director": "Shaji Kailas",
+    "runtime": "138 min",
+    "provider": "movies",
+    "ott_url": "https://www.zee5.com"
+  },
+  {
+    "title": "Kishkindha Kaandam (Disney+ Hotstar)",
+    "year": "2024",
+    "rating": "8.2",
+    "genre": "Mystery, Crime Thriller • Streaming on Disney+ Hotstar",
+    "plot": "Set in a monkey-inhabited reserve forest, an ex-military officer and his son face strange occurrences when a service gun goes missing. Blockbuster mystery hit.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Kishkindha_Kaandam.jpeg",
+    "cast": [
+      "Asif Ali",
+      "Vijayaraghavan",
+      "Aparna Balamurali"
+    ],
+    "director": "Dinjith Ayyathan",
+    "runtime": "125 min",
+    "provider": "movies",
+    "ott_url": "https://www.hotstar.com"
+  },
+  {
+    "title": "Bougainvillea (SonyLIV)",
+    "year": "2024",
+    "rating": "7.6",
+    "genre": "Psychological Thriller • Streaming on SonyLIV",
+    "plot": "A family is caught in a whirlwind of police investigation following the mysterious disappearance of tourists in Kerala.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Bougainvillea_Malayalam_Movie_Poster.jpg",
+    "cast": [
+      "Fahadh Faasil",
+      "Kunchacko Boban",
+      "Jyothirmayi"
+    ],
+    "director": "Amal Neerad",
+    "runtime": "138 min",
+    "provider": "movies",
+    "ott_url": "https://www.sonyliv.com"
+  },
+  {
+    "title": "ARM: Ajayante Randam Moshanam (Disney+ Hotstar)",
+    "year": "2024",
+    "rating": "7.7",
+    "genre": "Action, Fantasy, Period • Streaming on Disney+ Hotstar",
+    "plot": "Spanning three generations in northern Kerala, three legendary heroes protect their village's most valuable sacred treasure.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b3/Ajayante_Randam_Moshanam.jpg",
+    "cast": [
+      "Tovino Thomas",
+      "Krithi Shetty",
+      "Aishwarya Rajesh"
+    ],
+    "director": "Jithin Laal",
+    "runtime": "148 min",
+    "provider": "movies",
+    "ott_url": "https://www.hotstar.com"
+  },
+  {
+    "title": "Vaazha: Biopic of a Billion Boys (Disney+ Hotstar)",
+    "year": "2024",
+    "rating": "7.4",
+    "genre": "Comedy Drama • Streaming on Disney+ Hotstar",
+    "plot": "Four carefree youngsters branded as 'good for nothing' face harsh realities and expectations of family life.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/Vaazha_Movie_Poster.jpg",
+    "cast": [
+      "Jeemon George",
+      "Jomon Jyothir",
+      "Saafboi"
+    ],
+    "director": "Anand Menen",
+    "runtime": "129 min",
+    "provider": "movies",
+    "ott_url": "https://www.hotstar.com"
+  },
+  {
+    "title": "Nunakkuzhi (ZEE5)",
+    "year": "2024",
+    "rating": "7.2",
+    "genre": "Comedy Thriller • Streaming on ZEE5",
+    "plot": "A young, wealthy MD gets embroiled in a series of hilarious lies to reclaim his confiscated laptop.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Nunakkuzhi.jpg",
+    "cast": [
+      "Basil Joseph",
+      "Grace Antony",
+      "Nikhila Vimal"
+    ],
+    "director": "Jeethu Joseph",
+    "runtime": "137 min",
+    "provider": "movies",
+    "ott_url": "https://www.zee5.com"
+  },
+  {
+    "title": "Guruvayoor Ambalanadayil (Disney+ Hotstar)",
+    "year": "2024",
+    "rating": "7.1",
+    "genre": "Family Comedy • Streaming on Disney+ Hotstar",
+    "plot": "A groom-to-be forms an extraordinary bromance with his fiancée's brother, leading to hilarious pre-wedding chaos.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/Guruvayoor_Ambalanadayil.jpg",
+    "cast": [
+      "Prithviraj Sukumaran",
+      "Basil Joseph",
+      "Nikhila Vimal"
+    ],
+    "director": "Vipin Das",
+    "runtime": "142 min",
+    "provider": "movies",
+    "ott_url": "https://www.hotstar.com"
+  },
+  {
+    "title": "Level Cross (Prime Video)",
+    "year": "2024",
+    "rating": "7.5",
+    "genre": "Psychological Drama • Streaming on Prime Video",
+    "plot": "A solitary railway gatekeeper in a barren wasteland encounters a surreal psychiatrist seeking refuge.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Level_Cross_%28film%29.jpg",
+    "cast": [
+      "Asif Ali",
+      "Amala Paul",
+      "Sharaf U Dheen"
+    ],
+    "director": "Arfaz Ayub",
+    "runtime": "127 min",
+    "provider": "movies",
+    "ott_url": "https://www.primevideo.com"
+  },
+  {
+    "title": "Thalavan (SonyLIV)",
+    "year": "2024",
+    "rating": "7.8",
+    "genre": "Investigative Crime Thriller • Streaming on SonyLIV",
+    "plot": "Ego clashes between two police officers escalate when a dead body is found inside the police station.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Thalavan.jpeg",
+    "cast": [
+      "Biju Menon",
+      "Asif Ali",
+      "Miya George"
+    ],
+    "director": "Jis Joy",
+    "runtime": "131 min",
+    "provider": "movies",
+    "ott_url": "https://www.sonyliv.com"
+  },
+  {
+    "title": "Golam (Prime Video)",
+    "year": "2024",
+    "rating": "7.3",
+    "genre": "Murder Mystery Thriller • Streaming on Prime Video",
+    "plot": "An eccentric police officer investigates the perplexing death of a corporate CEO in his locked office restroom.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Golam_poster.jpg",
+    "cast": [
+      "Ranjith Sajeev",
+      "Dileesh Pothan",
+      "Sunny Wayne"
+    ],
+    "director": "Samjad",
+    "runtime": "128 min",
+    "provider": "movies",
+    "ott_url": "https://www.primevideo.com"
+  },
+  {
+    "title": "Adios Amigo (Netflix)",
+    "year": "2024",
+    "rating": "6.8",
+    "genre": "Comedy Road Movie • Streaming on Netflix",
+    "plot": "Two total strangers from starkly different economic backgrounds embark on an unpredictable road journey.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Adios_Amigo_2024_film_poster.jpg",
+    "cast": [
+      "Asif Ali",
+      "Suraj Venjaramoodu"
+    ],
+    "director": "Nahas Nazar",
+    "runtime": "136 min",
+    "provider": "movies",
+    "ott_url": "https://www.netflix.com"
+  },
+  {
+    "title": "Kondal (Netflix)",
+    "year": "2024",
+    "rating": "6.5",
+    "genre": "Action Maritime Thriller • Streaming on Netflix",
+    "plot": "A turbulent man takes a job on a fishing vessel at deep sea, harboring a secret motive of vengeance.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Kondal%282024%29.png",
+    "cast": [
+      "Antony Varghese",
+      "Raj B. Shetty",
+      "Shabeer Kallarakkal"
+    ],
+    "director": "Ajit Mampally",
+    "runtime": "142 min",
+    "provider": "movies",
+    "ott_url": "https://www.netflix.com"
+  },
+  {
+    "title": "Ullozhukku (ManoramaMAX)",
+    "year": "2024",
+    "rating": "8.2",
+    "genre": "Drama, Mystery • Streaming on ManoramaMAX",
+    "plot": "As floodwaters submerge a house in Kuttanad, a family is forced to wait to bury their patriarch while deep secrets unravel.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Ullozhukku_poster.jpg",
+    "cast": [
+      "Urvashi",
+      "Parvathy Thiruvothu",
+      "Arjun Radhakrishnan"
+    ],
+    "director": "Christo Tomy",
+    "runtime": "122 min",
+    "provider": "movies",
+    "ott_url": "https://www.manoramamax.com"
+  },
+  {
+    "title": "Gaganachari (Prime Video)",
+    "year": "2024",
+    "rating": "7.6",
+    "genre": "Sci-Fi Mockumentary • Streaming on Prime Video",
+    "plot": "In a post-apocalyptic dystopian Kerala, three eccentric bachelors give shelter to a stranded female alien.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Gaganachari_poster.jpg",
+    "cast": [
+      "Gokul Suresh",
+      "Anarkali Marikar",
+      "Aju Varghese"
+    ],
+    "director": "Arun Chandu",
+    "runtime": "115 min",
+    "provider": "movies",
+    "ott_url": "https://www.primevideo.com"
+  },
+  {
+    "title": "Turbo (SonyLIV)",
+    "year": "2024",
+    "rating": "6.7",
+    "genre": "Action Masala • Streaming on SonyLIV",
+    "plot": "Jose, a quick-tempered Jeep driver from Idukki, lands in Chennai and takes on a ruthless political mafia.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Turbo_Poster.jpg",
+    "cast": [
+      "Mammootty",
+      "Raj B. Shetty",
+      "Sunil"
+    ],
+    "director": "Vysakh",
+    "runtime": "152 min",
+    "provider": "movies",
+    "ott_url": "https://www.sonyliv.com"
+  },
+  {
+    "title": "Aavesham (Prime Video)",
+    "year": "2024",
+    "rating": "8.1",
+    "genre": "Action, Comedy • Streaming on Prime Video",
+    "plot": "Three engineering students in Bangalore cross paths with a quirky, local gangster named Ranga Annan.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Aavesham.jpg",
+    "cast": [
+      "Fahadh Faasil",
+      "Hipzster",
+      "Mithun Jai Shankar"
+    ],
+    "director": "Jithu Madhavan",
+    "runtime": "158 min",
+    "provider": "movies",
+    "ott_url": "https://www.primevideo.com"
+  },
+  {
+    "title": "Manjummel Boys (Disney+ Hotstar)",
+    "year": "2024",
+    "rating": "8.3",
+    "genre": "Survival Thriller • Streaming on Disney+ Hotstar",
+    "plot": "A group of friends from Kochi venture into Guna Caves, where one of them falls into an unfathomable pit. Industry Hit of 2024.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Manjummel_Boys_poster.jpg",
+    "cast": [
+      "Soubin Shahir",
+      "Sreenath Bhasi",
+      "Balu Varghese"
+    ],
+    "director": "Chidambaram",
+    "runtime": "135 min",
+    "provider": "movies",
+    "ott_url": "https://www.hotstar.com"
+  },
+  {
+    "title": "Bramayugam (SonyLIV)",
+    "year": "2024",
+    "rating": "8.0",
+    "genre": "Period Folk Horror • Streaming on SonyLIV",
+    "plot": "A folk singer escapes enslavement and stumbles upon a sinister, mysterious mansion ruled by Kodumon Potti.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Bramayugam_poster.jpg",
+    "cast": [
+      "Mammootty",
+      "Arjun Ashokan",
+      "Sidharth Bharathan"
+    ],
+    "director": "Rahul Sadasivan",
+    "runtime": "139 min",
+    "provider": "movies",
+    "ott_url": "https://www.sonyliv.com"
+  },
+  {
+    "title": "Aadujeevitham (The Goat Life) (Netflix)",
+    "year": "2024",
+    "rating": "8.1",
+    "genre": "Survival Drama • Streaming on Netflix",
+    "plot": "The harrowing true survival journey of Najeeb, an Indian migrant worker stranded in the Saudi desert tending goats.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Goat_Life_poster.jpg",
+    "cast": [
+      "Prithviraj Sukumaran",
+      "Jimmy Jean-Louis",
+      "Amala Paul"
+    ],
+    "director": "Blessy",
+    "runtime": "172 min",
+    "provider": "movies",
+    "ott_url": "https://www.netflix.com"
+  },
+  {
+    "title": "Premalu (Disney+ Hotstar)",
+    "year": "2024",
+    "rating": "7.9",
+    "genre": "Romantic Comedy • Streaming on Disney+ Hotstar",
+    "plot": "Sachin pursues romance in Hyderabad while navigating hilarious cultural confusions and rivalries.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/Premalu_film_poster.jpg",
+    "cast": [
+      "Naslen K. Gafoor",
+      "Mamitha Baiju",
+      "Shyam Mohan"
+    ],
+    "director": "Girish A.D.",
+    "runtime": "156 min",
+    "provider": "movies",
+    "ott_url": "https://www.hotstar.com"
+  },
+  {
+    "title": "Neru (Disney+ Hotstar)",
+    "year": "2023",
+    "rating": "7.8",
+    "genre": "Legal Courtroom Drama • Streaming on Disney+ Hotstar",
+    "plot": "A blind sculptor seeks justice with the help of an emotionally worn-out advocate against an influential assailant.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Neru_film_poster.jpg",
+    "cast": [
+      "Mohanlal",
+      "Priyamani",
+      "Anaswara Rajan"
+    ],
+    "director": "Jeethu Joseph",
+    "runtime": "152 min",
+    "provider": "movies",
+    "ott_url": "https://www.hotstar.com"
+  },
+  {
+    "title": "Anweshippin Kandethum (Netflix)",
+    "year": "2024",
+    "rating": "7.4",
+    "genre": "Investigative Police Procedural • Streaming on Netflix",
+    "plot": "Sub-inspector Anand Narayanan and his special team investigate two complicated and sensational homicide cases in 1990s Kerala.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Anweshippin_Kandethum.jpg",
+    "cast": [
+      "Tovino Thomas",
+      "Siddique",
+      "Jaffer Idukki"
+    ],
+    "director": "Darwin Kuriakose",
+    "runtime": "142 min",
+    "provider": "movies",
+    "ott_url": "https://www.netflix.com"
+  },
+  {
+    "title": "Garudan (Prime Video)",
+    "year": "2023",
+    "rating": "7.3",
+    "genre": "Legal Crime Thriller • Streaming on Prime Video",
+    "plot": "An upright police officer faces a battle of wits with a cunning college professor who was convicted in a rape case.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1a/Garudan_2023_%28poster%29.jpg",
+    "cast": [
+      "Suresh Gopi",
+      "Biju Menon",
+      "Siddique"
+    ],
+    "director": "Arun Varma",
+    "runtime": "138 min",
+    "provider": "movies",
+    "ott_url": "https://www.primevideo.com"
+  }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Madras Prank",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCdE8qg2qrgXSmqp7YqnrkTQ"
+        ],
+        "link": "https://www.youtube.com/channel/UCdE8qg2qrgXSmqp7YqnrkTQ"
+    },
+    {
+        "title": "Today Trending",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCG0m9a2z1ziRm2YlaFuyU7A"
+        ],
+        "link": "https://www.youtube.com/channel/UCG0m9a2z1ziRm2YlaFuyU7A"
+    },
+    {
+        "title": "TP MEMES",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCGj6lZmKddgqoYygpTS4WHA"
+        ],
+        "link": "https://www.youtube.com/channel/UCGj6lZmKddgqoYygpTS4WHA"
+    },
+    {
+        "title": "KP TROLL",
+        "provider": "rss",
+        "arguments": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UClkJpyZusuVbmSm4XEVTxRA"
+        ],
+        "link": "https://www.youtube.com/channel/UClkJpyZusuVbmSm4XEVTxRA"
+    }
+]

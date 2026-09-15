@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Doctor Live Health Awareness",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=doctor+live+malayalam+health+tips"
+    ],
+    "image": "https://img.icons8.com/color/96/stethoscope.png"
+  },
+  {
+    "title": "Kerala Traditional Ayurveda",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=kerala+ayurveda+health+tips"
+    ],
+    "image": "https://img.icons8.com/color/96/spa-flower.png"
+  }
+]

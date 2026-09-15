@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Minnal Media Award Winning Shorts",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=minnal+media+malayalam+short+film"
+    ],
+    "image": "https://img.icons8.com/color/96/cinema.png"
+  },
+  {
+    "title": "Film Freestyle Indie Shorts",
+    "provider": "web",
+    "arguments": [
+      "https://www.youtube.com/results?search_query=film+freestyle+short+film"
+    ],
+    "image": "https://img.icons8.com/color/96/movie-ticket.png"
+  }
+]

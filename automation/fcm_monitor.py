@@ -7,41 +7,61 @@ import feedparser
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Firebase Admin SDK
+import firebase_admin
+from firebase_admin import credentials, messaging
+
 STATE_DIR = 'automation/state'
 DEFAULT_APPS_CONFIG = 'automation/apps.json'
 
+_firebase_initialized = False
+
+def init_firebase():
+    """Initializes Firebase Admin SDK from environment secret"""
+    global _firebase_initialized
+    if _firebase_initialized:
+        return True
+
+    firebase_key = os.getenv('FIREBASE_KEY')
+    if not firebase_key:
+        print("[FCM] FIREBASE_KEY environment variable is missing.")
+        return False
+
+    try:
+        if os.path.exists(firebase_key):
+            cred = credentials.Certificate(firebase_key)
+        else:
+            service_account_info = json.loads(firebase_key)
+            cred = credentials.Certificate(service_account_info)
+
+        firebase_admin.initialize_app(cred)
+        _firebase_initialized = True
+        print("[FCM] Firebase Admin SDK successfully initialized.")
+        return True
+    except Exception as e:
+        print(f"[FCM] Error initializing Firebase: {e}")
+        return False
+
 def extract_image_url(entry):
     """Extracts high-resolution image or video thumbnail from RSS entry"""
-    # 1. YouTube media_thumbnail
     media_thumbnail = entry.get('media_thumbnail')
     if media_thumbnail and isinstance(media_thumbnail, list) and len(media_thumbnail) > 0:
         thumb = media_thumbnail[0].get('url', '')
         if thumb:
-            # Upgrade standard YouTube thumb to hqdefault for crisp rendering
             return thumb.replace('default.jpg', 'hqdefault.jpg')
 
-    # 2. media_content
     media_content = entry.get('media_content')
     if media_content and isinstance(media_content, list) and len(media_content) > 0:
         img_url = media_content[0].get('url', '')
         if img_url:
             return img_url
 
-    # 3. enclosures
     enclosures = entry.get('enclosures')
     if enclosures and isinstance(enclosures, list) and len(enclosures) > 0:
         for enc in enclosures:
             if 'image' in enc.get('type', '') or enc.get('href', '').endswith(('.jpg', '.jpeg', '.png', '.webp')):
                 return enc.get('href')
 
-    # 4. links with image type
-    links = entry.get('links')
-    if links and isinstance(links, list):
-        for link in links:
-            if 'image' in link.get('type', ''):
-                return link.get('href')
-
-    # 5. Extract <img src="..."> from summary or description HTML
     summary = entry.get('summary', '') or entry.get('description', '')
     if summary:
         match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary, re.IGNORECASE)
@@ -50,53 +70,50 @@ def extract_image_url(entry):
 
     return None
 
-def send_onesignal_notification(app_id, rest_key, title, message, link=None, image_url=None, accent_color="FFE11D48"):
-    """Sends a rich, beautiful push notification via OneSignal REST API"""
-    if not app_id or not rest_key or app_id == 'YOUR_APP_ID_HERE':
-        print(f"Skipping notification (missing credentials for App ID: {app_id})")
-        return
+def send_fcm_topic_notification(topic, title, message, link=None, image_url=None, accent_color="#E11D48"):
+    """Sends a rich push notification via Firebase Cloud Messaging (FCM) to a Topic"""
+    if not init_firebase():
+        print(f"[FCM] Cannot send notification to topic '{topic}': Firebase not initialized.")
+        return False
 
-    url = "https://onesignal.com/api/v1/notifications"
-    headers = {
-        "Content-Type": "application/json; charset=utf-8",
-        "Authorization": f"Basic {rest_key}"
+    unique_id = str(int(datetime.now().timestamp()) % 1000000)
+
+    # Prepare Data Payload (matching MyFirebaseMessageService.java)
+    data_payload = {
+        "unique_id": unique_id,
+        "post_id": unique_id,
+        "title": title,
+        "message": message,
+        "link": link or "",
+        "big_image": image_url or ""
     }
-
-    payload = {
-        "app_id": app_id,
-        "included_segments": ["All"],
-        "headings": {"en": title},
-        "contents": {"en": message},
-        "android_accent_color": accent_color,
-        "android_visibility": 1,
-        "priority": 10
-    }
-
-    # Rich Media: Full-width banner in Android & preview thumbnail
-    if image_url:
-        payload["big_picture"] = image_url
-        payload["chrome_web_image"] = image_url
-        payload["ios_attachments"] = {"id1": image_url}
-        payload["large_icon"] = image_url
-
-    # Action link & Deep Linking
-    if link:
-        payload["url"] = link
-        payload["data"] = {
-            "url": link,
-            "title": message,
-            "image": image_url or ""
-        }
-        payload["buttons"] = [
-            {"id": "btn_open", "text": "▶ Watch Now", "icon": "ic_play_circle"},
-            {"id": "btn_share", "text": "🔗 Share"}
-        ]
 
     try:
-        response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=12)
-        print(f"[{title}] OneSignal Response: {response.status_code} - {response.text}")
+        fcm_message = messaging.Message(
+            notification=messaging.Notification(
+                title=title,
+                body=message,
+                image=image_url if image_url else None
+            ),
+            data=data_payload,
+            android=messaging.AndroidConfig(
+                priority='high',
+                notification=messaging.AndroidNotification(
+                    color=accent_color,
+                    default_sound=True,
+                    default_vibrate_timings=True,
+                    image=image_url if image_url else None
+                )
+            ),
+            topic=topic
+        )
+
+        response = messaging.send(fcm_message)
+        print(f"[FCM SUCCESS] Sent to topic '{topic}': {response}")
+        return True
     except Exception as e:
-        print(f"Error sending notification: {e}")
+        print(f"[FCM ERROR] Failed sending to topic '{topic}': {e}")
+        return False
 
 def get_latest_item(feed_url):
     """Fetches the latest entry from an RSS or YouTube feed"""
@@ -116,8 +133,7 @@ def get_latest_item(feed_url):
                 'link': link,
                 'image': image_url
             }
-    except Exception as e:
-        # Silently ignore temporary network timeouts
+    except Exception:
         pass
     return None
 
@@ -164,12 +180,10 @@ def scan_feeds_in_directory(directory):
                                 feeds.append({'name': name, 'url': feed_url})
 
                     elif isinstance(data, dict):
-                        # rss_news in config.json
                         if 'rss_news' in data:
                             for item in data['rss_news']:
                                 if item.get('url'):
                                     feeds.append({'name': item.get('title', 'RSS News'), 'url': item['url']})
-                        # youtube_channels in config.json
                         if 'youtube_channels' in data:
                             for item in data['youtube_channels']:
                                 channel_id = item.get('channel_id')
@@ -178,23 +192,23 @@ def scan_feeds_in_directory(directory):
                                         'name': item.get('name', 'YouTube Channel'),
                                         'url': f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
                                     })
-            except Exception as e:
+            except Exception:
                 pass
     return feeds
 
-def monitor_app(app_config):
-    """Monitors feeds for a specific app configuration"""
+def monitor_fcm_app(app_config):
+    """Monitors feeds and broadcasts to Firebase FCM topic"""
     app_id = app_config.get('app_id')
     app_name = app_config.get('name', app_id)
     folder = app_config.get('folder', app_id)
-    env_app_id = app_config.get('env_app_id', f"{app_id.upper()}_ONESIGNAL_APP_ID")
-    env_rest_key = app_config.get('env_rest_key', f"{app_id.upper()}_ONESIGNAL_REST_KEY")
-    accent_color = app_config.get('accent_color', 'FFE11D48')
-    emoji = app_config.get('emoji', '🔔')
-    limit_per_run = app_config.get('limit_per_run', 2)
+    fcm_topic = app_config.get('fcm_topic', f"{app_id}_topic")
+    accent_color = "#" + app_config.get('accent_color', 'FFE11D48')[-6:]
+    emoji = app_config.get('emoji', '🎬')
 
-    onesignal_app_id = os.getenv(env_app_id) or os.getenv('ONESIGNAL_APP_ID')
-    onesignal_rest_key = os.getenv(env_rest_key) or os.getenv('ONESIGNAL_REST_KEY')
+    daily_limit = app_config.get('daily_limit', 5)
+    min_gap_hours = app_config.get('min_gap_hours', 2)
+    active_hours = app_config.get('active_hours', [8, 22])
+    priority_channels = app_config.get('priority_channels', [])
 
     # Locate app assets directory
     target_dir = None
@@ -203,24 +217,18 @@ def monitor_app(app_config):
     elif os.path.exists(os.path.join('apps', folder)):
         target_dir = os.path.join('apps', folder)
 
-    # If folder has no feeds and app/src/main/assets exists locally
     if target_dir and len(scan_feeds_in_directory(target_dir)) == 0 and os.path.exists('app/src/main/assets'):
         target_dir = 'app/src/main/assets'
     elif not target_dir and folder == 'malayalam' and os.path.exists('app/src/main/assets'):
         target_dir = 'app/src/main/assets'
 
     if not target_dir:
-        print(f"[{app_name}] Folder '{folder}' not found. Skipping.")
+        print(f"[FCM - {app_name}] Folder '{folder}' not found. Skipping.")
         return
-
-    daily_limit = app_config.get('daily_limit', 5)
-    min_gap_hours = app_config.get('min_gap_hours', 2)
-    active_hours = app_config.get('active_hours', [8, 22])
-    priority_channels = app_config.get('priority_channels', [])
 
     # Load persistent state and metadata
     os.makedirs(STATE_DIR, exist_ok=True)
-    state_file = os.path.join(STATE_DIR, f"last_seen_{app_id}.json")
+    state_file = os.path.join(STATE_DIR, f"last_seen_fcm_{app_id}.json")
     last_seen = {}
     if os.path.exists(state_file):
         try:
@@ -252,14 +260,13 @@ def monitor_app(app_config):
 
     feeds = scan_feeds_in_directory(target_dir)
     print(f"\n==========================================")
-    print(f"[{app_name}] Scanning {len(feeds)} feeds from '{target_dir}' at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"[{app_name}] Daily Stats: Sent {today_sent_count}/{daily_limit} today. Cooldown: {is_in_cooldown}, Quiet Hours: {is_quiet_hours}")
+    print(f"[FCM - {app_name}] Topic: '{fcm_topic}' | Feeds: {len(feeds)}")
+    print(f"[FCM - {app_name}] Daily Stats: Sent {today_sent_count}/{daily_limit} today | Cooldown: {is_in_cooldown} | Quiet Hours: {is_quiet_hours}")
     print(f"==========================================")
 
     new_state = {}
     candidate_items = []
 
-    # Fetch feeds concurrently for speed
     def check_single_feed(f_item):
         u = f_item['url']
         if not u:
@@ -281,16 +288,13 @@ def monitor_app(app_config):
         url = feed_item['url']
         new_state[url] = latest['id']
 
-        # If this feed was previously tracked and has a newly published video/article
         if url in last_seen and last_seen[url] != latest['id']:
             title = latest.get('title', '')
             title_lower = title.lower()
 
-            # Skip YouTube shorts or 15-second teaser shorts
             if '#shorts' in title_lower or '#short' in title_lower or '/shorts/' in str(latest.get('link', '')):
                 continue
 
-            # Calculate Relevance & Priority Score
             score = 10
             for pc in priority_channels:
                 if pc.lower() in feed_item['name'].lower():
@@ -307,45 +311,43 @@ def monitor_app(app_config):
                 'score': score
             })
 
-    # Sort new candidate items by highest score first (VIP channels and major trailers win)
     candidate_items.sort(key=lambda x: x['score'], reverse=True)
-
     notifications_sent = 0
 
     if candidate_items:
-        print(f"[{app_name}] Found {len(candidate_items)} new upload(s) across all channels.")
+        print(f"[FCM - {app_name}] Found {len(candidate_items)} new upload(s).")
 
         for cand in candidate_items:
             f_item = cand['feed']
             latest = cand['item']
 
             if is_quiet_hours:
-                print(f"[{app_name}] Quiet hours active ({current_hour}:00). Skipping notification for: {latest['title']}")
+                print(f"[FCM - {app_name}] Quiet hours ({current_hour}:00). Skipping: {latest['title']}")
                 continue
 
             if is_daily_limit_reached:
-                print(f"[{app_name}] Daily limit ({daily_limit}) reached for today. Skipping: {latest['title']}")
+                print(f"[FCM - {app_name}] Daily limit ({daily_limit}) reached. Skipping: {latest['title']}")
                 continue
 
             if is_in_cooldown:
-                print(f"[{app_name}] Cooldown active (min gap {min_gap_hours}h). Skipping: {latest['title']}")
+                print(f"[FCM - {app_name}] Cooldown active ({min_gap_hours}h gap). Skipping: {latest['title']}")
                 continue
 
-            if notifications_sent < 1:  # Send the #1 best item this hour
+            if notifications_sent < 1:
                 heading = f"{emoji} {f_item['name']} • New Upload!"
-                send_onesignal_notification(
-                    app_id=onesignal_app_id,
-                    rest_key=onesignal_rest_key,
+                success = send_fcm_topic_notification(
+                    topic=fcm_topic,
                     title=heading,
                     message=latest['title'],
                     link=latest['link'],
                     image_url=latest['image'],
                     accent_color=accent_color
                 )
-                notifications_sent += 1
-                today_sent_count += 1
-                last_sent_ts = int(datetime.now().timestamp())
-                is_in_cooldown = True
+                if success:
+                    notifications_sent += 1
+                    today_sent_count += 1
+                    last_sent_ts = int(datetime.now().timestamp())
+                    is_in_cooldown = True
 
     # Save state and updated metadata
     last_seen.update(new_state)
@@ -358,48 +360,16 @@ def monitor_app(app_config):
     with open(state_file, 'w', encoding='utf-8') as f:
         json.dump(last_seen, f, indent=2)
 
-    # Also maintain backwards compatibility with legacy single state file
-    legacy_file = 'automation/last_seen.json'
-    try:
-        legacy_state = {}
-        if os.path.exists(legacy_file):
-            with open(legacy_file, 'r', encoding='utf-8') as f:
-                legacy_state = json.load(f)
-        legacy_state.update(new_state)
-        with open(legacy_file, 'w', encoding='utf-8') as f:
-            json.dump(legacy_state, f, indent=2)
-    except Exception:
-        pass
-
-    print(f"[{app_name}] Finished. Sent {notifications_sent} push notifications.")
-
 def main():
-    single_dir = os.getenv('SCAN_DIR')
-    if single_dir:
-        # Single app mode via SCAN_DIR env variable
-        app_cfg = {
-            'app_id': single_dir,
-            'name': single_dir.capitalize(),
-            'folder': single_dir,
-            'env_app_id': f"{single_dir.upper()}_ONESIGNAL_APP_ID",
-            'env_rest_key': f"{single_dir.upper()}_ONESIGNAL_REST_KEY"
-        }
-        monitor_app(app_cfg)
+    if not os.path.exists(DEFAULT_APPS_CONFIG):
+        print(f"[FCM] Config file {DEFAULT_APPS_CONFIG} not found.")
         return
 
-    # Multi-App registry mode
-    if os.path.exists(DEFAULT_APPS_CONFIG):
-        with open(DEFAULT_APPS_CONFIG, 'r', encoding='utf-8') as f:
-            apps = json.load(f)
-        for app in apps:
-            monitor_app(app)
-    else:
-        # Fallback to local assets
-        monitor_app({
-            'app_id': 'default',
-            'name': 'Default App',
-            'folder': 'app/src/main/assets'
-        })
+    with open(DEFAULT_APPS_CONFIG, 'r', encoding='utf-8') as f:
+        apps = json.load(f)
+
+    for app in apps:
+        monitor_fcm_app(app)
 
 if __name__ == '__main__':
     main()

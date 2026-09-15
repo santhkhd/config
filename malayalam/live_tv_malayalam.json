@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Asianet News Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "24 News Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/1aHj2DTEXgAR86S6btYaUbV714eIBJFrQA899QbLMCC8rfcMcTr8whoTbjsQ_rGnpgRA2I5dtg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Manorama News Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/ZYxJvUMw4-3IZvUc7JP9IsZjOUbHQv5zJ9Tg4qZqSQF5ly2l28J8xekqgHFL7TtrUe1Rkh1Wsg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Mathrubhumi News Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/_rx-3_wlurx2SqNOiJy_3MrkOvDru0QQ4Wp3-a4RiRfFC2OMiwCS3umMD6PDnzm3Lxg9mEERwQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "MediaOne TV Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UC-f7r46JhYv78q5pGrO6ivA/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nFqgCQfk09vEWUTJ8YLJqTaahT-cqdX1fP8-rv7ZI5Kos=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Reporter Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/bJDd0TLwG0dXlTmaX9RvX1Ch99KMWU8tqpMIXu6W46dNfIS7gK3pC243M--uLOHgPaNKTaQF=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Janam TV Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nF-1NoZ_EIbtaJkAwELkk45T0PZBOr2pjD0VPQHg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "News18 Kerala Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_noEGYn5NGuAElTdnJcp3vAZJYN5bM9ZDjFa7OfVxq2xw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Kairali News Live 24x7",
+    "provider": "live",
+    "arguments": [
+      "https://www.youtube.com/channel/UCnEvxaWfVL91XIYuyQRO5QA/live"
+    ],
+    "image": "https://yt3.googleusercontent.com/oYCJSNCRQMinymACQmOVjkQwTvjTXWWAJBwc-M1e00-B2DNgNyZFSrNhd0Lu6oaAKK_V5ZFqwl4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Kaumudy TV Live 24x7",
+    "provider": "iptv",
+    "arguments": [
+      "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8"
+    ],
+    "image": "https://yt3.googleusercontent.com/EKtMuzaVrMGtk4qZLQrm1CvP8UFdhWN4y8WfJFoJVCThZb6wek8s7EWR0lqU0AyJLCMlCvqVkeU=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Jaihind TV News Live 24x7",
+    "provider": "iptv",
+    "arguments": [
+      "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8"
+    ],
+    "image": "https://yt3.googleusercontent.com/xjrt1EqY-Kvajn_-3rA_vOArGzkUgXQ-qpwqvr4HGI3Wir6iwygBH0X08LHWbGEvsfSyglBg1A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "DD Malayalam (ദൂരദർശൻ)",
+    "provider": "iptv",
+    "arguments": [
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8"
+    ],
+    "image": "https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png"
+  }
+]
