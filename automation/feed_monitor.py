@@ -4,7 +4,7 @@ import json
 import re
 import requests
 import feedparser
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 STATE_DIR = 'automation/state'
@@ -230,15 +230,17 @@ def monitor_app(app_config):
             last_seen = {}
 
     meta = last_seen.get('_meta', {})
-    today_str = datetime.now().strftime('%Y-%m-%d')
+    ist_tz = timezone(timedelta(hours=5, minutes=30))
+    now_ist = datetime.now(ist_tz)
+    today_str = now_ist.strftime('%Y-%m-%d')
     if meta.get('today_date') != today_str:
         today_sent_count = 0
     else:
         today_sent_count = meta.get('today_sent_count', 0)
 
     last_sent_ts = meta.get('last_sent_timestamp', 0)
-    current_ts = int(datetime.now().timestamp())
-    current_hour = datetime.now().hour
+    current_ts = int(now_ist.timestamp())
+    current_hour = now_ist.hour
 
     is_quiet_hours = False
     if active_hours and len(active_hours) == 2:
