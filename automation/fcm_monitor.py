@@ -62,11 +62,11 @@ def extract_image_url(entry):
             if 'image' in enc.get('type', '') or enc.get('href', '').endswith(('.jpg', '.jpeg', '.png', '.webp')):
                 return enc.get('href')
 
-    summary = entry.get('summary', '') or entry.get('description', '')
-    if summary:
-        match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary, re.IGNORECASE)
-        if match:
-            return match.group(1)
+    item_id = str(entry.get('id', ''))
+    link = str(entry.get('link', ''))
+    yt_match = re.search(r'(?:yt:video:|v=|\/vi\/|\/videos\/|\/shorts\/|youtu\.be\/)([a-zA-Z0-9_-]{11})', item_id + " " + link)
+    if yt_match:
+        return f"https://img.youtube.com/vi/{yt_match.group(1)}/hqdefault.jpg"
 
     return None
 
