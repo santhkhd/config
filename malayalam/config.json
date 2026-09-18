@@ -13,7 +13,7 @@
         "user_agent": "",
         "privacy_policy_url": "privacy_policy.html",
         "more_apps_url": "https://play.google.com/store/apps/developer?id=Shivappa+Developer",
-        "webview_disclaimer_active": false,
+        "webview_disclaimer_active": true,
         "redirect_url": ""
     },
     "intro": {
@@ -110,10 +110,10 @@
         "ad_status": true,
         "main_ads": "admob",
         "backup_ads": "none",
-        "admob_banner_unit_id": "ca-app-pub-8211285362401989/2478876602",
-        "admob_interstitial_unit_id": "ca-app-pub-8211285362401989/2313588596",
-        "admob_native_unit_id": "ca-app-pub-8211285362401989/4949127274",
-        "admob_app_open_ad_unit_id": "ca-app-pub-8211285362401989/8687425254",
+        "admob_banner_unit_id": "ca-app-pub-8211285362401989/2250941706",
+        "admob_interstitial_unit_id": "ca-app-pub-8211285362401989/7583406851",
+        "admob_native_unit_id": "ca-app-pub-8211285362401989/8433206679",
+        "admob_app_open_ad_unit_id": "ca-app-pub-8211285362401989/1588844143",
         "ad_manager_banner_unit_id": "/6499/example/banner",
         "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
         "ad_manager_native_unit_id": "/6499/example/native",
@@ -140,7 +140,7 @@
         "native_ad_style_drawer_menu": "medium",
         "native_ad_style_exit_dialog": "medium",
         "native_ad_style_product_list": "medium",
-        "native_ad_index": 4,
+        "native_ad_index": 3,
         "interstitial_ad_on_list_item_click": true,
         "interstitial_ad_interval_on_list_item_click": 3,
         "placement": {
@@ -149,8 +149,8 @@
             "interstitial_web_page_link": true,
             "native_drawer_menu": true,
             "native_exit_dialog": true,
-            "app_open_ad_on_start": true,
-            "app_open_ad_on_resume": true
+            "app_open_ad_on_start": false,
+            "app_open_ad_on_resume": false
         }
     },
     "youtube_channels": [
