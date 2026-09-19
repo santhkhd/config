@@ -140,9 +140,9 @@
         "native_ad_style_drawer_menu": "medium",
         "native_ad_style_exit_dialog": "medium",
         "native_ad_style_product_list": "medium",
-        "native_ad_index": 3,
+        "native_ad_index": 6,
         "interstitial_ad_on_list_item_click": true,
-        "interstitial_ad_interval_on_list_item_click": 3,
+        "interstitial_ad_interval_on_list_item_click": 8,
         "placement": {
             "banner_home": true,
             "interstitial_drawer_menu": true,
