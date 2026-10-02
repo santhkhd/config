@@ -74,10 +74,10 @@
     "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_banner_unit_id": "ca-app-pub-2647466673530215/8646584612",
+    "admob_interstitial_unit_id": "ca-app-pub-2647466673530215/9899956539",
+    "admob_native_unit_id": "ca-app-pub-2647466673530215/4647629853",
+    "admob_app_open_ad_unit_id": "ca-app-pub-2647466673530215/2951404805",
     "interstitial_ad_interval_on_drawer_menu": 5,
     "interstitial_ad_interval_on_web_page_link": 0,
     "native_ad_style_drawer_menu": "medium",
@@ -92,8 +92,8 @@
       "interstitial_web_page_link": false,
       "native_drawer_menu": true,
       "native_exit_dialog": true,
-      "app_open_ad_on_start": false,
-      "app_open_ad_on_resume": false
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
     }
   },
   "youtube_channels": [
