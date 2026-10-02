@@ -65,6 +65,18 @@
     ]
   },
   {
+  "app_id": "com_usanewspapers_localnews_weather",
+  "name": "US Local News & Weather",
+  "folder": "news/com.usanewspapers.localnews.weather",
+  "fcm_topic": "localnews_weather_topic",
+  "accent_color": "FF0284C7",
+  "emoji": "📰",
+  "daily_limit": 5,
+  "min_gap_hours": 2,
+  "active_hours": [8, 22]
+},
+
+  {
     "app_id": "malayalamtroll",
     "name": "Malayalam Troll & Comedy",
     "folder": "malayalamtroll",
