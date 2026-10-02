@@ -1,0 +1,336 @@
+[
+  {
+    "title": "The Columbus Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecolumbusdispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dispatch.com",
+    "year": "Ohio",
+    "genre": "Columbus",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "The Plain Dealer / cleveland.com",
+    "provider": "web",
+    "arguments": [
+      "https://www.cleveland.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cleveland.com",
+    "year": "Ohio",
+    "genre": "Cleveland",
+    "rating": "State Flagship Daily",
+    "rssUrl": "https://www.cleveland.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+    "title": "The Cincinnati Enquirer",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecincinnatienquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cincinnati.com",
+    "year": "Ohio",
+    "genre": "Cincinnati",
+    "rating": "Tristate Flagship Daily"
+  },
+  {
+    "title": "The Canton Repository",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecantonrepository.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cantonrep.com",
+    "year": "Ohio",
+    "genre": "Canton",
+    "rating": "Stark County Daily"
+  },
+  {
+    "title": "The Lima News",
+    "provider": "web",
+    "arguments": [
+      "https://www.limaohio.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=limaohio.com",
+    "year": "Ohio",
+    "genre": "Lima",
+    "rating": "West Central OH Daily"
+  },
+  {
+    "title": "The Blade",
+    "provider": "web",
+    "arguments": [
+      "https://www.toledoblade.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=toledoblade.com",
+    "year": "Ohio",
+    "genre": "Toledo",
+    "rating": "Northwest Ohio Flagship Daily",
+    "rssUrl": "https://www.toledoblade.com/rss/"
+  },
+  {
+    "title": "The Vindicator / Tribune Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.vindy.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vindy.com",
+    "year": "Ohio",
+    "genre": "Youngstown / Warren",
+    "rating": "Mahoning Valley Daily",
+    "rssUrl": "https://www.vindy.com/feed"
+  },
+  {
+    "title": "Mansfield News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.mansfieldnewsjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mansfieldnewsjournal.com",
+    "year": "Ohio",
+    "genre": "Mansfield",
+    "rating": "Daily"
+  },
+  {
+    "title": "Zanesville Times Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.zanesvilletimesrecorder.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zanesvilletimesrecorder.com",
+    "year": "Ohio",
+    "genre": "Zanesville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chillicothe Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.chillicothegazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chillicothegazette.com",
+    "year": "Ohio",
+    "genre": "Chillicothe",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Times-Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesreporter.com",
+    "year": "Ohio",
+    "genre": "New Philadelphia",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newark Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.newarkadvocate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newarkadvocate.com",
+    "year": "Ohio",
+    "genre": "Newark",
+    "rating": "Licking County Daily"
+  },
+  {
+    "title": "The Herald-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.theheraldstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hsconnect.com",
+    "year": "Ohio",
+    "genre": "Steubenville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lancaster Eagle-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.lancastereaglegazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lancastereaglegazette.com",
+    "year": "Ohio",
+    "genre": "Lancaster",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Marion Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.marionstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marionstar.com",
+    "year": "Ohio",
+    "genre": "Marion",
+    "rating": "Daily"
+  },
+  {
+    "title": "Akron Beacon Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.akronbeaconjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beaconjournal.com",
+    "year": "Ohio",
+    "genre": "Akron",
+    "rating": "Summit County Daily"
+  },
+  {
+    "title": "The Daily Jeffersonian",
+    "provider": "web",
+    "arguments": [
+      "https://www.daily-jeff.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daily-jeff.com",
+    "year": "Ohio",
+    "genre": "Cambridge",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ashtabula Star Beacon",
+    "provider": "web",
+    "arguments": [
+      "https://www.starbeacon.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starbeacon.com",
+    "year": "Ohio",
+    "genre": "Ashtabula",
+    "rating": "Daily",
+    "rssUrl": "http://www.starbeacon.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Morning Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.morningjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=morningjournal.com",
+    "year": "Ohio",
+    "genre": "Lorain",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailyrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=the-daily-record.com",
+    "year": "Ohio",
+    "genre": "Wooster",
+    "rating": "Daily"
+  },
+  {
+    "title": "Springfield News-Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.springfieldnewssun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=springfieldnewssun.com",
+    "year": "Ohio",
+    "genre": "Springfield",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dayton Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.daytondailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daytondailynews.com",
+    "year": "Ohio",
+    "genre": "Dayton",
+    "rating": "Miami Valley Flagship Daily"
+  },
+  {
+    "title": "The News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-herald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-herald.com",
+    "year": "Ohio",
+    "genre": "Willoughby / Lake County",
+    "rating": "Daily"
+  },
+  {
+    "title": "Portsmouth Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.portsmouth-dailytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portsmouth-dailytimes.com",
+    "year": "Ohio",
+    "genre": "Portsmouth",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Athens Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.athensmessenger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=athensmessenger.com",
+    "year": "Ohio",
+    "genre": "Athens",
+    "rating": "Ohio University Daily"
+  },
+  {
+    "title": "The Chronicle-Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.chroniclet.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chroniclet.com",
+    "year": "Ohio",
+    "genre": "Elyria",
+    "rating": "Lorain County Daily"
+  },
+  {
+    "title": "Sandusky Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.sanduskyregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanduskyregister.com",
+    "year": "Ohio",
+    "genre": "Sandusky",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecourier.com",
+    "year": "Ohio",
+    "genre": "Findlay",
+    "rating": "Daily"
+  },
+  {
+    "title": "Norwalk Reflector",
+    "provider": "web",
+    "arguments": [
+      "https://www.norwalkreflector.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=norwalkreflector.com",
+    "year": "Ohio",
+    "genre": "Norwalk",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Advertiser-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.advertiser-tribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=advertiser-tribune.com",
+    "year": "Ohio",
+    "genre": "Tiffin",
+    "rating": "Daily"
+  }
+]

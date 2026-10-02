@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Coeur d'Alene Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.cdapress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cdapress.com",
+    "year": "Idaho",
+    "genre": "Coeur d'Alene",
+    "rating": "North Idaho Daily"
+  },
+  {
+    "title": "The Lewiston Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.lmtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lmtribune.com",
+    "year": "Idaho",
+    "genre": "Lewiston",
+    "rating": "North Central ID Daily",
+    "rssUrl": "https://www.lmtribune.com/rss.xml"
+  },
+  {
+    "title": "Moscow-Pullman Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.dnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dnews.com",
+    "year": "Idaho",
+    "genre": "Moscow",
+    "rating": "University of Idaho Daily",
+    "rssUrl": "https://www.dnews.com/rss.xml"
+  },
+  {
+    "title": "The Idaho State Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalnet.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalnet.com",
+    "year": "Idaho",
+    "genre": "Pocatello",
+    "rating": "Eastern Idaho Daily"
+  },
+  {
+    "title": "Mountain Home News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mountainhomenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mountainhomenews.com",
+    "year": "Idaho",
+    "genre": "Mountain Home",
+    "rating": "Weekly",
+    "rssUrl": "https://www.mountainhomenews.com/rss.xml"
+  },
+  {
+    "title": "Idaho Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.idahopress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idahopress.com",
+    "year": "Idaho",
+    "genre": "Nampa / Boise",
+    "rating": "Treasure Valley Daily"
+  },
+  {
+    "title": "Post Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.postregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=postregister.com",
+    "year": "Idaho",
+    "genre": "Idaho Falls",
+    "rating": "Top Eastern ID Daily"
+  },
+  {
+    "title": "Times-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.magicvalley.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=magicvalley.com",
+    "year": "Idaho",
+    "genre": "Twin Falls",
+    "rating": "Magic Valley Daily"
+  },
+  {
+    "title": "Teton Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://www.tetonvalleynews.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tetonvalleynews.net",
+    "year": "Idaho",
+    "genre": "Driggs",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Idaho County Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.idahocountyfreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idahocountyfreepress.com",
+    "year": "Idaho",
+    "genre": "Grangeville",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Bonner County Daily Bee",
+    "provider": "web",
+    "arguments": [
+      "https://www.bonnercountydailybee.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bonnercountydailybee.com",
+    "year": "Idaho",
+    "genre": "Sandpoint",
+    "rating": "Daily"
+  },
+  {
+    "title": "Idaho Statesman",
+    "provider": "web",
+    "arguments": [
+      "https://www.idahostatesman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idahostatesman.com",
+    "year": "Idaho",
+    "genre": "Boise",
+    "rating": "State Flagship Daily"
+  }
+]

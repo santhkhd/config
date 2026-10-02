@@ -1,0 +1,315 @@
+[
+  {
+    "title": "The Daytona Beach News-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedaytonabeachnewsjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-journalonline.com",
+    "year": "Florida",
+    "genre": "Daytona Beach",
+    "rating": "Daily"
+  },
+  {
+    "title": "The News-Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewspress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-press.com",
+    "year": "Florida",
+    "genre": "Fort Myers",
+    "rating": "Top Daily"
+  },
+  {
+    "title": "Treasure Coast Newspapers / TCPalm",
+    "provider": "web",
+    "arguments": [
+      "https://www.treasurecoastnewspaperstcpalm.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tcpalm.com",
+    "year": "Florida",
+    "genre": "Stuart / Vero Beach",
+    "rating": "Treasure Coast Daily"
+  },
+  {
+    "title": "The Gainesville Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegainesvillesun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gainesville.com",
+    "year": "Florida",
+    "genre": "Gainesville",
+    "rating": "University of Florida Daily"
+  },
+  {
+    "title": "Ocala Star-Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.ocala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ocala.com",
+    "year": "Florida",
+    "genre": "Ocala",
+    "rating": "Daily"
+  },
+  {
+    "title": "The St. Augustine Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestaugustinerecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=staugustine.com",
+    "year": "Florida",
+    "genre": "St. Augustine",
+    "rating": "Daily"
+  },
+  {
+    "title": "Florida Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.floridatoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=floridatoday.com",
+    "year": "Florida",
+    "genre": "Melbourne / Space Coast",
+    "rating": "Space Coast Daily"
+  },
+  {
+    "title": "The Ledger",
+    "provider": "web",
+    "arguments": [
+      "https://www.theledger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theledger.com",
+    "year": "Florida",
+    "genre": "Lakeland",
+    "rating": "Polk County Daily"
+  },
+  {
+    "title": "Northwest Florida Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.nwfdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nwfdailynews.com",
+    "year": "Florida",
+    "genre": "Fort Walton Beach",
+    "rating": "Panhandle Daily"
+  },
+  {
+    "title": "Panama City News Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsherald.com",
+    "year": "Florida",
+    "genre": "Panama City",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Commercial",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailycommercial.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycommercial.com",
+    "year": "Florida",
+    "genre": "Leesburg",
+    "rating": "Daily"
+  },
+  {
+    "title": "South Florida Sun-Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.sun-sentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sun-sentinel.com",
+    "year": "Florida",
+    "genre": "Fort Lauderdale",
+    "rating": "Top Metro Daily"
+  },
+  {
+    "title": "Orlando Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.orlandosentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=orlandosentinel.com",
+    "year": "Florida",
+    "genre": "Orlando",
+    "rating": "Central Florida Flagship Daily"
+  },
+  {
+    "title": "Miami New Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.miaminewtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miaminewtimes.com",
+    "year": "Florida",
+    "genre": "Miami",
+    "rating": "Alternative Weekly",
+    "rssUrl": "https://www.miaminewtimes.com/feed/"
+  },
+  {
+    "title": "Hernando Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.hernandosun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hernandosun.com",
+    "year": "Florida",
+    "genre": "Brooksville",
+    "rating": "Weekly",
+    "rssUrl": "https://www.hernandosun.com/feed/"
+  },
+  {
+    "title": "The Villages Daily Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.thevillagesdailysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thevillagesdailysun.com",
+    "year": "Florida",
+    "genre": "The Villages",
+    "rating": "High-Circulation Daily",
+    "rssUrl": "http://www.thevillagesdailysun.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Pensacola News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.pensacolanewsjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pnj.com",
+    "year": "Florida",
+    "genre": "Pensacola",
+    "rating": "Panhandle Flagship Daily"
+  },
+  {
+    "title": "Tallahassee Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.tallahasseedemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tallahassee.com",
+    "year": "Florida",
+    "genre": "Tallahassee",
+    "rating": "State Capital Flagship"
+  },
+  {
+    "title": "Citrus County Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.chronicleonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicleonline.com",
+    "year": "Florida",
+    "genre": "Crystal River",
+    "rating": "Daily",
+    "rssUrl": "http://www.chronicleonline.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Boca Raton Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.bocaratontribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bocaratontribune.com",
+    "year": "Florida",
+    "genre": "Boca Raton",
+    "rating": "Weekly",
+    "rssUrl": "https://www.bocaratontribune.com/feed/"
+  },
+  {
+    "title": "The Florida Times-Union",
+    "provider": "web",
+    "arguments": [
+      "https://www.thefloridatimesunion.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonville.com",
+    "year": "Florida",
+    "genre": "Jacksonville",
+    "rating": "First Coast Flagship Daily"
+  },
+  {
+    "title": "Naples Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.naplesdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=naplesnews.com",
+    "year": "Florida",
+    "genre": "Naples",
+    "rating": "Southwest Florida Daily"
+  },
+  {
+    "title": "Tampa Bay Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.tampabay.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tampabay.com",
+    "year": "Florida",
+    "genre": "Tampa / St. Petersburg",
+    "rating": "Pulitzer Prize Winning Flagship"
+  },
+  {
+    "title": "The Citizen / Key West Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.keysnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keysnews.com",
+    "year": "Florida",
+    "genre": "Key West",
+    "rating": "Florida Keys Daily"
+  },
+  {
+    "title": "Sarasota Herald-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.sarasotaheraldtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldtribune.com",
+    "year": "Florida",
+    "genre": "Sarasota",
+    "rating": "Top Gulf Coast Daily"
+  },
+  {
+    "title": "The Palm Beach Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepalmbeachpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palmbeachpost.com",
+    "year": "Florida",
+    "genre": "West Palm Beach",
+    "rating": "Top Metro Daily"
+  },
+  {
+    "title": "Miami Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.miamiherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miamiherald.com",
+    "year": "Florida",
+    "genre": "Miami",
+    "rating": "South Florida Flagship Daily"
+  },
+  {
+    "title": "Bradenton Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.bradentonherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bradenton.com",
+    "year": "Florida",
+    "genre": "Bradenton",
+    "rating": "Daily"
+  }
+]

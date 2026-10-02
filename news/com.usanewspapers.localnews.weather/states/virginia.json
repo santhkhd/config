@@ -1,0 +1,273 @@
+[
+  {
+    "title": "The Washington Post (Northern VA)",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewashingtonpostnorthernva.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonpost.com",
+    "year": "Virginia",
+    "genre": "Northern Virginia",
+    "rating": "NoVA Metro Flagship"
+  },
+  {
+    "title": "The Roanoke Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.roanoke.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=roanoke.com",
+    "year": "Virginia",
+    "genre": "Roanoke",
+    "rating": "Southwest VA Flagship Daily",
+    "rssUrl": "http://roanoke.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Bristol Herald Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldcourier.com",
+    "year": "Virginia",
+    "genre": "Bristol",
+    "rating": "Tri-Cities Daily",
+    "rssUrl": "http://heraldcourier.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailypress.com",
+    "year": "Virginia",
+    "genre": "Newport News / Hampton",
+    "rating": "Hampton Roads Daily"
+  },
+  {
+    "title": "The Daily News Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsleader.com",
+    "year": "Virginia",
+    "genre": "Staunton",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Virginian-Pilot",
+    "provider": "web",
+    "arguments": [
+      "https://www.pilotonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pilotonline.com",
+    "year": "Virginia",
+    "genre": "Norfolk / Virginia Beach",
+    "rating": "Hampton Roads Flagship Daily"
+  },
+  {
+    "title": "The Winchester Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.winchesterstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winchesterstar.com",
+    "year": "Virginia",
+    "genre": "Winchester",
+    "rating": "Daily",
+    "rssUrl": "http://www.winchesterstar.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Progress-Index",
+    "provider": "web",
+    "arguments": [
+      "https://www.progress-index.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=progress-index.com",
+    "year": "Virginia",
+    "genre": "Petersburg",
+    "rating": "Daily"
+  },
+  {
+    "title": "Suffolk News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.suffolknewsherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=suffolknewsherald.com",
+    "year": "Virginia",
+    "genre": "Suffolk",
+    "rating": "Daily",
+    "rssUrl": "https://www.suffolknewsherald.com/rss.xml"
+  },
+  {
+    "title": "The Tidewater News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetidewaternews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetidewaternews.com",
+    "year": "Virginia",
+    "genre": "Franklin",
+    "rating": "Semi-Weekly",
+    "rssUrl": "https://www.thetidewaternews.com/rss.xml"
+  },
+  {
+    "title": "The News Virginian",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsvirginian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsvirginian.com",
+    "year": "Virginia",
+    "genre": "Waynesboro",
+    "rating": "Daily",
+    "rssUrl": "http://newsvirginian.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Inside Business",
+    "provider": "web",
+    "arguments": [
+      "https://www.pilotonline.com/inside-business"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pilotonline.com",
+    "year": "Virginia",
+    "genre": "Norfolk",
+    "rating": "Weekly Business"
+  },
+  {
+    "title": "The Daily Progress",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyprogress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyprogress.com",
+    "year": "Virginia",
+    "genre": "Charlottesville",
+    "rating": "UVA Region Daily"
+  },
+  {
+    "title": "Southwest Virginia Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.swvatoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swvatoday.com",
+    "year": "Virginia",
+    "genre": "Wytheville",
+    "rating": "Semi-Weekly",
+    "rssUrl": "http://swvatoday.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "News & Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.wset.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wset.com",
+    "year": "Virginia",
+    "genre": "South Boston",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Free Lance-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.fredericksburg.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fredericksburg.com",
+    "year": "Virginia",
+    "genre": "Fredericksburg",
+    "rating": "Central VA Daily"
+  },
+  {
+    "title": "Daily News-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.dnronline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dnronline.com",
+    "year": "Virginia",
+    "genre": "Harrisonburg",
+    "rating": "Shenandoah Valley Daily"
+  },
+  {
+    "title": "Richmond Times-Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.richmond.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=richmond.com",
+    "year": "Virginia",
+    "genre": "Richmond",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "The Northern Virginia Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.nvdaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nvdaily.com",
+    "year": "Virginia",
+    "genre": "Strasburg",
+    "rating": "Shenandoah Valley Daily"
+  },
+  {
+    "title": "The News & Advance",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsadvance.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsadvance.com",
+    "year": "Virginia",
+    "genre": "Lynchburg",
+    "rating": "Central VA Daily"
+  },
+  {
+    "title": "Danville Register & Bee",
+    "provider": "web",
+    "arguments": [
+      "https://www.godanriver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=godanriver.com",
+    "year": "Virginia",
+    "genre": "Danville",
+    "rating": "Southside Daily"
+  },
+  {
+    "title": "Loudoun Times-Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.loudountimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=loudountimes.com",
+    "year": "Virginia",
+    "genre": "Leesburg",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Fauquier Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.fauquier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fauquier.com",
+    "year": "Virginia",
+    "genre": "Warrenton",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Martinsville Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.martinsvillebulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=martinsvillebulletin.com",
+    "year": "Virginia",
+    "genre": "Martinsville",
+    "rating": "Daily"
+  }
+]

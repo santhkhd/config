@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Great Falls Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.greatfallstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greatfallstribune.com",
+    "year": "Montana",
+    "genre": "Great Falls",
+    "rating": "Central MT Daily"
+  },
+  {
+    "title": "Havre Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.havredailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=havredailynews.com",
+    "year": "Montana",
+    "genre": "Havre",
+    "rating": "Hi-Line Daily"
+  },
+  {
+    "title": "Independent Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.helenair.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=helenair.com",
+    "year": "Montana",
+    "genre": "Helena",
+    "rating": "State Capital Daily",
+    "rssUrl": "http://helenair.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Miles City Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.milescitystar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=milescitystar.com",
+    "year": "Montana",
+    "genre": "Miles City",
+    "rating": "Eastern MT Daily",
+    "rssUrl": "http://www.milescitystar.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Daily Inter Lake",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyinterlake.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyinterlake.com",
+    "year": "Montana",
+    "genre": "Kalispell",
+    "rating": "Flathead Valley Daily"
+  },
+  {
+    "title": "Sidney Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.sidneyherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sidneyherald.com",
+    "year": "Montana",
+    "genre": "Sidney",
+    "rating": "Bi-Weekly",
+    "rssUrl": "https://www.sidneyherald.com/index.rss"
+  },
+  {
+    "title": "Missoulian",
+    "provider": "web",
+    "arguments": [
+      "https://www.missoulian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=missoulian.com",
+    "year": "Montana",
+    "genre": "Missoula",
+    "rating": "Western MT Flagship Daily"
+  },
+  {
+    "title": "Bozeman Daily Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.bozemandailychronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bozemandailychronicle.com",
+    "year": "Montana",
+    "genre": "Bozeman",
+    "rating": "Gallatin Valley Daily"
+  },
+  {
+    "title": "The Montana Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.mtstandard.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mtstandard.com",
+    "year": "Montana",
+    "genre": "Butte",
+    "rating": "Historic Mining Daily"
+  },
+  {
+    "title": "Big Sky Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.explorebigsky.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=explorebigsky.com",
+    "year": "Montana",
+    "genre": "Big Sky",
+    "rating": "Bi-Weekly"
+  },
+  {
+    "title": "The Billings Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.billingsgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=billingsgazette.com",
+    "year": "Montana",
+    "genre": "Billings",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "The Livingston Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.livingstonenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livingstonenterprise.com",
+    "year": "Montana",
+    "genre": "Livingston",
+    "rating": "Daily"
+  },
+  {
+    "title": "Glendive Ranger-Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.rangerreview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rangerreview.com",
+    "year": "Montana",
+    "genre": "Glendive",
+    "rating": "Semi-Weekly"
+  },
+  {
+    "title": "Whitefish Pilot",
+    "provider": "web",
+    "arguments": [
+      "https://www.whitefishpilot.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whitefishpilot.com",
+    "year": "Montana",
+    "genre": "Whitefish",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Western News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewesternnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewesternnews.com",
+    "year": "Montana",
+    "genre": "Libby",
+    "rating": "Semi-Weekly"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "title": "The Santa Fe New Mexican",
+    "provider": "web",
+    "arguments": [
+      "https://www.santafenewmexican.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=santafenewmexican.com",
+    "year": "New Mexico",
+    "genre": "Santa Fe",
+    "rating": "State Capital Flagship Daily",
+    "rssUrl": "http://www.santafenewmexican.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Roswell Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.rdrnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rdrnews.com",
+    "year": "New Mexico",
+    "genre": "Roswell",
+    "rating": "Pecos Valley Daily",
+    "rssUrl": "https://www.rdrnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Eastern New Mexico News",
+    "provider": "web",
+    "arguments": [
+      "https://www.easternnewmexiconews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=easternnewmexiconews.com",
+    "year": "New Mexico",
+    "genre": "Clovis / Portales",
+    "rating": "Daily"
+  },
+  {
+    "title": "Albuquerque Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.abqjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abqjournal.com",
+    "year": "New Mexico",
+    "genre": "Albuquerque",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Los Alamos Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.losalamosreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=losalamosreporter.com",
+    "year": "New Mexico",
+    "genre": "Los Alamos",
+    "rating": "Daily",
+    "rssUrl": "https://losalamosreporter.com/feed/"
+  },
+  {
+    "title": "Alamogordo Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.alamogordonews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alamogordonews.com",
+    "year": "New Mexico",
+    "genre": "Alamogordo",
+    "rating": "Daily",
+    "rssUrl": "https://alamogordonews.com/feed/"
+  },
+  {
+    "title": "Carlsbad Current-Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.currentargus.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=currentargus.com",
+    "year": "New Mexico",
+    "genre": "Carlsbad",
+    "rating": "Daily",
+    "rssUrl": "https://currentargus.com/feed/"
+  },
+  {
+    "title": "The Rio Grande Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.riograndesun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=riograndesun.com",
+    "year": "New Mexico",
+    "genre": "Espa\u00f1ola",
+    "rating": "Weekly",
+    "rssUrl": "https://riograndesun.com/feed/"
+  },
+  {
+    "title": "Hobbs News-Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.hobbsnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hobbsnews.com",
+    "year": "New Mexico",
+    "genre": "Hobbs",
+    "rating": "Daily",
+    "rssUrl": "https://www.hobbsnews.com/feed/"
+  },
+  {
+    "title": "Ruidoso News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ruidosonews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ruidosonews.com",
+    "year": "New Mexico",
+    "genre": "Ruidoso",
+    "rating": "Semi-Weekly",
+    "rssUrl": "https://ruidosonews.com/feed/"
+  },
+  {
+    "title": "Silver City Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.scdailypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=scdailypress.com",
+    "year": "New Mexico",
+    "genre": "Silver City",
+    "rating": "Daily",
+    "rssUrl": "https://www.scdailypress.com/silvercitydailypress/news/feed/"
+  },
+  {
+    "title": "Gallup Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.gallupindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gallupindependent.com",
+    "year": "New Mexico",
+    "genre": "Gallup",
+    "rating": "Daily"
+  },
+  {
+    "title": "Farmington Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.daily-times.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daily-times.com",
+    "year": "New Mexico",
+    "genre": "Farmington",
+    "rating": "Four Corners Daily"
+  },
+  {
+    "title": "The Taos News",
+    "provider": "web",
+    "arguments": [
+      "https://www.taosnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=taosnews.com",
+    "year": "New Mexico",
+    "genre": "Taos",
+    "rating": "Award-Winning Weekly"
+  },
+  {
+    "title": "Las Cruces Sun-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lascrucessunnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lcsun-news.com",
+    "year": "New Mexico",
+    "genre": "Las Cruces",
+    "rating": "Southern NM Daily"
+  }
+]

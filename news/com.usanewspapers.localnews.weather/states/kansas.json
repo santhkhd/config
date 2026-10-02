@@ -1,0 +1,169 @@
+[
+  {
+    "title": "The Topeka Capital-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetopekacapitaljournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cjonline.com",
+    "year": "Kansas",
+    "genre": "Topeka",
+    "rating": "State Capital Daily"
+  },
+  {
+    "title": "The Salina Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.salina.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salina.com",
+    "year": "Kansas",
+    "genre": "Salina",
+    "rating": "Central Kansas Daily"
+  },
+  {
+    "title": "The Hutchinson News",
+    "provider": "web",
+    "arguments": [
+      "https://www.hutchnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hutchnews.com",
+    "year": "Kansas",
+    "genre": "Hutchinson",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Garden City Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegardencitytelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gctelegram.com",
+    "year": "Kansas",
+    "genre": "Garden City",
+    "rating": "Southwest KS Daily"
+  },
+  {
+    "title": "The Hays Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehaysdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hdnews.net",
+    "year": "Kansas",
+    "genre": "Hays",
+    "rating": "Northwest KS Daily"
+  },
+  {
+    "title": "Dodge City Daily Globe",
+    "provider": "web",
+    "arguments": [
+      "https://www.dodgecitydailyglobe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dodgeglobe.com",
+    "year": "Kansas",
+    "genre": "Dodge City",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arkansas City Traveler",
+    "provider": "web",
+    "arguments": [
+      "https://www.arkcity.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arkcity.net",
+    "year": "Kansas",
+    "genre": "Arkansas City",
+    "rating": "Daily",
+    "rssUrl": "https://www.arkcity.net/feed"
+  },
+  {
+    "title": "Manhattan Mercury",
+    "provider": "web",
+    "arguments": [
+      "https://www.themercury.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themercury.com",
+    "year": "Kansas",
+    "genre": "Manhattan",
+    "rating": "Kansas State University Daily",
+    "rssUrl": "http://themercury.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Great Bend Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.gbtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gbtribune.com",
+    "year": "Kansas",
+    "genre": "Great Bend",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Morning Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.morningsun.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=morningsun.net",
+    "year": "Kansas",
+    "genre": "Pittsburg",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Kansas City Kansan",
+    "provider": "web",
+    "arguments": [
+      "https://www.kansascitykansan.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kansascitykansan.com",
+    "year": "Kansas",
+    "genre": "Kansas City",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lawrence Journal-World",
+    "provider": "web",
+    "arguments": [
+      "https://www.ljworld.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ljworld.com",
+    "year": "Kansas",
+    "genre": "Lawrence",
+    "rating": "University of Kansas Daily"
+  },
+  {
+    "title": "The Wichita Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewichitaeagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kansas.com",
+    "year": "Kansas",
+    "genre": "Wichita",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Ottawa Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.ottawaherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ottawaherald.com",
+    "year": "Kansas",
+    "genre": "Ottawa",
+    "rating": "Daily"
+  },
+  {
+    "title": "Leavenworth Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.leavenworthtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leavenworthtimes.com",
+    "year": "Kansas",
+    "genre": "Leavenworth",
+    "rating": "Daily"
+  }
+]

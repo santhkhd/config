@@ -1,0 +1,114 @@
+[
+  {
+    "title": "The Providence Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.theprovidencejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=providencejournal.com",
+    "year": "Rhode Island",
+    "genre": "Providence",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "The Newport Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.newportri.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newportri.com",
+    "year": "Rhode Island",
+    "genre": "Newport",
+    "rating": "Aquidneck Island Daily"
+  },
+  {
+    "title": "The Narragansett Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.ricentral.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ricentral.com",
+    "year": "Rhode Island",
+    "genre": "Narragansett",
+    "rating": "Weekly",
+    "rssUrl": "http://www.ricentral.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Warwick Beacon",
+    "provider": "web",
+    "arguments": [
+      "https://www.warwickonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=warwickonline.com",
+    "year": "Rhode Island",
+    "genre": "Warwick",
+    "rating": "Weekly",
+    "rssUrl": "http://www.warwickonline.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Cranston Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.cranstononline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cranstononline.com",
+    "year": "Rhode Island",
+    "genre": "Cranston",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Westerly Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewesterlysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewesterlysun.com",
+    "year": "Rhode Island",
+    "genre": "Westerly",
+    "rating": "South County Daily"
+  },
+  {
+    "title": "The Woonsocket Call",
+    "provider": "web",
+    "arguments": [
+      "https://www.woonsocketcall.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=woonsocketcall.com",
+    "year": "Rhode Island",
+    "genre": "Woonsocket",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Valley Breeze",
+    "provider": "web",
+    "arguments": [
+      "https://www.valleybreeze.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=valleybreeze.com",
+    "year": "Rhode Island",
+    "genre": "Cumberland / Lincoln",
+    "rating": "Weekly Group"
+  },
+  {
+    "title": "East Bay Media Group",
+    "provider": "web",
+    "arguments": [
+      "https://www.eastbayri.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastbayri.com",
+    "year": "Rhode Island",
+    "genre": "Bristol / Warren / Barrington",
+    "rating": "East Bay Weeklies"
+  },
+  {
+    "title": "The Pawtucket Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.pawtuckettimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pawtuckettimes.com",
+    "year": "Rhode Island",
+    "genre": "Pawtucket",
+    "rating": "Blackstone Valley Daily"
+  }
+]

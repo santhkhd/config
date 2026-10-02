@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Portsmouth Herald / Seacoastonline",
+    "provider": "web",
+    "arguments": [
+      "https://www.portsmouthheraldseacoastonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seacoastonline.com",
+    "year": "New Hampshire",
+    "genre": "Portsmouth",
+    "rating": "Seacoast Flagship Daily"
+  },
+  {
+    "title": "Concord Monitor",
+    "provider": "web",
+    "arguments": [
+      "https://www.concordmonitor.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=concordmonitor.com",
+    "year": "New Hampshire",
+    "genre": "Concord",
+    "rating": "State Capital Daily",
+    "rssUrl": "https://www.concordmonitor.com/feed/"
+  },
+  {
+    "title": "Foster's Daily Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.fosters.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fosters.com",
+    "year": "New Hampshire",
+    "genre": "Dover",
+    "rating": "Daily"
+  },
+  {
+    "title": "Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://www.vnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vnews.com",
+    "year": "New Hampshire",
+    "genre": "West Lebanon / Upper Valley",
+    "rating": "Upper Valley Daily",
+    "rssUrl": "https://vnews.com/feed/"
+  },
+  {
+    "title": "New Hampshire Union Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.unionleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=unionleader.com",
+    "year": "New Hampshire",
+    "genre": "Manchester",
+    "rating": "State Flagship Daily",
+    "rssUrl": "http://www.unionleader.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Laconia Daily Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.laconiadailysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laconiadailysun.com",
+    "year": "New Hampshire",
+    "genre": "Laconia",
+    "rating": "Lakes Region Daily",
+    "rssUrl": "http://www.laconiadailysun.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Monadnock Ledger-Transcript",
+    "provider": "web",
+    "arguments": [
+      "https://www.ledgertranscript.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ledgertranscript.com",
+    "year": "New Hampshire",
+    "genre": "Peterborough",
+    "rating": "Semi-Weekly",
+    "rssUrl": "https://ledgertranscript.com/feed/"
+  },
+  {
+    "title": "The Berlin Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.theberlinsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=berlinsun.com",
+    "year": "New Hampshire",
+    "genre": "Berlin",
+    "rating": "North Country Daily",
+    "rssUrl": "https://southjersey.media/feed/"
+  },
+  {
+    "title": "Caledonian-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.caledonianrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=caledonianrecord.com",
+    "year": "New Hampshire",
+    "genre": "Littleton / St. Johnsbury",
+    "rating": "Daily",
+    "rssUrl": "http://www.caledonianrecord.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Conway Daily Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.conwaydailysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=conwaydailysun.com",
+    "year": "New Hampshire",
+    "genre": "North Conway",
+    "rating": "White Mountains Daily"
+  },
+  {
+    "title": "The Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.nashuatelegraph.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nashuatelegraph.com",
+    "year": "New Hampshire",
+    "genre": "Nashua",
+    "rating": "Southern NH Daily"
+  },
+  {
+    "title": "Keene Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.sentinelsource.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sentinelsource.com",
+    "year": "New Hampshire",
+    "genre": "Keene",
+    "rating": "Monadnock Region Daily"
+  }
+]

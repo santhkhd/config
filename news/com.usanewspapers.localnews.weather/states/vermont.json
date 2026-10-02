@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Brattleboro Reformer",
+    "provider": "web",
+    "arguments": [
+      "https://www.reformer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reformer.com",
+    "year": "Vermont",
+    "genre": "Brattleboro",
+    "rating": "Southern VT Daily",
+    "rssUrl": "http://www.reformer.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Bennington Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.benningtonbanner.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=benningtonbanner.com",
+    "year": "Vermont",
+    "genre": "Bennington",
+    "rating": "Southwest VT Daily",
+    "rssUrl": "http://www.benningtonbanner.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Seven Days",
+    "provider": "web",
+    "arguments": [
+      "https://www.sevendaysvt.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sevendaysvt.com",
+    "year": "Vermont",
+    "genre": "Burlington",
+    "rating": "Leading Independent Weekly",
+    "rssUrl": "https://www.sevendaysvt.com/feed/"
+  },
+  {
+    "title": "The Newport Daily Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewportdailyexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newportvermontexpress.com",
+    "year": "Vermont",
+    "genre": "Newport",
+    "rating": "Weekly"
+  },
+  {
+    "title": "VTDigger",
+    "provider": "web",
+    "arguments": [
+      "https://www.vtdigger.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vtdigger.org",
+    "year": "Vermont",
+    "genre": "Montpelier",
+    "rating": "Statewide Investigative Daily",
+    "rssUrl": "https://vtdigger.org/feed/"
+  },
+  {
+    "title": "Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://www.vnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vnews.com",
+    "year": "Vermont",
+    "genre": "White River Junction",
+    "rating": "Upper Valley Daily",
+    "rssUrl": "https://vnews.com/feed/"
+  },
+  {
+    "title": "Addison County Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.addisonindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=addisonindependent.com",
+    "year": "Vermont",
+    "genre": "Middlebury",
+    "rating": "Semi-Weekly"
+  },
+  {
+    "title": "The Caledonian-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.caledonianrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=caledonianrecord.com",
+    "year": "Vermont",
+    "genre": "St. Johnsbury",
+    "rating": "Northeast Kingdom Daily",
+    "rssUrl": "http://www.caledonianrecord.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Burlington Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.theburlingtonfreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burlingtonfreepress.com",
+    "year": "Vermont",
+    "genre": "Burlington",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Rutland Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.rutlandherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rutlandherald.com",
+    "year": "Vermont",
+    "genre": "Rutland",
+    "rating": "Pulitzer Prize Winning Daily"
+  },
+  {
+    "title": "Times Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesargus.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesargus.com",
+    "year": "Vermont",
+    "genre": "Barre / Montpelier",
+    "rating": "State Capital Region Daily"
+  },
+  {
+    "title": "Stowe Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.vtcng.com/stowe_reporter"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vtcng.com",
+    "year": "Vermont",
+    "genre": "Stowe",
+    "rating": "Weekly"
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "title": "Houston Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.houstonchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=houstonchronicle.com",
+    "year": "Texas",
+    "genre": "Houston",
+    "rating": "Largest TX Newspaper / Flagship"
+  },
+  {
+    "title": "The Dallas Morning News",
+    "provider": "web",
+    "arguments": [
+      "https://www.dallasnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dallasnews.com",
+    "year": "Texas",
+    "genre": "Dallas",
+    "rating": "North Texas Flagship Daily"
+  },
+  {
+    "title": "Austin American-Statesman",
+    "provider": "web",
+    "arguments": [
+      "https://www.statesman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=statesman.com",
+    "year": "Texas",
+    "genre": "Austin",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "El Paso Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.elpasotimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elpasotimes.com",
+    "year": "Texas",
+    "genre": "El Paso",
+    "rating": "Borderplex Flagship Daily"
+  },
+  {
+    "title": "San Antonio Express-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.expressnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=expressnews.com",
+    "year": "Texas",
+    "genre": "San Antonio",
+    "rating": "South Texas Flagship Daily"
+  },
+  {
+    "title": "Corpus Christi Caller-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.caller.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=caller.com",
+    "year": "Texas",
+    "genre": "Corpus Christi",
+    "rating": "Coastal Bend Flagship Daily"
+  },
+  {
+    "title": "Lubbock Avalanche-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.lubbockonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lubbockonline.com",
+    "year": "Texas",
+    "genre": "Lubbock",
+    "rating": "South Plains Flagship Daily"
+  },
+  {
+    "title": "The Monitor",
+    "provider": "web",
+    "arguments": [
+      "https://www.myrgv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myrgv.com",
+    "year": "Texas",
+    "genre": "McAllen",
+    "rating": "Rio Grande Valley Daily"
+  },
+  {
+    "title": "Amarillo Globe-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.amarillo.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amarillo.com",
+    "year": "Texas",
+    "genre": "Amarillo",
+    "rating": "Panhandle Flagship Daily"
+  },
+  {
+    "title": "Odessa American",
+    "provider": "web",
+    "arguments": [
+      "https://www.oaoa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oaoa.com",
+    "year": "Texas",
+    "genre": "Odessa",
+    "rating": "Permian Basin Daily"
+  },
+  {
+    "title": "Beaumont Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.beaumontenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beaumontenterprise.com",
+    "year": "Texas",
+    "genre": "Beaumont",
+    "rating": "Southeast Texas Daily"
+  },
+  {
+    "title": "Midland Reporter-Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.mrt.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mrt.com",
+    "year": "Texas",
+    "genre": "Midland",
+    "rating": "Permian Basin Daily"
+  },
+  {
+    "title": "Abilene Reporter-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.reporternews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reporternews.com",
+    "year": "Texas",
+    "genre": "Abilene",
+    "rating": "Big Country Daily"
+  },
+  {
+    "title": "San Angelo Standard-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.gosanangelo.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gosanangelo.com",
+    "year": "Texas",
+    "genre": "San Angelo",
+    "rating": "West Texas Daily"
+  },
+  {
+    "title": "Valley Morning Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.myrgv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myrgv.com",
+    "year": "Texas",
+    "genre": "Harlingen",
+    "rating": "Rio Grande Valley Daily"
+  },
+  {
+    "title": "Wichita Falls Times Record News",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesrecordnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesrecordnews.com",
+    "year": "Texas",
+    "genre": "Wichita Falls",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Brownsville Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.myrgv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myrgv.com",
+    "year": "Texas",
+    "genre": "Brownsville",
+    "rating": "Rio Grande Valley Daily"
+  },
+  {
+    "title": "Longview News-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-journal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-journal.com",
+    "year": "Texas",
+    "genre": "Longview",
+    "rating": "East Texas Daily",
+    "rssUrl": "https://www.news-journal.com/feed"
+  },
+  {
+    "title": "Tyler Morning Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.tylerpaper.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tylerpaper.com",
+    "year": "Texas",
+    "genre": "Tyler",
+    "rating": "East Texas Daily",
+    "rssUrl": "https://www.tylerpaper.com/feed"
+  },
+  {
+    "title": "Laredo Morning Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.lmtonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lmtonline.com",
+    "year": "Texas",
+    "genre": "Laredo",
+    "rating": "Gateway City Daily"
+  },
+  {
+    "title": "The Herald Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.theheralddemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heralddemocrat.com",
+    "year": "Texas",
+    "genre": "Sherman / Denison",
+    "rating": "Texoma Daily"
+  },
+  {
+    "title": "The Victoria Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.victoriaadvocate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=victoriaadvocate.com",
+    "year": "Texas",
+    "genre": "Victoria",
+    "rating": "South Texas Daily",
+    "rssUrl": "https://www.victoriaadvocate.com/feed"
+  },
+  {
+    "title": "Texarkana Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.texarkanagazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texarkanagazette.com",
+    "year": "Texas",
+    "genre": "Texarkana",
+    "rating": "Daily"
+  },
+  {
+    "title": "Galveston County Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.galvnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=galvnews.com",
+    "year": "Texas",
+    "genre": "Galveston",
+    "rating": "Oldest TX Newspaper",
+    "rssUrl": "http://www.galvnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Daily Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailysentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailysentinel.com",
+    "year": "Texas",
+    "genre": "Nacogdoches",
+    "rating": "Daily",
+    "rssUrl": "http://www.dailysentinel.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Baytown Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.baytownsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baytownsun.com",
+    "year": "Texas",
+    "genre": "Baytown",
+    "rating": "Daily",
+    "rssUrl": "http://baytownsun.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Waco Tribune-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.wacotrib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wacotrib.com",
+    "year": "Texas",
+    "genre": "Waco",
+    "rating": "Central Texas Daily"
+  },
+  {
+    "title": "The Seguin Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.seguingazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seguingazette.com",
+    "year": "Texas",
+    "genre": "Seguin",
+    "rating": "Daily",
+    "rssUrl": "http://seguingazette.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Stephenville Empire-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.stephenvilleempiretribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=empiretribune.com",
+    "year": "Texas",
+    "genre": "Stephenville",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Braunfels Herald-Zeitung",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald-zeitung.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald-zeitung.com",
+    "year": "Texas",
+    "genre": "New Braunfels",
+    "rating": "Daily",
+    "rssUrl": "http://herald-zeitung.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.theeagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theeagle.com",
+    "year": "Texas",
+    "genre": "Bryan-College Station",
+    "rating": "Texas A&M Daily"
+  },
+  {
+    "title": "The Huntsville Item",
+    "provider": "web",
+    "arguments": [
+      "https://www.itemonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=itemonline.com",
+    "year": "Texas",
+    "genre": "Huntsville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Greenville Herald-Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldbanner.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldbanner.com",
+    "year": "Texas",
+    "genre": "Greenville",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily News / Temple Daily Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.tdtnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tdtnews.com",
+    "year": "Texas",
+    "genre": "Temple",
+    "rating": "Daily"
+  },
+  {
+    "title": "Del Rio News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.delrionewsherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delrionewsherald.com",
+    "year": "Texas",
+    "genre": "Del Rio",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fort Worth Star-Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.fortworthstartelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=star-telegram.com",
+    "year": "Texas",
+    "genre": "Fort Worth",
+    "rating": "Tarrant County Flagship Daily"
+  },
+  {
+    "title": "The Paris News",
+    "provider": "web",
+    "arguments": [
+      "https://www.theparisnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theparisnews.com",
+    "year": "Texas",
+    "genre": "Paris",
+    "rating": "Daily"
+  },
+  {
+    "title": "Weatherford Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.weatherforddemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weatherforddemocrat.com",
+    "year": "Texas",
+    "genre": "Weatherford",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Port Arthur News",
+    "provider": "web",
+    "arguments": [
+      "https://www.panews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=panews.com",
+    "year": "Texas",
+    "genre": "Port Arthur",
+    "rating": "Daily",
+    "rssUrl": "https://www.panews.com/feed"
+  },
+  {
+    "title": "The Orange Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.orangeleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=orangeleader.com",
+    "year": "Texas",
+    "genre": "Orange",
+    "rating": "Daily",
+    "rssUrl": "https://www.orangeleader.com/feed"
+  },
+  {
+    "title": "Corsicana Daily Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.corsicanadailysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=corsicanadailysun.com",
+    "year": "Texas",
+    "genre": "Corsicana",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Facts",
+    "provider": "web",
+    "arguments": [
+      "https://www.thefacts.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thefacts.com",
+    "year": "Texas",
+    "genre": "Clute / Brazoria",
+    "rating": "Brazoria County Daily"
+  },
+  {
+    "title": "Killeen Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.kdhnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kdhnews.com",
+    "year": "Texas",
+    "genre": "Killeen",
+    "rating": "Fort Cavazos Daily"
+  },
+  {
+    "title": "Athens Daily Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.athensreview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=athensreview.com",
+    "year": "Texas",
+    "genre": "Athens",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Lufkin News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lufkindailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lufkindailynews.com",
+    "year": "Texas",
+    "genre": "Lufkin",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Marcos Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.sanmarcosrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanmarcosrecord.com",
+    "year": "Texas",
+    "genre": "San Marcos",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gainesville Daily Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.gainesvilleregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gainesvilleregister.com",
+    "year": "Texas",
+    "genre": "Gainesville",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Kerrville Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailytimes.com",
+    "year": "Texas",
+    "genre": "Kerrville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mineral Wells Index",
+    "provider": "web",
+    "arguments": [
+      "https://www.mineralwellsindex.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mineralwellsindex.com",
+    "year": "Texas",
+    "genre": "Mineral Wells",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brownwood Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.brownwoodbulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brownwoodtx.com",
+    "year": "Texas",
+    "genre": "Brownwood",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alice Echo-News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.aliceechonewsjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alicetx.com",
+    "year": "Texas",
+    "genre": "Alice",
+    "rating": "Daily"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Politico",
+    "provider": "web",
+    "arguments": [
+      "https://www.politico.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=politico.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "Premier Political News"
+  },
+  {
+    "title": "The Hill",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehill.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehill.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "Capitol Hill Daily",
+    "rssUrl": "https://www.thehill.com/feed"
+  },
+  {
+    "title": "DCist / WAMU",
+    "provider": "web",
+    "arguments": [
+      "https://www.dcistwamu.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dcist.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "Local Metro News"
+  },
+  {
+    "title": "Washington Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://www.washingtonexaminer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonexaminer.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "National Daily"
+  },
+  {
+    "title": "The Washington Informer",
+    "provider": "web",
+    "arguments": [
+      "https://www.washingtoninformer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtoninformer.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "African-American Community Weekly",
+    "rssUrl": "https://www.washingtoninformer.com/feed/"
+  },
+  {
+    "title": "The Washington Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.washingtontimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtontimes.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "Leading Conservative Daily"
+  },
+  {
+    "title": "The Georgetowner",
+    "provider": "web",
+    "arguments": [
+      "https://www.georgetowner.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=georgetowner.com",
+    "year": "District of Columbia",
+    "genre": "Georgetown / D.C.",
+    "rating": "Bi-Weekly Community"
+  },
+  {
+    "title": "Washington City Paper",
+    "provider": "web",
+    "arguments": [
+      "https://www.washingtoncitypaper.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtoncitypaper.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "Alternative Weekly",
+    "rssUrl": "https://washingtoncitypaper.com/feed/"
+  },
+  {
+    "title": "Metro Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.metroweekly.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=metroweekly.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "LGBTQ+ Magazine & Weekly",
+    "rssUrl": "https://www.metroweekly.com/feed/"
+  },
+  {
+    "title": "Roll Call",
+    "provider": "web",
+    "arguments": [
+      "https://www.rollcall.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rollcall.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "Congress & Policy Daily",
+    "rssUrl": "https://www.rollcall.com/feed"
+  },
+  {
+    "title": "The Washington Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewashingtonpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonpost.com",
+    "year": "District of Columbia",
+    "genre": "Washington D.C.",
+    "rating": "National & Capital Flagship"
+  }
+]

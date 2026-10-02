@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Arkansas Democrat-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.arkansasonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arkansasonline.com",
+    "year": "Arkansas",
+    "genre": "Little Rock",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Northwest Arkansas Democrat-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.nwaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nwaonline.com",
+    "year": "Arkansas",
+    "genre": "Fayetteville",
+    "rating": "Top Metro Daily"
+  },
+  {
+    "title": "Southwest Times Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.swtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swtimes.com",
+    "year": "Arkansas",
+    "genre": "Fort Smith",
+    "rating": "Top Daily"
+  },
+  {
+    "title": "The Sentinel-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.hotsr.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hotsr.com",
+    "year": "Arkansas",
+    "genre": "Hot Springs",
+    "rating": "Daily"
+  },
+  {
+    "title": "El Dorado News-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.eldoradonews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eldoradonews.com",
+    "year": "Arkansas",
+    "genre": "El Dorado",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Jonesboro Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.jonesborosun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jonesborosun.com",
+    "year": "Arkansas",
+    "genre": "Jonesboro",
+    "rating": "Top Daily",
+    "rssUrl": "http://www.jonesborosun.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Pine Bluff Commercial",
+    "provider": "web",
+    "arguments": [
+      "https://www.pbcommercial.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pbcommercial.com",
+    "year": "Arkansas",
+    "genre": "Pine Bluff",
+    "rating": "Daily",
+    "rssUrl": "https://www.pbcommercial.com/feed"
+  },
+  {
+    "title": "Texarkana Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.texarkanagazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texarkanagazette.com",
+    "year": "Arkansas",
+    "genre": "Texarkana",
+    "rating": "Daily"
+  },
+  {
+    "title": "Russellville Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.couriernews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=couriernews.com",
+    "year": "Arkansas",
+    "genre": "Russellville",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Cabin / Log Cabin Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecabin.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecabin.net",
+    "year": "Arkansas",
+    "genre": "Conway",
+    "rating": "Daily"
+  },
+  {
+    "title": "Benton Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.bentoncourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bentoncourier.com",
+    "year": "Arkansas",
+    "genre": "Benton",
+    "rating": "Daily"
+  },
+  {
+    "title": "Batesville Guard",
+    "provider": "web",
+    "arguments": [
+      "https://www.guardonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=guardonline.com",
+    "year": "Arkansas",
+    "genre": "Batesville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paragould Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.paragoulddailypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paragoulddailypress.com",
+    "year": "Arkansas",
+    "genre": "Paragould",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Baxter Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.baxterbulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baxterbulletin.com",
+    "year": "Arkansas",
+    "genre": "Mountain Home",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailycitizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailycitizen.com",
+    "year": "Arkansas",
+    "genre": "Searcy",
+    "rating": "Daily"
+  },
+  {
+    "title": "Harrison Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.harrisondaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=harrisondaily.com",
+    "year": "Arkansas",
+    "genre": "Harrison",
+    "rating": "Daily"
+  }
+]

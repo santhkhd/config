@@ -1,0 +1,233 @@
+[
+  {
+    "title": "MSN News",
+    "provider": "web",
+    "arguments": [
+      "https://www.msnnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=msn.com",
+    "year": "Microsoft",
+    "genre": "Personalized News & Live Updates",
+    "rating": "5.0"
+  },
+  {
+    "title": "The Wall Street Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewallstreetjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsj.com",
+    "year": "Est. 1889",
+    "genre": "Business & National",
+    "rating": "5.0"
+  },
+  {
+    "title": "The New York Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.nytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nytimes.com",
+    "year": "Est. 1851",
+    "genre": "National & World",
+    "rating": "4.9"
+  },
+  {
+    "title": "The Washington Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewashingtonpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonpost.com",
+    "year": "Est. 1877",
+    "genre": "Politics & National",
+    "rating": "4.9"
+  },
+  {
+    "title": "USA TODAY",
+    "provider": "web",
+    "arguments": [
+      "https://www.usatoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=usatoday.com",
+    "year": "Est. 1982",
+    "genre": "National Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Los Angeles Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.latimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=latimes.com",
+    "year": "Est. 1881",
+    "genre": "West Coast & National",
+    "rating": "4.8"
+  },
+  {
+    "title": "New York Post",
+    "provider": "web",
+    "arguments": [
+      "https://nypost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nypost.com",
+    "year": "Est. 1801",
+    "genre": "Breaking News & Opinion",
+    "rating": "4.7"
+  },
+  {
+    "title": "Chicago Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicagotribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Est. 1847",
+    "genre": "Midwest & National",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Boston Globe",
+    "provider": "web",
+    "arguments": [
+      "https://www.bostonglobe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bostonglobe.com",
+    "year": "Est. 1872",
+    "genre": "New England & National",
+    "rating": "4.8"
+  },
+  {
+    "title": "Politico",
+    "provider": "web",
+    "arguments": [
+      "https://www.politico.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=politico.com",
+    "year": "Est. 2007",
+    "genre": "US Politics & Policy",
+    "rating": "4.9"
+  },
+  {
+    "title": "The Hill",
+    "provider": "web",
+    "arguments": [
+      "https://thehill.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehill.com",
+    "year": "Est. 1994",
+    "genre": "Capitol Hill & Politics",
+    "rating": "4.8"
+  },
+  {
+    "title": "Houston Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.houstonchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=houstonchronicle.com",
+    "year": "Est. 1901",
+    "genre": "Texas & Southwest",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Dallas Morning News",
+    "provider": "web",
+    "arguments": [
+      "https://www.dallasnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dallasnews.com",
+    "year": "Est. 1885",
+    "genre": "Texas Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "San Francisco Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.sfchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sfchronicle.com",
+    "year": "Est. 1865",
+    "genre": "California & Tech",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Philadelphia Inquirer",
+    "provider": "web",
+    "arguments": [
+      "https://www.inquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inquirer.com",
+    "year": "Est. 1829",
+    "genre": "Pennsylvania & Mid-Atlantic",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Atlanta Journal-Constitution",
+    "provider": "web",
+    "arguments": [
+      "https://www.ajc.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ajc.com",
+    "year": "Est. 1868",
+    "genre": "Southeast & Georgia",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Denver Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.denverpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=denverpost.com",
+    "year": "Est. 1892",
+    "genre": "Mountain West & Colorado",
+    "rating": "4.6"
+  },
+  {
+    "title": "The Seattle Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.seattletimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattletimes.com",
+    "year": "Est. 1891",
+    "genre": "Pacific Northwest",
+    "rating": "4.8"
+  },
+  {
+    "title": "Star Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.startribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=startribune.com",
+    "year": "Est. 1867",
+    "genre": "Minnesota & Upper Midwest",
+    "rating": "4.8"
+  },
+  {
+    "title": "Miami Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.miamiherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miamiherald.com",
+    "year": "Est. 1903",
+    "genre": "Florida & Caribbean",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Christian Science Monitor",
+    "provider": "web",
+    "arguments": [
+      "https://www.csmonitor.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=csmonitor.com",
+    "year": "Est. 1908",
+    "genre": "In-Depth Journalism",
+    "rating": "4.9"
+  }
+]

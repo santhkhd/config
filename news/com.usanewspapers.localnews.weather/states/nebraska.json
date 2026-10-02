@@ -1,0 +1,172 @@
+[
+  {
+    "title": "North Platte Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.nptelegraph.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nptelegraph.com",
+    "year": "Nebraska",
+    "genre": "North Platte",
+    "rating": "Daily",
+    "rssUrl": "http://nptelegraph.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Scottsbluff Star-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.starherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starherald.com",
+    "year": "Nebraska",
+    "genre": "Scottsbluff",
+    "rating": "Panhandle Daily",
+    "rssUrl": "http://starherald.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Sidney Sun-Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.suntelegraph.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=suntelegraph.com",
+    "year": "Nebraska",
+    "genre": "Sidney",
+    "rating": "Semi-Weekly",
+    "rssUrl": "https://www.suntelegraph.com/rss/articles"
+  },
+  {
+    "title": "McCook Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.mccookgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mccookgazette.com",
+    "year": "Nebraska",
+    "genre": "McCook",
+    "rating": "Daily",
+    "rssUrl": "https://www.mccookgazette.com/rss.xml"
+  },
+  {
+    "title": "Alliance Times-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.alliancetimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alliancetimes.com",
+    "year": "Nebraska",
+    "genre": "Alliance",
+    "rating": "Daily",
+    "rssUrl": "https://alliancetimes.com/feed/"
+  },
+  {
+    "title": "Lincoln Journal Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalstar.com",
+    "year": "Nebraska",
+    "genre": "Lincoln",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "Kearney Hub",
+    "provider": "web",
+    "arguments": [
+      "https://www.kearneyhub.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kearneyhub.com",
+    "year": "Nebraska",
+    "genre": "Kearney",
+    "rating": "Central NE Daily"
+  },
+  {
+    "title": "The Grand Island Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.theindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theindependent.com",
+    "year": "Nebraska",
+    "genre": "Grand Island",
+    "rating": "Central NE Daily"
+  },
+  {
+    "title": "Fremont Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.fremonttribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fremonttribune.com",
+    "year": "Nebraska",
+    "genre": "Fremont",
+    "rating": "Daily"
+  },
+  {
+    "title": "Norfolk Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.norfolkdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=norfolkdailynews.com",
+    "year": "Nebraska",
+    "genre": "Norfolk",
+    "rating": "Daily"
+  },
+  {
+    "title": "Beatrice Daily Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.beatricedailysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beatricedailysun.com",
+    "year": "Nebraska",
+    "genre": "Beatrice",
+    "rating": "Daily"
+  },
+  {
+    "title": "Omaha World-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.omaha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=omaha.com",
+    "year": "Nebraska",
+    "genre": "Omaha",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Hastings Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.hastingstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hastingstribune.com",
+    "year": "Nebraska",
+    "genre": "Hastings",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbus Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbustelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbustelegram.com",
+    "year": "Nebraska",
+    "genre": "Columbus",
+    "rating": "Daily"
+  },
+  {
+    "title": "York News-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.yorknewstimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorknewstimes.com",
+    "year": "Nebraska",
+    "genre": "York",
+    "rating": "Daily"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "title": "Connecticut Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.ctpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ctpost.com",
+    "year": "Connecticut",
+    "genre": "Bridgeport",
+    "rating": "Gold Coast Flagship Daily"
+  },
+  {
+    "title": "New Haven Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.nhregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nhregister.com",
+    "year": "Connecticut",
+    "genre": "New Haven",
+    "rating": "Top Metro Daily"
+  },
+  {
+    "title": "The News-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.newstimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstimes.com",
+    "year": "Connecticut",
+    "genre": "Danbury",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Hour",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehour.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehour.com",
+    "year": "Connecticut",
+    "genre": "Norwalk",
+    "rating": "Daily"
+  },
+  {
+    "title": "Stamford Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.stamfordadvocate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stamfordadvocate.com",
+    "year": "Connecticut",
+    "genre": "Stamford",
+    "rating": "Daily"
+  },
+  {
+    "title": "Greenwich Time",
+    "provider": "web",
+    "arguments": [
+      "https://www.greenwichtime.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenwichtime.com",
+    "year": "Connecticut",
+    "genre": "Greenwich",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Register Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.registercitizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=registercitizen.com",
+    "year": "Connecticut",
+    "genre": "Torrington",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Middletown Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.middletownpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=middletownpress.com",
+    "year": "Connecticut",
+    "genre": "Middletown",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Darien Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.darientimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=darientimes.com",
+    "year": "Connecticut",
+    "genre": "Darien",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Wilton Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.wiltonbulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiltonbulletin.com",
+    "year": "Connecticut",
+    "genre": "Wilton",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Ridgefield Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.theridgefieldpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theridgefieldpress.com",
+    "year": "Connecticut",
+    "genre": "Ridgefield",
+    "rating": "Weekly"
+  },
+  {
+    "title": "New Canaan Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.ncadvertiser.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ncadvertiser.com",
+    "year": "Connecticut",
+    "genre": "New Canaan",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.thechronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thechronicle.com",
+    "year": "Connecticut",
+    "genre": "Willimantic",
+    "rating": "Daily",
+    "rssUrl": "http://www.thechronicle.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Hartford Courant",
+    "provider": "web",
+    "arguments": [
+      "https://www.courant.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courant.com",
+    "year": "Connecticut",
+    "genre": "Hartford",
+    "rating": "Oldest Continuously Published US Daily"
+  },
+  {
+    "title": "Republican-American",
+    "provider": "web",
+    "arguments": [
+      "https://www.rep-am.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rep-am.com",
+    "year": "Connecticut",
+    "genre": "Waterbury",
+    "rating": "Top Daily"
+  },
+  {
+    "title": "Journal Inquirer",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalinquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalinquirer.com",
+    "year": "Connecticut",
+    "genre": "Manchester",
+    "rating": "Daily"
+  },
+  {
+    "title": "Record-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.myrecordjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myrecordjournal.com",
+    "year": "Connecticut",
+    "genre": "Meriden",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Day",
+    "provider": "web",
+    "arguments": [
+      "https://www.theday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theday.com",
+    "year": "Connecticut",
+    "genre": "New London",
+    "rating": "Eastern CT Daily"
+  }
+]

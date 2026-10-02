@@ -1,0 +1,279 @@
+[
+  {
+    "title": "The State Journal-Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestatejournalregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sj-r.com",
+    "year": "Illinois",
+    "genre": "Springfield",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "Rockford Register Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.rrstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rrstar.com",
+    "year": "Illinois",
+    "genre": "Rockford",
+    "rating": "Northern IL Daily"
+  },
+  {
+    "title": "Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyherald.com",
+    "year": "Illinois",
+    "genre": "Arlington Heights / Suburban Chicago",
+    "rating": "Major Suburban Daily"
+  },
+  {
+    "title": "Chicago Sun-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicago.suntimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicago.suntimes.com",
+    "year": "Illinois",
+    "genre": "Chicago",
+    "rating": "Pulitzer Prize Winning Metro Daily",
+    "rssUrl": "https://chicago.suntimes.com/rss/index.xml"
+  },
+  {
+    "title": "The News-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-gazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-gazette.com",
+    "year": "Illinois",
+    "genre": "Champaign-Urbana",
+    "rating": "Illini Flagship Daily",
+    "rssUrl": "http://www.news-gazette.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetelegraph.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetelegraph.com",
+    "year": "Illinois",
+    "genre": "Alton",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chicago Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicagotribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Illinois",
+    "genre": "Chicago",
+    "rating": "Midwest Flagship Daily"
+  },
+  {
+    "title": "Naperville Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicagotribune.com/suburbs/naperville-sun"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Illinois",
+    "genre": "Naperville",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Southtown",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicagotribune.com/suburbs/daily-southtown"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Illinois",
+    "genre": "Tinley Park",
+    "rating": "Daily"
+  },
+  {
+    "title": "Beacon-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicagotribune.com/suburbs/aurora-beacon-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Illinois",
+    "genre": "Aurora",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Republican-Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyrepublicanregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=republican-register.com",
+    "year": "Illinois",
+    "genre": "Mount Carmel",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journal Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pjstar.com",
+    "year": "Illinois",
+    "genre": "Peoria",
+    "rating": "Central Illinois Daily"
+  },
+  {
+    "title": "The Courier-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicagotribune.com/suburbs/elgin-courier-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Illinois",
+    "genre": "Elgin",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lake County News-Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicagotribune.com/suburbs/lake-county-news-sun"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Illinois",
+    "genre": "Waukegan",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Pantagraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.pantagraph.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pantagraph.com",
+    "year": "Illinois",
+    "genre": "Bloomington-Normal",
+    "rating": "Central IL Daily"
+  },
+  {
+    "title": "The Daily Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.shawlocal.com/daily-chronicle"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shawlocal.com",
+    "year": "Illinois",
+    "genre": "DeKalb",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.shawlocal.com/mywebtimes"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shawlocal.com",
+    "year": "Illinois",
+    "genre": "Ottawa",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northwest Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.shawlocal.com/northwest-herald"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shawlocal.com",
+    "year": "Illinois",
+    "genre": "Crystal Lake",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.shawlocal.com/the-herald-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shawlocal.com",
+    "year": "Illinois",
+    "genre": "Joliet",
+    "rating": "Will County Daily"
+  },
+  {
+    "title": "The Southern Illinoisan",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesouthern.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesouthern.com",
+    "year": "Illinois",
+    "genre": "Carbondale",
+    "rating": "Southern IL Daily"
+  },
+  {
+    "title": "The Commercial-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.commercial-news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=commercial-news.com",
+    "year": "Illinois",
+    "genre": "Danville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Decatur Herald & Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald-review.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald-review.com",
+    "year": "Illinois",
+    "genre": "Decatur",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Dispatch / The Rock Island Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.qconline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=qconline.com",
+    "year": "Illinois",
+    "genre": "Moline / Rock Island",
+    "rating": "Quad Cities Daily"
+  },
+  {
+    "title": "Kankakee Daily Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.daily-journal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daily-journal.com",
+    "year": "Illinois",
+    "genre": "Kankakee",
+    "rating": "Daily"
+  },
+  {
+    "title": "Belleville News-Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.bellevillenewsdemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bnd.com",
+    "year": "Illinois",
+    "genre": "Belleville / Metro East",
+    "rating": "Daily"
+  }
+]

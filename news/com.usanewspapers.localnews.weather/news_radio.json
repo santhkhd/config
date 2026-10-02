@@ -1,0 +1,444 @@
+[
+  {
+    "category": "National News & Talk",
+    "stations": [
+      {
+        "name": "NPR 24/7 News & Talk",
+        "description": "National Public Radio • All Things Considered & Morning Edition",
+        "stream_url": "https://npr-ice.streamguys1.com/live.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=npr.org",
+        "category": "National News & Talk"
+      },
+      {
+        "name": "CBS News Radio",
+        "description": "National & International News Reports 24/7",
+        "stream_url": "https://cbsnews.streamguys1.com/cbsnews",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=cbsnews.com",
+        "category": "National News & Talk"
+      },
+      {
+        "name": "Fox News Talk Radio",
+        "description": "Live American News Updates, Analysis & Opinion",
+        "stream_url": "https://foxnews.streamguys1.com/foxnews",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=foxnews.com",
+        "category": "National News & Talk"
+      },
+      {
+        "name": "Voice of America (VOA)",
+        "description": "VOA News 24/7 • US & Global English Broadcasts",
+        "stream_url": "https://stream.voanews.com/live/voa_english/mp3/mid/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=voanews.com",
+        "category": "National News & Talk"
+      },
+      {
+        "name": "BBC World Service (USA/Americas)",
+        "description": "World & American Breaking News 24/7",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.com",
+        "category": "National News & Talk"
+      }
+    ]
+  },
+  {
+    "category": "Business & Finance",
+    "stations": [
+      {
+        "name": "Bloomberg Radio National",
+        "description": "Wall Street, Global Markets & Economic News 24/7",
+        "stream_url": "https://stream.bloombergradio.com/live.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=bloomberg.com",
+        "category": "Business & Finance"
+      },
+      {
+        "name": "Bloomberg Radio New York",
+        "description": "WBBR 1130 AM • Market Open to Close Live",
+        "stream_url": "https://stream.bloombergradio.com/live.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=bloomberg.com",
+        "category": "Business & Finance"
+      },
+      {
+        "name": "Bloomberg Radio Bay Area",
+        "description": "Tech & Silicon Valley Finance • KNEW 960 AM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc6031",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=bloomberg.com",
+        "category": "Business & Finance"
+      }
+    ]
+  },
+  {
+    "category": "Politics & Capitol Hill",
+    "stations": [
+      {
+        "name": "C-SPAN Radio Washington",
+        "description": "Capitol Hill, Congress, White House & Supreme Court",
+        "stream_url": "https://cspanradio.streamguys1.com/cspan",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=c-span.org",
+        "category": "Politics & Capitol Hill"
+      },
+      {
+        "name": "WTOP 103.5 FM - Washington D.C.",
+        "description": "Top-Ranked All-News Station in Nation's Capital",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1417",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wtop.com",
+        "category": "Politics & Capitol Hill"
+      },
+      {
+        "name": "WAMU 88.5 FM - Washington D.C.",
+        "description": "American University Radio • Home of 1A & NPR News",
+        "stream_url": "https://wamu-1.streamguys1.com/wamu",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wamu.org",
+        "category": "Politics & Capitol Hill"
+      }
+    ]
+  },
+  {
+    "category": "New York & Tri-State",
+    "stations": [
+      {
+        "name": "WNYC 93.9 FM - New York",
+        "description": "New York Public Radio • News, Culture & In-Depth Talk",
+        "stream_url": "https://fm939.wnyc.org/wnycfm",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wnyc.org",
+        "category": "New York & Tri-State"
+      },
+      {
+        "name": "WNYC AM 820 - New York",
+        "description": "NYC In-Depth Discussions, Civic News & NPR",
+        "stream_url": "https://am820.wnyc.org/wnycam",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wnyc.org",
+        "category": "New York & Tri-State"
+      },
+      {
+        "name": "WOR 710 AM - New York",
+        "description": "The Voice of New York • News, Talk & Debates",
+        "stream_url": "https://stream.revma.ihrhls.com/zc5868",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wor710.iheart.com",
+        "category": "New York & Tri-State"
+      }
+    ]
+  },
+  {
+    "category": "California & West Coast",
+    "stations": [
+      {
+        "name": "KQED 88.5 FM - San Francisco",
+        "description": "Northern California & Bay Area Public Radio",
+        "stream_url": "https://streams.kqed.org/kqedradio",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kqed.org",
+        "category": "California & West Coast"
+      },
+      {
+        "name": "KCRW 89.9 FM - Los Angeles",
+        "description": "Southern California News, Culture & NPR",
+        "stream_url": "https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kcrw.com",
+        "category": "California & West Coast"
+      },
+      {
+        "name": "KFI AM 640 - Los Angeles",
+        "description": "Southern California's Leading News & Talk Powerhouse",
+        "stream_url": "https://stream.revma.ihrhls.com/zc185",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kfiam640.iheart.com",
+        "category": "California & West Coast"
+      },
+      {
+        "name": "KALW 91.7 FM - San Francisco",
+        "description": "Local Public Radio for the SF Bay Area",
+        "stream_url": "https://stream.kalw.org/kalw_live",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kalw.org",
+        "category": "California & West Coast"
+      },
+      {
+        "name": "KUOW 94.9 FM - Seattle",
+        "description": "Puget Sound & Washington State NPR Public Radio",
+        "stream_url": "https://kuow.streamguys1.com/live",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kuow.org",
+        "category": "California & West Coast"
+      },
+      {
+        "name": "KNKX 88.5 FM - Seattle / Tacoma",
+        "description": "Pacific Northwest News, Stories & Jazz",
+        "stream_url": "https://knkx.streamguys1.com/knkx1",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=knkx.org",
+        "category": "California & West Coast"
+      },
+      {
+        "name": "OPB News - Portland, Oregon",
+        "description": "Oregon Public Broadcasting • Northwest News",
+        "stream_url": "https://stream1.opb.org/radio_opb",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=opb.org",
+        "category": "California & West Coast"
+      },
+      {
+        "name": "KJZZ 91.5 FM - Phoenix, Arizona",
+        "description": "Southwest News, NPR & In-Depth Arizona Reports",
+        "stream_url": "https://kjzz.streamguys1.com/kjzz_mp3_128",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kjzz.org",
+        "category": "California & West Coast"
+      }
+    ]
+  },
+  {
+    "category": "Midwest & Great Lakes",
+    "stations": [
+      {
+        "name": "WLS 890 AM - Chicago",
+        "description": "Chicago's Talk & News Powerhouse",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1409",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wlsam.com",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "WBEZ 91.5 FM - Chicago",
+        "description": "Chicago Public Media • NPR News & Investigations",
+        "stream_url": "https://wbez.streamguys1.com/wbez128",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wbez.org",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "MPR News - Minneapolis",
+        "description": "Minnesota Public Radio • Upper Midwest News Leader",
+        "stream_url": "https://stream.mpr.org/news_128",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=mprnews.org",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "Michigan Radio WUOM 91.7 - Ann Arbor",
+        "description": "University of Michigan • Statewide NPR News",
+        "stream_url": "https://stream.michiganradio.org/wuom",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=michiganradio.org",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "WDET 101.9 FM - Detroit",
+        "description": "Detroit Public Radio • News, Conversation & Music",
+        "stream_url": "https://wdet.streamguys1.com/wdet",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wdet.org",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "WOSU 89.7 FM - Columbus, Ohio",
+        "description": "Ohio State University NPR News Station",
+        "stream_url": "https://wosu.streamguys1.com/wosu-fm",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wosu.org",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "Ideastream Public Media - Cleveland",
+        "description": "Northeast Ohio News • WCPN 90.3 FM",
+        "stream_url": "https://wcpn.streamguys1.com/wcpn-mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=ideastream.org",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "St. Louis Public Radio KWMU",
+        "description": "Greater St. Louis & Missouri NPR News",
+        "stream_url": "https://stream.stlpublicradio.org/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=stlpublicradio.org",
+        "category": "Midwest & Great Lakes"
+      },
+      {
+        "name": "Wisconsin Public Radio (WPR Ideas)",
+        "description": "Statewide News & Discussion for Wisconsin",
+        "stream_url": "https://wpr-ice.streamguys1.com/wpr-ideas-mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wpr.org",
+        "category": "Midwest & Great Lakes"
+      }
+    ]
+  },
+  {
+    "category": "Texas & The South",
+    "stations": [
+      {
+        "name": "KRLD NewsRadio 1080 - Dallas",
+        "description": "Texas News, Traffic, Weather & Business Leader",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1421",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=audacy.com/krld",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "KERA 90.1 FM - North Texas",
+        "description": "Dallas-Fort Worth NPR News & Texas Standard",
+        "stream_url": "https://kera.streamguys1.com/keralive",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kera.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "KUT 90.5 FM - Austin",
+        "description": "Austin's NPR Station • University of Texas",
+        "stream_url": "https://kut.streamguys1.com/kut",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kut.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "KUHF News 88.7 - Houston",
+        "description": "Houston Public Media • Southeast Texas News",
+        "stream_url": "https://houstonpublicmedia.streamguys1.com/news",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=houstonpublicmedia.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "WABE 90.1 FM - Atlanta",
+        "description": "Atlanta's NPR Station • Metro News & Culture",
+        "stream_url": "https://wabe.streamguys1.com/wabe",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wabe.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "GPB Georgia Public Broadcasting",
+        "description": "Georgia Statewide News, Capitol Politics & NPR",
+        "stream_url": "https://gpb.streamguys1.com/gpb",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=gpb.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "WLRN 91.3 FM - South Florida",
+        "description": "Miami, Fort Lauderdale & South Florida NPR",
+        "stream_url": "https://wlrn.streamguys1.com/wlrn",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wlrn.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "WUSF 89.7 FM - Tampa Bay",
+        "description": "Florida West Coast NPR News & Reports",
+        "stream_url": "https://wusf.streamguys1.com/wusf",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wusf.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "WUNC 91.5 FM - North Carolina",
+        "description": "Raleigh, Durham, Chapel Hill & NC Public Radio",
+        "stream_url": "https://wunc.streamguys1.com/wunc",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wunc.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "WPLN 90.3 FM - Nashville",
+        "description": "Nashville Public Radio • Middle Tennessee News",
+        "stream_url": "https://wpln.streamguys1.com/wpln",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wpln.org",
+        "category": "Texas & The South"
+      },
+      {
+        "name": "WWNO 89.9 FM - New Orleans",
+        "description": "New Orleans Public Radio • Louisiana News & Jazz",
+        "stream_url": "https://wwno.streamguys1.com/wwno",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wwno.org",
+        "category": "Texas & The South"
+      }
+    ]
+  },
+  {
+    "category": "East Coast & New England",
+    "stations": [
+      {
+        "name": "WBZ NewsRadio 1030 - Boston",
+        "description": "New England's Premier 24/7 All-News Station",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1425",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wbznewsradio.iheart.com",
+        "category": "East Coast & New England"
+      },
+      {
+        "name": "WBUR 90.9 FM - Boston",
+        "description": "Boston's NPR News Station • Here & Now",
+        "stream_url": "https://wbur-ice.streamguys1.com/wbur_mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wbur.org",
+        "category": "East Coast & New England"
+      },
+      {
+        "name": "WGBH 89.7 FM - Boston",
+        "description": "Boston Public Radio • Local News & Storytelling",
+        "stream_url": "https://wgbh.streamguys1.com/wgbh",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wgbh.org",
+        "category": "East Coast & New England"
+      },
+      {
+        "name": "WHYY 90.9 FM - Philadelphia",
+        "description": "Greater Philadelphia & Delaware Valley NPR",
+        "stream_url": "https://whyy.streamguys1.com/whyy-mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=whyy.org",
+        "category": "East Coast & New England"
+      },
+      {
+        "name": "WESA 90.5 FM - Pittsburgh",
+        "description": "Pittsburgh Community Broadcasting • NPR News",
+        "stream_url": "https://wesa.streamguys1.com/wesa",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wesa.fm",
+        "category": "East Coast & New England"
+      },
+      {
+        "name": "WYPR 88.1 FM - Baltimore",
+        "description": "Maryland Public Radio • Baltimore & Regional News",
+        "stream_url": "https://wypr.streamguys1.com/wypr",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=wypr.org",
+        "category": "East Coast & New England"
+      },
+      {
+        "name": "VPM News 88.9 FM - Virginia",
+        "description": "Virginia Public Media • Richmond & Central VA",
+        "stream_url": "https://vpm.streamguys1.com/vpmnews",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=vpm.org",
+        "category": "East Coast & New England"
+      }
+    ]
+  },
+  {
+    "category": "Rocky Mountains & Southwest",
+    "stations": [
+      {
+        "name": "CPR News - Colorado",
+        "description": "Colorado Public Radio • Denver Statewide News",
+        "stream_url": "https://cpr.streamguys1.com/cpr1_mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=cpr.org",
+        "category": "Rocky Mountains & Southwest"
+      },
+      {
+        "name": "KUNC 91.5 FM - Northern Colorado",
+        "description": "Community Radio for Northern Colorado & NPR",
+        "stream_url": "https://kunc.streamguys1.com/kunc",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kunc.org",
+        "category": "Rocky Mountains & Southwest"
+      },
+      {
+        "name": "Hawaii Public Radio (HPR-1)",
+        "description": "Honolulu & Hawaiian Islands NPR News",
+        "stream_url": "https://hpr.streamguys1.com/hpr1",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=hawaiipublicradio.org",
+        "category": "Rocky Mountains & Southwest"
+      },
+      {
+        "name": "Alaska Public Media (KSKA)",
+        "description": "Anchorage & Alaska Statewide Public Radio",
+        "stream_url": "https://alaskapublic.streamguys1.com/kska_stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=alaskapublic.org",
+        "category": "Rocky Mountains & Southwest"
+      }
+    ]
+  },
+  {
+    "category": "Sports News & Talk",
+    "stations": [
+      {
+        "name": "Fox Sports Radio",
+        "description": "Live American Sports News, NFL, NBA & Scores 24/7",
+        "stream_url": "https://stream.revma.ihrhls.com/zc249",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=foxsportsradio.iheart.com",
+        "category": "Sports News & Talk"
+      },
+      {
+        "name": "CBS Sports Radio",
+        "description": "Premier Sports Talk, Analysis & Live Game Coverage",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1413",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=cbssports.com",
+        "category": "Sports News & Talk"
+      },
+      {
+        "name": "SportsMap Radio Network",
+        "description": "National 24/7 Sports Talk & Game Day Updates",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1415",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=sportsmapradio.com",
+        "category": "Sports News & Talk"
+      }
+    ]
+  }
+]

@@ -1,0 +1,367 @@
+{
+  "google_sheet_url": "https://script.google.com/macros/s/AKfycbxr9aVKhTdHjlOqUhH0h09IFRtjv-ISu18b2Zabvff8SlDluCNI4Q_n9tWZDQCDKEyp/exec",
+  "github_cdn_base_url": "https://cdn.jsdelivr.net/gh/santhkhd/config@main/news/com.usanewspapers.localnews.weather/",
+  "github_raw_base_url": "https://raw.githubusercontent.com/santhkhd/config/main/news/com.usanewspapers.localnews.weather/",
+  "app": {
+    "status": true,
+    "toolbar": true,
+    "navigation_drawer": true,
+    "geolocation": true,
+    "cache": true,
+    "open_link_in_external_browser": false,
+    "zoom_controls": false,
+    "user_agent": "",
+    "privacy_policy_url": "privacy_policy.html",
+    "more_apps_url": "",
+    "webview_disclaimer_active": false,
+    "redirect_url": ""
+  },
+  "intro": {
+    "status": false,
+    "sliders": []
+  },
+  "menus": [
+    {
+      "name": "Home",
+      "type": "category",
+      "url": "home.json",
+      "icon": "https://img.icons8.com/color/96/home.png"
+    },
+    {
+      "name": "Newspapers by State",
+      "type": "category",
+      "url": "usa_states_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/map-marker.png"
+    },
+    {
+      "name": "National Newspapers",
+      "type": "category",
+      "url": "usa_national_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/newspaper.png"
+    },
+    {
+      "name": "Live News Channels",
+      "type": "category",
+      "url": "news_channels.json",
+      "icon": "https://img.icons8.com/color/96/retro-tv.png"
+    },
+    {
+      "name": "Latest Video News",
+      "type": "YOUTUBE",
+      "url": "ALL_VIDEOS",
+      "icon": "https://img.icons8.com/color/96/youtube-play.png"
+    },
+    {
+      "name": "Breaking News (RSS)",
+      "type": "RSS",
+      "url": "ALL_NEWS",
+      "icon": "https://img.icons8.com/color/96/rss.png"
+    },
+    {
+      "name": "24/7 US News Radio",
+      "type": "radio",
+      "url": "news_radio.json",
+      "icon": "https://img.icons8.com/color/96/radio-tower.png"
+    },
+    {
+      "name": "News by Category",
+      "type": "category",
+      "url": "categories.json",
+      "icon": "https://img.icons8.com/color/96/categories.png"
+    }
+  ],
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_ad_interval_on_drawer_menu": 5,
+    "interstitial_ad_interval_on_web_page_link": 0,
+    "native_ad_style_drawer_menu": "medium",
+    "native_ad_style_exit_dialog": "medium",
+    "native_ad_style_product_list": "medium",
+    "native_ad_index": 6,
+    "interstitial_ad_on_list_item_click": false,
+    "interstitial_ad_interval_on_list_item_click": 8,
+    "placement": {
+      "banner_home": true,
+      "interstitial_drawer_menu": true,
+      "interstitial_web_page_link": false,
+      "native_drawer_menu": true,
+      "native_exit_dialog": true,
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
+    }
+  },
+  "youtube_channels": [
+    {
+      "name": "CNN",
+      "channel_id": "UCupvZG-5ko_eiXAupbDfxWw"
+    },
+    {
+      "name": "Fox News",
+      "channel_id": "UCXIJgqnII2ZOINSWNOGFThA"
+    },
+    {
+      "name": "MSNBC",
+      "channel_id": "UCaXkIU1QidjPwiAYu6GcHjg"
+    },
+    {
+      "name": "ABC News",
+      "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+    },
+    {
+      "name": "CBS News",
+      "channel_id": "UC8p1vwvWtl6T73JiExfWs1g"
+    },
+    {
+      "name": "NBC News",
+      "channel_id": "UCeY0bbntWzzVIaj2z3QigXg"
+    },
+    {
+      "name": "PBS NewsHour",
+      "channel_id": "UC6ZFN9Tx6xh-skXCuRHCDpQ"
+    },
+    {
+      "name": "CNBC",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA"
+    },
+    {
+      "name": "Bloomberg Markets & Finance",
+      "channel_id": "UCIALMKvObZNtJ6AmdCLP7Lg"
+    },
+    {
+      "name": "Associated Press (AP)",
+      "channel_id": "UC52X5ev3BM3U535pkJQu4UW"
+    },
+    {
+      "name": "Reuters",
+      "channel_id": "UChqUTb7kYRX8-EiaN3XFrSQ"
+    },
+    {
+      "name": "C-SPAN",
+      "channel_id": "UCb--64Gl51jIEVE-GLDAVTg"
+    },
+    {
+      "name": "The Hill",
+      "channel_id": "UCPWXiRWZ29zrxPFIQT7eHSA"
+    },
+    {
+      "name": "Politico",
+      "channel_id": "UCkhn9Ylq7pZqZzC0fQ5r2bg"
+    },
+    {
+      "name": "USA TODAY",
+      "channel_id": "UCPqHl3P54hZ-7q7g_K-w4cw"
+    },
+    {
+      "name": "Forbes Breaking News",
+      "channel_id": "UCg40OxZ1GYh3u3jB228x11g"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "channel_id": "UCK7tptUDHh-RYDsdxO1-5QQ"
+    },
+    {
+      "name": "The Washington Post",
+      "channel_id": "UCHd62-u_vZKUvvBOojmg0Sg"
+    },
+    {
+      "name": "Newsmax",
+      "channel_id": "UCx6h-dWzJ5S14GpOgz20ibA"
+    },
+    {
+      "name": "Scripps News",
+      "channel_id": "UC43fJ3d2i4N0e_fG7eE-n4g"
+    },
+    {
+      "name": "Yahoo Finance",
+      "channel_id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "The New York Times (Top Stories)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "title": "The Washington Post (National)",
+      "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28National%29%20news&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The Wall Street Journal (Business)",
+      "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"
+    },
+    {
+      "title": "USA TODAY (Top News)",
+      "url": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories"
+    },
+    {
+      "title": "Fox News (Latest Headlines)",
+      "url": "https://moxie.foxnews.com/google-publisher/latest.xml"
+    },
+    {
+      "title": "CNN (Top Stories)",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss"
+    },
+    {
+      "title": "NBC News (Breaking Headlines)",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/news"
+    },
+    {
+      "title": "CBS News (Latest News)",
+      "url": "https://www.cbsnews.com/latest/rss/main"
+    },
+    {
+      "title": "ABC News (Top Stories)",
+      "url": "https://abcnews.go.com/abcnews/topstories"
+    },
+    {
+      "title": "NPR News (National Headlines)",
+      "url": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
+      "title": "PBS NewsHour (Headlines)",
+      "url": "https://www.pbs.org/newshour/feeds/rss/headlines"
+    },
+    {
+      "title": "Google News USA (Top News)",
+      "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Politico (US Politics)",
+      "url": "https://rss.politico.com/politics-news.xml"
+    },
+    {
+      "title": "The Hill (Capitol Hill & Politics)",
+      "url": "https://thehill.com/feed/"
+    },
+    {
+      "title": "The Washington Post (Politics)",
+      "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28Politics%29%20news&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The New York Times (Politics)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    },
+    {
+      "title": "USA TODAY (Washington & Politics)",
+      "url": "http://rssfeeds.usatoday.com/usatoday-NewsPolitics"
+    },
+    {
+      "title": "Google News (US Politics)",
+      "url": "https://news.google.com/rss/headlines/section/topic/POLITICS?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The Wall Street Journal (Markets)",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+    },
+    {
+      "title": "CNBC (Business & Finance)",
+      "url": "https://search.cnbc.com/rs/search/view.html?partnerId=2000&keywords=business&format=rss"
+    },
+    {
+      "title": "Yahoo Finance (Top Stories)",
+      "url": "https://finance.yahoo.com/news/rssindex"
+    },
+    {
+      "title": "The New York Times (Business)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+    },
+    {
+      "title": "Google News (Business & Economy)",
+      "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The Verge (Tech & Gadgets)",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "title": "TechCrunch (Startups & Tech)",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "title": "Wired (Technology & Culture)",
+      "url": "https://www.wired.com/feed/rss"
+    },
+    {
+      "title": "The New York Times (Technology)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    },
+    {
+      "title": "Google News (Technology & AI)",
+      "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The New York Times (World News)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    {
+      "title": "The Washington Post (World)",
+      "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28World%29%20news&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The Wall Street Journal (World)",
+      "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    },
+    {
+      "title": "Google News (World Affairs)",
+      "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The New York Times (Sports)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+    },
+    {
+      "title": "The Washington Post (Sports)",
+      "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28Sports%29%20news&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "USA TODAY (Sports Headlines)",
+      "url": "http://rssfeeds.usatoday.com/usatoday-NewsSports"
+    },
+    {
+      "title": "Google News (US & Global Sports)",
+      "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Variety (Hollywood & Film)",
+      "url": "https://variety.com/feed/"
+    },
+    {
+      "title": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/feed/"
+    },
+    {
+      "title": "The New York Times (Arts & Movies)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml"
+    },
+    {
+      "title": "Google News (Entertainment)",
+      "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The New York Times (Science)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+    },
+    {
+      "title": "Space.com (NASA & Astronomy)",
+      "url": "https://www.space.com/feeds/all"
+    },
+    {
+      "title": "Google News (Science & Space)",
+      "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "The New York Times (Health)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+    },
+    {
+      "title": "Google News (Health & Medicine)",
+      "url": "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-US&gl=US&ceid=US:en"
+    }
+  ]
+}

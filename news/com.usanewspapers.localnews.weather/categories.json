@@ -1,0 +1,669 @@
+{
+  "categories": [
+    {
+      "id": "us_top_news",
+      "name": "Top US News",
+      "icon": "flag"
+    },
+    {
+      "id": "us_breaking_news",
+      "name": "Breaking News",
+      "icon": "bolt"
+    },
+    {
+      "id": "white_house",
+      "name": "White House",
+      "icon": "account_balance"
+    },
+    {
+      "id": "us_president",
+      "name": "US President",
+      "icon": "person"
+    },
+    {
+      "id": "congress",
+      "name": "Congress",
+      "icon": "gavel"
+    },
+    {
+      "id": "senate",
+      "name": "US Senate",
+      "icon": "account_balance"
+    },
+    {
+      "id": "house",
+      "name": "US House",
+      "icon": "domain"
+    },
+    {
+      "id": "supreme_court",
+      "name": "Supreme Court",
+      "icon": "balance"
+    },
+    {
+      "id": "federal_government",
+      "name": "Federal Government",
+      "icon": "corporate_fare"
+    },
+    {
+      "id": "us_economy",
+      "name": "US Economy",
+      "icon": "attach_money"
+    },
+    {
+      "id": "inflation",
+      "name": "Inflation",
+      "icon": "trending_up"
+    },
+    {
+      "id": "federal_reserve",
+      "name": "Federal Reserve",
+      "icon": "savings"
+    },
+    {
+      "id": "interest_rates",
+      "name": "Interest Rates",
+      "icon": "percent"
+    },
+    {
+      "id": "jobs",
+      "name": "US Jobs",
+      "icon": "work"
+    },
+    {
+      "id": "unemployment",
+      "name": "Unemployment",
+      "icon": "people"
+    },
+    {
+      "id": "stock_market",
+      "name": "US Stock Market",
+      "icon": "show_chart"
+    },
+    {
+      "id": "dow_jones",
+      "name": "Dow Jones",
+      "icon": "trending_up"
+    },
+    {
+      "id": "sp500",
+      "name": "S&P 500",
+      "icon": "insert_chart"
+    },
+    {
+      "id": "nasdaq",
+      "name": "Nasdaq",
+      "icon": "analytics"
+    },
+    {
+      "id": "business",
+      "name": "US Business",
+      "icon": "business_center"
+    },
+    {
+      "id": "corporate_earnings",
+      "name": "Corporate Earnings",
+      "icon": "receipt_long"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "icon": "newspaper"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "icon": "newspaper"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "icon": "newspaper"
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "icon": "newspaper"
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "icon": "newspaper"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "icon": "newspaper"
+    },
+    {
+      "id": "artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "icon": "psychology"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "icon": "newspaper"
+    },
+    {
+      "id": "semiconductors",
+      "name": "Semiconductors",
+      "icon": "memory"
+    },
+    {
+      "id": "chips_act",
+      "name": "CHIPS Act",
+      "icon": "developer_board"
+    },
+    {
+      "id": "technology",
+      "name": "US Technology",
+      "icon": "laptop"
+    },
+    {
+      "id": "cybersecurity",
+      "name": "Cybersecurity",
+      "icon": "security"
+    },
+    {
+      "id": "weather",
+      "name": "US Weather",
+      "icon": "wb_sunny"
+    },
+    {
+      "id": "storms",
+      "name": "US Storms",
+      "icon": "thunderstorm"
+    },
+    {
+      "id": "hurricanes",
+      "name": "Hurricanes",
+      "icon": "cyclone"
+    },
+    {
+      "id": "tornadoes",
+      "name": "Tornadoes",
+      "icon": "tornado"
+    },
+    {
+      "id": "flooding",
+      "name": "Flooding",
+      "icon": "flood"
+    },
+    {
+      "id": "wildfires",
+      "name": "Wildfires",
+      "icon": "local_fire_department"
+    },
+    {
+      "id": "earthquakes",
+      "name": "Earthquakes",
+      "icon": "vibration"
+    },
+    {
+      "id": "health",
+      "name": "US Health",
+      "icon": "medical_services"
+    },
+    {
+      "id": "cdc",
+      "name": "CDC",
+      "icon": "health_and_safety"
+    },
+    {
+      "id": "fda",
+      "name": "FDA",
+      "icon": "science"
+    },
+    {
+      "id": "science",
+      "name": "US Science",
+      "icon": "biotech"
+    },
+    {
+      "id": "space",
+      "name": "US Space",
+      "icon": "rocket_launch"
+    },
+    {
+      "id": "nasa",
+      "name": "NASA",
+      "icon": "public"
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "icon": "flight_takeoff"
+    },
+    {
+      "id": "crime",
+      "name": "US Crime",
+      "icon": "shield"
+    },
+    {
+      "id": "police",
+      "name": "US Police",
+      "icon": "local_police"
+    },
+    {
+      "id": "fbi",
+      "name": "FBI",
+      "icon": "verified_user"
+    },
+    {
+      "id": "justice_department",
+      "name": "Department of Justice",
+      "icon": "gavel"
+    },
+    {
+      "id": "immigration",
+      "name": "US Immigration",
+      "icon": "travel_explore"
+    },
+    {
+      "id": "border",
+      "name": "US Border",
+      "icon": "fence"
+    },
+    {
+      "id": "national_security",
+      "name": "National Security",
+      "icon": "security"
+    },
+    {
+      "id": "military",
+      "name": "US Military",
+      "icon": "military_tech"
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "icon": "domain"
+    },
+    {
+      "id": "foreign_policy",
+      "name": "US Foreign Policy",
+      "icon": "public"
+    },
+    {
+      "id": "ukraine",
+      "name": "US Ukraine News",
+      "icon": "newspaper"
+    },
+    {
+      "id": "russia",
+      "name": "US Russia Relations",
+      "icon": "newspaper"
+    },
+    {
+      "id": "china",
+      "name": "US China Relations",
+      "icon": "newspaper"
+    },
+    {
+      "id": "trade",
+      "name": "US Trade",
+      "icon": "newspaper"
+    },
+    {
+      "id": "tariffs",
+      "name": "US Tariffs",
+      "icon": "newspaper"
+    },
+    {
+      "id": "housing",
+      "name": "US Housing",
+      "icon": "newspaper"
+    },
+    {
+      "id": "real_estate",
+      "name": "US Real Estate",
+      "icon": "newspaper"
+    },
+    {
+      "id": "gas_prices",
+      "name": "US Gas Prices",
+      "icon": "newspaper"
+    },
+    {
+      "id": "oil",
+      "name": "US Oil",
+      "icon": "newspaper"
+    },
+    {
+      "id": "energy",
+      "name": "US Energy",
+      "icon": "newspaper"
+    },
+    {
+      "id": "electric_vehicles",
+      "name": "Electric Vehicles",
+      "icon": "newspaper"
+    },
+    {
+      "id": "automotive",
+      "name": "US Auto Industry",
+      "icon": "newspaper"
+    },
+    {
+      "id": "retail",
+      "name": "US Retail",
+      "icon": "newspaper"
+    },
+    {
+      "id": "consumer",
+      "name": "US Consumers",
+      "icon": "newspaper"
+    },
+    {
+      "id": "education",
+      "name": "US Education",
+      "icon": "newspaper"
+    },
+    {
+      "id": "student_loans",
+      "name": "Student Loans",
+      "icon": "newspaper"
+    },
+    {
+      "id": "labor_unions",
+      "name": "US Labor",
+      "icon": "newspaper"
+    },
+    {
+      "id": "transportation",
+      "name": "US Transportation",
+      "icon": "newspaper"
+    },
+    {
+      "id": "airlines",
+      "name": "US Airlines",
+      "icon": "newspaper"
+    },
+    {
+      "id": "aviation",
+      "name": "US Aviation",
+      "icon": "newspaper"
+    },
+    {
+      "id": "railways",
+      "name": "US Rail",
+      "icon": "newspaper"
+    },
+    {
+      "id": "sports",
+      "name": "US Sports",
+      "icon": "sports_baseball"
+    },
+    {
+      "id": "nfl",
+      "name": "NFL",
+      "icon": "sports_football"
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "icon": "sports_basketball"
+    },
+    {
+      "id": "mlb",
+      "name": "MLB",
+      "icon": "sports_baseball"
+    },
+    {
+      "id": "nhl",
+      "name": "NHL",
+      "icon": "sports_hockey"
+    },
+    {
+      "id": "college_sports",
+      "name": "College Sports",
+      "icon": "newspaper"
+    },
+    {
+      "id": "entertainment",
+      "name": "US Entertainment",
+      "icon": "movie"
+    },
+    {
+      "id": "hollywood",
+      "name": "Hollywood",
+      "icon": "newspaper"
+    },
+    {
+      "id": "movies",
+      "name": "US Movies",
+      "icon": "theaters"
+    },
+    {
+      "id": "music",
+      "name": "US Music",
+      "icon": "music_note"
+    },
+    {
+      "id": "social_media",
+      "name": "US Social Media",
+      "icon": "share"
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy & Data",
+      "icon": "lock"
+    },
+    {
+      "id": "environment",
+      "name": "US Environment",
+      "icon": "eco"
+    },
+    {
+      "id": "climate",
+      "name": "US Climate",
+      "icon": "thermostat"
+    },
+    {
+      "id": "epa",
+      "name": "EPA",
+      "icon": "newspaper"
+    },
+    {
+      "id": "agriculture",
+      "name": "US Agriculture",
+      "icon": "agriculture"
+    },
+    {
+      "id": "food",
+      "name": "US Food News",
+      "icon": "restaurant"
+    },
+    {
+      "id": "restaurants",
+      "name": "US Restaurants",
+      "icon": "newspaper"
+    },
+    {
+      "id": "travel",
+      "name": "US Travel",
+      "icon": "flight"
+    },
+    {
+      "id": "tourism",
+      "name": "US Tourism",
+      "icon": "luggage"
+    },
+    {
+      "id": "local_news",
+      "name": "US Local News",
+      "icon": "location_city"
+    },
+    {
+      "id": "new_york",
+      "name": "New York",
+      "icon": "newspaper"
+    },
+    {
+      "id": "california",
+      "name": "California",
+      "icon": "newspaper"
+    },
+    {
+      "id": "texas",
+      "name": "Texas",
+      "icon": "newspaper"
+    },
+    {
+      "id": "florida",
+      "name": "Florida",
+      "icon": "newspaper"
+    },
+    {
+      "id": "washington",
+      "name": "Washington State",
+      "icon": "newspaper"
+    },
+    {
+      "id": "illinois",
+      "name": "Illinois",
+      "icon": "newspaper"
+    },
+    {
+      "id": "new_jersey",
+      "name": "New Jersey",
+      "icon": "newspaper"
+    },
+    {
+      "id": "massachusetts",
+      "name": "Massachusetts",
+      "icon": "newspaper"
+    },
+    {
+      "id": "pennsylvania",
+      "name": "Pennsylvania",
+      "icon": "newspaper"
+    },
+    {
+      "id": "arizona",
+      "name": "Arizona",
+      "icon": "newspaper"
+    },
+    {
+      "id": "colorado",
+      "name": "Colorado",
+      "icon": "newspaper"
+    },
+    {
+      "id": "georgia",
+      "name": "Georgia",
+      "icon": "newspaper"
+    },
+    {
+      "id": "north_carolina",
+      "name": "North Carolina",
+      "icon": "newspaper"
+    },
+    {
+      "id": "ohio",
+      "name": "Ohio",
+      "icon": "newspaper"
+    },
+    {
+      "id": "michigan",
+      "name": "Michigan",
+      "icon": "newspaper"
+    },
+    {
+      "id": "minnesota",
+      "name": "Minnesota",
+      "icon": "newspaper"
+    },
+    {
+      "id": "oregon",
+      "name": "Oregon",
+      "icon": "newspaper"
+    },
+    {
+      "id": "nevada",
+      "name": "Nevada",
+      "icon": "newspaper"
+    },
+    {
+      "id": "hawaii",
+      "name": "Hawaii",
+      "icon": "newspaper"
+    },
+    {
+      "id": "alaska",
+      "name": "Alaska",
+      "icon": "newspaper"
+    },
+    {
+      "id": "legal",
+      "name": "US Legal News",
+      "icon": "newspaper"
+    },
+    {
+      "id": "consumer_protection",
+      "name": "Consumer Protection",
+      "icon": "newspaper"
+    },
+    {
+      "id": "ftc",
+      "name": "FTC",
+      "icon": "newspaper"
+    },
+    {
+      "id": "antitrust",
+      "name": "US Antitrust",
+      "icon": "newspaper"
+    },
+    {
+      "id": "banking",
+      "name": "US Banking",
+      "icon": "newspaper"
+    },
+    {
+      "id": "cryptocurrency",
+      "name": "US Crypto",
+      "icon": "newspaper"
+    },
+    {
+      "id": "sec",
+      "name": "SEC",
+      "icon": "newspaper"
+    },
+    {
+      "id": "manufacturing",
+      "name": "US Manufacturing",
+      "icon": "newspaper"
+    },
+    {
+      "id": "infrastructure",
+      "name": "US Infrastructure",
+      "icon": "newspaper"
+    },
+    {
+      "id": "housing_crisis",
+      "name": "Housing Affordability",
+      "icon": "newspaper"
+    },
+    {
+      "id": "daily_morning",
+      "name": "Morning Briefing",
+      "icon": "wb_twilight"
+    },
+    {
+      "id": "daily_evening",
+      "name": "Evening Briefing",
+      "icon": "bedtime"
+    },
+    {
+      "id": "weekend_news",
+      "name": "Weekend US News",
+      "icon": "newspaper"
+    },
+    {
+      "id": "news_roundup",
+      "name": "US News Roundup",
+      "icon": "newspaper"
+    }
+  ]
+}

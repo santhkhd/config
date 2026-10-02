@@ -1,0 +1,184 @@
+[
+  {
+    "title": "The Shawnee News-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.theshawneenewsstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-star.com",
+    "year": "Oklahoma",
+    "genre": "Shawnee",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Ardmoreite",
+    "provider": "web",
+    "arguments": [
+      "https://www.theardmoreite.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ardmoreite.com",
+    "year": "Oklahoma",
+    "genre": "Ardmore",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bartlesville Examiner-Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.examiner-enterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=examiner-enterprise.com",
+    "year": "Oklahoma",
+    "genre": "Bartlesville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tulsa World",
+    "provider": "web",
+    "arguments": [
+      "https://www.tulsaworld.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tulsaworld.com",
+    "year": "Oklahoma",
+    "genre": "Tulsa",
+    "rating": "Northeast OK Flagship Daily",
+    "rssUrl": "http://tulsaworld.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Ponca City News",
+    "provider": "web",
+    "arguments": [
+      "https://www.poncacitynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=poncacitynews.com",
+    "year": "Oklahoma",
+    "genre": "Ponca City",
+    "rating": "Daily",
+    "rssUrl": "https://www.poncacitynews.com/rss"
+  },
+  {
+    "title": "Muskogee Phoenix",
+    "provider": "web",
+    "arguments": [
+      "https://www.muskogeephoenix.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=muskogeephoenix.com",
+    "year": "Oklahoma",
+    "genre": "Muskogee",
+    "rating": "Daily",
+    "rssUrl": "http://www.muskogeephoenix.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "McAlester News-Capital",
+    "provider": "web",
+    "arguments": [
+      "https://www.mcalesternews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mcalesternews.com",
+    "year": "Oklahoma",
+    "genre": "McAlester",
+    "rating": "Daily",
+    "rssUrl": "http://www.mcalesternews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Duncan Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.duncanbanner.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=duncanbanner.com",
+    "year": "Oklahoma",
+    "genre": "Duncan",
+    "rating": "Daily",
+    "rssUrl": "http://www.duncanbanner.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Claremore Daily Progress",
+    "provider": "web",
+    "arguments": [
+      "https://www.claremoreprogress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=claremoreprogress.com",
+    "year": "Oklahoma",
+    "genre": "Claremore",
+    "rating": "Daily",
+    "rssUrl": "http://www.claremoreprogress.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Norman Transcript",
+    "provider": "web",
+    "arguments": [
+      "https://www.normantranscript.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=normantranscript.com",
+    "year": "Oklahoma",
+    "genre": "Norman",
+    "rating": "OU Region Daily"
+  },
+  {
+    "title": "Stillwater News Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.stwnewspress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stwnewspress.com",
+    "year": "Oklahoma",
+    "genre": "Stillwater",
+    "rating": "Oklahoma State University Daily"
+  },
+  {
+    "title": "The Lawton Constitution",
+    "provider": "web",
+    "arguments": [
+      "https://www.swoknews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swoknews.com",
+    "year": "Oklahoma",
+    "genre": "Lawton",
+    "rating": "Southwest OK Daily"
+  },
+  {
+    "title": "Enid News & Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.enidnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enidnews.com",
+    "year": "Oklahoma",
+    "genre": "Enid",
+    "rating": "Northwest OK Daily"
+  },
+  {
+    "title": "Tahlequah Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.tahlequahdailypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tahlequahdailypress.com",
+    "year": "Oklahoma",
+    "genre": "Tahlequah",
+    "rating": "Daily"
+  },
+  {
+    "title": "Altus Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.altustimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=altustimes.com",
+    "year": "Oklahoma",
+    "genre": "Altus",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Oklahoman",
+    "provider": "web",
+    "arguments": [
+      "https://www.theoklahoman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oklahoman.com",
+    "year": "Oklahoma",
+    "genre": "Oklahoma City",
+    "rating": "State Flagship Daily"
+  }
+]

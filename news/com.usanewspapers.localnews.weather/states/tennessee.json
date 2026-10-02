@@ -1,0 +1,225 @@
+[
+  {
+    "title": "The Tennessean",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetennessean.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tennessean.com",
+    "year": "Tennessee",
+    "genre": "Nashville",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "The Daily News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.dnj.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dnj.com",
+    "year": "Tennessee",
+    "genre": "Murfreesboro",
+    "rating": "MTSU Region Daily"
+  },
+  {
+    "title": "The Jackson Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.jacksonsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonsun.com",
+    "year": "Tennessee",
+    "genre": "Jackson",
+    "rating": "West TN Daily"
+  },
+  {
+    "title": "The Leaf-Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.theleafchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theleafchronicle.com",
+    "year": "Tennessee",
+    "genre": "Clarksville",
+    "rating": "Fort Campbell Region Daily"
+  },
+  {
+    "title": "The Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbiadailyherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbiadailyherald.com",
+    "year": "Tennessee",
+    "genre": "Columbia",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Oak Ridger",
+    "provider": "web",
+    "arguments": [
+      "https://www.oakridger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oakridger.com",
+    "year": "Tennessee",
+    "genre": "Oak Ridge",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Post-Athenian",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailypostathenian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dpa.thepostathenian.com",
+    "year": "Tennessee",
+    "genre": "Athens",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chattanooga Times Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesfreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesfreepress.com",
+    "year": "Tennessee",
+    "genre": "Chattanooga",
+    "rating": "Top Daily"
+  },
+  {
+    "title": "Knoxville News Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.knoxvillenewssentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knoxnews.com",
+    "year": "Tennessee",
+    "genre": "Knoxville",
+    "rating": "East TN Flagship Daily"
+  },
+  {
+    "title": "Herald-Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald-citizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald-citizen.com",
+    "year": "Tennessee",
+    "genre": "Cookeville",
+    "rating": "Daily",
+    "rssUrl": "http://www.herald-citizen.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Dyersburg State Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.stategazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stategazette.com",
+    "year": "Tennessee",
+    "genre": "Dyersburg",
+    "rating": "Daily",
+    "rssUrl": "http://www.stategazette.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailytimes.com",
+    "year": "Tennessee",
+    "genre": "Maryville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cleveland Daily Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.clevelandbanner.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clevelandbanner.com",
+    "year": "Tennessee",
+    "genre": "Cleveland",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Lebanon Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.lebanondemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lebanondemocrat.com",
+    "year": "Tennessee",
+    "genre": "Lebanon",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bristol Herald Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldcourier.com",
+    "year": "Tennessee",
+    "genre": "Bristol",
+    "rating": "Tri-Cities Daily"
+  },
+  {
+    "title": "The Greeneville Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.greenevillesun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenevillesun.com",
+    "year": "Tennessee",
+    "genre": "Greeneville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Johnson City Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.johnsoncitypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=johnsoncitypress.com",
+    "year": "Tennessee",
+    "genre": "Johnson City",
+    "rating": "Tri-Cities Daily"
+  },
+  {
+    "title": "Kingsport Times-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesnews.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesnews.net",
+    "year": "Tennessee",
+    "genre": "Kingsport",
+    "rating": "Tri-Cities Daily"
+  },
+  {
+    "title": "Morristown Citizen Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.citizentribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=citizentribune.com",
+    "year": "Tennessee",
+    "genre": "Morristown",
+    "rating": "Daily",
+    "rssUrl": "https://www.citizentribune.com/news/rss"
+  },
+  {
+    "title": "The Commercial Appeal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecommercialappeal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=commercialappeal.com",
+    "year": "Tennessee",
+    "genre": "Memphis",
+    "rating": "Mid-South Flagship Daily"
+  }
+]

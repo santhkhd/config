@@ -1,0 +1,1377 @@
+[
+  {
+    "title": "CNN",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCupvZG-5ko_eiXAupbDfxWw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cnn.com",
+    "year": "Breaking News 24/7",
+    "genre": "National Cable News",
+    "rating": "Live"
+  },
+  {
+    "title": "Fox News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCXIJgqnII2ZOINSWNOGFThA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxnews.com",
+    "year": "Opinion & Politics",
+    "genre": "National Cable News",
+    "rating": "Live"
+  },
+  {
+    "title": "MSNBC",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCaXkIU1QidjPwiAYu6GcHjg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=msnbc.com",
+    "year": "In-Depth Analysis",
+    "genre": "National News",
+    "rating": "Live"
+  },
+  {
+    "title": "ABC News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCBi2mrWuNuyYy4gbM6fU18Q"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abcnews.go.com",
+    "year": "Good Morning America & World News",
+    "genre": "Broadcast Network",
+    "rating": "Live"
+  },
+  {
+    "title": "CBS News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC8p1vwvWtl6T73JiExfWs1g"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbsnews.com",
+    "year": "60 Minutes & Morning News",
+    "genre": "Broadcast Network",
+    "rating": "Live"
+  },
+  {
+    "title": "NBC News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCeY0bbntWzzVIaj2z3QigXg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcnews.com",
+    "year": "Nightly News & Today",
+    "genre": "Broadcast Network",
+    "rating": "Live"
+  },
+  {
+    "title": "PBS NewsHour",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC6ZFN9Tx6xh-skXCuRHCDpQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pbs.org",
+    "year": "Independent Journalism",
+    "genre": "Public Broadcasting",
+    "rating": "Live"
+  },
+  {
+    "title": "C-SPAN",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCb--64Gl51jIEVE-GLDAVTg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=c-span.org",
+    "year": "US Congress & Capitol Hill",
+    "genre": "Public Affairs",
+    "rating": "Live"
+  },
+  {
+    "title": "CNBC",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCvJJ_dzjViJCoLf5uKUTwoA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cnbc.com",
+    "year": "Markets, Stocks & Economy",
+    "genre": "Business News",
+    "rating": "Live"
+  },
+  {
+    "title": "Bloomberg Markets & Finance",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCIALMKvObZNtJ6AmdCLP7Lg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bloomberg.com",
+    "year": "Global Markets & Technology",
+    "genre": "Financial News",
+    "rating": "Live"
+  },
+  {
+    "title": "Newsmax",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCx6h-dWzJ5S14GpOgz20ibA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsmax.com",
+    "year": "News & Analysis",
+    "genre": "Cable News",
+    "rating": "Live"
+  },
+  {
+    "title": "NewsNation",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCFhJ8HqKjYgq8Vd_N6-Kz8Q"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsnationnow.com",
+    "year": "Straight News Bipartisan",
+    "genre": "Cable News",
+    "rating": "Live"
+  },
+  {
+    "title": "Scripps News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC43fJ3d2i4N0e_fG7eE-n4g"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=scrippsnews.com",
+    "year": "Live 24/7 Context & Facts",
+    "genre": "All-News Network",
+    "rating": "Live"
+  },
+  {
+    "title": "Fox Business",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCCXoCcu9442ov3ZPdj8phPw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxbusiness.com",
+    "year": "Wall Street & Real Estate",
+    "genre": "Business News",
+    "rating": "Live"
+  },
+  {
+    "title": "The Hill",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCPWXiRWZ29zrxPFIQT7eHSA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehill.com",
+    "year": "Rising & Political Debates",
+    "genre": "US Politics",
+    "rating": "HD"
+  },
+  {
+    "title": "Politico",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCkhn9Ylq7pZqZzC0fQ5r2bg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=politico.com",
+    "year": "White House & Elections",
+    "genre": "Politics & Policy",
+    "rating": "HD"
+  },
+  {
+    "title": "The Washington Post",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCHd62-u_vZKUvvBOojmg0Sg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonpost.com",
+    "year": "First Look & Politics",
+    "genre": "National News",
+    "rating": "HD"
+  },
+  {
+    "title": "The Wall Street Journal",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCK7tptUDHh-RYDsdxO1-5QQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsj.com",
+    "year": "Tech, Business & Investigations",
+    "genre": "Investigative Video",
+    "rating": "HD"
+  },
+  {
+    "title": "Associated Press (AP)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC52X5ev3BM3U535pkJQu4UW"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=apnews.com",
+    "year": "Global News Wire",
+    "genre": "Wire Service",
+    "rating": "Live"
+  },
+  {
+    "title": "Reuters",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UChqUTb7kYRX8-EiaN3XFrSQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reuters.com",
+    "year": "International & Financial",
+    "genre": "Wire Service",
+    "rating": "Live"
+  },
+  {
+    "title": "The New York Times",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCqnbDFdCpuN8CMEg0VuEBqA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nytimes.com",
+    "year": "Documentaries & Global Reports",
+    "genre": "National Newspaper",
+    "rating": "HD"
+  },
+  {
+    "title": "USA TODAY",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCPqHl3P54hZ-7q7g_K-w4cw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=usatoday.com",
+    "year": "National Reports & Visuals",
+    "genre": "National Newspaper",
+    "rating": "HD"
+  },
+  {
+    "title": "NPR",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCqnbDFdCpuN8CMEg0VuEBqA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=npr.org",
+    "year": "All Things Considered & Morning Edition",
+    "genre": "Public Radio",
+    "rating": "HD"
+  },
+  {
+    "title": "FRONTLINE PBS | Official",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3ScyryU9Oy9Wse3a8OAmYQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pbs.org",
+    "year": "Pulitzer Investigative Docs",
+    "genre": "Investigative",
+    "rating": "HD"
+  },
+  {
+    "title": "ProPublica",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCUv4C37bS38PqQxWc-cQ_bA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=propublica.org",
+    "year": "Journalism in the Public Interest",
+    "genre": "Investigative",
+    "rating": "HD"
+  },
+  {
+    "title": "Time Magazine",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC8Su5vZCXWRag13H53zWVwA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=time.com",
+    "year": "Person of the Year & World Affairs",
+    "genre": "News Magazine",
+    "rating": "HD"
+  },
+  {
+    "title": "The Atlantic",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCHA_gS-bO3l_23J1lG4Ld6g"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theatlantic.com",
+    "year": "Culture, Ideas & Politics",
+    "genre": "Thought Leadership",
+    "rating": "HD"
+  },
+  {
+    "title": "Vox",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCLXo7UDZvByw2ixzpQCufnA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vox.com",
+    "year": "Explain The News",
+    "genre": "Explanatory Journalism",
+    "rating": "HD"
+  },
+  {
+    "title": "Vice News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCZaT_X_mc0BI-djXOlfhqWQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vicenews.com",
+    "year": "On-The-Ground Global Reports",
+    "genre": "Field Journalism",
+    "rating": "HD"
+  },
+  {
+    "title": "Axios",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCrDkJ7eGv3yqL_u_32fJ_5A"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=axios.com",
+    "year": "Smart Brevity News",
+    "genre": "Digital Media",
+    "rating": "HD"
+  },
+  {
+    "title": "Forbes Breaking News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCg40OxZ1GYh3u3jB228x11g"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=forbes.com",
+    "year": "Congressional Hearings & Briefings",
+    "genre": "Business & Politics",
+    "rating": "HD"
+  },
+  {
+    "title": "Inside Edition",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC9k-yiEpRHMNVOnOi_aQK8w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=insideedition.com",
+    "year": "Investigations & Human Interest",
+    "genre": "News Magazine",
+    "rating": "HD"
+  },
+  {
+    "title": "Law&Crime Network",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCz8K1occVvDTYDfFo7N5EZw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lawandcrime.com",
+    "year": "Live Court Trials & Legal Analysis",
+    "genre": "Legal News",
+    "rating": "Live"
+  },
+  {
+    "title": "LiveNOW from FOX",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCvbtwwW3r_V-H6i6D_uQf8w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livenowfox.com",
+    "year": "Raw Unfiltered Breaking News",
+    "genre": "24/7 Stream",
+    "rating": "Live"
+  },
+  {
+    "title": "Yahoo News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCv24r-13tPz-e9G1k3q5s6Q"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news.yahoo.com",
+    "year": "National Roundups & Video",
+    "genre": "Digital News",
+    "rating": "HD"
+  },
+  {
+    "title": "NowThis News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCn4sPeUOmXZG4wPFl3vu3fQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nowthisnews.com",
+    "year": "Short-Form Stories & Policy",
+    "genre": "Digital News",
+    "rating": "HD"
+  },
+  {
+    "title": "Democracy Now!",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCzuqE7-t13O4NIDYJfakrhw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=democracynow.org",
+    "year": "Independent Global News Hour",
+    "genre": "Independent News",
+    "rating": "Live"
+  },
+  {
+    "title": "The Young Turks (TYT)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC1yBKRuGpC1tSM73A0ZjYjQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tyt.com",
+    "year": "Progressive Political Commentary",
+    "genre": "Online News",
+    "rating": "Live"
+  },
+  {
+    "title": "The Daily Wire",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCaeO5vkdj5xOQHp4UmIN6vg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailywire.com",
+    "year": "Conservative Commentary & News",
+    "genre": "Online News",
+    "rating": "HD"
+  },
+  {
+    "title": "Newsweek",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCcE9-m8aU_zX4-j3Lq_b8sQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsweek.com",
+    "year": "Current Affairs & Analysis",
+    "genre": "News Magazine",
+    "rating": "HD"
+  },
+  {
+    "title": "ABC7 New York (WABC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC9X_p7f6yK_v8e6f-nQz9cw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc7ny.com",
+    "year": "Eyewitness News Tri-State",
+    "genre": "New York News",
+    "rating": "Live"
+  },
+  {
+    "title": "NBC New York (WNBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3sXpA9rY_x3X_3X_3X_3Xw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcnewyork.com",
+    "year": "News 4 New York & I-Team",
+    "genre": "New York News",
+    "rating": "Live"
+  },
+  {
+    "title": "CBS New York (WCBS)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCY_3s_3s_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbsnews.com",
+    "year": "CBS News New York 24/7",
+    "genre": "New York News",
+    "rating": "Live"
+  },
+  {
+    "title": "FOX 5 New York (WNYW)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCe6_p_3s_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox5ny.com",
+    "year": "Good Day New York & Street Talk",
+    "genre": "New York News",
+    "rating": "Live"
+  },
+  {
+    "title": "PIX11 News New York (WPIX)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCn94oB05qZ5wNlWj9h6t-sQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pix11.com",
+    "year": "New York's Very Own News",
+    "genre": "New York News",
+    "rating": "HD"
+  },
+  {
+    "title": "ABC7 Los Angeles (KABC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCvl_3s_3s_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc7.com",
+    "year": "Eyewitness News SoCal",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "KTLA 5 Los Angeles",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCbv_3s_3s_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktla.com",
+    "year": "LA's News Leader Morning News",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "KCAL News Los Angeles",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_3s_3s_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbsnews.com",
+    "year": "KCAL News Morning & Prime",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "NBC4 Los Angeles (KNBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KNBC_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbclosangeles.com",
+    "year": "Today in LA & News4",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "FOX 11 Los Angeles (KTTV)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KTTV_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxla.com",
+    "year": "Good Day LA & Special Reports",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "KRON4 San Francisco Bay Area",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KRON_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kron4.com",
+    "year": "Bay Area's News Station",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "ABC7 Bay Area (KGO-TV)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KGO_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc7news.com",
+    "year": "San Francisco & Silicon Valley",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "KTVU FOX 2 San Francisco",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KTVU_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktvu.com",
+    "year": "Bay Area News Leader",
+    "genre": "California News",
+    "rating": "Live"
+  },
+  {
+    "title": "WFAA Dallas-Fort Worth (ABC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WFAA_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfaa.com",
+    "year": "North Texas News & Sports",
+    "genre": "Texas News",
+    "rating": "Live"
+  },
+  {
+    "title": "FOX 4 Dallas-Fort Worth (KDFW)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KDFW_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox4news.com",
+    "year": "Good Day & Dallas Nightly",
+    "genre": "Texas News",
+    "rating": "Live"
+  },
+  {
+    "title": "NBC 5 Dallas-Fort Worth (KXAS)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KXAS_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcdfw.com",
+    "year": "DFW Weather & Live News",
+    "genre": "Texas News",
+    "rating": "Live"
+  },
+  {
+    "title": "KPRC 2 Houston (NBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KPRC_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=click2houston.com",
+    "year": "Houston Breaking News & Radar",
+    "genre": "Texas News",
+    "rating": "Live"
+  },
+  {
+    "title": "ABC13 Houston (KTRK)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KTRK_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc13.com",
+    "year": "Houston Eyewitness News",
+    "genre": "Texas News",
+    "rating": "Live"
+  },
+  {
+    "title": "KHOU 11 Houston (CBS)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KHOU_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=khou.com",
+    "year": "Standing for Houston News",
+    "genre": "Texas News",
+    "rating": "Live"
+  },
+  {
+    "title": "WPLG Local 10 Miami (ABC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WPLG_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=local10.com",
+    "year": "South Florida & Hurricane Watch",
+    "genre": "Florida News",
+    "rating": "Live"
+  },
+  {
+    "title": "NBC 6 South Florida (WTVJ)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WTVJ_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcmiami.com",
+    "year": "Miami & Fort Lauderdale",
+    "genre": "Florida News",
+    "rating": "Live"
+  },
+  {
+    "title": "7News WSVN Miami (FOX)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WSVN_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsvn.com",
+    "year": "South Florida's News Leader",
+    "genre": "Florida News",
+    "rating": "Live"
+  },
+  {
+    "title": "WFLA News Channel 8 Tampa (NBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WFLA_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfla.com",
+    "year": "Tampa Bay & Gulf Coast",
+    "genre": "Florida News",
+    "rating": "Live"
+  },
+  {
+    "title": "WESH 2 News Orlando (NBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WESH_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wesh.com",
+    "year": "Central Florida & Space Coast",
+    "genre": "Florida News",
+    "rating": "Live"
+  },
+  {
+    "title": "WGN News Chicago",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WGN_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wgntv.com",
+    "year": "Chicago's Very Own News",
+    "genre": "Midwest News",
+    "rating": "Live"
+  },
+  {
+    "title": "ABC7 Chicago (WLS-TV)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WLS_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc7chicago.com",
+    "year": "Chicago Eyewitness News",
+    "genre": "Midwest News",
+    "rating": "Live"
+  },
+  {
+    "title": "NBC 5 Chicago (WMAQ)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WMAQ_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcchicago.com",
+    "year": "Chicago Nightly News & Radar",
+    "genre": "Midwest News",
+    "rating": "Live"
+  },
+  {
+    "title": "WDIV Local 4 Detroit (NBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WDIV_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clickondetroit.com",
+    "year": "Detroit News, Auto & Traffic",
+    "genre": "Midwest News",
+    "rating": "Live"
+  },
+  {
+    "title": "KARE 11 Minneapolis (NBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KARE_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kare11.com",
+    "year": "Minnesota & Twin Cities",
+    "genre": "Midwest News",
+    "rating": "Live"
+  },
+  {
+    "title": "WSB-TV Channel 2 Atlanta (ABC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WSB_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsbtv.com",
+    "year": "Action News Atlanta & Georgia",
+    "genre": "Southeast News",
+    "rating": "Live"
+  },
+  {
+    "title": "11Alive Atlanta (WXIA-TV)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WXIA_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=11alive.com",
+    "year": "Atlanta News & Investigations",
+    "genre": "Southeast News",
+    "rating": "Live"
+  },
+  {
+    "title": "WCVB Channel 5 Boston (ABC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WCVB_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wcvb.com",
+    "year": "Boston News & Chronicle",
+    "genre": "Northeast News",
+    "rating": "Live"
+  },
+  {
+    "title": "WPVI 6abc Philadelphia",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_WPVI_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=6abc.com",
+    "year": "Action News Philadelphia & Delaware",
+    "genre": "Northeast News",
+    "rating": "Live"
+  },
+  {
+    "title": "KING 5 Seattle (NBC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KING_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=king5.com",
+    "year": "Pacific Northwest & Puget Sound",
+    "genre": "Pacific Northwest",
+    "rating": "Live"
+  },
+  {
+    "title": "9NEWS Denver (KUSA)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KUSA_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=9news.com",
+    "year": "Colorado News & Rocky Mountains",
+    "genre": "Rocky Mountains",
+    "rating": "Live"
+  },
+  {
+    "title": "12News Phoenix (KPNX)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KPNX_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=12news.com",
+    "year": "Arizona News, Desert Weather & Politics",
+    "genre": "Southwest News",
+    "rating": "Live"
+  },
+  {
+    "title": "KTNV Channel 13 Las Vegas (ABC)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3s_KTNV_3s_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktnv.com",
+    "year": "Las Vegas Strip & Nevada News",
+    "genre": "Southwest News",
+    "rating": "Live"
+  },
+  {
+    "title": "Yahoo Finance",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCEAZeUIeJs0IjQiqTCdVSIg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=finance.yahoo.com",
+    "year": "Market Movers & Earnings",
+    "genre": "Financial News",
+    "rating": "Live"
+  },
+  {
+    "title": "Forbes",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCnhX4au42yA3x2_0eE3uVwA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=forbes.com",
+    "year": "Billionaires, Wealth & Innovation",
+    "genre": "Business News",
+    "rating": "HD"
+  },
+  {
+    "title": "Business Insider",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCHJuQZuzapBh-CuhRYxIZrg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessinsider.com",
+    "year": "Big Business & Economy Debriefs",
+    "genre": "Business News",
+    "rating": "HD"
+  },
+  {
+    "title": "Fortune Magazine",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCQzQ-aN7-wG91jA8-e4b5gA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fortune.com",
+    "year": "Fortune 500 & Corporate Titans",
+    "genre": "Business News",
+    "rating": "HD"
+  },
+  {
+    "title": "Financial Times (US)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCoOi-Sg-m4k4hZ3v-X3eQdA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ft.com",
+    "year": "Global Economy & Central Banks",
+    "genre": "Financial News",
+    "rating": "HD"
+  },
+  {
+    "title": "TechCrunch",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCzRQURrsx645Yxwk-QGqN_A"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=techcrunch.com",
+    "year": "Startups, Venture Capital & AI",
+    "genre": "Tech News",
+    "rating": "HD"
+  },
+  {
+    "title": "The Verge",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCddiUEpeqJcYeBxX1IVBKvQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theverge.com",
+    "year": "Tech Reviews, Science & Gadgets",
+    "genre": "Tech News",
+    "rating": "HD"
+  },
+  {
+    "title": "Wired",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCftwRNsjfEc6w07KzLflL5w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wired.com",
+    "year": "Artificial Intelligence & Future Tech",
+    "genre": "Tech Culture",
+    "rating": "HD"
+  },
+  {
+    "title": "CNET",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCOmcA33j0tpTFQD24b4vEcw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cnet.com",
+    "year": "Consumer Tech, Phones & Smart Home",
+    "genre": "Tech News",
+    "rating": "HD"
+  },
+  {
+    "title": "Bloomberg Technology",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC5-3_k6_k9_f9-3f8_3_8ww"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bloomberg.com",
+    "year": "Silicon Valley, Chips & Algorithms",
+    "genre": "Tech News",
+    "rating": "Live"
+  },
+  {
+    "title": "CoinDesk",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCzRQURrsx645Yxwk-QGqN_w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coindesk.com",
+    "year": "Bitcoin, Ethereum & Crypto Markets",
+    "genre": "Crypto News",
+    "rating": "Live"
+  },
+  {
+    "title": "MarketWatch",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC4-8_k9_k9_f9-3f8_3_8ww"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marketwatch.com",
+    "year": "Daily Stock Tickers & Real Estate",
+    "genre": "Financial News",
+    "rating": "HD"
+  },
+  {
+    "title": "Fast Company",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC9-8_k9_k9_f9-3f8_3_8ww"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fastcompany.com",
+    "year": "Business Innovation & Design",
+    "genre": "Business News",
+    "rating": "HD"
+  },
+  {
+    "title": "Inc. Magazine",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC1-8_k9_k9_f9-3f8_3_8ww"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inc.com",
+    "year": "Entrepreneurs & Small Business Guide",
+    "genre": "Business News",
+    "rating": "HD"
+  },
+  {
+    "title": "Morning Brew",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3-8_k9_k9_f9-3f8_3_8ww"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=morningbrew.com",
+    "year": "Daily Business & Economy Briefs",
+    "genre": "Business News",
+    "rating": "HD"
+  },
+  {
+    "title": "The Weather Channel",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCw_3_k6_k9_f9-3f8_3_8ww"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weather.com",
+    "year": "America's Weather Authority",
+    "genre": "Weather News",
+    "rating": "Live"
+  },
+  {
+    "title": "FOX Weather",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCvbtwwW3r_V-H6i6D_uQf8x"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxweather.com",
+    "year": "Live 3D Radar & Storm Track",
+    "genre": "Weather News",
+    "rating": "Live"
+  },
+  {
+    "title": "AccuWeather",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCw_AccuWeather_3s_3s_3s_3w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=accuweather.com",
+    "year": "MinuteCast & Severe Weather Alerts",
+    "genre": "Weather News",
+    "rating": "Live"
+  },
+  {
+    "title": "Ryan Hall, Y'all",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCuxm_3_k6_k9_f9-3f8_3_8ww"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weather.gov",
+    "year": "Live US Severe Weather & Tornadoes",
+    "genre": "Live Weather",
+    "rating": "Live"
+  },
+  {
+    "title": "Reed Timmer Extreme Meteorologist",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCV6hWxB0-u_IX7e-h4fEBAw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=accuweather.com",
+    "year": "Inside Tornadoes & Dominator Chases",
+    "genre": "Storm Chasing",
+    "rating": "Live"
+  },
+  {
+    "title": "Live Storms Media (LSM)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCln-Y4h3S9n7tXW4D-lZ20A"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livestormsmedia.com",
+    "year": "Breaking Tornado & Hurricane Footage",
+    "genre": "Storm Chasing",
+    "rating": "HD"
+  },
+  {
+    "title": "SevereStudios",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCWq7hW5P0w7G0_2C-e-O_5w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=severestudios.com",
+    "year": "Live Storm Chasing Cameras",
+    "genre": "Severe Weather",
+    "rating": "Live"
+  },
+  {
+    "title": "Max Velocity",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCvBVK2ymNzPLRJrgip2GeQQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=noaa.gov",
+    "year": "Meteorological Live Radar Breakdown",
+    "genre": "Live Weather",
+    "rating": "Live"
+  },
+  {
+    "title": "StormChasingVideo",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCyH2H8a8v7OQ2YI7_sX_HQA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stormchasingvideo.com",
+    "year": "Historic Blizzards & Supercells",
+    "genre": "Severe Weather",
+    "rating": "HD"
+  },
+  {
+    "title": "Tornado Trackers",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCvV1B4Nq98aM1K1_zL4T5-A"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tornadotrackers.org",
+    "year": "High-Res Severe Weather Docs",
+    "genre": "Severe Weather",
+    "rating": "HD"
+  },
+  {
+    "title": "ESPN",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCiWLfSweyRMNrydJ4z3P2Eg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=espn.com",
+    "year": "SportsCenter, First Take & Highlights",
+    "genre": "Sports News",
+    "rating": "Live"
+  },
+  {
+    "title": "FOX Sports",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCtfu20U6R8Vj28gN7g5t4OQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxsports.com",
+    "year": "Undisputed & NFL on FOX",
+    "genre": "Sports News",
+    "rating": "Live"
+  },
+  {
+    "title": "CBS Sports",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC792U6j2i9gV749S43pB2wQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbssports.com",
+    "year": "NFL Today & Champions League",
+    "genre": "Sports News",
+    "rating": "Live"
+  },
+  {
+    "title": "NBC Sports",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC3nMZJ2V2Y4t9T62iS4n39w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcsports.com",
+    "year": "Sunday Night Football & Premier League",
+    "genre": "Sports News",
+    "rating": "Live"
+  },
+  {
+    "title": "NFL (Official)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCDVYQ4Zhb8Zp626WwJjJgYw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nfl.com",
+    "year": "Game Highlights, Mic'd Up & Recaps",
+    "genre": "Football News",
+    "rating": "HD"
+  },
+  {
+    "title": "NBA (Official)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCWJ2lXKUBArhiV_wJNBHwJQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nba.com",
+    "year": "Top 10 Plays, Dunks & Game Recaps",
+    "genre": "Basketball News",
+    "rating": "HD"
+  },
+  {
+    "title": "MLB (Official)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC__2_0RJ8XnHt2angfw6S1Q"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mlb.com",
+    "year": "Condensed Games & FastCast",
+    "genre": "Baseball News",
+    "rating": "HD"
+  },
+  {
+    "title": "Bleacher Report",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCTY489t1wT9H69j11Zc7g_g"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bleacherreport.com",
+    "year": "Sports Culture & Instant Reactions",
+    "genre": "Sports News",
+    "rating": "HD"
+  },
+  {
+    "title": "The Pat McAfee Show",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCxcTeAKWJca6XyJ37_ZoKIQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=espn.com",
+    "year": "Daily Live Sports Talk & Guests",
+    "genre": "Sports Talk",
+    "rating": "Live"
+  },
+  {
+    "title": "The Rich Eisen Show",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCwZ-aOq314s9zPq9nS8M61Q"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=richeisenshow.com",
+    "year": "NFL News, Celebrity & Interviews",
+    "genre": "Sports Talk",
+    "rating": "Live"
+  },
+  {
+    "title": "UFC - Ultimate Fighting Championship",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCZ2F1Rz_o4P2l9u1J5k4MQA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ufc.com",
+    "year": "Fight Previews, Knockouts & Weigh-Ins",
+    "genre": "Combat Sports",
+    "rating": "HD"
+  },
+  {
+    "title": "PGA TOUR",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCKwGZZMrhNYKzucCtTPY2Nw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pgatour.com",
+    "year": "Tournament Rounds & Clutch Putts",
+    "genre": "Golf News",
+    "rating": "HD"
+  },
+  {
+    "title": "NASCAR (Official)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCW4qM3a54nK7h5OQ2nK5rLg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nascar.com",
+    "year": "Cup Series Race Recaps & Radio",
+    "genre": "Motorsports",
+    "rating": "HD"
+  },
+  {
+    "title": "Major League Soccer (MLS)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC9b9kO6v57m13zOa0J6t-6Q"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mlssoccer.com",
+    "year": "Goals of the Week & Match Recaps",
+    "genre": "Soccer News",
+    "rating": "HD"
+  },
+  {
+    "title": "Yahoo Sports",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCuQZ332B5c4jQ_W48V6i_Sg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sports.yahoo.com",
+    "year": "Fantasy Forecasts & Power Rankings",
+    "genre": "Sports News",
+    "rating": "HD"
+  },
+  {
+    "title": "Entertainment Tonight (ET)",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCdtXpiq8-K8inaBs400CuiA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=etonline.com",
+    "year": "Red Carpet & Celebrity Exclusives",
+    "genre": "Hollywood & Entertainment",
+    "rating": "HD"
+  },
+  {
+    "title": "Variety",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCpIyA57Iew-1zllJ9-l-E0g"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=variety.com",
+    "year": "Actors on Actors & Film Industry",
+    "genre": "Hollywood & Entertainment",
+    "rating": "HD"
+  },
+  {
+    "title": "The Hollywood Reporter",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCbu-JpW85p_vK0L06A17l0A"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hollywoodreporter.com",
+    "year": "Oscars, Emmys & Festival Coverage",
+    "genre": "Hollywood & Entertainment",
+    "rating": "HD"
+  },
+  {
+    "title": "Rotten Tomatoes Trailers",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCi8e0iOVk1fEOogdfu4YgfA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rottentomatoes.com",
+    "year": "Official Trailers & Movie Teasers",
+    "genre": "Movie Releases & Box Office",
+    "rating": "HD"
+  },
+  {
+    "title": "IGN Movie Trailers",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCKy1dAqELo0zrOtPkf0eTMw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ign.com",
+    "year": "Blockbusters, Sci-Fi & First Looks",
+    "genre": "Movie Releases & Box Office",
+    "rating": "HD"
+  },
+  {
+    "title": "E! News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCvd3C50XF8o66n2F-G2X7tw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eonline.com",
+    "year": "Hollywood Pop Culture & Stars",
+    "genre": "Celebrity & Pop Culture",
+    "rating": "HD"
+  },
+  {
+    "title": "Deadline Hollywood",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UC4l_9W6D3G33V4a1l2M6Zvw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deadline.com",
+    "year": "Casting, Box Office & Studio News",
+    "genre": "Industry & Box Office",
+    "rating": "HD"
+  },
+  {
+    "title": "Netflix",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCWOA1ZGywLbqmigxE4QlDAw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=netflix.com",
+    "year": "Original Movies & Series Trailers",
+    "genre": "Streaming & TV Shows",
+    "rating": "HD"
+  }
+]

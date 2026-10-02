@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Las Vegas Review-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.reviewjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reviewjournal.com",
+    "year": "Nevada",
+    "genre": "Las Vegas",
+    "rating": "State Flagship Daily",
+    "rssUrl": "https://www.reviewjournal.com/feed/"
+  },
+  {
+    "title": "Las Vegas Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.lasvegassun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lasvegassun.com",
+    "year": "Nevada",
+    "genre": "Las Vegas",
+    "rating": "Pulitzer Prize Winning Daily",
+    "rssUrl": "https://www.lasvegassun.com/feeds/headlines/all/"
+  },
+  {
+    "title": "Pahrump Valley Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.pvtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pvtimes.com",
+    "year": "Nevada",
+    "genre": "Pahrump",
+    "rating": "Nye County Semi-Weekly",
+    "rssUrl": "https://pvtimes.com/feed/"
+  },
+  {
+    "title": "The Record-Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.recordcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recordcourier.com",
+    "year": "Nevada",
+    "genre": "Gardnerville / Minden",
+    "rating": "Carson Valley Daily"
+  },
+  {
+    "title": "Boulder City Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.bouldercityreview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bouldercityreview.com",
+    "year": "Nevada",
+    "genre": "Boulder City",
+    "rating": "Weekly",
+    "rssUrl": "https://bouldercityreview.com/feed/"
+  },
+  {
+    "title": "Lahontan Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://www.nevadaappeal.com/lvn"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nevadaappeal.com",
+    "year": "Nevada",
+    "genre": "Fallon",
+    "rating": "Churchill County"
+  },
+  {
+    "title": "Nevada Appeal",
+    "provider": "web",
+    "arguments": [
+      "https://www.nevadaappeal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nevadaappeal.com",
+    "year": "Nevada",
+    "genre": "Carson City",
+    "rating": "State Capital Daily"
+  },
+  {
+    "title": "Henderson RoundUp",
+    "provider": "web",
+    "arguments": [
+      "https://www.reviewjournal.com/local/henderson"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reviewjournal.com",
+    "year": "Nevada",
+    "genre": "Henderson",
+    "rating": "Weekly",
+    "rssUrl": "https://www.reviewjournal.com/feed/"
+  },
+  {
+    "title": "The Ely Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.elynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elynews.com",
+    "year": "Nevada",
+    "genre": "Ely",
+    "rating": "White Pine Weekly",
+    "rssUrl": "https://elynews.com/feed/"
+  },
+  {
+    "title": "Elko Daily Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.elkodaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elkodaily.com",
+    "year": "Nevada",
+    "genre": "Elko",
+    "rating": "Northeast NV Daily"
+  },
+  {
+    "title": "Reno Gazette-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.renogazettejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rgj.com",
+    "year": "Nevada",
+    "genre": "Reno",
+    "rating": "Northern NV Flagship Daily"
+  },
+  {
+    "title": "Humboldt Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.humboldtsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=humboldtsun.com",
+    "year": "Nevada",
+    "genre": "Winnemucca",
+    "rating": "Semi-Weekly"
+  }
+]

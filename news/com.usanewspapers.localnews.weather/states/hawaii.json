@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Honolulu Star-Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.staradvertiser.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=staradvertiser.com",
+    "year": "Hawaii",
+    "genre": "Honolulu",
+    "rating": "State Flagship Daily",
+    "rssUrl": "https://www.staradvertiser.com/feed/"
+  },
+  {
+    "title": "MidWeek",
+    "provider": "web",
+    "arguments": [
+      "https://www.midweek.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=midweek.com",
+    "year": "Hawaii",
+    "genre": "Oahu",
+    "rating": "Weekly Magazine",
+    "rssUrl": "https://www.midweek.com/feed/"
+  },
+  {
+    "title": "West Hawaii Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.westhawaiitoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westhawaiitoday.com",
+    "year": "Hawaii",
+    "genre": "Kailua-Kona",
+    "rating": "Big Island West Daily",
+    "rssUrl": "https://www.westhawaiitoday.com/feed"
+  },
+  {
+    "title": "Hawaii Tribune-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.hawaiitribune-herald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hawaiitribune-herald.com",
+    "year": "Hawaii",
+    "genre": "Hilo",
+    "rating": "Big Island East Daily",
+    "rssUrl": "https://www.hawaiitribune-herald.com/feed"
+  },
+  {
+    "title": "The Maui News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mauinews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mauinews.com",
+    "year": "Hawaii",
+    "genre": "Wailuku / Maui",
+    "rating": "Maui County Daily",
+    "rssUrl": "https://www.mauinews.com/feed"
+  },
+  {
+    "title": "Civil Beat",
+    "provider": "web",
+    "arguments": [
+      "https://www.civilbeat.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=civilbeat.org",
+    "year": "Hawaii",
+    "genre": "Honolulu",
+    "rating": "Investigative Daily",
+    "rssUrl": "https://www.civilbeat.org/feed/"
+  },
+  {
+    "title": "The Garden Island",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegardenisland.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegardenisland.com",
+    "year": "Hawaii",
+    "genre": "Lihue / Kauai",
+    "rating": "Kauai County Daily",
+    "rssUrl": "https://www.thegardenisland.com/feed"
+  },
+  {
+    "title": "Ka Leo O Hawaii",
+    "provider": "web",
+    "arguments": [
+      "https://www.kaleo.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kaleo.org",
+    "year": "Hawaii",
+    "genre": "Manoa",
+    "rating": "University of Hawaii",
+    "rssUrl": "http://www.kaleo.org/search/?f=rss&amp;t=article&amp;c=kaleo&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "Lahaina News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lahainanews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lahainanews.com",
+    "year": "Hawaii",
+    "genre": "Lahaina",
+    "rating": "Maui Weekly"
+  },
+  {
+    "title": "Molokai Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.themolokaidispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themolokaidispatch.com",
+    "year": "Hawaii",
+    "genre": "Kaunakakai",
+    "rating": "Weekly"
+  }
+]

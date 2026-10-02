@@ -1,0 +1,340 @@
+[
+  {
+    "title": "Asheville Citizen-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.ashevillecitizentimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=citizen-times.com",
+    "year": "North Carolina",
+    "genre": "Asheville",
+    "rating": "Western NC Flagship Daily"
+  },
+  {
+    "title": "The Fayetteville Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.fayobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fayobserver.com",
+    "year": "North Carolina",
+    "genre": "Fayetteville",
+    "rating": "Sandhills Region Daily"
+  },
+  {
+    "title": "Salisbury Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.salisburypost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salisburypost.com",
+    "year": "North Carolina",
+    "genre": "Salisbury",
+    "rating": "Daily",
+    "rssUrl": "https://www.salisburypost.com/feed"
+  },
+  {
+    "title": "The Gaston Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.gastongazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gastongazette.com",
+    "year": "North Carolina",
+    "genre": "Gastonia",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Shelby Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.shelbystar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shelbystar.com",
+    "year": "North Carolina",
+    "genre": "Shelby",
+    "rating": "Daily"
+  },
+  {
+    "title": "Statesville Record & Landmark",
+    "provider": "web",
+    "arguments": [
+      "https://www.statesvillerecordlandmark.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recordandlandmark.com",
+    "year": "North Carolina",
+    "genre": "Statesville",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedigitalcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedigitalcourier.com",
+    "year": "North Carolina",
+    "genre": "Forest City",
+    "rating": "Daily",
+    "rssUrl": "http://www.thedigitalcourier.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Courier-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.courier-tribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courier-tribune.com",
+    "year": "North Carolina",
+    "genre": "Asheboro",
+    "rating": "Daily",
+    "rssUrl": "http://www.courier-tribune.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The News & Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewsobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsobserver.com",
+    "year": "North Carolina",
+    "genre": "Raleigh",
+    "rating": "Research Triangle Flagship Daily"
+  },
+  {
+    "title": "Kinston Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.kinston.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kinston.com",
+    "year": "North Carolina",
+    "genre": "Kinston",
+    "rating": "Daily",
+    "rssUrl": "http://www.kinston.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Daily Advance",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyadvance.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyadvance.com",
+    "year": "North Carolina",
+    "genre": "Elizabeth City",
+    "rating": "Daily",
+    "rssUrl": "http://www.dailyadvance.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Wilson Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.wilsontimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wilsontimes.com",
+    "year": "North Carolina",
+    "genre": "Wilson",
+    "rating": "Daily",
+    "rssUrl": "https://www.wilsontimes.com/rss.xml"
+  },
+  {
+    "title": "The Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.jdnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jdnews.com",
+    "year": "North Carolina",
+    "genre": "Jacksonville",
+    "rating": "Camp Lejeune Region Daily"
+  },
+  {
+    "title": "High Point Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.hpenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hpenews.com",
+    "year": "North Carolina",
+    "genre": "High Point",
+    "rating": "Daily"
+  },
+  {
+    "title": "Winston-Salem Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalnow.com",
+    "year": "North Carolina",
+    "genre": "Winston-Salem",
+    "rating": "Piedmont Triad Daily"
+  },
+  {
+    "title": "The Daily Reflector",
+    "provider": "web",
+    "arguments": [
+      "https://www.reflector.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reflector.com",
+    "year": "North Carolina",
+    "genre": "Greenville",
+    "rating": "Eastern NC Daily"
+  },
+  {
+    "title": "The Sanford Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.sanfordherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanfordherald.com",
+    "year": "North Carolina",
+    "genre": "Sanford",
+    "rating": "Daily",
+    "rssUrl": "http://www.sanfordherald.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Times-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetimesnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetimesnews.com",
+    "year": "North Carolina",
+    "genre": "Burlington",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.the-dispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=the-dispatch.com",
+    "year": "North Carolina",
+    "genre": "Lexington",
+    "rating": "Daily"
+  },
+  {
+    "title": "Greensboro News & Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.greensboro.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greensboro.com",
+    "year": "North Carolina",
+    "genre": "Greensboro",
+    "rating": "Piedmont Triad Daily"
+  },
+  {
+    "title": "Henderson Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.hendersondispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hendersondispatch.com",
+    "year": "North Carolina",
+    "genre": "Henderson",
+    "rating": "Daily",
+    "rssUrl": "http://www.hendersondispatch.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Hickory Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.hickoryrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hickoryrecord.com",
+    "year": "North Carolina",
+    "genre": "Hickory",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.mydailyrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mydailyrecord.com",
+    "year": "North Carolina",
+    "genre": "Dunn",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Bern Sun Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.newbernsj.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newbernsj.com",
+    "year": "North Carolina",
+    "genre": "New Bern",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Mount Airy News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mtairynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mtairynews.com",
+    "year": "North Carolina",
+    "genre": "Mount Airy",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rocky Mount Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.rockymounttelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rockymounttelegram.com",
+    "year": "North Carolina",
+    "genre": "Rocky Mount",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Outer Banks Voice",
+    "provider": "web",
+    "arguments": [
+      "https://www.outerbanksvoice.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=outerbanksvoice.com",
+    "year": "North Carolina",
+    "genre": "Kill Devil Hills",
+    "rating": "Daily Online"
+  },
+  {
+    "title": "The Herald-Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.theheraldsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldsun.com",
+    "year": "North Carolina",
+    "genre": "Durham",
+    "rating": "Research Triangle Daily"
+  },
+  {
+    "title": "Star-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.starnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starnewsonline.com",
+    "year": "North Carolina",
+    "genre": "Wilmington",
+    "rating": "Cape Fear Region Daily"
+  },
+  {
+    "title": "The Charlotte Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecharlotteobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=charlotteobserver.com",
+    "year": "North Carolina",
+    "genre": "Charlotte",
+    "rating": "State Flagship Daily"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "title": "⚡ Breaking & Top Headlines",
+    "image": "https://img.icons8.com/color/96/news.png",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+    ]
+  },
+  {
+    "title": "🇺🇸 All 50 States Newspapers",
+    "image": "https://img.icons8.com/color/96/usa.png",
+    "provider": "overview",
+    "arguments": [
+      "usa_states_newspapers.json"
+    ]
+  },
+  {
+    "title": "🏛️ US National Daily Newspapers",
+    "image": "https://img.icons8.com/color/96/newspaper.png",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ]
+  },
+  {
+    "title": "📺 US News Channels (Live & Videos)",
+    "image": "https://img.icons8.com/color/96/retro-tv.png",
+    "provider": "overview",
+    "arguments": [
+      "news_channels.json"
+    ]
+  },
+  {
+    "title": "🏛️ US Politics & White House",
+    "image": "https://img.icons8.com/color/96/capitol.png",
+    "provider": "rss",
+    "arguments": [
+      "https://rss.politico.com/politics-news.xml"
+    ]
+  },
+  {
+    "title": "💼 Wall Street & Business",
+    "image": "https://img.icons8.com/color/96/bullish.png",
+    "provider": "rss",
+    "arguments": [
+      "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"
+    ]
+  },
+  {
+    "title": "📱 Technology & AI",
+    "image": "https://img.icons8.com/color/96/artificial-intelligence.png",
+    "provider": "rss",
+    "arguments": [
+      "https://www.theverge.com/rss/index.xml"
+    ]
+  },
+  {
+    "title": "🌎 World & Global Affairs",
+    "image": "https://img.icons8.com/color/96/globe.png",
+    "provider": "rss",
+    "arguments": [
+      "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    ]
+  },
+  {
+    "title": "⚽ Sports (NFL, NBA, MLB)",
+    "image": "https://img.icons8.com/color/96/american-football.png",
+    "provider": "rss",
+    "arguments": [
+      "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+    ]
+  },
+  {
+    "title": "🎬 Hollywood & Entertainment",
+    "image": "https://img.icons8.com/color/96/clapperboard.png",
+    "provider": "rss",
+    "arguments": [
+      "https://variety.com/feed/"
+    ]
+  },
+  {
+    "title": "🔬 Science & Space Exploration",
+    "image": "https://img.icons8.com/color/96/rocket.png",
+    "provider": "rss",
+    "arguments": [
+      "https://www.space.com/feeds/all"
+    ]
+  },
+  {
+    "title": "🏥 Health & Wellness",
+    "image": "https://img.icons8.com/color/96/caduceus.png",
+    "provider": "rss",
+    "arguments": [
+      "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+    ]
+  },
+  {
+    "title": "🎙️ 24/7 US News & Talk Radio",
+    "image": "https://img.icons8.com/color/96/radio-tower.png",
+    "provider": "radio",
+    "arguments": [
+      "news_radio.json"
+    ]
+  }
+]

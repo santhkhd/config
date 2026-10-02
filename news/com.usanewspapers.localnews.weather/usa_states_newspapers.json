@@ -1,0 +1,574 @@
+[
+  {
+    "title": "🇺🇸 All 50 States (All Newspapers)",
+    "provider": "overview",
+    "arguments": [
+      "states/all_states.json"
+    ],
+    "image": "https://img.icons8.com/color/144/usa.png",
+    "year": "50 States + DC",
+    "genre": "1009 Newspapers",
+    "rating": "All States"
+  },
+  {
+    "title": "🏛️ Alabama",
+    "provider": "overview",
+    "arguments": [
+      "states/alabama.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=al.com",
+    "year": "South",
+    "genre": "20 Newspapers",
+    "rating": "AL"
+  },
+  {
+    "title": "🏛️ Alaska",
+    "provider": "overview",
+    "arguments": [
+      "states/alaska.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=adn.com",
+    "year": "Pacific",
+    "genre": "16 Newspapers",
+    "rating": "AK"
+  },
+  {
+    "title": "🏛️ Arizona",
+    "provider": "overview",
+    "arguments": [
+      "states/arizona.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=azcentral.com",
+    "year": "Mountain West",
+    "genre": "18 Newspapers",
+    "rating": "AZ"
+  },
+  {
+    "title": "🏛️ Arkansas",
+    "provider": "overview",
+    "arguments": [
+      "states/arkansas.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arkansasonline.com",
+    "year": "South",
+    "genre": "16 Newspapers",
+    "rating": "AR"
+  },
+  {
+    "title": "🏛️ California",
+    "provider": "overview",
+    "arguments": [
+      "states/california.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=latimes.com",
+    "year": "Pacific",
+    "genre": "65 Newspapers",
+    "rating": "CA"
+  },
+  {
+    "title": "🏛️ Colorado",
+    "provider": "overview",
+    "arguments": [
+      "states/colorado.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=denverpost.com",
+    "year": "Mountain West",
+    "genre": "22 Newspapers",
+    "rating": "CO"
+  },
+  {
+    "title": "🏛️ Connecticut",
+    "provider": "overview",
+    "arguments": [
+      "states/connecticut.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courant.com",
+    "year": "Northeast",
+    "genre": "18 Newspapers",
+    "rating": "CT"
+  },
+  {
+    "title": "🏛️ Delaware",
+    "provider": "overview",
+    "arguments": [
+      "states/delaware.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delawareonline.com",
+    "year": "South",
+    "genre": "9 Newspapers",
+    "rating": "DE"
+  },
+  {
+    "title": "🏛️ District of Columbia",
+    "provider": "overview",
+    "arguments": [
+      "states/district_of_columbia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonpost.com",
+    "year": "Capital Region",
+    "genre": "11 Newspapers",
+    "rating": "DC"
+  },
+  {
+    "title": "🏛️ Florida",
+    "provider": "overview",
+    "arguments": [
+      "states/florida.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tampabay.com",
+    "year": "South",
+    "genre": "28 Newspapers",
+    "rating": "FL"
+  },
+  {
+    "title": "🏛️ Georgia",
+    "provider": "overview",
+    "arguments": [
+      "states/georgia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ajc.com",
+    "year": "South",
+    "genre": "20 Newspapers",
+    "rating": "GA"
+  },
+  {
+    "title": "🏛️ Hawaii",
+    "provider": "overview",
+    "arguments": [
+      "states/hawaii.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=staradvertiser.com",
+    "year": "Pacific",
+    "genre": "10 Newspapers",
+    "rating": "HI"
+  },
+  {
+    "title": "🏛️ Idaho",
+    "provider": "overview",
+    "arguments": [
+      "states/idaho.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idahostatesman.com",
+    "year": "Mountain West",
+    "genre": "12 Newspapers",
+    "rating": "ID"
+  },
+  {
+    "title": "🏛️ Illinois",
+    "provider": "overview",
+    "arguments": [
+      "states/illinois.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagotribune.com",
+    "year": "Midwest",
+    "genre": "25 Newspapers",
+    "rating": "IL"
+  },
+  {
+    "title": "🏛️ Indiana",
+    "provider": "overview",
+    "arguments": [
+      "states/indiana.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indystar.com",
+    "year": "Midwest",
+    "genre": "20 Newspapers",
+    "rating": "IN"
+  },
+  {
+    "title": "🏛️ Iowa",
+    "provider": "overview",
+    "arguments": [
+      "states/iowa.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=desmoinesregister.com",
+    "year": "Midwest",
+    "genre": "16 Newspapers",
+    "rating": "IA"
+  },
+  {
+    "title": "🏛️ Kansas",
+    "provider": "overview",
+    "arguments": [
+      "states/kansas.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kansas.com",
+    "year": "Midwest",
+    "genre": "15 Newspapers",
+    "rating": "KS"
+  },
+  {
+    "title": "🏛️ Kentucky",
+    "provider": "overview",
+    "arguments": [
+      "states/kentucky.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courier-journal.com",
+    "year": "South",
+    "genre": "16 Newspapers",
+    "rating": "KY"
+  },
+  {
+    "title": "🏛️ Louisiana",
+    "provider": "overview",
+    "arguments": [
+      "states/louisiana.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theadvocate.com",
+    "year": "South",
+    "genre": "15 Newspapers",
+    "rating": "LA"
+  },
+  {
+    "title": "🏛️ Maine",
+    "provider": "overview",
+    "arguments": [
+      "states/maine.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressherald.com",
+    "year": "Northeast",
+    "genre": "13 Newspapers",
+    "rating": "ME"
+  },
+  {
+    "title": "🏛️ Maryland",
+    "provider": "overview",
+    "arguments": [
+      "states/maryland.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baltimoresun.com",
+    "year": "South",
+    "genre": "13 Newspapers",
+    "rating": "MD"
+  },
+  {
+    "title": "🏛️ Massachusetts",
+    "provider": "overview",
+    "arguments": [
+      "states/massachusetts.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bostonglobe.com",
+    "year": "Northeast",
+    "genre": "24 Newspapers",
+    "rating": "MA"
+  },
+  {
+    "title": "🏛️ Michigan",
+    "provider": "overview",
+    "arguments": [
+      "states/michigan.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=freep.com",
+    "year": "Midwest",
+    "genre": "24 Newspapers",
+    "rating": "MI"
+  },
+  {
+    "title": "🏛️ Minnesota",
+    "provider": "overview",
+    "arguments": [
+      "states/minnesota.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=startribune.com",
+    "year": "Midwest",
+    "genre": "18 Newspapers",
+    "rating": "MN"
+  },
+  {
+    "title": "🏛️ Mississippi",
+    "provider": "overview",
+    "arguments": [
+      "states/mississippi.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clarionledger.com",
+    "year": "South",
+    "genre": "15 Newspapers",
+    "rating": "MS"
+  },
+  {
+    "title": "🏛️ Missouri",
+    "provider": "overview",
+    "arguments": [
+      "states/missouri.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stltoday.com",
+    "year": "Midwest",
+    "genre": "19 Newspapers",
+    "rating": "MO"
+  },
+  {
+    "title": "🏛️ Montana",
+    "provider": "overview",
+    "arguments": [
+      "states/montana.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=billingsgazette.com",
+    "year": "Mountain West",
+    "genre": "15 Newspapers",
+    "rating": "MT"
+  },
+  {
+    "title": "🏛️ Nebraska",
+    "provider": "overview",
+    "arguments": [
+      "states/nebraska.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=omaha.com",
+    "year": "Midwest",
+    "genre": "15 Newspapers",
+    "rating": "NE"
+  },
+  {
+    "title": "🏛️ Nevada",
+    "provider": "overview",
+    "arguments": [
+      "states/nevada.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reviewjournal.com",
+    "year": "Mountain West",
+    "genre": "12 Newspapers",
+    "rating": "NV"
+  },
+  {
+    "title": "🏛️ New Hampshire",
+    "provider": "overview",
+    "arguments": [
+      "states/new_hampshire.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=unionleader.com",
+    "year": "Northeast",
+    "genre": "12 Newspapers",
+    "rating": "NH"
+  },
+  {
+    "title": "🏛️ New Jersey",
+    "provider": "overview",
+    "arguments": [
+      "states/new_jersey.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nj.com",
+    "year": "Mid-Atlantic",
+    "genre": "17 Newspapers",
+    "rating": "NJ"
+  },
+  {
+    "title": "🏛️ New Mexico",
+    "provider": "overview",
+    "arguments": [
+      "states/new_mexico.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abqjournal.com",
+    "year": "Mountain West",
+    "genre": "15 Newspapers",
+    "rating": "NM"
+  },
+  {
+    "title": "🏛️ New York",
+    "provider": "overview",
+    "arguments": [
+      "states/new_york.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nytimes.com",
+    "year": "Mid-Atlantic",
+    "genre": "43 Newspapers",
+    "rating": "NY"
+  },
+  {
+    "title": "🏛️ North Carolina",
+    "provider": "overview",
+    "arguments": [
+      "states/north_carolina.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=charlotteobserver.com",
+    "year": "South",
+    "genre": "30 Newspapers",
+    "rating": "NC"
+  },
+  {
+    "title": "🏛️ North Dakota",
+    "provider": "overview",
+    "arguments": [
+      "states/north_dakota.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inforum.com",
+    "year": "Midwest",
+    "genre": "10 Newspapers",
+    "rating": "ND"
+  },
+  {
+    "title": "🏛️ Ohio",
+    "provider": "overview",
+    "arguments": [
+      "states/ohio.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cleveland.com",
+    "year": "Midwest",
+    "genre": "30 Newspapers",
+    "rating": "OH"
+  },
+  {
+    "title": "🏛️ Oklahoma",
+    "provider": "overview",
+    "arguments": [
+      "states/oklahoma.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oklahoman.com",
+    "year": "South",
+    "genre": "16 Newspapers",
+    "rating": "OK"
+  },
+  {
+    "title": "🏛️ Oregon",
+    "provider": "overview",
+    "arguments": [
+      "states/oregon.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oregonlive.com",
+    "year": "Pacific",
+    "genre": "18 Newspapers",
+    "rating": "OR"
+  },
+  {
+    "title": "🏛️ Pennsylvania",
+    "provider": "overview",
+    "arguments": [
+      "states/pennsylvania.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inquirer.com",
+    "year": "Mid-Atlantic",
+    "genre": "42 Newspapers",
+    "rating": "PA"
+  },
+  {
+    "title": "🏛️ Rhode Island",
+    "provider": "overview",
+    "arguments": [
+      "states/rhode_island.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=providencejournal.com",
+    "year": "Northeast",
+    "genre": "10 Newspapers",
+    "rating": "RI"
+  },
+  {
+    "title": "🏛️ South Carolina",
+    "provider": "overview",
+    "arguments": [
+      "states/south_carolina.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=postandcourier.com",
+    "year": "South",
+    "genre": "15 Newspapers",
+    "rating": "SC"
+  },
+  {
+    "title": "🏛️ South Dakota",
+    "provider": "overview",
+    "arguments": [
+      "states/south_dakota.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=argusleader.com",
+    "year": "Midwest",
+    "genre": "11 Newspapers",
+    "rating": "SD"
+  },
+  {
+    "title": "🏛️ Tennessee",
+    "provider": "overview",
+    "arguments": [
+      "states/tennessee.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tennessean.com",
+    "year": "South",
+    "genre": "20 Newspapers",
+    "rating": "TN"
+  },
+  {
+    "title": "🏛️ Texas",
+    "provider": "overview",
+    "arguments": [
+      "states/texas.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=houstonchronicle.com",
+    "year": "South",
+    "genre": "51 Newspapers",
+    "rating": "TX"
+  },
+  {
+    "title": "🏛️ Utah",
+    "provider": "overview",
+    "arguments": [
+      "states/utah.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sltrib.com",
+    "year": "Mountain West",
+    "genre": "15 Newspapers",
+    "rating": "UT"
+  },
+  {
+    "title": "🏛️ Vermont",
+    "provider": "overview",
+    "arguments": [
+      "states/vermont.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burlingtonfreepress.com",
+    "year": "Northeast",
+    "genre": "12 Newspapers",
+    "rating": "VT"
+  },
+  {
+    "title": "🏛️ Virginia",
+    "provider": "overview",
+    "arguments": [
+      "states/virginia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=richmond.com",
+    "year": "South",
+    "genre": "24 Newspapers",
+    "rating": "VA"
+  },
+  {
+    "title": "🏛️ Washington",
+    "provider": "overview",
+    "arguments": [
+      "states/washington.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattletimes.com",
+    "year": "Pacific",
+    "genre": "22 Newspapers",
+    "rating": "WA"
+  },
+  {
+    "title": "🏛️ West Virginia",
+    "provider": "overview",
+    "arguments": [
+      "states/west_virginia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvgazettemail.com",
+    "year": "South",
+    "genre": "15 Newspapers",
+    "rating": "WV"
+  },
+  {
+    "title": "🏛️ Wisconsin",
+    "provider": "overview",
+    "arguments": [
+      "states/wisconsin.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jsonline.com",
+    "year": "Midwest",
+    "genre": "26 Newspapers",
+    "rating": "WI"
+  },
+  {
+    "title": "🏛️ Wyoming",
+    "provider": "overview",
+    "arguments": [
+      "states/wyoming.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=trib.com",
+    "year": "Mountain West",
+    "genre": "15 Newspapers",
+    "rating": "WY"
+  }
+]

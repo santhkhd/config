@@ -1,0 +1,1792 @@
+[
+  {
+    "title": "The New York Times (Top Stories)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "The Washington Post (National)",
+    "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28National%29%20news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TOP"
+  },
+  {
+    "title": "The Wall Street Journal (Business)",
+    "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "USA TODAY (Top News)",
+    "url": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+    "category": "TOP"
+  },
+  {
+    "title": "Fox News (Latest Headlines)",
+    "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "CNN (Top Stories)",
+    "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+    "category": "TOP"
+  },
+  {
+    "title": "NBC News (Breaking Headlines)",
+    "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+    "category": "TOP"
+  },
+  {
+    "title": "CBS News (Latest News)",
+    "url": "https://www.cbsnews.com/latest/rss/main",
+    "category": "TOP"
+  },
+  {
+    "title": "ABC News (Top Stories)",
+    "url": "https://abcnews.go.com/abcnews/topstories",
+    "category": "TOP"
+  },
+  {
+    "title": "NPR News (National Headlines)",
+    "url": "https://feeds.npr.org/1001/rss.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "PBS NewsHour (Headlines)",
+    "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+    "category": "TOP"
+  },
+  {
+    "title": "Google News USA (Top News)",
+    "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+    "category": "TOP"
+  },
+  {
+    "title": "Politico (US Politics)",
+    "url": "https://rss.politico.com/politics-news.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Hill (Capitol Hill & Politics)",
+    "url": "https://thehill.com/feed/",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Washington Post (Politics)",
+    "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28Politics%29%20news&hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The New York Times (Politics)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "USA TODAY (Washington & Politics)",
+    "url": "http://rssfeeds.usatoday.com/usatoday-NewsPolitics",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Google News (US Politics)",
+    "url": "https://news.google.com/rss/headlines/section/topic/POLITICS?hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Wall Street Journal (Markets)",
+    "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "CNBC (Business & Finance)",
+    "url": "https://search.cnbc.com/rs/search/view.html?partnerId=2000&keywords=business&format=rss",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Yahoo Finance (Top Stories)",
+    "url": "https://finance.yahoo.com/news/rssindex",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "The New York Times (Business)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Google News (Business & Economy)",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "The Verge (Tech & Gadgets)",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "TECH"
+  },
+  {
+    "title": "TechCrunch (Startups & Tech)",
+    "url": "https://techcrunch.com/feed/",
+    "category": "TECH"
+  },
+  {
+    "title": "Wired (Technology & Culture)",
+    "url": "https://www.wired.com/feed/rss",
+    "category": "TECH"
+  },
+  {
+    "title": "The New York Times (Technology)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "category": "TECH"
+  },
+  {
+    "title": "Google News (Technology & AI)",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "The New York Times (World News)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "category": "WORLD"
+  },
+  {
+    "title": "The Washington Post (World)",
+    "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28World%29%20news&hl=en-US&gl=US&ceid=US:en",
+    "category": "WORLD"
+  },
+  {
+    "title": "The Wall Street Journal (World)",
+    "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+    "category": "WORLD"
+  },
+  {
+    "title": "Google News (World Affairs)",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
+    "category": "WORLD"
+  },
+  {
+    "title": "The New York Times (Sports)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+    "category": "SPORTS"
+  },
+  {
+    "title": "The Washington Post (Sports)",
+    "url": "https://news.google.com/rss/search?q=The%20Washington%20Post%20%28Sports%29%20news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "USA TODAY (Sports Headlines)",
+    "url": "http://rssfeeds.usatoday.com/usatoday-NewsSports",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Google News (US & Global Sports)",
+    "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Variety (Hollywood & Film)",
+    "url": "https://variety.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "The Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Deadline Hollywood (Box Office & Casting)",
+    "url": "https://deadline.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "IndieWire (Movies & Film Festivals)",
+    "url": "https://www.indiewire.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Collider (Movie Releases & Trailers)",
+    "url": "https://collider.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Rotten Tomatoes Editorial (Reviews & News)",
+    "url": "https://editorial.rottentomatoes.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "TVLine (Streaming & TV Series)",
+    "url": "https://tvline.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "The New York Times (Arts & Movies)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Google News (Entertainment)",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "The New York Times (Science)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Space.com (NASA & Astronomy)",
+    "url": "https://www.space.com/feeds/all",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Google News (Science & Space)",
+    "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "The New York Times (Health)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "category": "HEALTH"
+  },
+  {
+    "title": "Google News (Health & Medicine)",
+    "url": "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "The Weather Channel (Official Forecasts)",
+    "url": "https://news.google.com/rss/search?q=site:weather.com+forecast+meteorology&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "AccuWeather (Official Forecast & Radar)",
+    "url": "https://news.google.com/rss/search?q=site:accuweather.com+forecast+severe&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "NOAA National Weather Service (Weather.gov)",
+    "url": "https://news.google.com/rss/search?q=site:weather.gov+alert+forecast&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "FOX Weather (Live Forecast & Radar Updates)",
+    "url": "https://news.google.com/rss/search?q=site:foxweather.com+forecast+radar&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "National Hurricane Center (NOAA Tropical Alerts)",
+    "url": "https://news.google.com/rss/search?q=site:nhc.noaa.gov+OR+site:weather.gov+hurricane&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "Google News (US Local & Metro News)",
+    "url": "https://news.google.com/rss/headlines/section/topic/LOCAL?hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Associated Press (US State & Local News)",
+    "url": "https://news.google.com/rss/search?q=Associated+Press+state+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "US Local Metro Press & Stations",
+    "url": "https://news.google.com/rss/search?q=local+news+metro+breaking+investigation&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "IGN (Video Games & Gaming)",
+    "url": "https://news.google.com/rss/search?q=site:ign.com+gaming+video+games&hl=en-US&gl=US&ceid=US:en",
+    "category": "GAMING"
+  },
+  {
+    "title": "Kotaku (Gaming News & Reviews)",
+    "url": "https://news.google.com/rss/search?q=site:kotaku.com+gaming+ps5+xbox&hl=en-US&gl=US&ceid=US:en",
+    "category": "GAMING"
+  },
+  {
+    "title": "Google News (Video Games & Esports)",
+    "url": "https://news.google.com/rss/search?q=video+games+gaming+playstation+xbox+nintendo+esports&hl=en-US&gl=US&ceid=US:en",
+    "category": "GAMING"
+  },
+  {
+    "title": "New York City Local News",
+    "url": "https://news.google.com/rss/search?q=New+York+City+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "New York City Breaking News",
+    "url": "https://news.google.com/rss/search?q=New+York+City+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Los Angeles Local News",
+    "url": "https://news.google.com/rss/search?q=Los+Angeles+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Los Angeles Breaking News",
+    "url": "https://news.google.com/rss/search?q=Los+Angeles+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Chicago Local News",
+    "url": "https://news.google.com/rss/search?q=Chicago+Illinois+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Chicago Breaking News",
+    "url": "https://news.google.com/rss/search?q=Chicago+Illinois+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Houston Local News",
+    "url": "https://news.google.com/rss/search?q=Houston+Texas+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Houston Breaking News",
+    "url": "https://news.google.com/rss/search?q=Houston+Texas+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Phoenix Local News",
+    "url": "https://news.google.com/rss/search?q=Phoenix+Arizona+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Phoenix Breaking News",
+    "url": "https://news.google.com/rss/search?q=Phoenix+Arizona+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Philadelphia Local News",
+    "url": "https://news.google.com/rss/search?q=Philadelphia+Pennsylvania+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Philadelphia Breaking News",
+    "url": "https://news.google.com/rss/search?q=Philadelphia+Pennsylvania+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "San Antonio Local News",
+    "url": "https://news.google.com/rss/search?q=San+Antonio+Texas+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "San Antonio Breaking News",
+    "url": "https://news.google.com/rss/search?q=San+Antonio+Texas+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "San Diego Local News",
+    "url": "https://news.google.com/rss/search?q=San+Diego+California+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "San Diego Breaking News",
+    "url": "https://news.google.com/rss/search?q=San+Diego+California+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Dallas Local News",
+    "url": "https://news.google.com/rss/search?q=Dallas+Texas+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Dallas Breaking News",
+    "url": "https://news.google.com/rss/search?q=Dallas+Texas+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "San Jose Local News",
+    "url": "https://news.google.com/rss/search?q=San+Jose+California+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "San Jose Breaking News",
+    "url": "https://news.google.com/rss/search?q=San+Jose+California+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Austin Local News",
+    "url": "https://news.google.com/rss/search?q=Austin+Texas+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Austin Breaking News",
+    "url": "https://news.google.com/rss/search?q=Austin+Texas+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Jacksonville Local News",
+    "url": "https://news.google.com/rss/search?q=Jacksonville+Florida+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Jacksonville Breaking News",
+    "url": "https://news.google.com/rss/search?q=Jacksonville+Florida+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Fort Worth Local News",
+    "url": "https://news.google.com/rss/search?q=Fort+Worth+Texas+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Fort Worth Breaking News",
+    "url": "https://news.google.com/rss/search?q=Fort+Worth+Texas+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Columbus Ohio Local News",
+    "url": "https://news.google.com/rss/search?q=Columbus+Ohio+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Columbus Ohio Breaking News",
+    "url": "https://news.google.com/rss/search?q=Columbus+Ohio+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Charlotte Local News",
+    "url": "https://news.google.com/rss/search?q=Charlotte+North+Carolina+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Charlotte Breaking News",
+    "url": "https://news.google.com/rss/search?q=Charlotte+North+Carolina+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Indianapolis Local News",
+    "url": "https://news.google.com/rss/search?q=Indianapolis+Indiana+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Indianapolis Breaking News",
+    "url": "https://news.google.com/rss/search?q=Indianapolis+Indiana+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Seattle Local News",
+    "url": "https://news.google.com/rss/search?q=Seattle+Washington+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Seattle Breaking News",
+    "url": "https://news.google.com/rss/search?q=Seattle+Washington+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Denver Local News",
+    "url": "https://news.google.com/rss/search?q=Denver+Colorado+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Denver Breaking News",
+    "url": "https://news.google.com/rss/search?q=Denver+Colorado+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Washington DC Local News",
+    "url": "https://news.google.com/rss/search?q=Washington+DC+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Washington DC Breaking News",
+    "url": "https://news.google.com/rss/search?q=Washington+DC+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Boston Local News",
+    "url": "https://news.google.com/rss/search?q=Boston+Massachusetts+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Boston Breaking News",
+    "url": "https://news.google.com/rss/search?q=Boston+Massachusetts+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Nashville Local News",
+    "url": "https://news.google.com/rss/search?q=Nashville+Tennessee+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Nashville Breaking News",
+    "url": "https://news.google.com/rss/search?q=Nashville+Tennessee+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Detroit Local News",
+    "url": "https://news.google.com/rss/search?q=Detroit+Michigan+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Detroit Breaking News",
+    "url": "https://news.google.com/rss/search?q=Detroit+Michigan+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Oklahoma City Local News",
+    "url": "https://news.google.com/rss/search?q=Oklahoma+City+Oklahoma+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Oklahoma City Breaking News",
+    "url": "https://news.google.com/rss/search?q=Oklahoma+City+Oklahoma+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Portland Oregon Local News",
+    "url": "https://news.google.com/rss/search?q=Portland+Oregon+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Portland Oregon Breaking News",
+    "url": "https://news.google.com/rss/search?q=Portland+Oregon+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Las Vegas Local News",
+    "url": "https://news.google.com/rss/search?q=Las+Vegas+Nevada+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Las Vegas Breaking News",
+    "url": "https://news.google.com/rss/search?q=Las+Vegas+Nevada+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Memphis Local News",
+    "url": "https://news.google.com/rss/search?q=Memphis+Tennessee+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Memphis Breaking News",
+    "url": "https://news.google.com/rss/search?q=Memphis+Tennessee+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Louisville Local News",
+    "url": "https://news.google.com/rss/search?q=Louisville+Kentucky+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Louisville Breaking News",
+    "url": "https://news.google.com/rss/search?q=Louisville+Kentucky+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Baltimore Local News",
+    "url": "https://news.google.com/rss/search?q=Baltimore+Maryland+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Baltimore Breaking News",
+    "url": "https://news.google.com/rss/search?q=Baltimore+Maryland+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Milwaukee Local News",
+    "url": "https://news.google.com/rss/search?q=Milwaukee+Wisconsin+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Milwaukee Breaking News",
+    "url": "https://news.google.com/rss/search?q=Milwaukee+Wisconsin+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Albuquerque Local News",
+    "url": "https://news.google.com/rss/search?q=Albuquerque+New+Mexico+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Albuquerque Breaking News",
+    "url": "https://news.google.com/rss/search?q=Albuquerque+New+Mexico+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Tucson Local News",
+    "url": "https://news.google.com/rss/search?q=Tucson+Arizona+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Tucson Breaking News",
+    "url": "https://news.google.com/rss/search?q=Tucson+Arizona+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Fresno Local News",
+    "url": "https://news.google.com/rss/search?q=Fresno+California+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Fresno Breaking News",
+    "url": "https://news.google.com/rss/search?q=Fresno+California+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Sacramento Local News",
+    "url": "https://news.google.com/rss/search?q=Sacramento+California+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Sacramento Breaking News",
+    "url": "https://news.google.com/rss/search?q=Sacramento+California+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Kansas City Local News",
+    "url": "https://news.google.com/rss/search?q=Kansas+City+Missouri+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Kansas City Breaking News",
+    "url": "https://news.google.com/rss/search?q=Kansas+City+Missouri+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Atlanta Local News",
+    "url": "https://news.google.com/rss/search?q=Atlanta+Georgia+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Atlanta Breaking News",
+    "url": "https://news.google.com/rss/search?q=Atlanta+Georgia+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Miami Local News",
+    "url": "https://news.google.com/rss/search?q=Miami+Florida+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Miami Breaking News",
+    "url": "https://news.google.com/rss/search?q=Miami+Florida+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Tampa Local News",
+    "url": "https://news.google.com/rss/search?q=Tampa+Florida+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Tampa Breaking News",
+    "url": "https://news.google.com/rss/search?q=Tampa+Florida+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Orlando Local News",
+    "url": "https://news.google.com/rss/search?q=Orlando+Florida+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Orlando Breaking News",
+    "url": "https://news.google.com/rss/search?q=Orlando+Florida+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Cleveland Local News",
+    "url": "https://news.google.com/rss/search?q=Cleveland+Ohio+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Cleveland Breaking News",
+    "url": "https://news.google.com/rss/search?q=Cleveland+Ohio+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Pittsburgh Local News",
+    "url": "https://news.google.com/rss/search?q=Pittsburgh+Pennsylvania+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Pittsburgh Breaking News",
+    "url": "https://news.google.com/rss/search?q=Pittsburgh+Pennsylvania+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Cincinnati Local News",
+    "url": "https://news.google.com/rss/search?q=Cincinnati+Ohio+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Cincinnati Breaking News",
+    "url": "https://news.google.com/rss/search?q=Cincinnati+Ohio+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "St Louis Local News",
+    "url": "https://news.google.com/rss/search?q=St+Louis+Missouri+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "St Louis Breaking News",
+    "url": "https://news.google.com/rss/search?q=St+Louis+Missouri+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Raleigh Local News",
+    "url": "https://news.google.com/rss/search?q=Raleigh+North+Carolina+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Raleigh Breaking News",
+    "url": "https://news.google.com/rss/search?q=Raleigh+North+Carolina+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Richmond Local News",
+    "url": "https://news.google.com/rss/search?q=Richmond+Virginia+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Richmond Breaking News",
+    "url": "https://news.google.com/rss/search?q=Richmond+Virginia+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Salt Lake City Local News",
+    "url": "https://news.google.com/rss/search?q=Salt+Lake+City+Utah+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Salt Lake City Breaking News",
+    "url": "https://news.google.com/rss/search?q=Salt+Lake+City+Utah+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Boise Local News",
+    "url": "https://news.google.com/rss/search?q=Boise+Idaho+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Boise Breaking News",
+    "url": "https://news.google.com/rss/search?q=Boise+Idaho+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Omaha Local News",
+    "url": "https://news.google.com/rss/search?q=Omaha+Nebraska+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Omaha Breaking News",
+    "url": "https://news.google.com/rss/search?q=Omaha+Nebraska+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Des Moines Local News",
+    "url": "https://news.google.com/rss/search?q=Des+Moines+Iowa+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Des Moines Breaking News",
+    "url": "https://news.google.com/rss/search?q=Des+Moines+Iowa+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Little Rock Local News",
+    "url": "https://news.google.com/rss/search?q=Little+Rock+Arkansas+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Little Rock Breaking News",
+    "url": "https://news.google.com/rss/search?q=Little+Rock+Arkansas+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Birmingham Alabama Local News",
+    "url": "https://news.google.com/rss/search?q=Birmingham+Alabama+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Birmingham Alabama Breaking News",
+    "url": "https://news.google.com/rss/search?q=Birmingham+Alabama+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "New Orleans Local News",
+    "url": "https://news.google.com/rss/search?q=New+Orleans+Louisiana+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "New Orleans Breaking News",
+    "url": "https://news.google.com/rss/search?q=New+Orleans+Louisiana+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Honolulu Local News",
+    "url": "https://news.google.com/rss/search?q=Honolulu+Hawaii+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Honolulu Breaking News",
+    "url": "https://news.google.com/rss/search?q=Honolulu+Hawaii+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Anchorage Local News",
+    "url": "https://news.google.com/rss/search?q=Anchorage+Alaska+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Anchorage Breaking News",
+    "url": "https://news.google.com/rss/search?q=Anchorage+Alaska+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Associated Press (US News)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+US+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TOP"
+  },
+  {
+    "title": "Reuters (US News)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com%2Fworld%2Fus&hl=en-US&gl=US&ceid=US:en",
+    "category": "TOP"
+  },
+  {
+    "title": "Los Angeles Times (US & California)",
+    "url": "https://www.latimes.com/world-nation/rss2.0.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "The Guardian (US News)",
+    "url": "https://www.theguardian.com/us-news/rss",
+    "category": "TOP"
+  },
+  {
+    "title": "US News & World Report",
+    "url": "https://www.usnews.com/rss/news",
+    "category": "TOP"
+  },
+  {
+    "title": "New York Post (US News)",
+    "url": "https://nypost.com/feed/",
+    "category": "TOP"
+  },
+  {
+    "title": "The Washington Times (National)",
+    "url": "https://www.washingtontimes.com/rss/headlines/news/",
+    "category": "TOP"
+  },
+  {
+    "title": "Newsweek (US News)",
+    "url": "https://www.newsweek.com/rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Time (News)",
+    "url": "https://time.com/feed/",
+    "category": "TOP"
+  },
+  {
+    "title": "HuffPost (US News)",
+    "url": "https://www.huffpost.com/section/us-news/feed",
+    "category": "TOP"
+  },
+  {
+    "title": "Axios (US News)",
+    "url": "https://www.axios.com/feeds/feed.rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Vox (US News)",
+    "url": "https://www.vox.com/rss/index.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "ProPublica (Investigations)",
+    "url": "https://www.propublica.org/feeds/propublica/main",
+    "category": "TOP"
+  },
+  {
+    "title": "UPI (US News)",
+    "url": "https://rss.upi.com/news/news.rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Reuters (US Politics)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com%2Fworld%2Fus+politics&hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Associated Press (Politics)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "CNN (Politics)",
+    "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+    "category": "POLITICS"
+  },
+  {
+    "title": "NBC News (Politics)",
+    "url": "https://feeds.nbcnews.com/nbcnews/public/politics",
+    "category": "POLITICS"
+  },
+  {
+    "title": "CBS News (Politics)",
+    "url": "https://www.cbsnews.com/latest/politics/rss/",
+    "category": "POLITICS"
+  },
+  {
+    "title": "ABC News (Politics)",
+    "url": "https://abcnews.go.com/abcnews/politicsheadlines",
+    "category": "POLITICS"
+  },
+  {
+    "title": "NPR (Politics)",
+    "url": "https://feeds.npr.org/1014/rss.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "PBS NewsHour (Politics)",
+    "url": "https://www.pbs.org/newshour/feeds/rss/politics",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Atlantic (Politics)",
+    "url": "https://www.theatlantic.com/feed/channel/politics/",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Reuters (Business)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com%2Fbusiness&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Associated Press (Business)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Business Insider",
+    "url": "https://www.businessinsider.com/rss",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Forbes (Business)",
+    "url": "https://www.forbes.com/business/feed/",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Fortune (Business)",
+    "url": "https://fortune.com/feed/",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "MarketWatch",
+    "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Investing.com (US Markets)",
+    "url": "https://www.investing.com/rss/news.rss",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Google News (US Economy)",
+    "url": "https://news.google.com/rss/search?q=US+economy+inflation+jobs+markets&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Reuters (Technology)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com%2Ftechnology&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Associated Press (Technology)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+technology+AI&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "category": "TECH"
+  },
+  {
+    "title": "Engadget",
+    "url": "https://www.engadget.com/rss.xml",
+    "category": "TECH"
+  },
+  {
+    "title": "CNET",
+    "url": "https://www.cnet.com/rss/news/",
+    "category": "TECH"
+  },
+  {
+    "title": "ZDNET",
+    "url": "https://www.zdnet.com/news/rss.xml",
+    "category": "TECH"
+  },
+  {
+    "title": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "TECH"
+  },
+  {
+    "title": "Reuters (Science)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com+science&hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Associated Press (Science)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+science+space&hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Scientific American",
+    "url": "https://rss.sciam.com/ScientificAmerican-Global",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "NASA Breaking News",
+    "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "NASA Spaceflight",
+    "url": "https://www.nasa.gov/rss/dyn/educationnews.rss",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Reuters (Health)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com+health&hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "Associated Press (Health)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+health+medicine&hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "NPR (Health)",
+    "url": "https://feeds.npr.org/1128/rss.xml",
+    "category": "HEALTH"
+  },
+  {
+    "title": "CBS News (Health)",
+    "url": "https://www.cbsnews.com/latest/health/rss/",
+    "category": "HEALTH"
+  },
+  {
+    "title": "NBC News (Health)",
+    "url": "https://feeds.nbcnews.com/nbcnews/public/health",
+    "category": "HEALTH"
+  },
+  {
+    "title": "Medical News Today",
+    "url": "https://www.medicalnewstoday.com/rss",
+    "category": "HEALTH"
+  },
+  {
+    "title": "Reuters (Sports)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com+sports&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Associated Press (Sports)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+sports&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "ESPN",
+    "url": "https://www.espn.com/espn/rss/news",
+    "category": "SPORTS"
+  },
+  {
+    "title": "CBS Sports",
+    "url": "https://www.cbssports.com/rss/headlines/",
+    "category": "SPORTS"
+  },
+  {
+    "title": "NBC Sports",
+    "url": "https://www.nbcsports.com/rss",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Sports Illustrated",
+    "url": "https://www.si.com/.rss/full/",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Reuters (Entertainment)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com+entertainment&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Associated Press (Entertainment)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+entertainment&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Deadline Hollywood",
+    "url": "https://deadline.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Entertainment Weekly",
+    "url": "https://ew.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Rolling Stone",
+    "url": "https://www.rollingstone.com/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Reuters (Climate & Environment)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com+climate+environment&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENVIRONMENT"
+  },
+  {
+    "title": "Associated Press (Climate)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+climate+environment&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENVIRONMENT"
+  },
+  {
+    "title": "NPR (Climate)",
+    "url": "https://feeds.npr.org/1122/rss.xml",
+    "category": "ENVIRONMENT"
+  },
+  {
+    "title": "National Geographic",
+    "url": "https://www.nationalgeographic.com/content/natgeo/en_us/index.rss",
+    "category": "ENVIRONMENT"
+  },
+  {
+    "title": "Reuters (US Legal)",
+    "url": "https://news.google.com/rss/search?q=when%3A24h+site%3Areuters.com%2Flegal&hl=en-US&gl=US&ceid=US:en",
+    "category": "LEGAL"
+  },
+  {
+    "title": "Associated Press (Courts & Legal)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+courts+legal+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "LEGAL"
+  },
+  {
+    "title": "Law360 (Legal News)",
+    "url": "https://www.law360.com/rss",
+    "category": "LEGAL"
+  },
+  {
+    "title": "Google News (US Crime)",
+    "url": "https://news.google.com/rss/search?q=US+crime+police+investigation&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "Associated Press (Crime)",
+    "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+crime+police+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "Reuters (Crime & Justice)",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+US+crime+justice&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "Google News (US Education)",
+    "url": "https://news.google.com/rss/search?q=US+education+schools+universities&hl=en-US&gl=US&ceid=US:en",
+    "category": "EDUCATION"
+  },
+  {
+    "title": "Education Week",
+    "url": "https://www.edweek.org/rss",
+    "category": "EDUCATION"
+  },
+  {
+    "title": "NPR (Education)",
+    "url": "https://feeds.npr.org/1013/rss.xml",
+    "category": "EDUCATION"
+  },
+  {
+    "title": "Google News (US Transportation)",
+    "url": "https://news.google.com/rss/search?q=US+transportation+airlines+roads+rail&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRANSPORTATION"
+  },
+  {
+    "title": "Reuters (Autos & Transportation)",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+US+autos+transportation&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRANSPORTATION"
+  },
+  {
+    "title": "Google News (US Real Estate)",
+    "url": "https://news.google.com/rss/search?q=US+real+estate+housing+home+prices&hl=en-US&gl=US&ceid=US:en",
+    "category": "REAL_ESTATE"
+  },
+  {
+    "title": "CNBC (Real Estate)",
+    "url": "https://www.cnbc.com/id/10000115/device/rss/rss.html",
+    "category": "REAL_ESTATE"
+  },
+  {
+    "title": "Google News (US Jobs & Employment)",
+    "url": "https://news.google.com/rss/search?q=US+jobs+employment+unemployment+careers&hl=en-US&gl=US&ceid=US:en",
+    "category": "JOBS"
+  },
+  {
+    "title": "Google News (US Consumer News)",
+    "url": "https://news.google.com/rss/search?q=US+consumer+prices+shopping+retail&hl=en-US&gl=US&ceid=US:en",
+    "category": "CONSUMER"
+  },
+  {
+    "title": "Google News (US Energy)",
+    "url": "https://news.google.com/rss/search?q=US+energy+oil+gas+electricity+renewable&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENERGY"
+  },
+  {
+    "title": "Google News (US Agriculture)",
+    "url": "https://news.google.com/rss/search?q=US+agriculture+farmers+crops+USDA&hl=en-US&gl=US&ceid=US:en",
+    "category": "AGRICULTURE"
+  },
+  {
+    "title": "Google News (US Breaking News)",
+    "url": "https://news.google.com/rss/search?q=US+breaking+news+OR+breaking+headlines&hl=en-US&gl=US&ceid=US:en",
+    "category": "BREAKING"
+  },
+  {
+    "title": "Google News (US Investigations)",
+    "url": "https://news.google.com/rss/search?q=US+investigation+investigative+reporting&hl=en-US&gl=US&ceid=US:en",
+    "category": "INVESTIGATION"
+  },
+  {
+    "title": "Google News (US Federal Government)",
+    "url": "https://news.google.com/rss/search?q=US+federal+government+Congress+White+House&hl=en-US&gl=US&ceid=US:en",
+    "category": "GOVERNMENT"
+  },
+  {
+    "title": "Google News (New York News)",
+    "url": "https://news.google.com/rss/search?q=New+York+NY+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (Los Angeles News)",
+    "url": "https://news.google.com/rss/search?q=Los+Angeles+CA+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (Chicago News)",
+    "url": "https://news.google.com/rss/search?q=Chicago+IL+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (Houston News)",
+    "url": "https://news.google.com/rss/search?q=Houston+TX+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (Phoenix News)",
+    "url": "https://news.google.com/rss/search?q=Phoenix+AZ+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (Philadelphia News)",
+    "url": "https://news.google.com/rss/search?q=Philadelphia+PA+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (San Antonio News)",
+    "url": "https://news.google.com/rss/search?q=San+Antonio+TX+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (San Diego News)",
+    "url": "https://news.google.com/rss/search?q=San+Diego+CA+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (Dallas News)",
+    "url": "https://news.google.com/rss/search?q=Dallas+TX+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (San Francisco News)",
+    "url": "https://news.google.com/rss/search?q=San+Francisco+CA+local+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Google News (US Lifestyle)",
+    "url": "https://news.google.com/rss/search?q=US+lifestyle+food+travel+family&hl=en-US&gl=US&ceid=US:en",
+    "category": "LIFESTYLE"
+  },
+  {
+    "title": "Google News (US Travel)",
+    "url": "https://news.google.com/rss/search?q=US+travel+tourism+airlines+hotels&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRAVEL"
+  },
+  {
+    "title": "Google News (US Food)",
+    "url": "https://news.google.com/rss/search?q=US+food+restaurants+food+industry&hl=en-US&gl=US&ceid=US:en",
+    "category": "FOOD"
+  },
+  {
+    "title": "US Breaking News",
+    "url": "https://news.google.com/rss/search?q=US+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TOP"
+  },
+  {
+    "title": "US Latest News",
+    "url": "https://news.google.com/rss/search?q=US+latest+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TOP"
+  },
+  {
+    "title": "US National News",
+    "url": "https://news.google.com/rss/search?q=US+national+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TOP"
+  },
+  {
+    "title": "US Federal Government News",
+    "url": "https://news.google.com/rss/search?q=US+federal+government+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "GOVERNMENT"
+  },
+  {
+    "title": "US Congress News",
+    "url": "https://news.google.com/rss/search?q=US+Congress+House+Senate+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "White House News",
+    "url": "https://news.google.com/rss/search?q=White+House+US+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "US Election News",
+    "url": "https://news.google.com/rss/search?q=US+election+voting+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "US Immigration News",
+    "url": "https://news.google.com/rss/search?q=US+immigration+border+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "POLITICS"
+  },
+  {
+    "title": "US Supreme Court News",
+    "url": "https://news.google.com/rss/search?q=US+Supreme+Court+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LEGAL"
+  },
+  {
+    "title": "US Federal Court News",
+    "url": "https://news.google.com/rss/search?q=US+federal+court+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "LEGAL"
+  },
+  {
+    "title": "US Economy News",
+    "url": "https://news.google.com/rss/search?q=US+economy+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "US Stock Market News",
+    "url": "https://news.google.com/rss/search?q=US+stock+market+Dow+Nasdaq+S%26P+500&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "US Inflation News",
+    "url": "https://news.google.com/rss/search?q=US+inflation+CPI+prices&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Federal Reserve News",
+    "url": "https://news.google.com/rss/search?q=Federal+Reserve+interest+rates+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "US Banking News",
+    "url": "https://news.google.com/rss/search?q=US+banks+banking+financial+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "US Business News",
+    "url": "https://news.google.com/rss/search?q=US+business+companies+corporate+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "US Small Business News",
+    "url": "https://news.google.com/rss/search?q=US+small+business+entrepreneurs&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "US Retail News",
+    "url": "https://news.google.com/rss/search?q=US+retail+shopping+stores+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "US Jobs Market News",
+    "url": "https://news.google.com/rss/search?q=US+jobs+employment+labor+market&hl=en-US&gl=US&ceid=US:en",
+    "category": "JOBS"
+  },
+  {
+    "title": "US Layoffs News",
+    "url": "https://news.google.com/rss/search?q=US+layoffs+job+cuts+companies&hl=en-US&gl=US&ceid=US:en",
+    "category": "JOBS"
+  },
+  {
+    "title": "US Technology News",
+    "url": "https://news.google.com/rss/search?q=US+technology+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "US Artificial Intelligence News",
+    "url": "https://news.google.com/rss/search?q=US+artificial+intelligence+AI+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "OpenAI News",
+    "url": "https://news.google.com/rss/search?q=OpenAI+AI+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Google AI News",
+    "url": "https://news.google.com/rss/search?q=Google+AI+Gemini+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Apple News",
+    "url": "https://news.google.com/rss/search?q=Apple+iPhone+iPad+Mac+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Microsoft News",
+    "url": "https://news.google.com/rss/search?q=Microsoft+Windows+Azure+AI+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Cybersecurity News",
+    "url": "https://news.google.com/rss/search?q=cybersecurity+hacking+data+breach+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Semiconductor News",
+    "url": "https://news.google.com/rss/search?q=US+semiconductor+chip+industry+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Social Media Technology News",
+    "url": "https://news.google.com/rss/search?q=Facebook+Instagram+TikTok+social+media+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "Consumer Technology News",
+    "url": "https://news.google.com/rss/search?q=consumer+technology+gadgets+devices+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "US Science News",
+    "url": "https://news.google.com/rss/search?q=US+science+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "US Space News",
+    "url": "https://news.google.com/rss/search?q=NASA+SpaceX+US+space+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "NASA News",
+    "url": "https://news.google.com/rss/search?q=NASA+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Astronomy News",
+    "url": "https://news.google.com/rss/search?q=astronomy+space+science+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Climate Science News",
+    "url": "https://news.google.com/rss/search?q=climate+science+research+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "US Health News",
+    "url": "https://news.google.com/rss/search?q=US+health+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "US Medical News",
+    "url": "https://news.google.com/rss/search?q=US+medical+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "FDA News",
+    "url": "https://news.google.com/rss/search?q=FDA+news+medicine+drugs&hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "CDC News",
+    "url": "https://news.google.com/rss/search?q=CDC+health+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "US Disease & Outbreak News",
+    "url": "https://news.google.com/rss/search?q=US+disease+outbreak+virus+health&hl=en-US&gl=US&ceid=US:en",
+    "category": "HEALTH"
+  },
+  {
+    "title": "US Sports News",
+    "url": "https://news.google.com/rss/search?q=US+sports+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "NFL News",
+    "url": "https://news.google.com/rss/search?q=NFL+football+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "NBA News",
+    "url": "https://news.google.com/rss/search?q=NBA+basketball+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "MLB News",
+    "url": "https://news.google.com/rss/search?q=MLB+baseball+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "NHL News",
+    "url": "https://news.google.com/rss/search?q=NHL+hockey+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "College Sports News",
+    "url": "https://news.google.com/rss/search?q=NCAA+college+sports+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "US Soccer News",
+    "url": "https://news.google.com/rss/search?q=US+soccer+MLS+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "US Golf News",
+    "url": "https://news.google.com/rss/search?q=US+golf+PGA+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "US Tennis News",
+    "url": "https://news.google.com/rss/search?q=US+tennis+ATP+WTA+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "US Sports Business",
+    "url": "https://news.google.com/rss/search?q=US+sports+business+teams+leagues&hl=en-US&gl=US&ceid=US:en",
+    "category": "SPORTS"
+  },
+  {
+    "title": "US Entertainment News",
+    "url": "https://news.google.com/rss/search?q=US+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Hollywood News",
+    "url": "https://news.google.com/rss/search?q=Hollywood+news+movies+actors&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "US Movie News",
+    "url": "https://news.google.com/rss/search?q=US+movies+film+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "US Television News",
+    "url": "https://news.google.com/rss/search?q=US+television+TV+streaming+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Netflix News",
+    "url": "https://news.google.com/rss/search?q=Netflix+news+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Disney News",
+    "url": "https://news.google.com/rss/search?q=Disney+news+US&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Celebrity News",
+    "url": "https://news.google.com/rss/search?q=US+celebrity+news+Hollywood&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "US Crime News",
+    "url": "https://news.google.com/rss/search?q=US+crime+police+investigation&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "US Crime Breaking News",
+    "url": "https://news.google.com/rss/search?q=US+crime+breaking+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "US Police News",
+    "url": "https://news.google.com/rss/search?q=US+police+law+enforcement+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "US Court Crime News",
+    "url": "https://news.google.com/rss/search?q=US+criminal+court+crime+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "US Missing Persons News",
+    "url": "https://news.google.com/rss/search?q=US+missing+persons+police&hl=en-US&gl=US&ceid=US:en",
+    "category": "CRIME"
+  },
+  {
+    "title": "US Weather News",
+    "url": "https://news.google.com/rss/search?q=US+weather+forecast+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "US Severe Weather",
+    "url": "https://news.google.com/rss/search?q=US+severe+weather+storm+warning&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "US Hurricane News",
+    "url": "https://news.google.com/rss/search?q=US+hurricane+tropical+storm&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "US Tornado News",
+    "url": "https://news.google.com/rss/search?q=US+tornado+severe+weather&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "US Flood News",
+    "url": "https://news.google.com/rss/search?q=US+flood+flooding+weather&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "US Wildfire News",
+    "url": "https://news.google.com/rss/search?q=US+wildfire+forest+fire&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "US Winter Storm News",
+    "url": "https://news.google.com/rss/search?q=US+winter+storm+snow+blizzard&hl=en-US&gl=US&ceid=US:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "US Climate News",
+    "url": "https://news.google.com/rss/search?q=US+climate+change+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENVIRONMENT"
+  },
+  {
+    "title": "US Environment News",
+    "url": "https://news.google.com/rss/search?q=US+environment+pollution+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENVIRONMENT"
+  },
+  {
+    "title": "US Water & Drought News",
+    "url": "https://news.google.com/rss/search?q=US+drought+water+reservoir+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENVIRONMENT"
+  },
+  {
+    "title": "US Energy News",
+    "url": "https://news.google.com/rss/search?q=US+energy+electricity+power+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENERGY"
+  },
+  {
+    "title": "US Oil & Gas News",
+    "url": "https://news.google.com/rss/search?q=US+oil+gas+petroleum+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENERGY"
+  },
+  {
+    "title": "US Solar Energy News",
+    "url": "https://news.google.com/rss/search?q=US+solar+energy+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "ENERGY"
+  },
+  {
+    "title": "US Electric Vehicle News",
+    "url": "https://news.google.com/rss/search?q=US+electric+vehicles+EV+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TECH"
+  },
+  {
+    "title": "US Education News",
+    "url": "https://news.google.com/rss/search?q=US+education+schools+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "EDUCATION"
+  },
+  {
+    "title": "US College News",
+    "url": "https://news.google.com/rss/search?q=US+college+university+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "EDUCATION"
+  },
+  {
+    "title": "US School News",
+    "url": "https://news.google.com/rss/search?q=US+schools+teachers+students+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "EDUCATION"
+  },
+  {
+    "title": "US Education Policy",
+    "url": "https://news.google.com/rss/search?q=US+education+policy+schools&hl=en-US&gl=US&ceid=US:en",
+    "category": "EDUCATION"
+  },
+  {
+    "title": "US Housing News",
+    "url": "https://news.google.com/rss/search?q=US+housing+market+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "REAL_ESTATE"
+  },
+  {
+    "title": "US Mortgage News",
+    "url": "https://news.google.com/rss/search?q=US+mortgage+rates+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "REAL_ESTATE"
+  },
+  {
+    "title": "US Home Prices",
+    "url": "https://news.google.com/rss/search?q=US+home+prices+real+estate&hl=en-US&gl=US&ceid=US:en",
+    "category": "REAL_ESTATE"
+  },
+  {
+    "title": "US Commercial Real Estate",
+    "url": "https://news.google.com/rss/search?q=US+commercial+real+estate+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "REAL_ESTATE"
+  },
+  {
+    "title": "US Transportation News",
+    "url": "https://news.google.com/rss/search?q=US+transportation+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRANSPORTATION"
+  },
+  {
+    "title": "US Airline News",
+    "url": "https://news.google.com/rss/search?q=US+airlines+airport+flight+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRANSPORTATION"
+  },
+  {
+    "title": "US Road & Highway News",
+    "url": "https://news.google.com/rss/search?q=US+roads+highways+traffic+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRANSPORTATION"
+  },
+  {
+    "title": "US Rail News",
+    "url": "https://news.google.com/rss/search?q=US+railroad+Amtrak+train+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRANSPORTATION"
+  },
+  {
+    "title": "US Agriculture News",
+    "url": "https://news.google.com/rss/search?q=US+agriculture+farmers+farm+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "AGRICULTURE"
+  },
+  {
+    "title": "US Food News",
+    "url": "https://news.google.com/rss/search?q=US+food+food+industry+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "FOOD"
+  },
+  {
+    "title": "US Restaurant News",
+    "url": "https://news.google.com/rss/search?q=US+restaurant+industry+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "FOOD"
+  },
+  {
+    "title": "US Travel News",
+    "url": "https://news.google.com/rss/search?q=US+travel+tourism+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRAVEL"
+  },
+  {
+    "title": "US Airline Travel News",
+    "url": "https://news.google.com/rss/search?q=US+airline+travel+vacation+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRAVEL"
+  },
+  {
+    "title": "US National Parks News",
+    "url": "https://news.google.com/rss/search?q=US+National+Parks+news&hl=en-US&gl=US&ceid=US:en",
+    "category": "TRAVEL"
+  }
+]

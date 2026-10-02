@@ -1,0 +1,50 @@
+[
+  {
+    "title": "US News Channels (Live & Videos)",
+    "provider": "overview",
+    "arguments": [
+      "news_channels.json"
+    ],
+    "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png&w=400"
+  },
+  {
+    "title": "Featured USA National Newspapers",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nytimes.com"
+  },
+  {
+    "title": "Newspapers by State (50 States)",
+    "provider": "overview",
+    "arguments": [
+      "usa_states_newspapers.json"
+    ],
+    "image": "https://img.icons8.com/color/96/usa.png"
+  },
+  {
+    "title": "Breaking News Live Feed (RSS)",
+    "provider": "rss",
+    "arguments": [
+      "ALL_NEWS"
+    ],
+    "image": "https://img.icons8.com/color/96/news.png"
+  },
+  {
+    "title": "24/7 US News & Talk Radio",
+    "provider": "radio",
+    "arguments": [
+      "news_radio.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=npr.org"
+  },
+  {
+    "title": "Explore by Category & Topic",
+    "provider": "overview",
+    "arguments": [
+      "categories.json"
+    ],
+    "image": "https://img.icons8.com/color/96/categorize.png"
+  }
+]

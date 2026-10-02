@@ -1,0 +1,295 @@
+[
+  {
+    "title": "Milwaukee Journal Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.milwaukeejournalsentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jsonline.com",
+    "year": "Wisconsin",
+    "genre": "Milwaukee",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Green Bay Press-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.greenbaypressgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenbaypressgazette.com",
+    "year": "Wisconsin",
+    "genre": "Green Bay",
+    "rating": "Packers Region Flagship"
+  },
+  {
+    "title": "Herald Times Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldtimesreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=htrnews.com",
+    "year": "Wisconsin",
+    "genre": "Manitowoc",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Northwestern",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenorthwestern.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenorthwestern.com",
+    "year": "Wisconsin",
+    "genre": "Oshkosh",
+    "rating": "Winnebago County Daily"
+  },
+  {
+    "title": "The Capital Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.captimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=captimes.com",
+    "year": "Wisconsin",
+    "genre": "Madison",
+    "rating": "Madison Progressive Daily",
+    "rssUrl": "http://captimes.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Wausau Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.wausaudailyherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wausaudailyherald.com",
+    "year": "Wisconsin",
+    "genre": "Wausau",
+    "rating": "Central WI Daily"
+  },
+  {
+    "title": "Stevens Point Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.stevenspointjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stevenspointjournal.com",
+    "year": "Wisconsin",
+    "genre": "Stevens Point",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marshfield News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.marshfieldnewsherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marshfieldnewsherald.com",
+    "year": "Wisconsin",
+    "genre": "Marshfield",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wisconsin Rapids Daily Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.wisconsinrapidstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wisconsinrapidstribune.com",
+    "year": "Wisconsin",
+    "genre": "Wisconsin Rapids",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wisconsin State Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.madison.com/wsj"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madison.com",
+    "year": "Wisconsin",
+    "genre": "Madison",
+    "rating": "State Capital Flagship Daily",
+    "rssUrl": "http://madison.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Post-Crescent",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepostcrescent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=postcrescent.com",
+    "year": "Wisconsin",
+    "genre": "Appleton",
+    "rating": "Fox Cities Flagship Daily"
+  },
+  {
+    "title": "The Journal Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.journaltimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journaltimes.com",
+    "year": "Wisconsin",
+    "genre": "Racine",
+    "rating": "Southeast WI Daily",
+    "rssUrl": "http://journaltimes.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "La Crosse Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.lacrossetribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lacrossetribune.com",
+    "year": "Wisconsin",
+    "genre": "La Crosse",
+    "rating": "Coulee Region Daily",
+    "rssUrl": "http://lacrossetribune.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Superior Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.superiortelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=superiortelegram.com",
+    "year": "Wisconsin",
+    "genre": "Superior",
+    "rating": "Daily",
+    "rssUrl": "https://www.superiortelegram.com/index.rss"
+  },
+  {
+    "title": "Door County Pulse",
+    "provider": "web",
+    "arguments": [
+      "https://www.doorcountypulse.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=doorcountypulse.com",
+    "year": "Wisconsin",
+    "genre": "Baileys Harbor / Door County",
+    "rating": "Weekly",
+    "rssUrl": "https://www.doorcountypulse.com/feed"
+  },
+  {
+    "title": "The Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.gmtoday.com/daily_news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gmtoday.com",
+    "year": "Wisconsin",
+    "genre": "West Bend",
+    "rating": "Daily",
+    "rssUrl": "http://www.gmtoday.com/search/?f=rss&amp;t=article&amp;c=daily_news&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "Leader-Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.leadertelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leadertelegram.com",
+    "year": "Wisconsin",
+    "genre": "Eau Claire",
+    "rating": "Chippewa Valley Daily"
+  },
+  {
+    "title": "The Sheboygan Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesheboyganpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sheboyganpress.com",
+    "year": "Wisconsin",
+    "genre": "Sheboygan",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kenosha News",
+    "provider": "web",
+    "arguments": [
+      "https://www.kenoshanews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kenoshanews.com",
+    "year": "Wisconsin",
+    "genre": "Kenosha",
+    "rating": "Southeast WI Daily"
+  },
+  {
+    "title": "Baraboo News Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.wiscnews.com/bnr"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiscnews.com",
+    "year": "Wisconsin",
+    "genre": "Baraboo",
+    "rating": "Daily"
+  },
+  {
+    "title": "Beloit Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.beloitdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beloitdailynews.com",
+    "year": "Wisconsin",
+    "genre": "Beloit",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Janesville Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.gazettextra.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gazettextra.com",
+    "year": "Wisconsin",
+    "genre": "Janesville",
+    "rating": "Rock County Daily"
+  },
+  {
+    "title": "Portage Daily Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.wiscnews.com/pdr"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiscnews.com",
+    "year": "Wisconsin",
+    "genre": "Portage",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Chippewa Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.chippewa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chippewa.com",
+    "year": "Wisconsin",
+    "genre": "Chippewa Falls",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Freeman",
+    "provider": "web",
+    "arguments": [
+      "https://www.gmtoday.com/the_freeman"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gmtoday.com",
+    "year": "Wisconsin",
+    "genre": "Waukesha",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.wiscnews.com/bdc"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiscnews.com",
+    "year": "Wisconsin",
+    "genre": "Beaver Dam",
+    "rating": "Daily"
+  }
+]

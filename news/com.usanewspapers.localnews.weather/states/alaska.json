@@ -1,0 +1,188 @@
+[
+  {
+    "title": "The Frontiersman",
+    "provider": "web",
+    "arguments": [
+      "https://www.frontiersman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=frontiersman.com",
+    "year": "Alaska",
+    "genre": "Wasilla",
+    "rating": "Daily",
+    "rssUrl": "https://www.matsusentinel.com/rss/"
+  },
+  {
+    "title": "Peninsula Clarion",
+    "provider": "web",
+    "arguments": [
+      "https://www.peninsulaclarion.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peninsulaclarion.com",
+    "year": "Alaska",
+    "genre": "Kenai",
+    "rating": "Daily",
+    "rssUrl": "https://www.peninsulaclarion.com/feed"
+  },
+  {
+    "title": "Juneau Empire",
+    "provider": "web",
+    "arguments": [
+      "https://www.juneauempire.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=juneauempire.com",
+    "year": "Alaska",
+    "genre": "Juneau",
+    "rating": "State Capital Daily",
+    "rssUrl": "https://www.juneauempire.com/feed"
+  },
+  {
+    "title": "Homer News",
+    "provider": "web",
+    "arguments": [
+      "https://www.homernews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=homernews.com",
+    "year": "Alaska",
+    "genre": "Homer",
+    "rating": "Weekly",
+    "rssUrl": "https://www.homernews.com/feed"
+  },
+  {
+    "title": "Chilkat Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://www.chilkatvalleynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chilkatvalleynews.com",
+    "year": "Alaska",
+    "genre": "Haines",
+    "rating": "Weekly",
+    "rssUrl": "https://www.chilkatvalleynews.com/feed/"
+  },
+  {
+    "title": "Kodiak Daily Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.kodiakdailymirror.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kodiakdailymirror.com",
+    "year": "Alaska",
+    "genre": "Kodiak",
+    "rating": "Daily",
+    "rssUrl": "http://www.kodiakdailymirror.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Cordova Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecordovatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecordovatimes.com",
+    "year": "Alaska",
+    "genre": "Cordova",
+    "rating": "Weekly",
+    "rssUrl": "https://thecordovatimes.com/feed/"
+  },
+  {
+    "title": "Nome Nugget",
+    "provider": "web",
+    "arguments": [
+      "https://www.nomenugget.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nomenugget.com",
+    "year": "Alaska",
+    "genre": "Nome",
+    "rating": "Oldest AK Newspaper",
+    "rssUrl": "https://www.nomenugget.com/rss.xml/m"
+  },
+  {
+    "title": "Petersburg Pilot",
+    "provider": "web",
+    "arguments": [
+      "https://www.petersburgpilot.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=petersburgpilot.com",
+    "year": "Alaska",
+    "genre": "Petersburg",
+    "rating": "Weekly",
+    "rssUrl": "https://www.petersburgpilot.com/rss"
+  },
+  {
+    "title": "The Arctic Sounder",
+    "provider": "web",
+    "arguments": [
+      "https://www.thearcticsounder.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thearcticsounder.com",
+    "year": "Alaska",
+    "genre": "Barrow / Utqiagvik",
+    "rating": "Regional Weekly"
+  },
+  {
+    "title": "The Bristol Bay Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebristolbaytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebristolbaytimes.com",
+    "year": "Alaska",
+    "genre": "Dillingham",
+    "rating": "Regional Weekly"
+  },
+  {
+    "title": "Anchorage Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.adn.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=adn.com",
+    "year": "Alaska",
+    "genre": "Anchorage",
+    "rating": "State Flagship Daily",
+    "rssUrl": "https://www.adn.com/arc/outboundfeeds/rss/"
+  },
+  {
+    "title": "Ketchikan Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ketchikandailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ketchikandailynews.com",
+    "year": "Alaska",
+    "genre": "Ketchikan",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fairbanks Daily News-Miner",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsminer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsminer.com",
+    "year": "Alaska",
+    "genre": "Fairbanks",
+    "rating": "Top Daily"
+  },
+  {
+    "title": "Wrangell Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.wrangellsentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wrangellsentinel.com",
+    "year": "Alaska",
+    "genre": "Wrangell",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Sitka Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.sitkasentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sitkasentinel.com",
+    "year": "Alaska",
+    "genre": "Sitka",
+    "rating": "Daily"
+  }
+]

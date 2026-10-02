@@ -1,0 +1,176 @@
+[
+  {
+    "title": "The Dominion Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.dominionpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dominionpost.com",
+    "year": "West Virginia",
+    "genre": "Morgantown",
+    "rating": "WVU Region Daily",
+    "rssUrl": "https://www.dominionpost.com/feed"
+  },
+  {
+    "title": "The Parkersburg News and Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsandsentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsandsentinel.com",
+    "year": "West Virginia",
+    "genre": "Parkersburg",
+    "rating": "Mid-Ohio Valley Daily",
+    "rssUrl": "https://www.newsandsentinel.com/feed"
+  },
+  {
+    "title": "The Intelligencer / Wheeling News-Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.theintelligencer.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theintelligencer.net",
+    "year": "West Virginia",
+    "genre": "Wheeling",
+    "rating": "Northern Panhandle Daily",
+    "rssUrl": "https://www.theintelligencer.net/feed"
+  },
+  {
+    "title": "The Herald-Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald-dispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald-dispatch.com",
+    "year": "West Virginia",
+    "genre": "Huntington",
+    "rating": "Top Daily",
+    "rssUrl": "https://www.herald-dispatch.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Weirton Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.weirtondailytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weirtondailytimes.com",
+    "year": "West Virginia",
+    "genre": "Weirton",
+    "rating": "Daily",
+    "rssUrl": "https://www.weirtondailytimes.com/feed"
+  },
+  {
+    "title": "The Inter-Mountain",
+    "provider": "web",
+    "arguments": [
+      "https://www.theintermountain.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theintermountain.com",
+    "year": "West Virginia",
+    "genre": "Elkins",
+    "rating": "Daily",
+    "rssUrl": "https://www.theintermountain.com/feed"
+  },
+  {
+    "title": "The Exponent Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.theet.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theet.com",
+    "year": "West Virginia",
+    "genre": "Clarksburg",
+    "rating": "North Central WV Daily"
+  },
+  {
+    "title": "Times West Virginian",
+    "provider": "web",
+    "arguments": [
+      "https://www.timeswv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timeswv.com",
+    "year": "West Virginia",
+    "genre": "Fairmont",
+    "rating": "Daily",
+    "rssUrl": "http://www.timeswv.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Hampshire Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.hampshirereview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hampshirereview.com",
+    "year": "West Virginia",
+    "genre": "Romney",
+    "rating": "Oldest WV Weekly",
+    "rssUrl": "http://www.hampshirereview.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Morgan Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.morganmessenger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=morganmessenger.com",
+    "year": "West Virginia",
+    "genre": "Berkeley Springs",
+    "rating": "Weekly",
+    "rssUrl": "https://www.morganmessenger.com/feed/"
+  },
+  {
+    "title": "Mineral Daily News-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.newstribune.info"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstribune.info",
+    "year": "West Virginia",
+    "genre": "Keyser",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.journal-news.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journal-news.net",
+    "year": "West Virginia",
+    "genre": "Martinsburg",
+    "rating": "Eastern Panhandle Daily"
+  },
+  {
+    "title": "The Charleston Gazette-Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.wvgazettemail.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvgazettemail.com",
+    "year": "West Virginia",
+    "genre": "Charleston",
+    "rating": "Pulitzer Prize Winning Flagship"
+  },
+  {
+    "title": "Bluefield Daily Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.bdtonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bdtonline.com",
+    "year": "West Virginia",
+    "genre": "Bluefield",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Register-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.register-herald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=register-herald.com",
+    "year": "West Virginia",
+    "genre": "Beckley",
+    "rating": "Southern WV Daily"
+  }
+]

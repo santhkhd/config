@@ -1,0 +1,150 @@
+[
+  {
+    "title": "The Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.delmarvanow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delmarvanow.com",
+    "year": "Maryland",
+    "genre": "Salisbury",
+    "rating": "Eastern Shore Daily"
+  },
+  {
+    "title": "The Herald-Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.theheraldmail.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldmailmedia.com",
+    "year": "Maryland",
+    "genre": "Hagerstown",
+    "rating": "Western Maryland Daily"
+  },
+  {
+    "title": "The Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.somdnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=somdnews.com",
+    "year": "Maryland",
+    "genre": "Lexington Park",
+    "rating": "St. Mary's County",
+    "rssUrl": "http://www.somdnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Maryland Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.somdnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=somdnews.com",
+    "year": "Maryland",
+    "genre": "Waldorf",
+    "rating": "Southern MD",
+    "rssUrl": "http://www.somdnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Calvert Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.somdnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=somdnews.com",
+    "year": "Maryland",
+    "genre": "Prince Frederick",
+    "rating": "Calvert County",
+    "rssUrl": "http://www.somdnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Baltimore City Paper",
+    "provider": "web",
+    "arguments": [
+      "https://www.baltimoresun.com/citypaper"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baltimoresun.com",
+    "year": "Maryland",
+    "genre": "Baltimore",
+    "rating": "Alternative Weekly",
+    "rssUrl": "https://www.baltimoresun.com/tag/baltimore-city-paper/feed/"
+  },
+  {
+    "title": "Cumberland Times-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.times-news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=times-news.com",
+    "year": "Maryland",
+    "genre": "Cumberland",
+    "rating": "Allegany County Daily",
+    "rssUrl": "http://www.times-news.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Baltimore Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.baltimoresun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baltimoresun.com",
+    "year": "Maryland",
+    "genre": "Baltimore",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "The Capital",
+    "provider": "web",
+    "arguments": [
+      "https://www.capitalgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capitalgazette.com",
+    "year": "Maryland",
+    "genre": "Annapolis",
+    "rating": "State Capital Flagship"
+  },
+  {
+    "title": "Carroll County Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.carrollcountytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carrollcountytimes.com",
+    "year": "Maryland",
+    "genre": "Westminster",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bethesda Magazine / Bethesda Beat",
+    "provider": "web",
+    "arguments": [
+      "https://www.moco360.media"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moco360.media",
+    "year": "Maryland",
+    "genre": "Bethesda",
+    "rating": "Montgomery County Daily"
+  },
+  {
+    "title": "The Frederick News-Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.fredericknewspost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fredericknewspost.com",
+    "year": "Maryland",
+    "genre": "Frederick",
+    "rating": "Central MD Daily"
+  },
+  {
+    "title": "The Star Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.stardem.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stardem.com",
+    "year": "Maryland",
+    "genre": "Easton",
+    "rating": "Eastern Shore Daily"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "title": "The Seattle Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.seattletimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattletimes.com",
+    "year": "Washington",
+    "genre": "Seattle",
+    "rating": "Pacific Northwest Flagship Daily"
+  },
+  {
+    "title": "The Columbian",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbian.com",
+    "year": "Washington",
+    "genre": "Vancouver",
+    "rating": "Clark County Flagship Daily"
+  },
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldnet.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldnet.com",
+    "year": "Washington",
+    "genre": "Everett",
+    "rating": "Snohomish County Daily",
+    "rssUrl": "https://www.heraldnet.com/feed"
+  },
+  {
+    "title": "The Daily World",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailyworld.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailyworld.com",
+    "year": "Washington",
+    "genre": "Aberdeen",
+    "rating": "Grays Harbor Daily",
+    "rssUrl": "https://www.thedailyworld.com/feed"
+  },
+  {
+    "title": "Skagit Valley Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.goskagit.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goskagit.com",
+    "year": "Washington",
+    "genre": "Mount Vernon",
+    "rating": "Daily",
+    "rssUrl": "https://www.goskagit.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Yakima Herald-Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.yakimaherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yakimaherald.com",
+    "year": "Washington",
+    "genre": "Yakima",
+    "rating": "Central WA Daily",
+    "rssUrl": "http://www.yakimaherald.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Peninsula Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.peninsuladailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peninsuladailynews.com",
+    "year": "Washington",
+    "genre": "Port Angeles",
+    "rating": "Olympic Peninsula Daily",
+    "rssUrl": "https://www.peninsuladailynews.com/feed"
+  },
+  {
+    "title": "Kitsap Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.kitsapsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kitsapsun.com",
+    "year": "Washington",
+    "genre": "Bremerton",
+    "rating": "Kitsap Peninsula Daily"
+  },
+  {
+    "title": "The Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyastorian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyastorian.com",
+    "year": "Washington",
+    "genre": "Ilwaco / Long Beach",
+    "rating": "Weekly",
+    "rssUrl": "https://www.dailyastorian.com/feed"
+  },
+  {
+    "title": "The Stranger",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestranger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestranger.com",
+    "year": "Washington",
+    "genre": "Seattle",
+    "rating": "Alternative Bi-Weekly",
+    "rssUrl": "https://www.thestranger.com/feed/"
+  },
+  {
+    "title": "Whidbey News-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.whidbeynewstimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whidbeynewstimes.com",
+    "year": "Washington",
+    "genre": "Oak Harbor",
+    "rating": "Semi-Weekly",
+    "rssUrl": "https://www.whidbeynewstimes.com/feed"
+  },
+  {
+    "title": "Seattle Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.seattleweekly.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattleweekly.com",
+    "year": "Washington",
+    "genre": "Seattle",
+    "rating": "Weekly",
+    "rssUrl": "https://www.seattleweekly.com/feed"
+  },
+  {
+    "title": "The Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.tdn.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tdn.com",
+    "year": "Washington",
+    "genre": "Longview",
+    "rating": "Cowlitz County Daily",
+    "rssUrl": "http://tdn.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Spokesman-Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.spokesman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=spokesman.com",
+    "year": "Washington",
+    "genre": "Spokane",
+    "rating": "Inland Northwest Flagship Daily"
+  },
+  {
+    "title": "The Wenatchee World",
+    "provider": "web",
+    "arguments": [
+      "https://www.wenatcheeworld.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wenatcheeworld.com",
+    "year": "Washington",
+    "genre": "Wenatchee",
+    "rating": "North Central WA Daily"
+  },
+  {
+    "title": "The Daily Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.chronline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronline.com",
+    "year": "Washington",
+    "genre": "Centralia",
+    "rating": "Lewis County Daily"
+  },
+  {
+    "title": "Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyrecordnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyrecordnews.com",
+    "year": "Washington",
+    "genre": "Ellensburg",
+    "rating": "Daily"
+  },
+  {
+    "title": "Walla Walla Union-Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.union-bulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=union-bulletin.com",
+    "year": "Washington",
+    "genre": "Walla Walla",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Bellingham Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebellinghamherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bellinghamherald.com",
+    "year": "Washington",
+    "genre": "Bellingham",
+    "rating": "Whatcom County Daily"
+  },
+  {
+    "title": "The News Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewstribune.com",
+    "year": "Washington",
+    "genre": "Tacoma",
+    "rating": "South Sound Flagship Daily"
+  },
+  {
+    "title": "The Olympian",
+    "provider": "web",
+    "arguments": [
+      "https://www.theolympian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theolympian.com",
+    "year": "Washington",
+    "genre": "Olympia",
+    "rating": "State Capital Daily"
+  },
+  {
+    "title": "Tri-City Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.tricityherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tri-cityherald.com",
+    "year": "Washington",
+    "genre": "Kennewick / Pasco / Richland",
+    "rating": "Tri-Cities Daily"
+  }
+]

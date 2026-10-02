@@ -1,0 +1,725 @@
+[
+  {
+    "title": "San Francisco Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.sfchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sfchronicle.com",
+    "year": "California",
+    "genre": "San Francisco",
+    "rating": "Bay Area Flagship Daily"
+  },
+  {
+    "title": "Los Angeles Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.latimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=latimes.com",
+    "year": "California",
+    "genre": "Los Angeles",
+    "rating": "Top National & State Daily"
+  },
+  {
+    "title": "The Bakersfield Californian",
+    "provider": "web",
+    "arguments": [
+      "https://www.bakersfield.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bakersfield.com",
+    "year": "California",
+    "genre": "Bakersfield",
+    "rating": "Daily",
+    "rssUrl": "http://www.bakersfield.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Press-Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.pe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pe.com",
+    "year": "California",
+    "genre": "Riverside / San Bernardino",
+    "rating": "Inland Empire Daily"
+  },
+  {
+    "title": "Santa Barbara News-Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.newspress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newspress.com",
+    "year": "California",
+    "genre": "Santa Barbara",
+    "rating": "Daily",
+    "rssUrl": "https://www.newspress.com/feed/"
+  },
+  {
+    "title": "Stockton Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.recordnet.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recordnet.com",
+    "year": "California",
+    "genre": "Stockton",
+    "rating": "Daily"
+  },
+  {
+    "title": "Orange County Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.ocregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ocregister.com",
+    "year": "California",
+    "genre": "Anaheim / Santa Ana",
+    "rating": "Top Metro Daily"
+  },
+  {
+    "title": "The Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanluisobispo.com",
+    "year": "California",
+    "genre": "San Luis Obispo",
+    "rating": "Central Coast Daily",
+    "rssUrl": "https://www.thetribune.com/feed/"
+  },
+  {
+    "title": "The San Diego Union-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.sandiegouniontribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandiegouniontribune.com",
+    "year": "California",
+    "genre": "San Diego",
+    "rating": "Top Metro Daily"
+  },
+  {
+    "title": "Redding Record Searchlight",
+    "provider": "web",
+    "arguments": [
+      "https://www.reddingrecordsearchlight.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redding.com",
+    "year": "California",
+    "genre": "Redding",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Desert Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedesertsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=desertsun.com",
+    "year": "California",
+    "genre": "Palm Springs",
+    "rating": "Daily"
+  },
+  {
+    "title": "East Bay Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.eastbaytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastbaytimes.com",
+    "year": "California",
+    "genre": "Oakland",
+    "rating": "East Bay Daily"
+  },
+  {
+    "title": "The Mercury News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mercurynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mercurynews.com",
+    "year": "California",
+    "genre": "San Jose",
+    "rating": "Silicon Valley Flagship Daily"
+  },
+  {
+    "title": "The Press Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.pressdemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressdemocrat.com",
+    "year": "California",
+    "genre": "Santa Rosa",
+    "rating": "North Bay Daily"
+  },
+  {
+    "title": "The Monterey County Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.montereyherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montereyherald.com",
+    "year": "California",
+    "genre": "Monterey",
+    "rating": "Daily"
+  },
+  {
+    "title": "Santa Cruz Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.santacruzsentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=santacruzsentinel.com",
+    "year": "California",
+    "genre": "Santa Cruz",
+    "rating": "Daily"
+  },
+  {
+    "title": "Times-Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.times-standard.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=times-standard.com",
+    "year": "California",
+    "genre": "Eureka",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chico Enterprise-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.chicoer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicoer.com",
+    "year": "California",
+    "genre": "Chico",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pasadena Star-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.pasadenastarnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pasadenastarnews.com",
+    "year": "California",
+    "genre": "Pasadena",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marin Independent Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.marinij.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marinij.com",
+    "year": "California",
+    "genre": "San Rafael",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Breeze",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailybreeze.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailybreeze.com",
+    "year": "California",
+    "genre": "Torrance / South Bay",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Gabriel Valley Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.sgvtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sgvtribune.com",
+    "year": "California",
+    "genre": "West Covina",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whittier Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.whittierdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whittierdailynews.com",
+    "year": "California",
+    "genre": "Whittier",
+    "rating": "Daily"
+  },
+  {
+    "title": "Visalia Times-Delta",
+    "provider": "web",
+    "arguments": [
+      "https://www.visaliatimesdelta.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=visaliatimesdelta.com",
+    "year": "California",
+    "genre": "Visalia",
+    "rating": "Daily"
+  },
+  {
+    "title": "Redlands Daily Facts",
+    "provider": "web",
+    "arguments": [
+      "https://www.redlandsdailyfacts.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redlandsdailyfacts.com",
+    "year": "California",
+    "genre": "Redlands",
+    "rating": "Daily"
+  },
+  {
+    "title": "Long Beach Press-Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.presstelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=presstelegram.com",
+    "year": "California",
+    "genre": "Long Beach",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Bernardino Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.sbsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sbsun.com",
+    "year": "California",
+    "genre": "San Bernardino",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lodi News-Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.lodinews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lodinews.com",
+    "year": "California",
+    "genre": "Lodi",
+    "rating": "Daily",
+    "rssUrl": "http://www.lodinews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Daily News of Los Angeles",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailynews.com",
+    "year": "California",
+    "genre": "Woodland Hills / LA",
+    "rating": "Daily"
+  },
+  {
+    "title": "Antelope Valley Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.avpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=avpress.com",
+    "year": "California",
+    "genre": "Palmdale",
+    "rating": "Daily",
+    "rssUrl": "http://www.avpress.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Inland Valley Daily Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailybulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailybulletin.com",
+    "year": "California",
+    "genre": "Ontario / Rancho Cucamonga",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vacaville Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.thereporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thereporter.com",
+    "year": "California",
+    "genre": "Vacaville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sierra Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.sierrasun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sierrasun.com",
+    "year": "California",
+    "genre": "Truckee / Lake Tahoe",
+    "rating": "Weekly",
+    "rssUrl": "https://www.sierrasun.com/feed"
+  },
+  {
+    "title": "San Francisco Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://www.sfexaminer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sfexaminer.com",
+    "year": "California",
+    "genre": "San Francisco",
+    "rating": "Daily"
+  },
+  {
+    "title": "Colusa County Sun-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.colusacountysunherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=appealdemocrat.com",
+    "year": "California",
+    "genre": "Colusa",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Tahoe Daily Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.tahoedailytribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tahoedailytribune.com",
+    "year": "California",
+    "genre": "South Lake Tahoe",
+    "rating": "Weekly",
+    "rssUrl": "https://www.tahoedailytribune.com/feed"
+  },
+  {
+    "title": "The Union",
+    "provider": "web",
+    "arguments": [
+      "https://www.theunion.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theunion.com",
+    "year": "California",
+    "genre": "Grass Valley",
+    "rating": "Daily",
+    "rssUrl": "http://www.theunion.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Vallejo Times-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesheraldonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesheraldonline.com",
+    "year": "California",
+    "genre": "Vallejo",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Fresno Bee",
+    "provider": "web",
+    "arguments": [
+      "https://www.thefresnobee.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fresnobee.com",
+    "year": "California",
+    "genre": "Fresno",
+    "rating": "Central Valley Daily"
+  },
+  {
+    "title": "Napa Valley Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.napavalleyregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=napavalleyregister.com",
+    "year": "California",
+    "genre": "Napa",
+    "rating": "Daily"
+  },
+  {
+    "title": "Corning Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.corningobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=corningobserver.com",
+    "year": "California",
+    "genre": "Corning",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Mount Shasta Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.mtshastanews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mtshastanews.com",
+    "year": "California",
+    "genre": "Mount Shasta",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Daily Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyrepublic.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyrepublic.com",
+    "year": "California",
+    "genre": "Fairfield",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.ridgecrestca.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ridgecrestca.com",
+    "year": "California",
+    "genre": "Ridgecrest",
+    "rating": "Daily"
+  },
+  {
+    "title": "Siskiyou Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.siskiyoudaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=siskiyoudaily.com",
+    "year": "California",
+    "genre": "Yreka",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Willits News",
+    "provider": "web",
+    "arguments": [
+      "https://www.willitsnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=willitsnews.com",
+    "year": "California",
+    "genre": "Willits",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Imperial Valley Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.ivpressonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ivpressonline.com",
+    "year": "California",
+    "genre": "El Centro",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fort Bragg Advocate-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.advocate-news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=advocate-news.com",
+    "year": "California",
+    "genre": "Fort Bragg",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Daily Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailydemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailydemocrat.com",
+    "year": "California",
+    "genre": "Woodland",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mendocino Beacon",
+    "provider": "web",
+    "arguments": [
+      "https://www.mendocinobeacon.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mendocinobeacon.com",
+    "year": "California",
+    "genre": "Mendocino",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Lake County Record-Bee",
+    "provider": "web",
+    "arguments": [
+      "https://www.record-bee.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=record-bee.com",
+    "year": "California",
+    "genre": "Lakeport",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ukiah Daily Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.ukiahdailyjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ukiahdailyjournal.com",
+    "year": "California",
+    "genre": "Ukiah",
+    "rating": "Daily"
+  },
+  {
+    "title": "Red Bluff Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.redbluffdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redbluffdailynews.com",
+    "year": "California",
+    "genre": "Red Bluff",
+    "rating": "Daily"
+  },
+  {
+    "title": "Porterville Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.recorderonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recorderonline.com",
+    "year": "California",
+    "genre": "Porterville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hanford Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.hanfordsentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hanfordsentinel.com",
+    "year": "California",
+    "genre": "Hanford",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Davis Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.davisenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=davisenterprise.com",
+    "year": "California",
+    "genre": "Davis",
+    "rating": "Semi-Weekly"
+  },
+  {
+    "title": "Lompoc Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.lompocrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lompocrecord.com",
+    "year": "California",
+    "genre": "Lompoc",
+    "rating": "Daily"
+  },
+  {
+    "title": "Santa Maria Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.santamariatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=santamariatimes.com",
+    "year": "California",
+    "genre": "Santa Maria",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Sacramento Bee",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesacramentobee.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sacbee.com",
+    "year": "California",
+    "genre": "Sacramento",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "Appeal-Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.appeal-democrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=appeal-democrat.com",
+    "year": "California",
+    "genre": "Marysville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paso Robles Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.pasoroblespress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pasoroblespress.com",
+    "year": "California",
+    "genre": "Paso Robles",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Ventura County Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.venturacountystar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vcstar.com",
+    "year": "California",
+    "genre": "Ventura",
+    "rating": "Daily"
+  },
+  {
+    "title": "Auburn Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.goldcountrymedia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goldcountrymedia.com",
+    "year": "California",
+    "genre": "Auburn",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Modesto Bee",
+    "provider": "web",
+    "arguments": [
+      "https://www.themodestobee.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=modbee.com",
+    "year": "California",
+    "genre": "Modesto",
+    "rating": "Daily"
+  },
+  {
+    "title": "Merced Sun-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.mercedsunstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mercedsunstar.com",
+    "year": "California",
+    "genre": "Merced",
+    "rating": "Daily"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Statesman Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.statesmanjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=statesmanjournal.com",
+    "year": "Oregon",
+    "genre": "Salem",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "The Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.bendbulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bendbulletin.com",
+    "year": "Oregon",
+    "genre": "Bend",
+    "rating": "Central Oregon Flagship Daily",
+    "rssUrl": "https://www.bendbulletin.com/feed"
+  },
+  {
+    "title": "Mail Tribune / Rogue Valley Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.rv-times.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rv-times.com",
+    "year": "Oregon",
+    "genre": "Medford",
+    "rating": "Southern Oregon Flagship",
+    "rssUrl": "https://www.rv-times.com/feed"
+  },
+  {
+    "title": "The Daily Astorian",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyastorian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyastorian.com",
+    "year": "Oregon",
+    "genre": "Astoria",
+    "rating": "Coastal Flagship Daily",
+    "rssUrl": "https://www.dailyastorian.com/feed"
+  },
+  {
+    "title": "East Oregonian",
+    "provider": "web",
+    "arguments": [
+      "https://www.eastoregonian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastoregonian.com",
+    "year": "Oregon",
+    "genre": "Pendleton",
+    "rating": "Eastern Oregon Daily",
+    "rssUrl": "https://www.eastoregonian.com/feed"
+  },
+  {
+    "title": "The Baker City Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.bakercityherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bakercityherald.com",
+    "year": "Oregon",
+    "genre": "Baker City",
+    "rating": "Daily",
+    "rssUrl": "https://www.bakercityherald.com/feed"
+  },
+  {
+    "title": "The Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.lagrandeobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lagrandeobserver.com",
+    "year": "Oregon",
+    "genre": "La Grande",
+    "rating": "Northeast OR Daily",
+    "rssUrl": "https://www.lagrandeobserver.com/feed"
+  },
+  {
+    "title": "Portland Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.portlandtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pamplinmedia.com",
+    "year": "Oregon",
+    "genre": "Portland",
+    "rating": "Weekly",
+    "rssUrl": "https://www.portlandtribune.com/feed"
+  },
+  {
+    "title": "The World",
+    "provider": "web",
+    "arguments": [
+      "https://www.theworldlink.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theworldlink.com",
+    "year": "Oregon",
+    "genre": "Coos Bay",
+    "rating": "South Coast Daily",
+    "rssUrl": "http://theworldlink.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Oregonian / OregonLive",
+    "provider": "web",
+    "arguments": [
+      "https://www.oregonlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oregonlive.com",
+    "year": "Oregon",
+    "genre": "Portland",
+    "rating": "State Flagship Daily",
+    "rssUrl": "https://www.oregonlive.com/arc/outboundfeeds/rss/"
+  },
+  {
+    "title": "Curry Coastal Pilot",
+    "provider": "web",
+    "arguments": [
+      "https://www.currypilot.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=currypilot.com",
+    "year": "Oregon",
+    "genre": "Brookings",
+    "rating": "Semi-Weekly",
+    "rssUrl": "http://www.currypilot.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Argus Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.argusobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=argusobserver.com",
+    "year": "Oregon",
+    "genre": "Ontario",
+    "rating": "Treasure Valley Daily",
+    "rssUrl": "http://www.argusobserver.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Dalles Chronicle / Columbia Gorge News",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbiagorgenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbiagorgenews.com",
+    "year": "Oregon",
+    "genre": "The Dalles",
+    "rating": "Columbia Gorge Daily",
+    "rssUrl": "http://www.columbiagorgenews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "News-Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsregister.com",
+    "year": "Oregon",
+    "genre": "McMinnville",
+    "rating": "Semi-Weekly"
+  },
+  {
+    "title": "The Register-Guard",
+    "provider": "web",
+    "arguments": [
+      "https://www.theregisterguard.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=registerguard.com",
+    "year": "Oregon",
+    "genre": "Eugene",
+    "rating": "University of Oregon Daily"
+  },
+  {
+    "title": "Albany Democrat-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.democratherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=democratherald.com",
+    "year": "Oregon",
+    "genre": "Albany",
+    "rating": "Willamette Valley Daily"
+  },
+  {
+    "title": "Corvallis Gazette-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.gazettetimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gazettetimes.com",
+    "year": "Oregon",
+    "genre": "Corvallis",
+    "rating": "Oregon State University Daily"
+  },
+  {
+    "title": "Herald and News",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldandnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldandnews.com",
+    "year": "Oregon",
+    "genre": "Klamath Falls",
+    "rating": "Daily"
+  }
+]

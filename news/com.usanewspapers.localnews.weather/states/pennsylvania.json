@@ -1,0 +1,476 @@
+[
+  {
+    "title": "Erie Times-News / GoErie",
+    "provider": "web",
+    "arguments": [
+      "https://www.erietimesnewsgoerie.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goerie.com",
+    "year": "Pennsylvania",
+    "genre": "Erie",
+    "rating": "Northwest PA Flagship Daily"
+  },
+  {
+    "title": "Pittsburgh Post-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.post-gazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=post-gazette.com",
+    "year": "Pennsylvania",
+    "genre": "Pittsburgh",
+    "rating": "Western PA Flagship Daily",
+    "rssUrl": "https://www.post-gazette.com/rss"
+  },
+  {
+    "title": "Pittsburgh Tribune-Review / TribLIVE",
+    "provider": "web",
+    "arguments": [
+      "https://www.triblive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=triblive.com",
+    "year": "Pennsylvania",
+    "genre": "Pittsburgh / Greensburg",
+    "rating": "Western PA Daily",
+    "rssUrl": "https://triblive.com/feed/"
+  },
+  {
+    "title": "The Intelligencer",
+    "provider": "web",
+    "arguments": [
+      "https://www.theintell.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theintell.com",
+    "year": "Pennsylvania",
+    "genre": "Doylestown",
+    "rating": "Central Bucks Daily"
+  },
+  {
+    "title": "Bucks County Courier Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.buckscountycouriertimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buckscountycouriertimes.com",
+    "year": "Pennsylvania",
+    "genre": "Levittown",
+    "rating": "Bucks County Daily"
+  },
+  {
+    "title": "LNP / LancasterOnline",
+    "provider": "web",
+    "arguments": [
+      "https://www.lancasteronline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lancasteronline.com",
+    "year": "Pennsylvania",
+    "genre": "Lancaster",
+    "rating": "Lancaster County Daily",
+    "rssUrl": "http://lancasteronline.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Williamsport Sun-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.sungazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sungazette.com",
+    "year": "Pennsylvania",
+    "genre": "Williamsport",
+    "rating": "Lycoming County Daily",
+    "rssUrl": "https://www.sungazette.com/feed"
+  },
+  {
+    "title": "Altoona Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.altoonamirror.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=altoonamirror.com",
+    "year": "Pennsylvania",
+    "genre": "Altoona",
+    "rating": "Daily",
+    "rssUrl": "https://www.altoonamirror.com/feed"
+  },
+  {
+    "title": "The Daily Item",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyitem.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyitem.com",
+    "year": "Pennsylvania",
+    "genre": "Sunbury",
+    "rating": "Central Susquehanna Daily",
+    "rssUrl": "http://www.dailyitem.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Citizens' Voice",
+    "provider": "web",
+    "arguments": [
+      "https://www.citizensvoice.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=citizensvoice.com",
+    "year": "Pennsylvania",
+    "genre": "Wilkes-Barre",
+    "rating": "Wyoming Valley Daily"
+  },
+  {
+    "title": "The Morning Call",
+    "provider": "web",
+    "arguments": [
+      "https://www.mcall.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mcall.com",
+    "year": "Pennsylvania",
+    "genre": "Allentown",
+    "rating": "Lehigh Valley Flagship Daily"
+  },
+  {
+    "title": "Reading Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.readingeagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=readingeagle.com",
+    "year": "Pennsylvania",
+    "genre": "Reading",
+    "rating": "Berks County Daily"
+  },
+  {
+    "title": "The Patriot-News / PennLive",
+    "provider": "web",
+    "arguments": [
+      "https://www.pennlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pennlive.com",
+    "year": "Pennsylvania",
+    "genre": "Harrisburg",
+    "rating": "State Capital Flagship Daily",
+    "rssUrl": "https://www.pennlive.com/arc/outboundfeeds/rss/"
+  },
+  {
+    "title": "Daily Local News",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailylocal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailylocal.com",
+    "year": "Pennsylvania",
+    "genre": "West Chester",
+    "rating": "Chester County Daily"
+  },
+  {
+    "title": "Delaware County Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.delcotimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delcotimes.com",
+    "year": "Pennsylvania",
+    "genre": "Primos / Delco",
+    "rating": "Delaware County Daily"
+  },
+  {
+    "title": "Hanover Evening Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.eveningsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningsun.com",
+    "year": "Pennsylvania",
+    "genre": "Hanover",
+    "rating": "Daily"
+  },
+  {
+    "title": "Public Opinion",
+    "provider": "web",
+    "arguments": [
+      "https://www.publicopinion.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=publicopiniononline.com",
+    "year": "Pennsylvania",
+    "genre": "Chambersburg",
+    "rating": "Franklin County Daily"
+  },
+  {
+    "title": "The Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.thereporteronline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thereporteronline.com",
+    "year": "Pennsylvania",
+    "genre": "Lansdale",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Times Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesherald.com",
+    "year": "Pennsylvania",
+    "genre": "Norristown",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Mercury",
+    "provider": "web",
+    "arguments": [
+      "https://www.pottsmerc.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pottsmerc.com",
+    "year": "Pennsylvania",
+    "genre": "Pottstown",
+    "rating": "Daily"
+  },
+  {
+    "title": "Butler Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.butlereagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=butlereagle.com",
+    "year": "Pennsylvania",
+    "genre": "Butler",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Wayne Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewayneindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wayneindependent.com",
+    "year": "Pennsylvania",
+    "genre": "Honesdale",
+    "rating": "Daily"
+  },
+  {
+    "title": "Times Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesleader.com",
+    "year": "Pennsylvania",
+    "genre": "Wilkes-Barre",
+    "rating": "Wyoming Valley Daily"
+  },
+  {
+    "title": "The Daily American",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyamerican.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyamerican.com",
+    "year": "Pennsylvania",
+    "genre": "Somerset",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pocono Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.poconorecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=poconorecord.com",
+    "year": "Pennsylvania",
+    "genre": "Stroudsburg",
+    "rating": "Pocono Mountains Daily"
+  },
+  {
+    "title": "The Derrick / The News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.thederrick.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thederrick.com",
+    "year": "Pennsylvania",
+    "genre": "Oil City / Franklin",
+    "rating": "Oil Region Daily",
+    "rssUrl": "http://www.thederrick.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Bradford Era",
+    "provider": "web",
+    "arguments": [
+      "https://www.bradfordera.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bradfordera.com",
+    "year": "Pennsylvania",
+    "genre": "Bradford",
+    "rating": "Daily",
+    "rssUrl": "https://www.bradfordera.com/feed"
+  },
+  {
+    "title": "The Philadelphia Inquirer",
+    "provider": "web",
+    "arguments": [
+      "https://www.inquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inquirer.com",
+    "year": "Pennsylvania",
+    "genre": "Philadelphia",
+    "rating": "Pulitzer Prize Winning Flagship"
+  },
+  {
+    "title": "The Indiana Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.indianagazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianagazette.com",
+    "year": "Pennsylvania",
+    "genre": "Indiana",
+    "rating": "Daily",
+    "rssUrl": "http://www.indianagazette.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Times-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetimes-tribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetimes-tribune.com",
+    "year": "Pennsylvania",
+    "genre": "Scranton",
+    "rating": "Northeast PA Flagship Daily"
+  },
+  {
+    "title": "Pottsville Republican Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.republicanherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=republicanherald.com",
+    "year": "Pennsylvania",
+    "genre": "Pottsville",
+    "rating": "Schuylkill County Daily"
+  },
+  {
+    "title": "Observer-Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.observer-reporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=observer-reporter.com",
+    "year": "Pennsylvania",
+    "genre": "Washington",
+    "rating": "Daily",
+    "rssUrl": "https://www.observer-reporter.com/feed"
+  },
+  {
+    "title": "Lebanon Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lebanondailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ldnews.com",
+    "year": "Pennsylvania",
+    "genre": "Lebanon",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald-Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldstandard.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldstandard.com",
+    "year": "Pennsylvania",
+    "genre": "Uniontown",
+    "rating": "Daily",
+    "rssUrl": "https://www.heraldstandard.com/feed"
+  },
+  {
+    "title": "The Standard-Speaker",
+    "provider": "web",
+    "arguments": [
+      "https://www.standardspeaker.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=standardspeaker.com",
+    "year": "Pennsylvania",
+    "genre": "Hazleton",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.sharonherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sharonherald.com",
+    "year": "Pennsylvania",
+    "genre": "Sharon",
+    "rating": "Shenango Valley Daily"
+  },
+  {
+    "title": "The Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.cumberlink.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cumberlink.com",
+    "year": "Pennsylvania",
+    "genre": "Carlisle",
+    "rating": "Cumberland County Daily"
+  },
+  {
+    "title": "The Tribune-Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribdem.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribdem.com",
+    "year": "Pennsylvania",
+    "genre": "Johnstown",
+    "rating": "Cambria County Daily"
+  },
+  {
+    "title": "The Daily Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailycourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycourier.com",
+    "year": "Pennsylvania",
+    "genre": "Connellsville",
+    "rating": "Daily"
+  },
+  {
+    "title": "York Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.yorkdailyrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ydr.com",
+    "year": "Pennsylvania",
+    "genre": "York",
+    "rating": "York County Daily"
+  },
+  {
+    "title": "Centre Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.centredailytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=centredaily.com",
+    "year": "Pennsylvania",
+    "genre": "State College",
+    "rating": "Penn State Daily"
+  },
+  {
+    "title": "Beaver County Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.beavercountytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesonline.com",
+    "year": "Pennsylvania",
+    "genre": "Beaver",
+    "rating": "Daily"
+  }
+]

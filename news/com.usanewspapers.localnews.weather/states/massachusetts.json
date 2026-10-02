@@ -1,0 +1,274 @@
+[
+  {
+    "title": "Telegram & Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.telegramgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telegram.com",
+    "year": "Massachusetts",
+    "genre": "Worcester",
+    "rating": "Central MA Flagship Daily"
+  },
+  {
+    "title": "Cape Cod Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.capecodtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capecodtimes.com",
+    "year": "Massachusetts",
+    "genre": "Hyannis / Cape Cod",
+    "rating": "Cape & Islands Daily"
+  },
+  {
+    "title": "The Berkshire Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.berkshireeagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=berkshireeagle.com",
+    "year": "Massachusetts",
+    "genre": "Pittsfield",
+    "rating": "Berkshires Flagship Daily",
+    "rssUrl": "http://www.berkshireeagle.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Daily Hampshire Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.gazettenet.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gazettenet.com",
+    "year": "Massachusetts",
+    "genre": "Northampton",
+    "rating": "Pioneer Valley Daily",
+    "rssUrl": "https://gazettenet.com/feed/"
+  },
+  {
+    "title": "The Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.theenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enterprisenews.com",
+    "year": "Massachusetts",
+    "genre": "Brockton",
+    "rating": "Daily"
+  },
+  {
+    "title": "The MetroWest Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.metrowestdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=metrowestdailynews.com",
+    "year": "Massachusetts",
+    "genre": "Framingham",
+    "rating": "Daily"
+  },
+  {
+    "title": "Milford Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.milforddailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=milforddailynews.com",
+    "year": "Massachusetts",
+    "genre": "Milford",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald News",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldnews.com",
+    "year": "Massachusetts",
+    "genre": "Fall River",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Standard-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestandardtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southcoasttoday.com",
+    "year": "Massachusetts",
+    "genre": "New Bedford",
+    "rating": "South Coast Daily",
+    "rssUrl": "https://thestandardtimes.com/feed/"
+  },
+  {
+    "title": "The Daily News of Newburyport",
+    "provider": "web",
+    "arguments": [
+      "https://www.newburyportnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newburyportnews.com",
+    "year": "Massachusetts",
+    "genre": "Newburyport",
+    "rating": "Daily",
+    "rssUrl": "http://www.newburyportnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Taunton Daily Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.tauntongazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tauntongazette.com",
+    "year": "Massachusetts",
+    "genre": "Taunton",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Salem News",
+    "provider": "web",
+    "arguments": [
+      "https://www.salemnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salemnews.com",
+    "year": "Massachusetts",
+    "genre": "Salem",
+    "rating": "North Shore Daily",
+    "rssUrl": "http://www.salemnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Boston Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.bostonherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bostonherald.com",
+    "year": "Massachusetts",
+    "genre": "Boston",
+    "rating": "Top Metro Daily"
+  },
+  {
+    "title": "The Patriot Ledger",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepatriotledger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patriotledger.com",
+    "year": "Massachusetts",
+    "genre": "Quincy / South Shore",
+    "rating": "Top Daily"
+  },
+  {
+    "title": "Martha's Vineyard Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.mvtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mvtimes.com",
+    "year": "Massachusetts",
+    "genre": "Vineyard Haven",
+    "rating": "Island Weekly",
+    "rssUrl": "https://www.mvtimes.com/feed/"
+  },
+  {
+    "title": "The Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.recorder.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recorder.com",
+    "year": "Massachusetts",
+    "genre": "Greenfield",
+    "rating": "Franklin County Daily",
+    "rssUrl": "https://recorder.com/feed/"
+  },
+  {
+    "title": "The Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.lowellsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lowellsun.com",
+    "year": "Massachusetts",
+    "genre": "Lowell",
+    "rating": "Merrimack Valley Daily"
+  },
+  {
+    "title": "The Republican",
+    "provider": "web",
+    "arguments": [
+      "https://www.masslive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=masslive.com",
+    "year": "Massachusetts",
+    "genre": "Springfield",
+    "rating": "Western MA Flagship Daily",
+    "rssUrl": "https://www.masslive.com/arc/outboundfeeds/rss/"
+  },
+  {
+    "title": "Sentinel & Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.sentinelandenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sentinelandenterprise.com",
+    "year": "Massachusetts",
+    "genre": "Fitchburg",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Eagle-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.eagletribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eagletribune.com",
+    "year": "Massachusetts",
+    "genre": "North Andover / Lawrence",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gloucester Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.gloucestertimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gloucestertimes.com",
+    "year": "Massachusetts",
+    "genre": "Gloucester",
+    "rating": "Cape Ann Daily"
+  },
+  {
+    "title": "The Boston Globe",
+    "provider": "web",
+    "arguments": [
+      "https://www.bostonglobe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bostonglobe.com",
+    "year": "Massachusetts",
+    "genre": "Boston",
+    "rating": "New England Flagship Daily"
+  },
+  {
+    "title": "The Inquirer and Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.ack.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ack.net",
+    "year": "Massachusetts",
+    "genre": "Nantucket",
+    "rating": "Island Weekly"
+  },
+  {
+    "title": "The Sun Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesunchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesunchronicle.com",
+    "year": "Massachusetts",
+    "genre": "Attleboro",
+    "rating": "Daily"
+  }
+]

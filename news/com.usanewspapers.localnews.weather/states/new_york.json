@@ -1,0 +1,490 @@
+[
+  {
+    "title": "Democrat and Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.democratandchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=democratandchronicle.com",
+    "year": "New York",
+    "genre": "Rochester",
+    "rating": "Rochester Flagship Daily"
+  },
+  {
+    "title": "The Journal News / lohud.com",
+    "provider": "web",
+    "arguments": [
+      "https://www.thejournalnewslohudcom.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lohud.com",
+    "year": "New York",
+    "genre": "White Plains / Westchester",
+    "rating": "Lower Hudson Daily"
+  },
+  {
+    "title": "New York Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.nypost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nypost.com",
+    "year": "New York",
+    "genre": "New York City",
+    "rating": "Major Metro Daily",
+    "rssUrl": "https://www.nypost.com/feed"
+  },
+  {
+    "title": "Newsday",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.com",
+    "year": "New York",
+    "genre": "Long Island",
+    "rating": "Long Island Flagship Daily",
+    "rssUrl": "https://www.newsday.com/api/rss/recent"
+  },
+  {
+    "title": "Times Union",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesunion.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesunion.com",
+    "year": "New York",
+    "genre": "Albany",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "Star-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.stargazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stargazette.com",
+    "year": "New York",
+    "genre": "Elmira",
+    "rating": "Southern Tier Daily"
+  },
+  {
+    "title": "Press & Sun-Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.presssunbulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressconnects.com",
+    "year": "New York",
+    "genre": "Binghamton",
+    "rating": "Southern Tier Daily"
+  },
+  {
+    "title": "Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.observertoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=observertoday.com",
+    "year": "New York",
+    "genre": "Dunkirk",
+    "rating": "Daily",
+    "rssUrl": "https://www.observertoday.com/feed"
+  },
+  {
+    "title": "The Post-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.post-journal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=post-journal.com",
+    "year": "New York",
+    "genre": "Jamestown",
+    "rating": "Chautauqua County Daily",
+    "rssUrl": "https://www.post-journal.com/feed"
+  },
+  {
+    "title": "The Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.the-leader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=the-leader.com",
+    "year": "New York",
+    "genre": "Corning",
+    "rating": "Daily"
+  },
+  {
+    "title": "Olean Times Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.oleantimesherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oleantimesherald.com",
+    "year": "New York",
+    "genre": "Olean",
+    "rating": "Daily",
+    "rssUrl": "https://www.oleantimesherald.com/feed"
+  },
+  {
+    "title": "Daily Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.mpnnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mpnnow.com",
+    "year": "New York",
+    "genre": "Canandaigua",
+    "rating": "Finger Lakes Daily"
+  },
+  {
+    "title": "The Wall Street Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewallstreetjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsj.com",
+    "year": "New York",
+    "genre": "New York City",
+    "rating": "Leading Financial Daily"
+  },
+  {
+    "title": "Times Herald-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.recordonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recordonline.com",
+    "year": "New York",
+    "genre": "Middletown",
+    "rating": "Mid-Hudson Daily"
+  },
+  {
+    "title": "Poughkeepsie Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.poughkeepsiejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=poughkeepsiejournal.com",
+    "year": "New York",
+    "genre": "Poughkeepsie",
+    "rating": "Dutchess County Daily"
+  },
+  {
+    "title": "The New York Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.nytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nytimes.com",
+    "year": "New York",
+    "genre": "New York City",
+    "rating": "National & International Flagship"
+  },
+  {
+    "title": "New York Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.nydailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nydailynews.com",
+    "year": "New York",
+    "genre": "New York City",
+    "rating": "Major Metro Daily"
+  },
+  {
+    "title": "The Post-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.poststar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=poststar.com",
+    "year": "New York",
+    "genre": "Glens Falls",
+    "rating": "Adirondack Region Daily",
+    "rssUrl": "http://poststar.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.auburnpub.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=auburnpub.com",
+    "year": "New York",
+    "genre": "Auburn",
+    "rating": "Finger Lakes Daily",
+    "rssUrl": "http://auburnpub.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Ithaca Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.theithacajournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theithacajournal.com",
+    "year": "New York",
+    "genre": "Ithaca",
+    "rating": "Cornell / Tompkins Daily"
+  },
+  {
+    "title": "The Post-Standard / Syracuse.com",
+    "provider": "web",
+    "arguments": [
+      "https://www.syracuse.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=syracuse.com",
+    "year": "New York",
+    "genre": "Syracuse",
+    "rating": "Central NY Flagship Daily",
+    "rssUrl": "https://www.syracuse.com/arc/outboundfeeds/rss/"
+  },
+  {
+    "title": "Staten Island Advance / SILive",
+    "provider": "web",
+    "arguments": [
+      "https://www.silive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=silive.com",
+    "year": "New York",
+    "genre": "Staten Island",
+    "rating": "Borough Daily",
+    "rssUrl": "https://www.silive.com/arc/outboundfeeds/rss/"
+  },
+  {
+    "title": "The Troy Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.troyrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=troyrecord.com",
+    "year": "New York",
+    "genre": "Troy",
+    "rating": "Rensselaer County Daily",
+    "rssUrl": "https://www.troyrecord.com/feed/"
+  },
+  {
+    "title": "Daily Freeman",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyfreeman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyfreeman.com",
+    "year": "New York",
+    "genre": "Kingston",
+    "rating": "Ulster County Daily"
+  },
+  {
+    "title": "Observer-Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.uticaod.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=uticaod.com",
+    "year": "New York",
+    "genre": "Utica",
+    "rating": "Mohawk Valley Daily"
+  },
+  {
+    "title": "The Daily Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailygazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailygazette.com",
+    "year": "New York",
+    "genre": "Schenectady",
+    "rating": "Capital Region Daily"
+  },
+  {
+    "title": "Rome Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.romesentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=romesentinel.com",
+    "year": "New York",
+    "genre": "Rome",
+    "rating": "Oneida County Daily",
+    "rssUrl": "http://www.romesentinel.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Lockport Union-Sun & Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.lockportjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lockportjournal.com",
+    "year": "New York",
+    "genre": "Lockport",
+    "rating": "Daily",
+    "rssUrl": "http://www.lockportjournal.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Niagara Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.niagara-gazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=niagara-gazette.com",
+    "year": "New York",
+    "genre": "Niagara Falls",
+    "rating": "Daily",
+    "rssUrl": "http://www.niagara-gazette.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Lake Placid News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lakeplacidnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakeplacidnews.com",
+    "year": "New York",
+    "genre": "Lake Placid",
+    "rating": "Weekly",
+    "rssUrl": "http://www.dailygazette.com/search/?f=rss&amp;t=article&amp;c=lpn&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "Finger Lakes Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.fltimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fltimes.com",
+    "year": "New York",
+    "genre": "Geneva",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Cortland Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.cortlandstandard.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cortlandstandard.com",
+    "year": "New York",
+    "genre": "Cortland",
+    "rating": "Daily",
+    "rssUrl": "http://www.cortlandstandard.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Saratogian",
+    "provider": "web",
+    "arguments": [
+      "https://www.saratogian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saratogian.com",
+    "year": "New York",
+    "genre": "Saratoga Springs",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Buffalo News",
+    "provider": "web",
+    "arguments": [
+      "https://www.buffalonews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buffalonews.com",
+    "year": "New York",
+    "genre": "Buffalo",
+    "rating": "Western NY Flagship Daily"
+  },
+  {
+    "title": "Watertown Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.nny360.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nny360.com",
+    "year": "New York",
+    "genre": "Watertown",
+    "rating": "North Country Daily"
+  },
+  {
+    "title": "The Daily Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailystar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailystar.com",
+    "year": "New York",
+    "genre": "Oneonta",
+    "rating": "Otsego County Daily"
+  },
+  {
+    "title": "Batavia Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailynewsonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailynewsonline.com",
+    "year": "New York",
+    "genre": "Batavia",
+    "rating": "Daily"
+  },
+  {
+    "title": "Press-Republican",
+    "provider": "web",
+    "arguments": [
+      "https://www.pressrepublican.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressrepublican.com",
+    "year": "New York",
+    "genre": "Plattsburgh",
+    "rating": "Lake Champlain Daily"
+  },
+  {
+    "title": "The Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.recordernews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recordernews.com",
+    "year": "New York",
+    "genre": "Amsterdam",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.hudsonvalley360.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hudsonvalley360.com",
+    "year": "New York",
+    "genre": "Catskill",
+    "rating": "Greene County Daily"
+  },
+  {
+    "title": "The Register-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.hudsonvalley360.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hudsonvalley360.com",
+    "year": "New York",
+    "genre": "Hudson",
+    "rating": "Columbia County Daily"
+  },
+  {
+    "title": "The Leader-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.leaderherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leaderherald.com",
+    "year": "New York",
+    "genre": "Gloversville",
+    "rating": "Fulton-Montgomery Daily"
+  },
+  {
+    "title": "Adirondack Daily Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.adirondackdailyenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=adirondackdailyenterprise.com",
+    "year": "New York",
+    "genre": "Saranac Lake",
+    "rating": "Olympic Region Daily"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "title": "The Tuscaloosa News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetuscaloosanews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tuscaloosanews.com",
+    "year": "Alabama",
+    "genre": "Tuscaloosa",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Citizen of East Alabama",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecitizenofeastalabama.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecitizenofeastalabama.com",
+    "year": "Alabama",
+    "genre": "Phenix City",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Montgomery Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.montgomeryadvertiser.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montgomeryadvertiser.com",
+    "year": "Alabama",
+    "genre": "Montgomery",
+    "rating": "State Capital Daily"
+  },
+  {
+    "title": "The Gadsden Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.gadsdentimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gadsdentimes.com",
+    "year": "Alabama",
+    "genre": "Gadsden",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Southeast Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.southeastsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southeastsun.com",
+    "year": "Alabama",
+    "genre": "Enterprise",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Over the Mountain Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.otmj.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=otmj.com",
+    "year": "Alabama",
+    "genre": "Vestavia Hills",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Cullman Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.cullmantimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cullmantimes.com",
+    "year": "Alabama",
+    "genre": "Cullman",
+    "rating": "Daily",
+    "rssUrl": "https://www.cullmantimes.com/feed"
+  },
+  {
+    "title": "The Sand Mountain Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.sandmountainreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandmountainreporter.com",
+    "year": "Alabama",
+    "genre": "Albertville",
+    "rating": "Daily",
+    "rssUrl": "http://www.sandmountainreporter.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Huntsville Times",
+    "provider": "web",
+    "arguments": [
+      "https://al.com/huntsville"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=al.com",
+    "year": "Alabama",
+    "genre": "Huntsville",
+    "rating": "Top Daily",
+    "rssUrl": "https://www.al.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+    "title": "The Birmingham News / AL.com",
+    "provider": "web",
+    "arguments": [
+      "https://al.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=al.com",
+    "year": "Alabama",
+    "genre": "Birmingham",
+    "rating": "Top Daily",
+    "rssUrl": "https://www.al.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+    "title": "Mobile Press-Register",
+    "provider": "web",
+    "arguments": [
+      "https://al.com/mobile"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=al.com",
+    "year": "Alabama",
+    "genre": "Mobile",
+    "rating": "Top Daily",
+    "rssUrl": "https://www.al.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+    "title": "Opelika-Auburn News",
+    "provider": "web",
+    "arguments": [
+      "https://www.oanow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oanow.com",
+    "year": "Alabama",
+    "genre": "Auburn",
+    "rating": "Daily",
+    "rssUrl": "http://oanow.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Shelby County Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.shelbycountyreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shelbycountyreporter.com",
+    "year": "Alabama",
+    "genre": "Columbiana",
+    "rating": "Weekly",
+    "rssUrl": "https://www.shelbycountyreporter.com/rss.xml"
+  },
+  {
+    "title": "The Selma Times-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.selmatimesjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=selmatimesjournal.com",
+    "year": "Alabama",
+    "genre": "Selma",
+    "rating": "Daily",
+    "rssUrl": "https://www.selmatimesjournal.com/rss.xml"
+  },
+  {
+    "title": "The Anniston Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.annistonstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=annistonstar.com",
+    "year": "Alabama",
+    "genre": "Anniston",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Mountain Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.mountaineagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mountaineagle.com",
+    "year": "Alabama",
+    "genre": "Jasper",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Decatur Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.decaturdaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=decaturdaily.com",
+    "year": "Alabama",
+    "genre": "Decatur",
+    "rating": "Daily"
+  },
+  {
+    "title": "The TimesDaily",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesdaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesdaily.com",
+    "year": "Alabama",
+    "genre": "Florence",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Dothan Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.dothaneagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dothaneagle.com",
+    "year": "Alabama",
+    "genre": "Dothan",
+    "rating": "Daily"
+  },
+  {
+    "title": "The St. Clair Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestclairtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stclairtimes.com",
+    "year": "Alabama",
+    "genre": "Pell City",
+    "rating": "Weekly"
+  }
+]

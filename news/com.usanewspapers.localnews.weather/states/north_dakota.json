@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Minot Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.minotdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=minotdailynews.com",
+    "year": "North Dakota",
+    "genre": "Minot",
+    "rating": "North Central ND Daily",
+    "rssUrl": "https://www.minotdailynews.com/feed"
+  },
+  {
+    "title": "Grand Forks Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.grandforksherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=grandforksherald.com",
+    "year": "North Dakota",
+    "genre": "Grand Forks",
+    "rating": "UND Region Daily",
+    "rssUrl": "https://www.grandforksherald.com/index.rss"
+  },
+  {
+    "title": "The Bismarck Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.bismarcktribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bismarcktribune.com",
+    "year": "North Dakota",
+    "genre": "Bismarck",
+    "rating": "State Capital Flagship Daily",
+    "rssUrl": "http://bismarcktribune.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Forum of Fargo-Moorhead",
+    "provider": "web",
+    "arguments": [
+      "https://www.inforum.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inforum.com",
+    "year": "North Dakota",
+    "genre": "Fargo",
+    "rating": "State Flagship Daily",
+    "rssUrl": "https://www.inforum.com/index.rss"
+  },
+  {
+    "title": "The Dickinson Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedickinsonpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedickinsonpress.com",
+    "year": "North Dakota",
+    "genre": "Dickinson",
+    "rating": "Southwest ND Daily",
+    "rssUrl": "https://www.thedickinsonpress.com/index.rss"
+  },
+  {
+    "title": "Williston Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.willistonherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=willistonherald.com",
+    "year": "North Dakota",
+    "genre": "Williston",
+    "rating": "Bakken Region Daily",
+    "rssUrl": "https://www.willistonherald.com/index.rss"
+  },
+  {
+    "title": "Jamestown Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.jamestownsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jamestownsun.com",
+    "year": "North Dakota",
+    "genre": "Jamestown",
+    "rating": "Daily",
+    "rssUrl": "https://www.jamestownsun.com/index.rss"
+  },
+  {
+    "title": "Devils Lake Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.devilslakejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=devilslakejournal.com",
+    "year": "North Dakota",
+    "genre": "Devils Lake",
+    "rating": "Daily",
+    "rssUrl": "https://www.devilslakejournal.com/feed/"
+  },
+  {
+    "title": "Wahpeton Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.wahpetondailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wahpetondailynews.com",
+    "year": "North Dakota",
+    "genre": "Wahpeton",
+    "rating": "Daily",
+    "rssUrl": "https://www.wahpetondailynews.com/index.rss"
+  },
+  {
+    "title": "Valley City Times-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.times-online.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=times-online.com",
+    "year": "North Dakota",
+    "genre": "Valley City",
+    "rating": "Daily"
+  }
+]

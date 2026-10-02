@@ -1,0 +1,170 @@
+[
+  {
+    "title": "The Greenville News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegreenvillenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenvilleonline.com",
+    "year": "South Carolina",
+    "genre": "Greenville",
+    "rating": "Upstate Flagship Daily"
+  },
+  {
+    "title": "Spartanburg Herald-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.goupstate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goupstate.com",
+    "year": "South Carolina",
+    "genre": "Spartanburg",
+    "rating": "Upstate Daily"
+  },
+  {
+    "title": "The Island Packet",
+    "provider": "web",
+    "arguments": [
+      "https://www.theislandpacket.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=islandpacket.com",
+    "year": "South Carolina",
+    "genre": "Hilton Head Island",
+    "rating": "Lowcountry Daily"
+  },
+  {
+    "title": "The Index-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.indexjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indexjournal.com",
+    "year": "South Carolina",
+    "genre": "Greenwood",
+    "rating": "Daily",
+    "rssUrl": "http://www.indexjournal.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Aiken Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.aikenstandard.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aikenstandard.com",
+    "year": "South Carolina",
+    "genre": "Aiken",
+    "rating": "Daily",
+    "rssUrl": "https://www.postandcourier.com/search/?f=rss&amp;t=article&amp;c=aikenstandard&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "Anderson Independent Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.independentmail.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=independentmail.com",
+    "year": "South Carolina",
+    "genre": "Anderson",
+    "rating": "Daily"
+  },
+  {
+    "title": "Morning News",
+    "provider": "web",
+    "arguments": [
+      "https://www.scnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=scnow.com",
+    "year": "South Carolina",
+    "genre": "Florence",
+    "rating": "Pee Dee Region Daily",
+    "rssUrl": "http://scnow.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Times and Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetandd.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetandd.com",
+    "year": "South Carolina",
+    "genre": "Orangeburg",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Post and Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.postandcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=postandcourier.com",
+    "year": "South Carolina",
+    "genre": "Charleston",
+    "rating": "Pulitzer Prize Winning Flagship"
+  },
+  {
+    "title": "The Sumter Item",
+    "provider": "web",
+    "arguments": [
+      "https://www.theitem.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theitem.com",
+    "year": "South Carolina",
+    "genre": "Sumter",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Union Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.uniondailytimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=uniondailytimes.com",
+    "year": "South Carolina",
+    "genre": "Union",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Beaufort Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebeaufortgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=islandpacket.com",
+    "year": "South Carolina",
+    "genre": "Beaufort",
+    "rating": "Lowcountry Daily"
+  },
+  {
+    "title": "The State",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestate.com",
+    "year": "South Carolina",
+    "genre": "Columbia",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.theherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.com",
+    "year": "South Carolina",
+    "genre": "Rock Hill",
+    "rating": "York County Daily"
+  },
+  {
+    "title": "The Sun News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesunnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myrtlebeachonline.com",
+    "year": "South Carolina",
+    "genre": "Myrtle Beach",
+    "rating": "Grand Strand Flagship Daily"
+  }
+]

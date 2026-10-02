@@ -1,0 +1,185 @@
+[
+  {
+    "title": "The Des Moines Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedesmoinesregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=desmoinesregister.com",
+    "year": "Iowa",
+    "genre": "Des Moines",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "The Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegazette.com",
+    "year": "Iowa",
+    "genre": "Cedar Rapids / Iowa City",
+    "rating": "Eastern Iowa Daily",
+    "rssUrl": "http://www.thegazette.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Ames Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.amestrib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amestrib.com",
+    "year": "Iowa",
+    "genre": "Ames",
+    "rating": "Iowa State University Daily"
+  },
+  {
+    "title": "Quad-City Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.qctimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=qctimes.com",
+    "year": "Iowa",
+    "genre": "Davenport",
+    "rating": "Quad Cities Daily",
+    "rssUrl": "http://qctimes.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.messengernews.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=messengernews.net",
+    "year": "Iowa",
+    "genre": "Fort Dodge",
+    "rating": "Daily",
+    "rssUrl": "https://www.messengernews.net/feed"
+  },
+  {
+    "title": "Times-Republican",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesrepublican.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesrepublican.com",
+    "year": "Iowa",
+    "genre": "Marshalltown",
+    "rating": "Daily",
+    "rssUrl": "https://www.timesrepublican.com/feed"
+  },
+  {
+    "title": "Waterloo-Cedar Falls Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.wcfcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wcfcourier.com",
+    "year": "Iowa",
+    "genre": "Waterloo",
+    "rating": "Northeast Iowa Daily",
+    "rssUrl": "http://wcfcourier.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Newton Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.newtondailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newtondailynews.com",
+    "year": "Iowa",
+    "genre": "Newton",
+    "rating": "Daily",
+    "rssUrl": "https://www.newtondailynews.com/rss/articles"
+  },
+  {
+    "title": "The Daily Iowan",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyiowan.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyiowan.com",
+    "year": "Iowa",
+    "genre": "Iowa City",
+    "rating": "University of Iowa Daily",
+    "rssUrl": "https://dailyiowan.com/feed/"
+  },
+  {
+    "title": "Sioux City Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.siouxcityjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=siouxcityjournal.com",
+    "year": "Iowa",
+    "genre": "Sioux City",
+    "rating": "Western Iowa Daily"
+  },
+  {
+    "title": "Clinton Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.clintonherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clintonherald.com",
+    "year": "Iowa",
+    "genre": "Clinton",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Nonpareil",
+    "provider": "web",
+    "arguments": [
+      "https://www.nonpareilonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nonpareilonline.com",
+    "year": "Iowa",
+    "genre": "Council Bluffs",
+    "rating": "Omaha Metro Daily"
+  },
+  {
+    "title": "Ottumwa Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.ottumwacourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ottumwacourier.com",
+    "year": "Iowa",
+    "genre": "Ottumwa",
+    "rating": "Daily"
+  },
+  {
+    "title": "Muscatine Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.muscatinejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=muscatinejournal.com",
+    "year": "Iowa",
+    "genre": "Muscatine",
+    "rating": "Daily"
+  },
+  {
+    "title": "Globe Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.globegazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=globegazette.com",
+    "year": "Iowa",
+    "genre": "Mason City",
+    "rating": "North Iowa Daily"
+  },
+  {
+    "title": "The Hawk Eye",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehawkeye.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehawkeye.com",
+    "year": "Iowa",
+    "genre": "Burlington",
+    "rating": "Oldest IA Daily"
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Star Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.startribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=startribune.com",
+    "year": "Minnesota",
+    "genre": "Minneapolis",
+    "rating": "State Flagship Daily",
+    "rssUrl": "https://www.startribune.com/rss"
+  },
+  {
+    "title": "St. Cloud Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.stcloudtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sctimes.com",
+    "year": "Minnesota",
+    "genre": "St. Cloud",
+    "rating": "Central MN Daily"
+  },
+  {
+    "title": "The Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.mankatofreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mankatofreepress.com",
+    "year": "Minnesota",
+    "genre": "Mankato",
+    "rating": "South Central MN Daily",
+    "rssUrl": "http://www.mankatofreepress.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Albert Lea Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.albertleatribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=albertleatribune.com",
+    "year": "Minnesota",
+    "genre": "Albert Lea",
+    "rating": "Daily",
+    "rssUrl": "https://www.albertleatribune.com/rss.xml"
+  },
+  {
+    "title": "Faribault Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.southernminn.com/faribault_daily_news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southernminn.com",
+    "year": "Minnesota",
+    "genre": "Faribault",
+    "rating": "Daily",
+    "rssUrl": "http://www.southernminn.com/search/?f=rss&amp;t=article&amp;c=faribault_daily_news&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "Marshall Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.marshallindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marshallindependent.com",
+    "year": "Minnesota",
+    "genre": "Marshall",
+    "rating": "Daily",
+    "rssUrl": "https://www.marshallindependent.com/feed"
+  },
+  {
+    "title": "Duluth News Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.duluthnewstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=duluthnewstribune.com",
+    "year": "Minnesota",
+    "genre": "Duluth",
+    "rating": "North Shore Flagship Daily",
+    "rssUrl": "https://www.duluthnewstribune.com/index.rss"
+  },
+  {
+    "title": "Austin Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.austindailyherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=austindailyherald.com",
+    "year": "Minnesota",
+    "genre": "Austin",
+    "rating": "Daily",
+    "rssUrl": "https://www.austindailyherald.com/rss.xml"
+  },
+  {
+    "title": "The Forum of Fargo-Moorhead",
+    "provider": "web",
+    "arguments": [
+      "https://www.inforum.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inforum.com",
+    "year": "Minnesota",
+    "genre": "Moorhead / Fargo",
+    "rating": "Red River Valley Daily",
+    "rssUrl": "https://www.inforum.com/index.rss"
+  },
+  {
+    "title": "Post-Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.postbulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=postbulletin.com",
+    "year": "Minnesota",
+    "genre": "Rochester",
+    "rating": "Mayo Clinic Region Daily",
+    "rssUrl": "https://www.postbulletin.com/index.rss"
+  },
+  {
+    "title": "Brainerd Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.brainerddispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brainerddispatch.com",
+    "year": "Minnesota",
+    "genre": "Brainerd",
+    "rating": "Daily",
+    "rssUrl": "https://www.brainerddispatch.com/index.rss"
+  },
+  {
+    "title": "Fergus Falls Daily Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.fergusfallsjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fergusfallsjournal.com",
+    "year": "Minnesota",
+    "genre": "Fergus Falls",
+    "rating": "Daily",
+    "rssUrl": "https://www.fergusfallsjournal.com/index.rss"
+  },
+  {
+    "title": "Worthington Daily Globe",
+    "provider": "web",
+    "arguments": [
+      "https://www.dglobe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dglobe.com",
+    "year": "Minnesota",
+    "genre": "Worthington",
+    "rating": "Daily",
+    "rssUrl": "https://www.dglobe.com/index.rss"
+  },
+  {
+    "title": "St. Paul Pioneer Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.twincities.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=twincities.com",
+    "year": "Minnesota",
+    "genre": "St. Paul",
+    "rating": "Twin Cities Flagship Daily"
+  },
+  {
+    "title": "Bemidji Pioneer",
+    "provider": "web",
+    "arguments": [
+      "https://www.bemidjipioneer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bemidjipioneer.com",
+    "year": "Minnesota",
+    "genre": "Bemidji",
+    "rating": "Daily",
+    "rssUrl": "https://www.bemidjipioneer.com/index.rss"
+  },
+  {
+    "title": "West Central Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.wctrib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wctrib.com",
+    "year": "Minnesota",
+    "genre": "Willmar",
+    "rating": "Daily",
+    "rssUrl": "https://www.wctrib.com/index.rss"
+  },
+  {
+    "title": "Winona Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.winonadailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winonadailynews.com",
+    "year": "Minnesota",
+    "genre": "Winona",
+    "rating": "Daily"
+  },
+  {
+    "title": "Owatonna People's Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.southernminn.com/owatonna_peoples_press"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southernminn.com",
+    "year": "Minnesota",
+    "genre": "Owatonna",
+    "rating": "Daily"
+  }
+]

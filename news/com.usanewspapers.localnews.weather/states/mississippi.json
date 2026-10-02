@@ -1,0 +1,174 @@
+[
+  {
+    "title": "Hattiesburg American",
+    "provider": "web",
+    "arguments": [
+      "https://www.hattiesburgamerican.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hattiesburgamerican.com",
+    "year": "Mississippi",
+    "genre": "Hattiesburg",
+    "rating": "Pine Belt Daily"
+  },
+  {
+    "title": "The Commercial Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.cdispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cdispatch.com",
+    "year": "Mississippi",
+    "genre": "Columbus / Starkville",
+    "rating": "Golden Triangle Daily"
+  },
+  {
+    "title": "Northeast Mississippi Daily Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.djournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=djournal.com",
+    "year": "Mississippi",
+    "genre": "Tupelo",
+    "rating": "Tupelo Daily",
+    "rssUrl": "http://www.djournal.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Oxford Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.oxfordeagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oxfordeagle.com",
+    "year": "Mississippi",
+    "genre": "Oxford",
+    "rating": "Ole Miss Region Daily",
+    "rssUrl": "https://www.oxfordeagle.com/feed"
+  },
+  {
+    "title": "The Meridian Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.meridianstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=meridianstar.com",
+    "year": "Mississippi",
+    "genre": "Meridian",
+    "rating": "Daily",
+    "rssUrl": "https://www.meridianstar.com/feed"
+  },
+  {
+    "title": "The Vicksburg Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.vicksburgpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vicksburgpost.com",
+    "year": "Mississippi",
+    "genre": "Vicksburg",
+    "rating": "Historic River Daily",
+    "rssUrl": "https://www.vicksburgpost.com/rss.xml"
+  },
+  {
+    "title": "The Natchez Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.natchezdemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=natchezdemocrat.com",
+    "year": "Mississippi",
+    "genre": "Natchez",
+    "rating": "Daily",
+    "rssUrl": "https://www.natchezdemocrat.com/rss.xml"
+  },
+  {
+    "title": "The Daily Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyleader.com",
+    "year": "Mississippi",
+    "genre": "Brookhaven",
+    "rating": "Daily",
+    "rssUrl": "https://www.dailyleader.com/feed"
+  },
+  {
+    "title": "Picayune Item",
+    "provider": "web",
+    "arguments": [
+      "https://www.picayuneitem.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=picayuneitem.com",
+    "year": "Mississippi",
+    "genre": "Picayune",
+    "rating": "Daily",
+    "rssUrl": "https://www.picayuneitem.com/feed"
+  },
+  {
+    "title": "The Clarion-Ledger",
+    "provider": "web",
+    "arguments": [
+      "https://www.theclarionledger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clarionledger.com",
+    "year": "Mississippi",
+    "genre": "Jackson",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Delta Democrat Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.ddtonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ddtonline.com",
+    "year": "Mississippi",
+    "genre": "Greenville",
+    "rating": "Delta Daily"
+  },
+  {
+    "title": "The Daily Corinthian",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailycorinthian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycorinthian.com",
+    "year": "Mississippi",
+    "genre": "Corinth",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Greenwood Commonwealth",
+    "provider": "web",
+    "arguments": [
+      "https://www.gwcommonwealth.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gwcommonwealth.com",
+    "year": "Mississippi",
+    "genre": "Greenwood",
+    "rating": "Delta Daily"
+  },
+  {
+    "title": "Enterprise-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.enterprise-journal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enterprise-journal.com",
+    "year": "Mississippi",
+    "genre": "McComb",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sun Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.sunherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sunherald.com",
+    "year": "Mississippi",
+    "genre": "Biloxi / Gulfport",
+    "rating": "Gulf Coast Flagship Daily"
+  }
+]

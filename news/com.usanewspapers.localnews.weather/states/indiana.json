@@ -1,0 +1,226 @@
+[
+  {
+    "title": "South Bend Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.southbendtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southbendtribune.com",
+    "year": "Indiana",
+    "genre": "South Bend",
+    "rating": "Notre Dame Region Daily"
+  },
+  {
+    "title": "Evansville Courier & Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.evansvillecourierpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courierpress.com",
+    "year": "Indiana",
+    "genre": "Evansville",
+    "rating": "Southern Indiana Daily"
+  },
+  {
+    "title": "The Herald-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.theheraldtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldtimesonline.com",
+    "year": "Indiana",
+    "genre": "Bloomington",
+    "rating": "IU Bloomington Daily"
+  },
+  {
+    "title": "The Times of Northwest Indiana",
+    "provider": "web",
+    "arguments": [
+      "https://www.nwitimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nwitimes.com",
+    "year": "Indiana",
+    "genre": "Munster / Crown Point",
+    "rating": "Chicagoland IN Daily",
+    "rssUrl": "http://nwitimes.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The News-Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewssentinel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-sentinel.com",
+    "year": "Indiana",
+    "genre": "Fort Wayne",
+    "rating": "Fort Wayne News"
+  },
+  {
+    "title": "The Star Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestarpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestarpress.com",
+    "year": "Indiana",
+    "genre": "Muncie",
+    "rating": "Ball State Region Daily"
+  },
+  {
+    "title": "Journal & Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jconline.com",
+    "year": "Indiana",
+    "genre": "Lafayette",
+    "rating": "Purdue Region Daily"
+  },
+  {
+    "title": "The Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.therepublic.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=therepublic.com",
+    "year": "Indiana",
+    "genre": "Columbus",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald-Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldbulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldbulletin.com",
+    "year": "Indiana",
+    "genre": "Anderson",
+    "rating": "Daily",
+    "rssUrl": "http://www.heraldbulletin.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Richmond Palladium-Item",
+    "provider": "web",
+    "arguments": [
+      "https://www.pal-item.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pal-item.com",
+    "year": "Indiana",
+    "genre": "Richmond",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.duboiscountyfreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=duboiscountyfreepress.com",
+    "year": "Indiana",
+    "genre": "Jasper",
+    "rating": "Daily",
+    "rssUrl": "https://duboiscountyfreepress.com/feed/"
+  },
+  {
+    "title": "The Goshen News",
+    "provider": "web",
+    "arguments": [
+      "https://www.goshennews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goshennews.com",
+    "year": "Indiana",
+    "genre": "Goshen",
+    "rating": "Daily",
+    "rssUrl": "http://www.goshennews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Journal Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalgazette.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalgazette.net",
+    "year": "Indiana",
+    "genre": "Fort Wayne",
+    "rating": "Northeast Indiana Daily"
+  },
+  {
+    "title": "Kokomo Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.kokomotribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kokomotribune.com",
+    "year": "Indiana",
+    "genre": "Kokomo",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Elkhart Truth",
+    "provider": "web",
+    "arguments": [
+      "https://www.elkharttruth.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elkharttruth.com",
+    "year": "Indiana",
+    "genre": "Elkhart",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pharos-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.pharostribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pharostribune.com",
+    "year": "Indiana",
+    "genre": "Logansport",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Tribune-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribstar.com",
+    "year": "Indiana",
+    "genre": "Terre Haute",
+    "rating": "Wabash Valley Daily"
+  },
+  {
+    "title": "Chronicle-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.chronicle-tribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicle-tribune.com",
+    "year": "Indiana",
+    "genre": "Marion",
+    "rating": "Daily"
+  },
+  {
+    "title": "The News-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsandtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsandtribune.com",
+    "year": "Indiana",
+    "genre": "Jeffersonville / New Albany",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Indianapolis Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.theindianapolisstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indystar.com",
+    "year": "Indiana",
+    "genre": "Indianapolis",
+    "rating": "State Flagship Daily"
+  }
+]

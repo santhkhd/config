@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Springfield News-Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.springfieldnewsleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-leader.com",
+    "year": "Missouri",
+    "genre": "Springfield",
+    "rating": "Ozarks Flagship Daily"
+  },
+  {
+    "title": "Columbia Daily Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbiatribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbiatribune.com",
+    "year": "Missouri",
+    "genre": "Columbia",
+    "rating": "Mizzou Region Daily"
+  },
+  {
+    "title": "St. Louis Post-Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.stltoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stltoday.com",
+    "year": "Missouri",
+    "genre": "St. Louis",
+    "rating": "State Flagship Daily",
+    "rssUrl": "http://www.stltoday.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Hannibal Courier-Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.hannibal.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hannibal.net",
+    "year": "Missouri",
+    "genre": "Hannibal",
+    "rating": "Daily",
+    "rssUrl": "https://www.hannibal.net/feed"
+  },
+  {
+    "title": "Southeast Missourian",
+    "provider": "web",
+    "arguments": [
+      "https://www.semissourian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=semissourian.com",
+    "year": "Missouri",
+    "genre": "Cape Girardeau",
+    "rating": "Southeast MO Daily",
+    "rssUrl": "https://www.semissourian.com/rss.xml"
+  },
+  {
+    "title": "Moberly Monitor-Index",
+    "provider": "web",
+    "arguments": [
+      "https://www.moberlymonitorindex.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moberlymonitor.com",
+    "year": "Missouri",
+    "genre": "Moberly",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://www.theexaminer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=examiner.net",
+    "year": "Missouri",
+    "genre": "Independence",
+    "rating": "Daily",
+    "rssUrl": "https://www.theexaminer.com/rss.xml"
+  },
+  {
+    "title": "Daily American Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.darnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=darnews.com",
+    "year": "Missouri",
+    "genre": "Poplar Bluff",
+    "rating": "Daily",
+    "rssUrl": "https://www.darnews.com/rss.xml"
+  },
+  {
+    "title": "The Daily Statesman",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailystatesman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailystatesman.com",
+    "year": "Missouri",
+    "genre": "Dexter",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Rolla Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.therolladailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=therolladailynews.com",
+    "year": "Missouri",
+    "genre": "Rolla",
+    "rating": "Daily",
+    "rssUrl": "https://therolladailynews.com/feed/"
+  },
+  {
+    "title": "Jefferson City News Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.newstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstribune.com",
+    "year": "Missouri",
+    "genre": "Jefferson City",
+    "rating": "State Capital Daily"
+  },
+  {
+    "title": "Columbia Missourian",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbiamissourian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbiamissourian.com",
+    "year": "Missouri",
+    "genre": "Columbia",
+    "rating": "University of Missouri"
+  },
+  {
+    "title": "The Joplin Globe",
+    "provider": "web",
+    "arguments": [
+      "https://www.joplinglobe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=joplinglobe.com",
+    "year": "Missouri",
+    "genre": "Joplin",
+    "rating": "Southwest MO Daily"
+  },
+  {
+    "title": "Sedalia Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.sedaliademocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sedaliademocrat.com",
+    "year": "Missouri",
+    "genre": "Sedalia",
+    "rating": "Daily"
+  },
+  {
+    "title": "St. Joseph News-Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.newspressnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newspressnow.com",
+    "year": "Missouri",
+    "genre": "St. Joseph",
+    "rating": "Top Daily"
+  },
+  {
+    "title": "Kirksville Daily Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.kirksvilledailyexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kirksvilledailyexpress.com",
+    "year": "Missouri",
+    "genre": "Kirksville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lake Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.lakenewsonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakenewsonline.com",
+    "year": "Missouri",
+    "genre": "Lake of the Ozarks",
+    "rating": "Daily"
+  },
+  {
+    "title": "West Plains Daily Quill",
+    "provider": "web",
+    "arguments": [
+      "https://www.westplainsdailyquill.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westplainsdailyquill.net",
+    "year": "Missouri",
+    "genre": "West Plains",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Kansas City Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.thekansascitystar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kansascity.com",
+    "year": "Missouri",
+    "genre": "Kansas City",
+    "rating": "Western MO Flagship Daily"
+  }
+]

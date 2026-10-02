@@ -1,0 +1,171 @@
+[
+  {
+    "title": "The Daily Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.theadvertiser.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theadvertiser.com",
+    "year": "Louisiana",
+    "genre": "Lafayette",
+    "rating": "Acadiana Region Flagship"
+  },
+  {
+    "title": "The Town Talk",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetowntalk.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetowntalk.com",
+    "year": "Louisiana",
+    "genre": "Alexandria",
+    "rating": "Central Louisiana Daily"
+  },
+  {
+    "title": "The Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.houmatoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=houmatoday.com",
+    "year": "Louisiana",
+    "genre": "Houma",
+    "rating": "Bayou Region Daily"
+  },
+  {
+    "title": "The News-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewsstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewsstar.com",
+    "year": "Louisiana",
+    "genre": "Monroe",
+    "rating": "Northeast LA Daily"
+  },
+  {
+    "title": "Daily Comet",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailycomet.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycomet.com",
+    "year": "Louisiana",
+    "genre": "Thibodaux",
+    "rating": "Bayou Region Daily"
+  },
+  {
+    "title": "The Daily World",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyworld.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyworld.com",
+    "year": "Louisiana",
+    "genre": "Opelousas",
+    "rating": "Daily"
+  },
+  {
+    "title": "American Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.americanpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=americanpress.com",
+    "year": "Louisiana",
+    "genre": "Lake Charles",
+    "rating": "Southwest LA Daily",
+    "rssUrl": "https://www.americanpress.com/feed"
+  },
+  {
+    "title": "The Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shreveporttimes.com",
+    "year": "Louisiana",
+    "genre": "Shreveport",
+    "rating": "North Louisiana Daily"
+  },
+  {
+    "title": "Minden Press-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.press-herald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=press-herald.com",
+    "year": "Louisiana",
+    "genre": "Minden",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Iberian",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailyiberian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iberianet.com",
+    "year": "Louisiana",
+    "genre": "New Iberia",
+    "rating": "Daily",
+    "rssUrl": "https://www.thedailyiberian.com/feed"
+  },
+  {
+    "title": "Bogalusa Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.bogalusadailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bogalusanews.com",
+    "year": "Louisiana",
+    "genre": "Bogalusa",
+    "rating": "Daily",
+    "rssUrl": "https://www.bogalusadailynews.com/feed"
+  },
+  {
+    "title": "The Daily Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.daily-review.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daily-review.com",
+    "year": "Louisiana",
+    "genre": "Morgan City",
+    "rating": "Daily",
+    "rssUrl": "https://www.stmarynow.com/rss.xml"
+  },
+  {
+    "title": "The Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.theadvocate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theadvocate.com",
+    "year": "Louisiana",
+    "genre": "Baton Rouge",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "The Times-Picayune",
+    "provider": "web",
+    "arguments": [
+      "https://www.nola.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nola.com",
+    "year": "Louisiana",
+    "genre": "New Orleans",
+    "rating": "New Orleans Flagship Daily"
+  },
+  {
+    "title": "St. Tammany Farmer",
+    "provider": "web",
+    "arguments": [
+      "https://www.sttammanyfarmer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theadvocate.com",
+    "year": "Louisiana",
+    "genre": "Covington / Northshore",
+    "rating": "Weekly"
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "title": "The Courier-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecourierjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courier-journal.com",
+    "year": "Kentucky",
+    "genre": "Louisville",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "The Kentucky Enquirer",
+    "provider": "web",
+    "arguments": [
+      "https://www.thekentuckyenquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cincinnati.com",
+    "year": "Kentucky",
+    "genre": "Covington",
+    "rating": "Northern KY Daily"
+  },
+  {
+    "title": "Bowling Green Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.bgdailynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bgdailynews.com",
+    "year": "Kentucky",
+    "genre": "Bowling Green",
+    "rating": "South Central KY Daily",
+    "rssUrl": "https://www.bgdailynews.com/feed"
+  },
+  {
+    "title": "The Gleaner",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegleaner.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegleaner.com",
+    "year": "Kentucky",
+    "genre": "Henderson",
+    "rating": "Daily"
+  },
+  {
+    "title": "The State Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.state-journal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=state-journal.com",
+    "year": "Kentucky",
+    "genre": "Frankfort",
+    "rating": "State Capital Daily",
+    "rssUrl": "https://www.state-journal.com/feed"
+  },
+  {
+    "title": "Messenger-Inquirer",
+    "provider": "web",
+    "arguments": [
+      "https://www.messenger-inquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=messenger-inquirer.com",
+    "year": "Kentucky",
+    "genre": "Owensboro",
+    "rating": "Western KY Daily",
+    "rssUrl": "http://www.messenger-inquirer.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Ledger Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.maysville-online.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maysville-online.com",
+    "year": "Kentucky",
+    "genre": "Maysville",
+    "rating": "Daily",
+    "rssUrl": "https://www.maysville-online.com/feed"
+  },
+  {
+    "title": "The Advocate-Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.amnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amnews.com",
+    "year": "Kentucky",
+    "genre": "Danville",
+    "rating": "Daily",
+    "rssUrl": "https://www.amnews.com/feed"
+  },
+  {
+    "title": "The Commonwealth-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.somerset-kentucky.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=somerset-kentucky.com",
+    "year": "Kentucky",
+    "genre": "Somerset",
+    "rating": "Daily",
+    "rssUrl": "http://www.somerset-kentucky.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Winchester Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.winchestersun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winchestersun.com",
+    "year": "Kentucky",
+    "genre": "Winchester",
+    "rating": "Daily",
+    "rssUrl": "https://www.winchestersun.com/feed"
+  },
+  {
+    "title": "The Paducah Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.paducahsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paducahsun.com",
+    "year": "Kentucky",
+    "genre": "Paducah",
+    "rating": "Western KY Daily"
+  },
+  {
+    "title": "Richmond Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.richmondregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=richmondregister.com",
+    "year": "Kentucky",
+    "genre": "Richmond",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyindependent.com",
+    "year": "Kentucky",
+    "genre": "Ashland",
+    "rating": "Eastern KY Daily"
+  },
+  {
+    "title": "The News-Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewsenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewsenterprise.com",
+    "year": "Kentucky",
+    "genre": "Elizabethtown",
+    "rating": "Central KY Daily"
+  },
+  {
+    "title": "Kentucky New Era",
+    "provider": "web",
+    "arguments": [
+      "https://www.kentuckynewera.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kentuckynewera.com",
+    "year": "Kentucky",
+    "genre": "Hopkinsville",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lexington Herald-Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.lexingtonheraldleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kentucky.com",
+    "year": "Kentucky",
+    "genre": "Lexington",
+    "rating": "Bluegrass Region Flagship"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Laramie Boomerang",
+    "provider": "web",
+    "arguments": [
+      "https://www.laramieboomerang.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laramieboomerang.com",
+    "year": "Wyoming",
+    "genre": "Laramie",
+    "rating": "University of Wyoming Daily",
+    "rssUrl": "http://www.wyomingnews.com/search/?f=rss&amp;t=article&amp;c=laramieboomerang&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "The Rocket-Miner",
+    "provider": "web",
+    "arguments": [
+      "https://www.rocketminer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rocketminer.com",
+    "year": "Wyoming",
+    "genre": "Rock Springs",
+    "rating": "Sweetwater County Daily",
+    "rssUrl": "http://www.wyomingnews.com/search/?f=rss&amp;t=article&amp;c=rocketminer&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "Rawlins Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.rawlinstimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rawlinstimes.com",
+    "year": "Wyoming",
+    "genre": "Rawlins",
+    "rating": "Carbon County",
+    "rssUrl": "http://www.wyomingnews.com/search/?f=rss&amp;t=article&amp;c=rawlinstimes&amp;l=50&amp;s=start_time&amp;sd=desc"
+  },
+  {
+    "title": "Douglas Budget",
+    "provider": "web",
+    "arguments": [
+      "https://www.douglas-budget.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=douglas-budget.com",
+    "year": "Wyoming",
+    "genre": "Douglas",
+    "rating": "Weekly",
+    "rssUrl": "https://www.douglas-budget.com/rss/articles"
+  },
+  {
+    "title": "Wyoming Tribune Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.wyomingnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wyomingnews.com",
+    "year": "Wyoming",
+    "genre": "Cheyenne",
+    "rating": "State Capital Flagship Daily"
+  },
+  {
+    "title": "Buffalo Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.buffalobulletin.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buffalobulletin.com",
+    "year": "Wyoming",
+    "genre": "Buffalo",
+    "rating": "Weekly",
+    "rssUrl": "http://www.buffalobulletin.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Jackson Hole News&Guide",
+    "provider": "web",
+    "arguments": [
+      "https://www.jhnewsandguide.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jhnewsandguide.com",
+    "year": "Wyoming",
+    "genre": "Jackson Hole",
+    "rating": "Teton County Weekly"
+  },
+  {
+    "title": "The Sheridan Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesheridanpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesheridanpress.com",
+    "year": "Wyoming",
+    "genre": "Sheridan",
+    "rating": "Northern WY Daily"
+  },
+  {
+    "title": "Gillette News Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.gillettenewsrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gillettenewsrecord.com",
+    "year": "Wyoming",
+    "genre": "Gillette",
+    "rating": "Energy Capital Daily"
+  },
+  {
+    "title": "Casper Star-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.trib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=trib.com",
+    "year": "Wyoming",
+    "genre": "Casper",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Riverton Ranger",
+    "provider": "web",
+    "arguments": [
+      "https://www.rangerreview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rangerreview.com",
+    "year": "Wyoming",
+    "genre": "Riverton",
+    "rating": "Fremont County"
+  },
+  {
+    "title": "The Cody Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.codyenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=codyenterprise.com",
+    "year": "Wyoming",
+    "genre": "Cody",
+    "rating": "Yellowstone Gateway"
+  },
+  {
+    "title": "Torrington Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.torringtontelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=torringtontelegram.com",
+    "year": "Wyoming",
+    "genre": "Torrington",
+    "rating": "Goshen County"
+  },
+  {
+    "title": "Powell Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.powelltribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=powelltribune.com",
+    "year": "Wyoming",
+    "genre": "Powell",
+    "rating": "Semi-Weekly"
+  },
+  {
+    "title": "Platte County Record-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.pcrecordtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pcrecordtimes.com",
+    "year": "Wyoming",
+    "genre": "Wheatland",
+    "rating": "Weekly"
+  }
+]

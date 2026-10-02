@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Argus Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.argusleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=argusleader.com",
+    "year": "South Dakota",
+    "genre": "Sioux Falls",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Aberdeen American News",
+    "provider": "web",
+    "arguments": [
+      "https://www.aberdeennews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aberdeennews.com",
+    "year": "South Dakota",
+    "genre": "Aberdeen",
+    "rating": "Northeast SD Daily"
+  },
+  {
+    "title": "Watertown Public Opinion",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepublicopinion.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepublicopinion.com",
+    "year": "South Dakota",
+    "genre": "Watertown",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.mitchellrepublic.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mitchellrepublic.com",
+    "year": "South Dakota",
+    "genre": "Mitchell",
+    "rating": "Daily",
+    "rssUrl": "https://www.mitchellrepublic.com/index.rss"
+  },
+  {
+    "title": "Rapid City Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.rapidcityjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rapidcityjournal.com",
+    "year": "South Dakota",
+    "genre": "Rapid City",
+    "rating": "Black Hills Flagship Daily",
+    "rssUrl": "http://rapidcityjournal.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Huron Plainsman",
+    "provider": "web",
+    "arguments": [
+      "https://www.plainsman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=plainsman.com",
+    "year": "South Dakota",
+    "genre": "Huron",
+    "rating": "Daily",
+    "rssUrl": "https://plainsman.com/feed/"
+  },
+  {
+    "title": "Brookings Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.brookingsregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brookingsregister.com",
+    "year": "South Dakota",
+    "genre": "Brookings",
+    "rating": "SDSU Region Daily",
+    "rssUrl": "https://www.brookingsregister.com/feed/"
+  },
+  {
+    "title": "Yankton Daily Press & Dakotan",
+    "provider": "web",
+    "arguments": [
+      "https://www.yankton.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yankton.net",
+    "year": "South Dakota",
+    "genre": "Yankton",
+    "rating": "Oldest SD Daily",
+    "rssUrl": "http://www.yankton.net/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "Capital Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.capjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capjournal.com",
+    "year": "South Dakota",
+    "genre": "Pierre",
+    "rating": "State Capital Daily",
+    "rssUrl": "https://www.capjournal.com/index.rss"
+  },
+  {
+    "title": "Madison Daily Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.madisondailyleader.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madisondailyleader.com",
+    "year": "South Dakota",
+    "genre": "Madison",
+    "rating": "Daily",
+    "rssUrl": "https://www.madisondailyleader.com/index.rss"
+  },
+  {
+    "title": "Black Hills Pioneer",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhpioneer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhpioneer.com",
+    "year": "South Dakota",
+    "genre": "Spearfish",
+    "rating": "Daily"
+  }
+]

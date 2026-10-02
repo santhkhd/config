@@ -1,0 +1,174 @@
+[
+  {
+    "title": "Park Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.parkrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=parkrecord.com",
+    "year": "Utah",
+    "genre": "Park City",
+    "rating": "Summit County Semi-Weekly",
+    "rssUrl": "https://www.parkrecord.com/feed/"
+  },
+  {
+    "title": "Deseret News",
+    "provider": "web",
+    "arguments": [
+      "https://www.deseret.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deseret.com",
+    "year": "Utah",
+    "genre": "Salt Lake City",
+    "rating": "Oldest Continuously Published Daily in UT",
+    "rssUrl": "https://www.deseret.com/rss/latest.rss"
+  },
+  {
+    "title": "The Spectrum",
+    "provider": "web",
+    "arguments": [
+      "https://www.thespectrum.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thespectrum.com",
+    "year": "Utah",
+    "genre": "St. George",
+    "rating": "Southern Utah Daily"
+  },
+  {
+    "title": "The Vernal Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.thevernalexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ubmedia.biz",
+    "year": "Utah",
+    "genre": "Vernal",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The Herald Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.hjnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hjnews.com",
+    "year": "Utah",
+    "genre": "Logan",
+    "rating": "Cache Valley Daily",
+    "rssUrl": "http://www.hjnews.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"
+  },
+  {
+    "title": "The Salt Lake Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.sltrib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sltrib.com",
+    "year": "Utah",
+    "genre": "Salt Lake City",
+    "rating": "Pulitzer Prize Winning Flagship Daily",
+    "rssUrl": "https://www.sltrib.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+    "title": "Davis Clipper",
+    "provider": "web",
+    "arguments": [
+      "https://www.davisclipper.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clippertoday.com",
+    "year": "Utah",
+    "genre": "Bountiful",
+    "rating": "Weekly"
+  },
+  {
+    "title": "San Juan Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.sjrnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sjrnews.com",
+    "year": "Utah",
+    "genre": "Monticello",
+    "rating": "Weekly",
+    "rssUrl": "https://www.sjrnews.com/rss.xml"
+  },
+  {
+    "title": "The Daily Utah Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyutahchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyutahchronicle.com",
+    "year": "Utah",
+    "genre": "Salt Lake City",
+    "rating": "University of Utah",
+    "rssUrl": "https://dailyutahchronicle.com/feed/"
+  },
+  {
+    "title": "The Daily Universe",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailyuniverse.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=universe.byu.edu",
+    "year": "Utah",
+    "genre": "Provo",
+    "rating": "BYU Daily"
+  },
+  {
+    "title": "The Times-Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetimesindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moabtimes.com",
+    "year": "Utah",
+    "genre": "Moab",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Moab Sun News",
+    "provider": "web",
+    "arguments": [
+      "https://www.moabsunnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moabsunnews.com",
+    "year": "Utah",
+    "genre": "Moab",
+    "rating": "Weekly",
+    "rssUrl": "https://moabsunnews.com/feed/"
+  },
+  {
+    "title": "Standard-Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://www.standard.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=standard.net",
+    "year": "Utah",
+    "genre": "Ogden",
+    "rating": "Northern Utah Daily"
+  },
+  {
+    "title": "Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldextra.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldextra.com",
+    "year": "Utah",
+    "genre": "Provo",
+    "rating": "Utah Valley Daily"
+  },
+  {
+    "title": "Uintah Basin Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.uintahbasinstandard.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ubmedia.biz",
+    "year": "Utah",
+    "genre": "Roosevelt",
+    "rating": "Weekly"
+  }
+]

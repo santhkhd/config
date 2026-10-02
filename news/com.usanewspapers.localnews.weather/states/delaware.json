@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Smyrna/Clayton Sun-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.scsuntimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=scsuntimes.com",
+    "year": "Delaware",
+    "genre": "Smyrna",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Sussex Countian",
+    "provider": "web",
+    "arguments": [
+      "https://www.sussexcountian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sussexcountian.com",
+    "year": "Delaware",
+    "genre": "Georgetown",
+    "rating": "Weekly"
+  },
+  {
+    "title": "The News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewsjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delawareonline.com",
+    "year": "Delaware",
+    "genre": "Wilmington",
+    "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Cape Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.capegazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capegazette.com",
+    "year": "Delaware",
+    "genre": "Lewes / Rehoboth Beach",
+    "rating": "Top Coastal Weekly",
+    "rssUrl": "https://www.capegazette.com/rss.xml"
+  },
+  {
+    "title": "Harrington Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.harringtonjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=harringtonjournal.com",
+    "year": "Delaware",
+    "genre": "Harrington",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Milford Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.milfordchronicle.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=milfordchronicle.net",
+    "year": "Delaware",
+    "genre": "Milford",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Coastal Point",
+    "provider": "web",
+    "arguments": [
+      "https://www.coastalpoint.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coastalpoint.com",
+    "year": "Delaware",
+    "genre": "Ocean View / Bethany",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Newark Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.newarkpostonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newarkpostonline.com",
+    "year": "Delaware",
+    "genre": "Newark",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Delaware State News",
+    "provider": "web",
+    "arguments": [
+      "https://www.delawarestatenews.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delawarestatenews.net",
+    "year": "Delaware",
+    "genre": "Dover",
+    "rating": "State Capital Daily"
+  }
+]
