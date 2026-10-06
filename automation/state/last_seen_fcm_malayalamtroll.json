@@ -63,7 +63,7 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC96MCpGZsAyv1lmJI4BM5Vg": "yt:video:rFc_FTHb3YI",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtHCRF5bNn_ImDkn4w47L4Q": "yt:video:PydTuCj-CRA",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC6RsQGglWCXre5du9GuLX2A": "yt:video:WOGZaFrJTc0",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC60YvD_EAsoU2lIcQdxwR1Q": "yt:video:zagBZouUHaA",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC60YvD_EAsoU2lIcQdxwR1Q": "yt:video:A_DoAFByz90",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC3Zl7mX83P0_2_XArE6mvlA": "yt:video:8WXssCX4F_g",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xyf6AbSfmanu8aGXTas_w": "yt:video:Q1zCETIlYg0",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCG9xw4kFo11e39yaaN09BtQ": "yt:video:cOysFUuxES0",
@@ -83,7 +83,7 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZTnrXvZlBO2pyucAyXgjg": "yt:video:dAkPFn6F0z4",
   "_meta": {
     "today_date": "2026-10-06",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1791216198
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1791255630
   }
 }
