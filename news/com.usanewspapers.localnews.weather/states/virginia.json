@@ -269,5 +269,544 @@
     "year": "Virginia",
     "genre": "Martinsville",
     "rating": "Daily"
+  },
+  {
+    "title": "13newsnow",
+    "provider": "web",
+    "arguments": [
+      "http://13newsnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=13newsnow.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rrecord",
+    "provider": "web",
+    "arguments": [
+      "https://rrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rrecord.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Taylor Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.taylordailypress.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=taylordailypress.net",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The New Journal and Guide",
+    "provider": "web",
+    "arguments": [
+      "http://www.thenewjournalandguide.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewjournalandguide.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Union Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.theunionstar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theunionstar.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtkr",
+    "provider": "web",
+    "arguments": [
+      "http://wtkr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtkr.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alextimes",
+    "provider": "web",
+    "arguments": [
+      "https://alextimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alextimes.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Richmondmagazine",
+    "provider": "web",
+    "arguments": [
+      "https://richmondmagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=richmondmagazine.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vinton Messenger",
+    "provider": "web",
+    "arguments": [
+      "http://www.vintonmessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vintonmessenger.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Craig Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.craigdailypress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=craigdailypress.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Roanoker",
+    "provider": "web",
+    "arguments": [
+      "https://theroanoker.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theroanoker.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shore Daily News",
+    "provider": "web",
+    "arguments": [
+      "http://www.shoredailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shoredailynews.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Silver City Daily Press",
+    "provider": "web",
+    "arguments": [
+      "http://scdailypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=scdailypress.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Southside Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.ssentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ssentinel.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Free Lance–Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.virginiachronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=virginiachronicle.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fauquiernow",
+    "provider": "web",
+    "arguments": [
+      "http://fauquiernow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fauquiernow.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Loudoun Now",
+    "provider": "web",
+    "arguments": [
+      "https://loudounnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=loudounnow.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paragould Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.paragoulddailypress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paragoulddailypress.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Smithfield Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.smithfieldtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=smithfieldtimes.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Victorville Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.vvdailypress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vvdailypress.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arlnow",
+    "provider": "web",
+    "arguments": [
+      "http://arlnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arlnow.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Caroline Progress",
+    "provider": "web",
+    "arguments": [
+      "https://www.carolineprogress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carolineprogress.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Carroll News",
+    "provider": "web",
+    "arguments": [
+      "http://thecarrollnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecarrollnews.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Catholicvirginian",
+    "provider": "web",
+    "arguments": [
+      "https://catholicvirginian.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=catholicvirginian.org",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Culpeper Star-Exponent",
+    "provider": "web",
+    "arguments": [
+      "https://starexponent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starexponent.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Enterprise - United States - Virginia",
+    "provider": "web",
+    "arguments": [
+      "https://theenterprise.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theenterprise.net",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Castle Record",
+    "provider": "web",
+    "arguments": [
+      "http://www.newcastlerecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newcastlerecord.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Gazette - United States - Virginia",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenews-gazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenews-gazette.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nrvnews",
+    "provider": "web",
+    "arguments": [
+      "https://nrvnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nrvnews.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Potomaclocal",
+    "provider": "web",
+    "arguments": [
+      "http://potomaclocal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=potomaclocal.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Richmond Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.richmondregister.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=richmondregister.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "South Hill Enterprise",
+    "provider": "web",
+    "arguments": [
+      "http://www.southhillenterprise.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southhillenterprise.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Star Tribune - United States - Virginia",
+    "provider": "web",
+    "arguments": [
+      "https://www.chathamstartribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chathamstartribune.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Styleweekly",
+    "provider": "web",
+    "arguments": [
+      "http://styleweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=styleweekly.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tahlequah Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.tahlequahdailypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tahlequahdailypress.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdbj7",
+    "provider": "web",
+    "arguments": [
+      "https://www.wdbj7.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdbj7.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wfirnews",
+    "provider": "web",
+    "arguments": [
+      "https://wfirnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfirnews.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WFLS",
+    "provider": "web",
+    "arguments": [
+      "https://www.wfls.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfls.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whsv",
+    "provider": "web",
+    "arguments": [
+      "https://www.whsv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whsv.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yourgv",
+    "provider": "web",
+    "arguments": [
+      "http://yourgv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yourgv.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Franklin News Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.thefranklinnewspost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thefranklinnewspost.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Virginiabusiness",
+    "provider": "web",
+    "arguments": [
+      "https://virginiabusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=virginiabusiness.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wmra",
+    "provider": "web",
+    "arguments": [
+      "http://wmra.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmra.org",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvtf",
+    "provider": "web",
+    "arguments": [
+      "http://wvtf.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvtf.org",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brunswick Times Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.brunswicktimes-gazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brunswicktimes-gazette.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chattahooche News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://sneadssentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sneadssentinel.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fluvannareview",
+    "provider": "web",
+    "arguments": [
+      "https://fluvannareview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fluvannareview.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "henrico citizen online",
+    "provider": "web",
+    "arguments": [
+      "https://www.henricocitizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=henricocitizen.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WTVR-TV CBS",
+    "provider": "web",
+    "arguments": [
+      "https://www.wtvr.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtvr.com",
+    "year": "Virginia",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

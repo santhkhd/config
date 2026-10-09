@@ -208,5 +208,346 @@
     "year": "Oregon",
     "genre": "Klamath Falls",
     "rating": "Daily"
+  },
+  {
+    "title": "KAGO",
+    "provider": "web",
+    "arguments": [
+      "https://www.mybasin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mybasin.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "kgw nbc",
+    "provider": "web",
+    "arguments": [
+      "https://www.kgw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kgw.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rogue River Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.rogueriverpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rogueriverpress.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The New Era",
+    "provider": "web",
+    "arguments": [
+      "https://thenewera-online.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewera-online.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Nugget Newspaper",
+    "provider": "web",
+    "arguments": [
+      "https://www.nuggetnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nuggetnews.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ashland Daily Tidings",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailytidings.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailytidings.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fort Worth Weekly",
+    "provider": "web",
+    "arguments": [
+      "http://fwweekly.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fwweekly.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jacksonville Review",
+    "provider": "web",
+    "arguments": [
+      "https://jacksonvillereview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonvillereview.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Source Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.bendsource.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bendsource.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Southeastexaminer",
+    "provider": "web",
+    "arguments": [
+      "http://southeastexaminer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southeastexaminer.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Madras Pioneer",
+    "provider": "web",
+    "arguments": [
+      "http://www.madraspioneer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madraspioneer.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Newberg Graphic",
+    "provider": "web",
+    "arguments": [
+      "http://www.newberggraphic.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newberggraphic.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kdrv",
+    "provider": "web",
+    "arguments": [
+      "http://kdrv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kdrv.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bluemountaineagle",
+    "provider": "web",
+    "arguments": [
+      "https://bluemountaineagle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bluemountaineagle.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ellatinodehoy",
+    "provider": "web",
+    "arguments": [
+      "https://www.ellatinodehoy.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ellatinodehoy.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kbnd",
+    "provider": "web",
+    "arguments": [
+      "https://kbnd.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kbnd.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kobi5",
+    "provider": "web",
+    "arguments": [
+      "https://kobi5.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kobi5.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "kopb",
+    "provider": "web",
+    "arguments": [
+      "https://www.opb.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=opb.org",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kptv",
+    "provider": "web",
+    "arguments": [
+      "http://kptv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kptv.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kugn",
+    "provider": "web",
+    "arguments": [
+      "http://kugn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kugn.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "McKenzie River Reflections; A Local Newspaper",
+    "provider": "web",
+    "arguments": [
+      "https://www.mckenzieriverreflectionsnewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mckenzieriverreflectionsnewspaper.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Guard",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenewsguard.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewsguard.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nrtoday",
+    "provider": "web",
+    "arguments": [
+      "https://www.nrtoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nrtoday.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oregon Coast Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.oregoncoasttoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oregoncoasttoday.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Polk County Itemizer-Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.polkio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=polkio.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Portlandchinesetimes",
+    "provider": "web",
+    "arguments": [
+      "https://portlandchinesetimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portlandchinesetimes.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Seaside Signal",
+    "provider": "web",
+    "arguments": [
+      "http://www.seasidesignal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seasidesignal.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Spilyay Tymoo",
+    "provider": "web",
+    "arguments": [
+      "https://wsnews.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsnews.org",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Linn-Benton Community College Commuter",
+    "provider": "web",
+    "arguments": [
+      "https://lbcommuter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lbcommuter.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Virginia Law Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.lawweekly.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lawweekly.org",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Willamette Week",
+    "provider": "web",
+    "arguments": [
+      "https://www.wweek.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wweek.com",
+    "year": "Oregon",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

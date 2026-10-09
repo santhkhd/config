@@ -184,5 +184,203 @@
     "year": "Alaska",
     "genre": "Sitka",
     "rating": "Daily"
+  },
+  {
+    "title": "Alaska Native News",
+    "provider": "web",
+    "arguments": [
+      "https://alaska-native-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alaska-native-news.com",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KHNS",
+    "provider": "web",
+    "arguments": [
+      "https://khns.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=khns.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knom",
+    "provider": "web",
+    "arguments": [
+      "https://knom.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knom.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KVAK",
+    "provider": "web",
+    "arguments": [
+      "https://www.kvakradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvakradio.com",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktna",
+    "provider": "web",
+    "arguments": [
+      "https://ktna.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktna.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kcaw",
+    "provider": "web",
+    "arguments": [
+      "https://kcaw.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kcaw.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Krbd",
+    "provider": "web",
+    "arguments": [
+      "https://krbd.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=krbd.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Youralaskalink",
+    "provider": "web",
+    "arguments": [
+      "http://youralaskalink.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=youralaskalink.com",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alaskapublic",
+    "provider": "web",
+    "arguments": [
+      "http://www.alaskapublic.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alaskapublic.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Delta Wind",
+    "provider": "web",
+    "arguments": [
+      "https://www.deltawindonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deltawindonline.com",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kfqd",
+    "provider": "web",
+    "arguments": [
+      "http://kfqd.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfqd.com",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KMXT",
+    "provider": "web",
+    "arguments": [
+      "https://www.kmxt.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kmxt.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knba",
+    "provider": "web",
+    "arguments": [
+      "http://knba.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knba.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Petroleumnews",
+    "provider": "web",
+    "arguments": [
+      "http://petroleumnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=petroleumnews.com",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kucb",
+    "provider": "web",
+    "arguments": [
+      "http://kucb.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kucb.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kyuk",
+    "provider": "web",
+    "arguments": [
+      "http://kyuk.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kyuk.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kdlg",
+    "provider": "web",
+    "arguments": [
+      "http://kdlg.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kdlg.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KDLL",
+    "provider": "web",
+    "arguments": [
+      "http://kdll.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kdll.org",
+    "year": "Alaska",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

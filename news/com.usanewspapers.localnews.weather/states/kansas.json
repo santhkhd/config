@@ -165,5 +165,335 @@
     "year": "Kansas",
     "genre": "Leavenworth",
     "rating": "Daily"
+  },
+  {
+    "title": "Eureka Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.eurekaherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eurekaherald.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hiawatha World",
+    "provider": "web",
+    "arguments": [
+      "https://www.hiawathaworldonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hiawathaworldonline.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kfdi",
+    "provider": "web",
+    "arguments": [
+      "http://kfdi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfdi.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Sunflower",
+    "provider": "web",
+    "arguments": [
+      "https://thesunflower.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesunflower.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Garden City Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.gctelegram.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gctelegram.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "High Plains Journal",
+    "provider": "web",
+    "arguments": [
+      "https://hpj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hpj.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newton Kansan",
+    "provider": "web",
+    "arguments": [
+      "https://www.thekansan.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thekansan.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sabetha Herald",
+    "provider": "web",
+    "arguments": [
+      "http://sabethaherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sabethaherald.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kvoe",
+    "provider": "web",
+    "arguments": [
+      "https://kvoe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvoe.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ctnewsonline",
+    "provider": "web",
+    "arguments": [
+      "http://ctnewsonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ctnewsonline.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kansaspublicradio",
+    "provider": "web",
+    "arguments": [
+      "https://kansaspublicradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kansaspublicradio.org",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KLWN",
+    "provider": "web",
+    "arguments": [
+      "https://www.klwn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=klwn.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Abilene Reflector-Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.abilene-rc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abilene-rc.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Derbyinformer",
+    "provider": "web",
+    "arguments": [
+      "http://derbyinformer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=derbyinformer.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Iola Register",
+    "provider": "web",
+    "arguments": [
+      "http://iolaregister.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iolaregister.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KMAN",
+    "provider": "web",
+    "arguments": [
+      "https://1350kman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=1350kman.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ksal",
+    "provider": "web",
+    "arguments": [
+      "http://ksal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksal.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KSCB",
+    "provider": "web",
+    "arguments": [
+      "https://www.kscbnews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kscbnews.net",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kwch",
+    "provider": "web",
+    "arguments": [
+      "https://www.kwch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kwch.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marysville Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.marysvilleonline.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marysvilleonline.net",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "University Daily Kansan",
+    "provider": "web",
+    "arguments": [
+      "https://www.kansan.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kansan.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wellingtondailynews",
+    "provider": "web",
+    "arguments": [
+      "https://www.wellingtondailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wellingtondailynews.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wibw",
+    "provider": "web",
+    "arguments": [
+      "https://www.wibw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wibw.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Emporia Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.emporiagazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=emporiagazette.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hppr",
+    "provider": "web",
+    "arguments": [
+      "http://hppr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hppr.org",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kansas City Kansan",
+    "provider": "web",
+    "arguments": [
+      "http://www.kckansan.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kckansan.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kake",
+    "provider": "web",
+    "arguments": [
+      "https://www.kake.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kake.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Holton Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.holtonrecorder.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=holtonrecorder.net",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kmuw",
+    "provider": "web",
+    "arguments": [
+      "http://kmuw.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kmuw.org",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Republic Online",
+    "provider": "web",
+    "arguments": [
+      "http://republic-online.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=republic-online.com",
+    "year": "Kansas",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

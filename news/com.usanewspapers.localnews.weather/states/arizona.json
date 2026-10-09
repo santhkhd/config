@@ -199,5 +199,390 @@
     "year": "Arizona",
     "genre": "Phoenix",
     "rating": "State Flagship Daily"
+  },
+  {
+    "title": "12news",
+    "provider": "web",
+    "arguments": [
+      "http://12news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=12news.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abc15",
+    "provider": "web",
+    "arguments": [
+      "https://www.abc15.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc15.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bisbee Observer",
+    "provider": "web",
+    "arguments": [
+      "http://www.thebisbeeobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebisbeeobserver.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Central News - United States - Arizona",
+    "provider": "web",
+    "arguments": [
+      "https://northcentralnews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northcentralnews.net",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kgun9",
+    "provider": "web",
+    "arguments": [
+      "https://www.kgun9.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kgun9.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Phoenix New Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.phoenixnewtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=phoenixnewtimes.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tucson Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.tucsonweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tucsonweekly.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Eastern Arizona Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.eacourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eacourier.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jewish News of Greater Phoenix",
+    "provider": "web",
+    "arguments": [
+      "http://jewishaz.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jewishaz.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Navajo Hopi Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.nhonews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nhonews.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Peoriatimes",
+    "provider": "web",
+    "arguments": [
+      "http://peoriatimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peoriatimes.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Williams News",
+    "provider": "web",
+    "arguments": [
+      "https://www.williamsnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=williamsnews.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Azfamily",
+    "provider": "web",
+    "arguments": [
+      "https://www.azfamily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=azfamily.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Azjewishpost",
+    "provider": "web",
+    "arguments": [
+      "https://azjewishpost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=azjewishpost.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Catholicsun",
+    "provider": "web",
+    "arguments": [
+      "https://www.catholicsun.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=catholicsun.org",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "City Sun Times",
+    "provider": "web",
+    "arguments": [
+      "http://news.citysuntimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news.citysuntimes.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Foothills Focus",
+    "provider": "web",
+    "arguments": [
+      "https://www.thefoothillsfocus.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thefoothillsfocus.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gilbert Sun News",
+    "provider": "web",
+    "arguments": [
+      "http://gilbertsunnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gilbertsunnews.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Glendalestar",
+    "provider": "web",
+    "arguments": [
+      "http://glendalestar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=glendalestar.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Inmaricopa",
+    "provider": "web",
+    "arguments": [
+      "http://www.inmaricopa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inmaricopa.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Inside Tucson Business",
+    "provider": "web",
+    "arguments": [
+      "https://www.insidetucsonbusiness.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=insidetucsonbusiness.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "JournalAZ.com - Verde Valley News, Jobs, Classifieds",
+    "provider": "web",
+    "arguments": [
+      "http://www.journalaz.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalaz.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kjzz",
+    "provider": "web",
+    "arguments": [
+      "http://kjzz.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kjzz.org",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kvoa",
+    "provider": "web",
+    "arguments": [
+      "https://www.kvoa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvoa.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sedona Biz",
+    "provider": "web",
+    "arguments": [
+      "http://www.sedona.biz/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sedona.biz",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundoarizona",
+    "provider": "web",
+    "arguments": [
+      "https://www.telemundoarizona.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundoarizona.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Univision",
+    "provider": "web",
+    "arguments": [
+      "http://univision.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=univision.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Azpbs",
+    "provider": "web",
+    "arguments": [
+      "https://www.azpbs.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=azpbs.org",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KAWC",
+    "provider": "web",
+    "arguments": [
+      "http://kawc.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kawc.org",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knau",
+    "provider": "web",
+    "arguments": [
+      "http://knau.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knau.org",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Santanvalley",
+    "provider": "web",
+    "arguments": [
+      "https://www.santanvalley.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=santanvalley.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arizonaherald",
+    "provider": "web",
+    "arguments": [
+      "http://arizonaherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arizonaherald.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktar",
+    "provider": "web",
+    "arguments": [
+      "https://ktar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktar.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tucson Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.tucsonsentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tucsonsentinel.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tucsonpost",
+    "provider": "web",
+    "arguments": [
+      "https://www.tucsonpost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tucsonpost.com",
+    "year": "Arizona",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -332,5 +332,786 @@
     "year": "Ohio",
     "genre": "Tiffin",
     "rating": "Daily"
+  },
+  {
+    "title": "USA TODAY",
+    "provider": "web",
+    "arguments": [
+      "https://usatoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=usatoday.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "10tv",
+    "provider": "web",
+    "arguments": [
+      "https://www.10tv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=10tv.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WKYC NBC",
+    "provider": "web",
+    "arguments": [
+      "https://www.wkyc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkyc.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbus Post",
+    "provider": "web",
+    "arguments": [
+      "https://columbuspost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbuspost.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Farmanddairy",
+    "provider": "web",
+    "arguments": [
+      "https://www.farmanddairy.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=farmanddairy.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Morrowcountysentinel",
+    "provider": "web",
+    "arguments": [
+      "http://morrowcountysentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=morrowcountysentinel.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mount Vernon News",
+    "provider": "web",
+    "arguments": [
+      "http://www.mountvernonnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mountvernonnews.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sent Trib",
+    "provider": "web",
+    "arguments": [
+      "http://sent-trib.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sent-trib.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Village Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://www.thevillagereporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thevillagereporter.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yellow Springs News",
+    "provider": "web",
+    "arguments": [
+      "http://www.ysnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ysnews.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Akronlife",
+    "provider": "web",
+    "arguments": [
+      "http://akronlife.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=akronlife.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cleveland Scene",
+    "provider": "web",
+    "arguments": [
+      "http://clevescene.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clevescene.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cordele Dispatch",
+    "provider": "web",
+    "arguments": [
+      "http://www.cordeledispatch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cordeledispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gilroy Dispatch",
+    "provider": "web",
+    "arguments": [
+      "http://www.gilroydispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gilroydispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "NBX Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenbxpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenbxpress.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Richmond Times-Dispatch",
+    "provider": "web",
+    "arguments": [
+      "http://www2.timesdispatch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www2.timesdispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Beacon",
+    "provider": "web",
+    "arguments": [
+      "https://www.fiusm.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fiusm.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Toledo City Paper",
+    "provider": "web",
+    "arguments": [
+      "https://toledocitypaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=toledocitypaper.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whiznews",
+    "provider": "web",
+    "arguments": [
+      "https://whiznews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whiznews.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ohio News Network",
+    "provider": "web",
+    "arguments": [
+      "https://www.onnradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=onnradio.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "cleveland jewish news",
+    "provider": "web",
+    "arguments": [
+      "https://www.clevelandjewishnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clevelandjewishnews.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbusmonthly",
+    "provider": "web",
+    "arguments": [
+      "http://columbusmonthly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbusmonthly.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northwest Signal",
+    "provider": "web",
+    "arguments": [
+      "https://www.northwestsignal.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwestsignal.net",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Alliance Review",
+    "provider": "web",
+    "arguments": [
+      "http://the-review.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=the-review.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald-Dispatch",
+    "provider": "web",
+    "arguments": [
+      "http://herald-dispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald-dispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wlwt",
+    "provider": "web",
+    "arguments": [
+      "https://www.wlwt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wlwt.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "13abc",
+    "provider": "web",
+    "arguments": [
+      "https://www.13abc.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=13abc.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bryantimes",
+    "provider": "web",
+    "arguments": [
+      "http://bryantimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bryantimes.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Businessjournaldaily",
+    "provider": "web",
+    "arguments": [
+      "https://businessjournaldaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessjournaldaily.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cincinnatimagazine",
+    "provider": "web",
+    "arguments": [
+      "http://cincinnatimagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cincinnatimagazine.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clermontsun",
+    "provider": "web",
+    "arguments": [
+      "http://clermontsun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clermontsun.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cleveland Advocate",
+    "provider": "web",
+    "arguments": [
+      "http://www.clevelandadvocate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clevelandadvocate.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbus Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.dispatch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crainscleveland",
+    "provider": "web",
+    "arguments": [
+      "https://www.crainscleveland.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crainscleveland.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Chief Union",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailychiefunion.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailychiefunion.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Delphos Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.delphosherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delphosherald.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Desert Dispatch",
+    "provider": "web",
+    "arguments": [
+      "http://www.desertdispatch.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=desertdispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Eleven Warriors",
+    "provider": "web",
+    "arguments": [
+      "http://elevenwarriors.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elevenwarriors.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox19",
+    "provider": "web",
+    "arguments": [
+      "https://www.fox19.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox19.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Highlandcountypress",
+    "provider": "web",
+    "arguments": [
+      "https://highlandcountypress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=highlandcountypress.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hometownstations",
+    "provider": "web",
+    "arguments": [
+      "http://hometownstations.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hometownstations.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kentontimes",
+    "provider": "web",
+    "arguments": [
+      "http://kentontimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kentontimes.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "La Porte County Herald-Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://thenewsdispatch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewsdispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Logan Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.logandaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=logandaily.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newswatchman",
+    "provider": "web",
+    "arguments": [
+      "http://newswatchman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newswatchman.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paulding County Progress",
+    "provider": "web",
+    "arguments": [
+      "https://www.progressnewspaper.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=progressnewspaper.org",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Peoplesdefender",
+    "provider": "web",
+    "arguments": [
+      "https://www.peoplesdefender.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peoplesdefender.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Portclintonnewsherald",
+    "provider": "web",
+    "arguments": [
+      "https://www.portclintonnewsherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portclintonnewsherald.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Scioto Voice",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesciotovoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesciotovoice.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sojourner's Truth",
+    "provider": "web",
+    "arguments": [
+      "http://www.thetruthtoledo.com/Truth.htm"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetruthtoledo.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Cincinnati Herald",
+    "provider": "web",
+    "arguments": [
+      "https://thecincinnatiherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecincinnatiherald.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.the-dispatch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=the-dispatch.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Lantern",
+    "provider": "web",
+    "arguments": [
+      "http://thelantern.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thelantern.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Repository",
+    "provider": "web",
+    "arguments": [
+      "https://www.cantonrep.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cantonrep.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thebeacon",
+    "provider": "web",
+    "arguments": [
+      "http://thebeacon.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebeacon.net",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thecatholictelegraph",
+    "provider": "web",
+    "arguments": [
+      "http://thecatholictelegraph.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecatholictelegraph.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thenews Messenger",
+    "provider": "web",
+    "arguments": [
+      "http://thenews-messenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenews-messenger.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thevwindependent",
+    "provider": "web",
+    "arguments": [
+      "https://thevwindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thevwindependent.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Timesbulletin",
+    "provider": "web",
+    "arguments": [
+      "http://timesbulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesbulletin.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Toledofreepress",
+    "provider": "web",
+    "arguments": [
+      "https://toledofreepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=toledofreepress.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tribtoday",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribtoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribtoday.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wfmj",
+    "provider": "web",
+    "arguments": [
+      "https://www.wfmj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfmj.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whbc",
+    "provider": "web",
+    "arguments": [
+      "http://whbc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whbc.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Woub",
+    "provider": "web",
+    "arguments": [
+      "https://woub.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=woub.org",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvxu",
+    "provider": "web",
+    "arguments": [
+      "http://wvxu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvxu.org",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crescent News",
+    "provider": "web",
+    "arguments": [
+      "http://crescent-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crescent-news.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Theeveningleader",
+    "provider": "web",
+    "arguments": [
+      "https://www.theeveningleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theeveningleader.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shelby Daily Globe",
+    "provider": "web",
+    "arguments": [
+      "https://www.sdgnewsgroup.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sdgnewsgroup.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "West Life",
+    "provider": "web",
+    "arguments": [
+      "https://www.westlifenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westlifenews.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wapakdailynews",
+    "provider": "web",
+    "arguments": [
+      "https://www.wapakdailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wapakdailynews.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Collegian",
+    "provider": "web",
+    "arguments": [
+      "https://www.hbucollegian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hbucollegian.com",
+    "year": "Ohio",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

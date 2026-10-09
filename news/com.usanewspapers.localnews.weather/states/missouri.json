@@ -213,5 +213,577 @@
     "year": "Missouri",
     "genre": "Kansas City",
     "rating": "Western MO Flagship Daily"
+  },
+  {
+    "title": "call newspapers",
+    "provider": "web",
+    "arguments": [
+      "http://www.callnewspapers.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=callnewspapers.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hermann Advertiser Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.hermannadvertisercourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hermannadvertisercourier.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KCHI",
+    "provider": "web",
+    "arguments": [
+      "http://www.kchi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kchi.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "ksdk nbc",
+    "provider": "web",
+    "arguments": [
+      "https://www.ksdk.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksdk.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KWOS",
+    "provider": "web",
+    "arguments": [
+      "https://kwos.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kwos.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Francisco Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://dds.crl.edu/crldelivery/15974"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dds.crl.edu",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "THE CALL",
+    "provider": "web",
+    "arguments": [
+      "https://www.kccall.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kccall.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cassville Democrat",
+    "provider": "web",
+    "arguments": [
+      "http://cassville-democrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cassville-democrat.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Centralia Fireside Guard",
+    "provider": "web",
+    "arguments": [
+      "https://www.firesideguard.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=firesideguard.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Memphisdemocrat",
+    "provider": "web",
+    "arguments": [
+      "http://memphisdemocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=memphisdemocrat.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "International Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://iexaminer.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iexaminer.org",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktts",
+    "provider": "web",
+    "arguments": [
+      "http://ktts.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktts.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "St. Louis American",
+    "provider": "web",
+    "arguments": [
+      "https://www.stlamerican.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stlamerican.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Howell County News",
+    "provider": "web",
+    "arguments": [
+      "https://www.howellcountynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=howellcountynews.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kcur",
+    "provider": "web",
+    "arguments": [
+      "https://www.kcur.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kcur.org",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lawrence County Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.lawrencecountyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lawrencecountyrecord.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bartlesville Examiner-Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.examiner-enterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=examiner-enterprise.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Redlatinastl",
+    "provider": "web",
+    "arguments": [
+      "https://www.redlatinastl.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redlatinastl.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Areawidenews",
+    "provider": "web",
+    "arguments": [
+      "http://areawidenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=areawidenews.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bethanyclipper",
+    "provider": "web",
+    "arguments": [
+      "http://bethanyclipper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bethanyclipper.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Boonville Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.boonvilledailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=boonvilledailynews.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chillicothenews",
+    "provider": "web",
+    "arguments": [
+      "http://chillicothenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chillicothenews.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dddnews",
+    "provider": "web",
+    "arguments": [
+      "http://dddnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dddnews.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Douglas County Herald",
+    "provider": "web",
+    "arguments": [
+      "http://douglascountyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=douglascountyherald.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Houstonherald",
+    "provider": "web",
+    "arguments": [
+      "https://houstonherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=houstonherald.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KAAN",
+    "provider": "web",
+    "arguments": [
+      "https://www.northwestmoinfo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwestmoinfo.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kctv5",
+    "provider": "web",
+    "arguments": [
+      "https://www.kctv5.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kctv5.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KFRU",
+    "provider": "web",
+    "arguments": [
+      "https://www.kfru.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfru.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kfvs12",
+    "provider": "web",
+    "arguments": [
+      "https://www.kfvs12.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfvs12.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kmbc",
+    "provider": "web",
+    "arguments": [
+      "https://www.kmbc.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kmbc.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KOMU",
+    "provider": "web",
+    "arguments": [
+      "https://www.komu.com/home/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=komu.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ky3",
+    "provider": "web",
+    "arguments": [
+      "https://www.ky3.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ky3.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Linn County Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.linncountyleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=linncountyleader.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mbcpathway",
+    "provider": "web",
+    "arguments": [
+      "https://mbcpathway.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mbcpathway.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mexicoledger",
+    "provider": "web",
+    "arguments": [
+      "https://mexicoledger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mexicoledger.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mycouriertribune",
+    "provider": "web",
+    "arguments": [
+      "http://mycouriertribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mycouriertribune.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mymoinfo",
+    "provider": "web",
+    "arguments": [
+      "https://www.mymoinfo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mymoinfo.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nevadadailymail",
+    "provider": "web",
+    "arguments": [
+      "http://nevadadailymail.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nevadadailymail.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newstalkkzrg",
+    "provider": "web",
+    "arguments": [
+      "http://newstalkkzrg.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstalkkzrg.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Palmyra Spectator",
+    "provider": "web",
+    "arguments": [
+      "https://www.palmyra-spectator.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palmyra-spectator.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Plattecountylandmark",
+    "provider": "web",
+    "arguments": [
+      "https://plattecountylandmark.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=plattecountylandmark.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Standard Democrat",
+    "provider": "web",
+    "arguments": [
+      "http://standard-democrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=standard-democrat.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ste. Genevieve Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.stegenherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stegenherald.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Themissouritimes",
+    "provider": "web",
+    "arguments": [
+      "https://themissouritimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themissouritimes.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Warren County Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.warrencountyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=warrencountyrecord.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wayne County Journal Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.waynecojournalbanner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waynecojournalbanner.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ksmu",
+    "provider": "web",
+    "arguments": [
+      "http://ksmu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksmu.org",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Benton County Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.bentoncountyenterprise.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bentoncountyenterprise.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News at the Speed of Light",
+    "provider": "web",
+    "arguments": [
+      "https://newsblogs.blogspot.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsblogs.blogspot.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "media2.kshb.com",
+    "provider": "web",
+    "arguments": [
+      "http://media2.kshb.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=media2.kshb.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Molawyersmedia",
+    "provider": "web",
+    "arguments": [
+      "https://molawyersmedia.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=molawyersmedia.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Myleaderpaper",
+    "provider": "web",
+    "arguments": [
+      "https://myleaderpaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myleaderpaper.com",
+    "year": "Missouri",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

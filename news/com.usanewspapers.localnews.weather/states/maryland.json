@@ -146,5 +146,236 @@
     "year": "Maryland",
     "genre": "Easton",
     "rating": "Eastern Shore Daily"
+  },
+  {
+    "title": "Smnewsnet",
+    "provider": "web",
+    "arguments": [
+      "https://smnewsnet.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=smnewsnet.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baltimore Afro-American",
+    "provider": "web",
+    "arguments": [
+      "http://www.afro.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=afro.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baltimore Jewish Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.jewishtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jewishtimes.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bel Air News and Views",
+    "provider": "web",
+    "arguments": [
+      "https://www.belairnewsandviews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=belairnewsandviews.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Catoctin Banner",
+    "provider": "web",
+    "arguments": [
+      "https://thecatoctinbanner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecatoctinbanner.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dundalkeagle",
+    "provider": "web",
+    "arguments": [
+      "http://dundalkeagle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dundalkeagle.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wypr",
+    "provider": "web",
+    "arguments": [
+      "https://wypr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wypr.org",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bethesdamagazine",
+    "provider": "web",
+    "arguments": [
+      "https://bethesdamagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bethesdamagazine.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cecil Whig",
+    "provider": "web",
+    "arguments": [
+      "https://www.cecildaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cecildaily.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chestertownspy",
+    "provider": "web",
+    "arguments": [
+      "https://chestertownspy.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chestertownspy.org",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Deep Creek Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.deepcreektimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deepcreektimes.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Eye on Annapolis",
+    "provider": "web",
+    "arguments": [
+      "https://www.eyeonannapolis.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eyeonannapolis.net",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Myeasternshoremd",
+    "provider": "web",
+    "arguments": [
+      "http://myeasternshoremd.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myeasternshoremd.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shore Update",
+    "provider": "web",
+    "arguments": [
+      "https://www.shoreupdate.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shoreupdate.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Johns Hopkins News-Letter",
+    "provider": "web",
+    "arguments": [
+      "https://jhunewsletter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jhunewsletter.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thebaynet",
+    "provider": "web",
+    "arguments": [
+      "https://thebaynet.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebaynet.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbaltv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbaltv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbaltv.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WEVD-LP ABC",
+    "provider": "web",
+    "arguments": [
+      "https://www.wmdt.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmdt.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WNAV",
+    "provider": "web",
+    "arguments": [
+      "http://www.wnav.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wnav.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://thedailyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailyrecord.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WBOC-TV",
+    "provider": "web",
+    "arguments": [
+      "https://www.wboc.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wboc.com",
+    "year": "Maryland",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

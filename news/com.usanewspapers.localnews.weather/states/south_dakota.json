@@ -126,5 +126,214 @@
     "year": "South Dakota",
     "genre": "Spearfish",
     "rating": "Daily"
+  },
+  {
+    "title": "Daily Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyrepublic.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyrepublic.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Drgnews",
+    "provider": "web",
+    "arguments": [
+      "https://drgnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=drgnews.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kotaradio",
+    "provider": "web",
+    "arguments": [
+      "http://kotaradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kotaradio.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sdpb",
+    "provider": "web",
+    "arguments": [
+      "https://sdpb.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sdpb.org",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Freeman Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.freemansd.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=freemansd.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KBRK",
+    "provider": "web",
+    "arguments": [
+      "https://www.brookingsradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brookingsradio.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kelo",
+    "provider": "web",
+    "arguments": [
+      "https://kelo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kelo.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kotatv",
+    "provider": "web",
+    "arguments": [
+      "http://kotatv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kotatv.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KSDN",
+    "provider": "web",
+    "arguments": [
+      "http://www.hubcityradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hubcityradio.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KWAT",
+    "provider": "web",
+    "arguments": [
+      "https://www.gowatertown.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gowatertown.net",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lennox Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.lennoxnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lennoxnews.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marshall County Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.marshallcountyjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marshallcountyjournal.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Reporter and Farmer",
+    "provider": "web",
+    "arguments": [
+      "https://www.reporterandfarmer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reporterandfarmer.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sfcatholic",
+    "provider": "web",
+    "arguments": [
+      "https://sfcatholic.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sfcatholic.org",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Southdakotamagazine",
+    "provider": "web",
+    "arguments": [
+      "https://southdakotamagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southdakotamagazine.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The New Era",
+    "provider": "web",
+    "arguments": [
+      "https://thenewera-online.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenewera-online.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tsln",
+    "provider": "web",
+    "arguments": [
+      "http://tsln.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tsln.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wessington Springs True Dakotan",
+    "provider": "web",
+    "arguments": [
+      "http://truedakotan.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=truedakotan.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Winner Advocate",
+    "provider": "web",
+    "arguments": [
+      "http://thewinneradvocate.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewinneradvocate.com",
+    "year": "South Dakota",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

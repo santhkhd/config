@@ -166,5 +166,247 @@
     "year": "South Carolina",
     "genre": "Myrtle Beach",
     "rating": "Grand Strand Flagship Daily"
+  },
+  {
+    "title": "Thedanielislandnews",
+    "provider": "web",
+    "arguments": [
+      "https://thedanielislandnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedanielislandnews.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Charleston City Paper",
+    "provider": "web",
+    "arguments": [
+      "https://charlestoncitypaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=charlestoncitypaper.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "www2.scnow.com",
+    "provider": "web",
+    "arguments": [
+      "http://www2.scnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www2.scnow.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abcnews4",
+    "provider": "web",
+    "arguments": [
+      "https://abcnews4.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abcnews4.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bluffton Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.blufftontoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blufftontoday.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newberryobserver",
+    "provider": "web",
+    "arguments": [
+      "http://newberryobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newberryobserver.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtma",
+    "provider": "web",
+    "arguments": [
+      "https://www.wtma.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtma.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abccolumbia",
+    "provider": "web",
+    "arguments": [
+      "http://abccolumbia.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abccolumbia.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Foxcarolina",
+    "provider": "web",
+    "arguments": [
+      "https://www.foxcarolina.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxcarolina.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Greenvillejournal",
+    "provider": "web",
+    "arguments": [
+      "https://greenvillejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenvillejournal.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laurenscountyadvertiser",
+    "provider": "web",
+    "arguments": [
+      "http://laurenscountyadvertiser.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laurenscountyadvertiser.net",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Live5news",
+    "provider": "web",
+    "arguments": [
+      "https://www.live5news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=live5news.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pickens County Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.yourpickenscounty.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yourpickenscounty.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wistv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wistv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wistv.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wmbfnews",
+    "provider": "web",
+    "arguments": [
+      "https://www.wmbfnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmbfnews.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wyff4",
+    "provider": "web",
+    "arguments": [
+      "https://www.wyff4.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wyff4.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yourislandnews",
+    "provider": "web",
+    "arguments": [
+      "https://yourislandnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yourislandnews.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Upstatetoday",
+    "provider": "web",
+    "arguments": [
+      "https://upstatetoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=upstatetoday.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Myhorrynews",
+    "provider": "web",
+    "arguments": [
+      "http://myhorrynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myhorrynews.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Myrtle Beach Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.nmbtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nmbtimes.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coastalobserver",
+    "provider": "web",
+    "arguments": [
+      "https://coastalobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coastalobserver.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journal - United States (Williamston)",
+    "provider": "web",
+    "arguments": [
+      "https://thejournalonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thejournalonline.com",
+    "year": "South Carolina",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

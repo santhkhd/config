@@ -180,5 +180,390 @@
     "year": "Oklahoma",
     "genre": "Oklahoma City",
     "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Cleveland American",
+    "provider": "web",
+    "arguments": [
+      "https://www.theclevelandamerican.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theclevelandamerican.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kjrh",
+    "provider": "web",
+    "arguments": [
+      "https://www.kjrh.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kjrh.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "McCook Daily Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.mccookgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mccookgazette.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oklahoma Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://okgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=okgazette.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Atoka County Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.atokacountytimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=atokacountytimes.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Walters Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.waltersherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waltersherald.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Koco",
+    "provider": "web",
+    "arguments": [
+      "https://www.koco.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=koco.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kswo",
+    "provider": "web",
+    "arguments": [
+      "https://www.kswo.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kswo.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cordell Beacon",
+    "provider": "web",
+    "arguments": [
+      "https://www.cordellbeacon.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cordellbeacon.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "kotv cbs",
+    "provider": "web",
+    "arguments": [
+      "https://www.newson6.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newson6.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "OU Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.oudaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oudaily.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paulsvalleydailydemocrat",
+    "provider": "web",
+    "arguments": [
+      "http://paulsvalleydailydemocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paulsvalleydailydemocrat.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Watonga Republican",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewatongarepublican.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewatongarepublican.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ada Evening News",
+    "provider": "web",
+    "arguments": [
+      "https://www.theadanews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theadanews.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ardmoreite",
+    "provider": "web",
+    "arguments": [
+      "http://ardmoreite.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ardmoreite.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bartlesvilleradio",
+    "provider": "web",
+    "arguments": [
+      "https://bartlesvilleradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bartlesvilleradio.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Black Chronicle \"The Paper That Tells The Truth\"",
+    "provider": "web",
+    "arguments": [
+      "http://www.blackchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blackchronicle.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chickashanews",
+    "provider": "web",
+    "arguments": [
+      "http://chickashanews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chickashanews.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clinton Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.clintondailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clintondailynews.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox 23",
+    "provider": "web",
+    "arguments": [
+      "http://www.fox23.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox23.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journalrecord",
+    "provider": "web",
+    "arguments": [
+      "https://journalrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalrecord.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "krmg",
+    "provider": "web",
+    "arguments": [
+      "https://krmg.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=krmg.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lasemanadelsur",
+    "provider": "web",
+    "arguments": [
+      "https://lasemanadelsur.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lasemanadelsur.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newcastle Pacer",
+    "provider": "web",
+    "arguments": [
+      "https://www.newcastlepacer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newcastlepacer.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News9",
+    "provider": "web",
+    "arguments": [
+      "https://www.news9.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news9.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sequoyahcountytimes",
+    "provider": "web",
+    "arguments": [
+      "http://sequoyahcountytimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sequoyahcountytimes.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Siskiyou Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.siskiyoudaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=siskiyoudaily.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sulphur Times Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.sulphurtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sulphurtimes.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The O'Colly",
+    "provider": "web",
+    "arguments": [
+      "https://www.ocolly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ocolly.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tulsatoday",
+    "provider": "web",
+    "arguments": [
+      "https://www.tulsatoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tulsatoday.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kosu",
+    "provider": "web",
+    "arguments": [
+      "http://kosu.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kosu.org",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bristow News Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.bristownews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristownews.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Poteau Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.poteaudailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=poteaudailynews.com",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kgou",
+    "provider": "web",
+    "arguments": [
+      "http://kgou.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kgou.org",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Publicradiotulsa",
+    "provider": "web",
+    "arguments": [
+      "http://publicradiotulsa.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=publicradiotulsa.org",
+    "year": "Oklahoma",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -116,5 +116,82 @@
     "year": "Hawaii",
     "genre": "Kaunakakai",
     "rating": "Weekly"
+  },
+  {
+    "title": "Maui Now",
+    "provider": "web",
+    "arguments": [
+      "https://mauinow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mauinow.com",
+    "year": "Hawaii",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thefilipinochronicle",
+    "provider": "web",
+    "arguments": [
+      "https://thefilipinochronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thefilipinochronicle.com",
+    "year": "Hawaii",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bigislandnow",
+    "provider": "web",
+    "arguments": [
+      "https://bigislandnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bigislandnow.com",
+    "year": "Hawaii",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hawaii Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.hawaiistar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hawaiistar.com",
+    "year": "Hawaii",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hawaiinewsnow",
+    "provider": "web",
+    "arguments": [
+      "https://www.hawaiinewsnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hawaiinewsnow.com",
+    "year": "Hawaii",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Honolulumagazine",
+    "provider": "web",
+    "arguments": [
+      "https://www.honolulumagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=honolulumagazine.com",
+    "year": "Hawaii",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hawaiipublicradio",
+    "provider": "web",
+    "arguments": [
+      "http://hawaiipublicradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hawaiipublicradio.org",
+    "year": "Hawaii",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

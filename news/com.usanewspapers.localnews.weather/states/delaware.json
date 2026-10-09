@@ -98,5 +98,71 @@
     "year": "Delaware",
     "genre": "Dover",
     "rating": "State Capital Daily"
+  },
+  {
+    "title": "Out and About - United States - Delaware",
+    "provider": "web",
+    "arguments": [
+      "https://outandaboutnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=outandaboutnow.com",
+    "year": "Delaware",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Delawarebusinessnow",
+    "provider": "web",
+    "arguments": [
+      "http://delawarebusinessnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delawarebusinessnow.com",
+    "year": "Delaware",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Delawareonline",
+    "provider": "web",
+    "arguments": [
+      "https://www.delawareonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=delawareonline.com",
+    "year": "Delaware",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wgmd",
+    "provider": "web",
+    "arguments": [
+      "https://www.wgmd.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wgmd.com",
+    "year": "Delaware",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dialog - United States",
+    "provider": "web",
+    "arguments": [
+      "https://thedialog.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedialog.org",
+    "year": "Delaware",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdel",
+    "provider": "web",
+    "arguments": [
+      "https://www.wdel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdel.com",
+    "year": "Delaware",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

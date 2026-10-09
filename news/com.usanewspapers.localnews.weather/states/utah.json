@@ -170,5 +170,170 @@
     "year": "Utah",
     "genre": "Roosevelt",
     "rating": "Weekly"
+  },
+  {
+    "title": "KDXU",
+    "provider": "web",
+    "arguments": [
+      "https://890kdxu.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=890kdxu.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Salt Lake City Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.cityweekly.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cityweekly.net",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Richfield Reaper",
+    "provider": "web",
+    "arguments": [
+      "https://www.richfieldreaper.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=richfieldreaper.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox13now",
+    "provider": "web",
+    "arguments": [
+      "https://www.fox13now.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox13now.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KOAL",
+    "provider": "web",
+    "arguments": [
+      "https://www.castlecountryradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=castlecountryradio.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "FSView & Florida Flambeau",
+    "provider": "web",
+    "arguments": [
+      "https://www.fsunews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fsunews.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ironcountytoday",
+    "provider": "web",
+    "arguments": [
+      "https://ironcountytoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ironcountytoday.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Saltlakemagazine",
+    "provider": "web",
+    "arguments": [
+      "https://saltlakemagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltlakemagazine.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Stgeorgeutah",
+    "provider": "web",
+    "arguments": [
+      "https://www.stgeorgeutah.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stgeorgeutah.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sunews",
+    "provider": "web",
+    "arguments": [
+      "http://sunews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sunews.net",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gephardtdaily",
+    "provider": "web",
+    "arguments": [
+      "https://gephardtdaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gephardtdaily.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Suindependent",
+    "provider": "web",
+    "arguments": [
+      "https://suindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=suindependent.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Upr",
+    "provider": "web",
+    "arguments": [
+      "http://upr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=upr.org",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kuer",
+    "provider": "web",
+    "arguments": [
+      "http://kuer.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kuer.org",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "University Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.upressonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=upressonline.com",
+    "year": "Utah",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

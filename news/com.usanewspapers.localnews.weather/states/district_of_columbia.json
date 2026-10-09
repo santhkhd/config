@@ -124,5 +124,148 @@
     "year": "District of Columbia",
     "genre": "Washington D.C.",
     "rating": "National & Capital Flagship"
+  },
+  {
+    "title": "Washington Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.washingtonpost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonpost.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The GW Hatchet",
+    "provider": "web",
+    "arguments": [
+      "http://www.gwhatchet.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gwhatchet.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Washingtonian",
+    "provider": "web",
+    "arguments": [
+      "http://www.washingtonian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonian.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtop",
+    "provider": "web",
+    "arguments": [
+      "http://www.wtop.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtop.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Beacon - United States - District of Columbia",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebeaconnewspapers.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebeaconnewspapers.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "El Tiempo Latino",
+    "provider": "web",
+    "arguments": [
+      "https://eltiempolatino.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eltiempolatino.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wmal",
+    "provider": "web",
+    "arguments": [
+      "http://wmal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmal.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Elpreg",
+    "provider": "web",
+    "arguments": [
+      "http://elpreg.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elpreg.org",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcwashington",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcwashington.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcwashington.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wamu",
+    "provider": "web",
+    "arguments": [
+      "https://wamu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wamu.org",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "OpenSecrets",
+    "provider": "web",
+    "arguments": [
+      "https://www.opensecrets.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=opensecrets.org",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cathstan",
+    "provider": "web",
+    "arguments": [
+      "http://cathstan.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cathstan.org",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Washington Blade",
+    "provider": "web",
+    "arguments": [
+      "https://washingtonblade.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonblade.com",
+    "year": "Washington, D.C.",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

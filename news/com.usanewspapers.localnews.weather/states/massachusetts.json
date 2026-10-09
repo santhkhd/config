@@ -270,5 +270,632 @@
     "year": "Massachusetts",
     "genre": "Attleboro",
     "rating": "Daily"
+  },
+  {
+    "title": "Hopkinton Independent",
+    "provider": "web",
+    "arguments": [
+      "http://www.hopkintonindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hopkintonindependent.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Itemlive",
+    "provider": "web",
+    "arguments": [
+      "https://itemlive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=itemlive.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Huntington News",
+    "provider": "web",
+    "arguments": [
+      "http://www.huntnewsnu.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=huntnewsnu.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Weekly Packet",
+    "provider": "web",
+    "arguments": [
+      "http://www.weeklypacket.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weeklypacket.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whdh",
+    "provider": "web",
+    "arguments": [
+      "https://whdh.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whdh.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Landmark",
+    "provider": "web",
+    "arguments": [
+      "https://www.thelandmark.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thelandmark.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Amherst Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://amherstbulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amherstbulletin.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Black Star News",
+    "provider": "web",
+    "arguments": [
+      "https://www.blackstarnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blackstarnews.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "capenews.net",
+    "provider": "web",
+    "arguments": [
+      "https://www.capenews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capenews.net",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Millbury-Sutton Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://millburysutton.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=millburysutton.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Christian Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.thechristianrecorder.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thechristianrecorder.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Clackamas Print",
+    "provider": "web",
+    "arguments": [
+      "http://www.theclackamasprint.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theclackamasprint.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thereminder",
+    "provider": "web",
+    "arguments": [
+      "https://thereminder.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thereminder.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Black Lens",
+    "provider": "web",
+    "arguments": [
+      "http://blacklensnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blacklensnews.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Community Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.communityadvocate.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=communityadvocate.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Jackson Sun",
+    "provider": "web",
+    "arguments": [
+      "http://Jacksonsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonsun.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vineyard Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://vineyardgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vineyardgazette.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bay State Banner",
+    "provider": "web",
+    "arguments": [
+      "https://baystatebanner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baystatebanner.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Afro American Point of View",
+    "provider": "web",
+    "arguments": [
+      "http://www.afampointofview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=afampointofview.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Andover Townsman",
+    "provider": "web",
+    "arguments": [
+      "https://www.andovertownsman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=andovertownsman.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Berkeley High Jacket",
+    "provider": "web",
+    "arguments": [
+      "http://www.bhsjacket.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhsjacket.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Black Mountain News",
+    "provider": "web",
+    "arguments": [
+      "https://www.blackmountainnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blackmountainnews.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Black Press USA",
+    "provider": "web",
+    "arguments": [
+      "https://blackpressusa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blackpressusa.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Braziliantimes",
+    "provider": "web",
+    "arguments": [
+      "http://braziliantimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=braziliantimes.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Collegian",
+    "provider": "web",
+    "arguments": [
+      "https://dailycollegian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycollegian.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "DigBoston",
+    "provider": "web",
+    "arguments": [
+      "https://digboston.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=digboston.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dotnews",
+    "provider": "web",
+    "arguments": [
+      "https://www.dotnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dotnews.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Elmundoboston",
+    "provider": "web",
+    "arguments": [
+      "https://elmundoboston.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elmundoboston.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Harvardindependent",
+    "provider": "web",
+    "arguments": [
+      "https://harvardindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=harvardindependent.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hgazette",
+    "provider": "web",
+    "arguments": [
+      "http://hgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hgazette.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "http",
+    "provider": "web",
+    "arguments": [
+      "http://www.fgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fgazette.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Iobserve",
+    "provider": "web",
+    "arguments": [
+      "https://iobserve.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iobserve.org",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jackson Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://jacksonadvocateonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonadvocateonline.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lancasteronline",
+    "provider": "web",
+    "arguments": [
+      "https://lancasteronline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lancasteronline.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nashobavalleyvoice",
+    "provider": "web",
+    "arguments": [
+      "http://nashobavalleyvoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nashobavalleyvoice.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcboston",
+    "provider": "web",
+    "arguments": [
+      "http://nbcboston.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcboston.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Patch",
+    "provider": "web",
+    "arguments": [
+      "https://patch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patch.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Patriotledger",
+    "provider": "web",
+    "arguments": [
+      "https://www.patriotledger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patriotledger.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Porterville Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.recorderonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recorderonline.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Portuguesetimes",
+    "provider": "web",
+    "arguments": [
+      "https://portuguesetimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portuguesetimes.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Quincy Sun",
+    "provider": "web",
+    "arguments": [
+      "https://thequincysun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thequincysun.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Christian Science Monitor",
+    "provider": "web",
+    "arguments": [
+      "https://www.csmonitor.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=csmonitor.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Pilot",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebostonpilot.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebostonpilot.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbjournal",
+    "provider": "web",
+    "arguments": [
+      "https://wbjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbjournal.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Woburn Daily Times Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.homenewshere.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=homenewshere.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Worcestermag",
+    "provider": "web",
+    "arguments": [
+      "http://worcestermag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worcestermag.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Masslive",
+    "provider": "web",
+    "arguments": [
+      "https://blog.masslive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blog.masslive.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Charlestown Patriot Bridge",
+    "provider": "web",
+    "arguments": [
+      "https://charlestownbridge.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=charlestownbridge.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chelsea Record Chelsea Massachusetts Newspaper",
+    "provider": "web",
+    "arguments": [
+      "http://www.chelsearecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chelsearecord.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Everett Independent Everett Massachusetts Newspaper",
+    "provider": "web",
+    "arguments": [
+      "http://www.everettindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=everettindependent.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Reverejournal",
+    "provider": "web",
+    "arguments": [
+      "https://reverejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reverejournal.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Beacon Hill Times",
+    "provider": "web",
+    "arguments": [
+      "https://beaconhilltimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beaconhilltimes.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Bulletin Newspapers, Inc.",
+    "provider": "web",
+    "arguments": [
+      "https://www.bulletinnewspapers.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bulletinnewspapers.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Black Voice News",
+    "provider": "web",
+    "arguments": [
+      "https://blackvoicenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blackvoicenews.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Indianapolis Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://indianapolisrecorder.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianapolisrecorder.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Gardner News Online - Gardner, MA",
+    "provider": "web",
+    "arguments": [
+      "http://thegardnernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegardnernews.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lifehacker",
+    "provider": "web",
+    "arguments": [
+      "https://lifehacker.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lifehacker.com",
+    "year": "Massachusetts",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

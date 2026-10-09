@@ -197,5 +197,170 @@
     "year": "Connecticut",
     "genre": "New London",
     "rating": "Eastern CT Daily"
+  },
+  {
+    "title": "Hartfordbusiness",
+    "provider": "web",
+    "arguments": [
+      "https://hartfordbusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hartfordbusiness.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whidbey News-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.whidbeynewstimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whidbeynewstimes.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ctmirror",
+    "provider": "web",
+    "arguments": [
+      "http://www.ctmirror.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ctmirror.org",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Identidadlatina",
+    "provider": "web",
+    "arguments": [
+      "https://identidadlatina.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=identidadlatina.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lavozhispanact",
+    "provider": "web",
+    "arguments": [
+      "https://www.lavozhispanact.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lavozhispanact.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcconnecticut",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcconnecticut.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcconnecticut.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newhavenindependent",
+    "provider": "web",
+    "arguments": [
+      "http://newhavenindependent.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newhavenindependent.org",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News-Times",
+    "provider": "web",
+    "arguments": [
+      "https://newportnewstimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newportnewstimes.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Norwichbulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.norwichbulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=norwichbulletin.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Advocate",
+    "provider": "web",
+    "arguments": [
+      "http://newarkadvocate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newarkadvocate.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Bristol Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.bristolpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristolpress.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wfsb",
+    "provider": "web",
+    "arguments": [
+      "https://www.wfsb.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfsb.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "York News-Times",
+    "provider": "web",
+    "arguments": [
+      "https://yorknewstimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorknewstimes.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wshu",
+    "provider": "web",
+    "arguments": [
+      "http://wshu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wshu.org",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Westerly Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewesterlysun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewesterlysun.com",
+    "year": "Connecticut",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

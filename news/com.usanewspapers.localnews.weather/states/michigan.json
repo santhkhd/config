@@ -272,5 +272,720 @@
     "year": "Michigan",
     "genre": "Adrian",
     "rating": "Daily"
+  },
+  {
+    "title": "Hourdetroit",
+    "provider": "web",
+    "arguments": [
+      "http://hourdetroit.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hourdetroit.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thefp.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thefp.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tri City Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.tricityrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tricityrecord.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WKHM",
+    "provider": "web",
+    "arguments": [
+      "https://www.wkhm.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkhm.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsjm",
+    "provider": "web",
+    "arguments": [
+      "http://wsjm.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsjm.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wxyz",
+    "provider": "web",
+    "arguments": [
+      "https://www.wxyz.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wxyz.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wzzm13",
+    "provider": "web",
+    "arguments": [
+      "https://www.wzzm13.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wzzm13.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox17online",
+    "provider": "web",
+    "arguments": [
+      "http://fox17online.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox17online.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arabamericannews",
+    "provider": "web",
+    "arguments": [
+      "https://arabamericannews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arabamericannews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hillsboro Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.hillsborofreepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hillsborofreepress.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Michigan Daily",
+    "provider": "web",
+    "arguments": [
+      "https://michigandaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=michigandaily.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Michigan Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.themichigantimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themichigantimes.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Oakland Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.oaklandpostonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oaklandpostonline.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Detroit News",
+    "provider": "web",
+    "arguments": [
+      "https://www.detroitnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=detroitnews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northernexpress",
+    "provider": "web",
+    "arguments": [
+      "http://northernexpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northernexpress.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abc12",
+    "provider": "web",
+    "arguments": [
+      "https://www.abc12.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc12.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Argus Press",
+    "provider": "web",
+    "arguments": [
+      "http://argus-press.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=argus-press.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clickondetroit",
+    "provider": "web",
+    "arguments": [
+      "https://www.clickondetroit.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clickondetroit.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jackson Free Press",
+    "provider": "web",
+    "arguments": [
+      "http://jacksonfreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonfreepress.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Burlington Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.burlingtonfreepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burlingtonfreepress.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tuscolatoday",
+    "provider": "web",
+    "arguments": [
+      "http://tuscolatoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tuscolatoday.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "9and10news",
+    "provider": "web",
+    "arguments": [
+      "http://9and10news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=9and10news.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arenac County Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.arenacindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arenacindependent.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cadillac News",
+    "provider": "web",
+    "arguments": [
+      "https://www.cadillacnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cadillacnews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cheboygan Daily Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.CheboyganNews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cheboygannews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dbusiness",
+    "provider": "web",
+    "arguments": [
+      "http://dbusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dbusiness.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ecurrent",
+    "provider": "web",
+    "arguments": [
+      "http://ecurrent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ecurrent.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Farmers' Advance",
+    "provider": "web",
+    "arguments": [
+      "https://www.farmersadvance.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=farmersadvance.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox47news",
+    "provider": "web",
+    "arguments": [
+      "http://fox47news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox47news.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gladwin County Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.gladwinmi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gladwinmi.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Glen Arbor Sun",
+    "provider": "web",
+    "arguments": [
+      "https://glenarborsun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=glenarborsun.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gratiot County Herald",
+    "provider": "web",
+    "arguments": [
+      "https://gcherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gcherald.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Grmag",
+    "provider": "web",
+    "arguments": [
+      "http://grmag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=grmag.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hillsdale Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.hillsdale.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hillsdale.net",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Huron Daily Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.michigansthumb.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=michigansthumb.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lake County Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.lakecountystar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakecountystar.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lansingcitypulse",
+    "provider": "web",
+    "arguments": [
+      "https://lansingcitypulse.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lansingcitypulse.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Leelanau Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.leelanaunews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leelanaunews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Livingston County Daily Press & Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.livingstondaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livingstondaily.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Manistee News Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.manisteenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manisteenews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ogemawherald",
+    "provider": "web",
+    "arguments": [
+      "https://www.ogemawherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ogemawherald.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oscoda County Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.oscodaherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oscodaherald.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Petoskeynews",
+    "provider": "web",
+    "arguments": [
+      "http://petoskeynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=petoskeynews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pioneer - United States - Michigan",
+    "provider": "web",
+    "arguments": [
+      "https://www.bigrapidsnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bigrapidsnews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pride Source",
+    "provider": "web",
+    "arguments": [
+      "https://pridesource.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pridesource.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sooeveningnews",
+    "provider": "web",
+    "arguments": [
+      "http://sooeveningnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sooeveningnews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thejewishnews",
+    "provider": "web",
+    "arguments": [
+      "http://thejewishnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thejewishnews.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Themorningsun",
+    "provider": "web",
+    "arguments": [
+      "http://themorningsun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themorningsun.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Uppermichiganssource",
+    "provider": "web",
+    "arguments": [
+      "https://www.uppermichiganssource.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=uppermichiganssource.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WBKB",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbkb11.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbkb11.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdet",
+    "provider": "web",
+    "arguments": [
+      "https://wdet.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdet.org",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whmi",
+    "provider": "web",
+    "arguments": [
+      "http://whmi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whmi.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whtc",
+    "provider": "web",
+    "arguments": [
+      "https://whtc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whtc.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wjr",
+    "provider": "web",
+    "arguments": [
+      "http://wjr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjr.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wkzo",
+    "provider": "web",
+    "arguments": [
+      "https://wkzo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkzo.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wnem",
+    "provider": "web",
+    "arguments": [
+      "http://wnem.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wnem.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsgw",
+    "provider": "web",
+    "arguments": [
+      "http://wsgw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsgw.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "American Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://americanfreepress.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=americanfreepress.net",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bellevilleareaindependent",
+    "provider": "web",
+    "arguments": [
+      "https://bellevilleareaindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bellevilleareaindependent.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Berrien County Record",
+    "provider": "web",
+    "arguments": [
+      "http://www.bcrnews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bcrnews.net",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Presque Isle County Advance",
+    "provider": "web",
+    "arguments": [
+      "https://www.piadvance.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=piadvance.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Antrim Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.antrimreview.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=antrimreview.net",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wmuk",
+    "provider": "web",
+    "arguments": [
+      "http://wmuk.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmuk.org",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wemu",
+    "provider": "web",
+    "arguments": [
+      "http://wemu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wemu.org",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hometown Life",
+    "provider": "web",
+    "arguments": [
+      "https://hometownlife.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hometownlife.com",
+    "year": "Michigan",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

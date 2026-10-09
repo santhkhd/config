@@ -291,5 +291,709 @@
     "year": "Wisconsin",
     "genre": "Beaver Dam",
     "rating": "Daily"
+  },
+  {
+    "title": "Fox6now",
+    "provider": "web",
+    "arguments": [
+      "http://fox6now.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox6now.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ibmadison",
+    "provider": "web",
+    "arguments": [
+      "https://ibmadison.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ibmadison.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Monroe Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.themonroetimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themonroetimes.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shepherdexpress",
+    "provider": "web",
+    "arguments": [
+      "https://shepherdexpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shepherdexpress.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Swnews4u",
+    "provider": "web",
+    "arguments": [
+      "http://swnews4u.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swnews4u.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tmj4",
+    "provider": "web",
+    "arguments": [
+      "http://tmj4.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tmj4.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WRJO",
+    "provider": "web",
+    "arguments": [
+      "https://www.wrjo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wrjo.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbc26",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbc26.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbc26.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "TCH Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.tchdailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tchdailynews.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Lawrentian",
+    "provider": "web",
+    "arguments": [
+      "https://www.lawrentian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lawrentian.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wrjc",
+    "provider": "web",
+    "arguments": [
+      "http://wrjc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wrjc.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Barron News Shield",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-shield.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-shield.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Denmark News",
+    "provider": "web",
+    "arguments": [
+      "https://thedenmarknews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedenmarknews.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Amery Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.theameryfreepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theameryfreepress.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Eagle Herald",
+    "provider": "web",
+    "arguments": [
+      "http://ehextra.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ehextra.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Madisoncatholicherald",
+    "provider": "web",
+    "arguments": [
+      "http://www.madisoncatholicherald.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madisoncatholicherald.org",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pacific Coast Business Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.pacbiztimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pacbiztimes.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sun - United States - Wisconsin",
+    "provider": "web",
+    "arguments": [
+      "https://www.osceolasun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=osceolasun.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Watertown Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.nny360.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nny360.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WGTD",
+    "provider": "web",
+    "arguments": [
+      "https://www.wgtd.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wgtd.org",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sheboygan Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.sheboygansun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sheboygansun.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Biztimes",
+    "provider": "web",
+    "arguments": [
+      "http://www.biztimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=biztimes.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Burnett County Sentinel",
+    "provider": "web",
+    "arguments": [
+      "https://www.burnettcountysentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burnettcountysentinel.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cbs58",
+    "provider": "web",
+    "arguments": [
+      "https://cbs58.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbs58.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dailyunion",
+    "provider": "web",
+    "arguments": [
+      "http://dailyunion.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyunion.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Htrnews",
+    "provider": "web",
+    "arguments": [
+      "https://www.htrnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=htrnews.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ladysmith News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ladysmithnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ladysmithnews.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lakegenevanews",
+    "provider": "web",
+    "arguments": [
+      "https://lakegenevanews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakegenevanews.net",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nsarrow",
+    "provider": "web",
+    "arguments": [
+      "https://nsarrow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nsarrow.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Urbanmilwaukee",
+    "provider": "web",
+    "arguments": [
+      "https://urbanmilwaukee.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=urbanmilwaukee.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Volumeone",
+    "provider": "web",
+    "arguments": [
+      "https://volumeone.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=volumeone.org",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WAOW ABC",
+    "provider": "web",
+    "arguments": [
+      "https://www.waow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waow.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbay",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbay.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbay.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WCOW",
+    "provider": "web",
+    "arguments": [
+      "https://www.cow97.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cow97.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Weau",
+    "provider": "web",
+    "arguments": [
+      "https://www.weau.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weau.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whbl",
+    "provider": "web",
+    "arguments": [
+      "https://whbl.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whbl.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whby",
+    "provider": "web",
+    "arguments": [
+      "http://whby.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whby.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wisconsin Report",
+    "provider": "web",
+    "arguments": [
+      "https://wisconsinreport.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wisconsinreport.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wisconsinagconnection",
+    "provider": "web",
+    "arguments": [
+      "http://www.wisconsinagconnection.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wisconsinagconnection.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wisconsinwatch",
+    "provider": "web",
+    "arguments": [
+      "http://www.wisconsinwatch.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wisconsinwatch.org",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wisfarmer",
+    "provider": "web",
+    "arguments": [
+      "http://wisfarmer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wisfarmer.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WLIP",
+    "provider": "web",
+    "arguments": [
+      "https://www.wlip.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wlip.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WOSH",
+    "provider": "web",
+    "arguments": [
+      "https://www.1490wosh.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=1490wosh.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WSAU",
+    "provider": "web",
+    "arguments": [
+      "http://www.wsau.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsau.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WSAW CBS",
+    "provider": "web",
+    "arguments": [
+      "https://www.wsaw.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsaw.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtaq",
+    "provider": "web",
+    "arguments": [
+      "https://wtaq.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtaq.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wkow",
+    "provider": "web",
+    "arguments": [
+      "https://wkow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkow.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News8000",
+    "provider": "web",
+    "arguments": [
+      "https://www.news8000.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news8000.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wjfw",
+    "provider": "web",
+    "arguments": [
+      "https://www.wjfw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjfw.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtmj",
+    "provider": "web",
+    "arguments": [
+      "https://wtmj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtmj.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wxow",
+    "provider": "web",
+    "arguments": [
+      "https://www.wxow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wxow.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wuwm",
+    "provider": "web",
+    "arguments": [
+      "http://wuwm.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wuwm.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wqow",
+    "provider": "web",
+    "arguments": [
+      "https://www.wqow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wqow.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wxpr",
+    "provider": "web",
+    "arguments": [
+      "http://wxpr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wxpr.org",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "central wisconsin news",
+    "provider": "web",
+    "arguments": [
+      "https://www.centralwinews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=centralwinews.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jewishchronicle",
+    "provider": "web",
+    "arguments": [
+      "http://jewishchronicle.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jewishchronicle.org",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Middletontimes",
+    "provider": "web",
+    "arguments": [
+      "https://middletontimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=middletontimes.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Milwaukee Community Journal WISCONSIN'S LARGEST AFRICAN AMERICAN NEWSPAPERMilwaukee Commun",
+    "provider": "web",
+    "arguments": [
+      "http://www.communityjournal.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=communityjournal.net",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tri-County News",
+    "provider": "web",
+    "arguments": [
+      "https://www.iwantthenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iwantthenews.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wisbusiness",
+    "provider": "web",
+    "arguments": [
+      "http://wisbusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wisbusiness.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WJMC",
+    "provider": "web",
+    "arguments": [
+      "https://www.wjmcradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjmcradio.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hudsonstarobserver",
+    "provider": "web",
+    "arguments": [
+      "http://hudsonstarobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hudsonstarobserver.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whitewater Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.whitewaterbanner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whitewaterbanner.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Riponpress",
+    "provider": "web",
+    "arguments": [
+      "https://riponpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=riponpress.com",
+    "year": "Wisconsin",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

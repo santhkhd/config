@@ -168,5 +168,258 @@
     "year": "Nebraska",
     "genre": "York",
     "rating": "Daily"
+  },
+  {
+    "title": "Omaha Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.omahadailyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=omahadailyrecord.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cedar County News",
+    "provider": "web",
+    "arguments": [
+      "https://www.hartington.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hartington.net",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lexch",
+    "provider": "web",
+    "arguments": [
+      "https://lexch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lexch.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "1011now",
+    "provider": "web",
+    "arguments": [
+      "https://www.1011now.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=1011now.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Aurora News Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.auroranewsregister.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=auroranewsregister.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clay County News",
+    "provider": "web",
+    "arguments": [
+      "https://www.theclaycountynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theclaycountynews.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Franklin County Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.franklincountytimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=franklincountytimes.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journaldemocrat",
+    "provider": "web",
+    "arguments": [
+      "http://journaldemocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journaldemocrat.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KCNI",
+    "provider": "web",
+    "arguments": [
+      "http://www.sandhillsexpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandhillsexpress.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ketv",
+    "provider": "web",
+    "arguments": [
+      "https://www.ketv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ketv.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Klin",
+    "provider": "web",
+    "arguments": [
+      "https://klin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=klin.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Klkntv",
+    "provider": "web",
+    "arguments": [
+      "http://klkntv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=klkntv.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knopnews2",
+    "provider": "web",
+    "arguments": [
+      "http://knopnews2.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knopnews2.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ncnewspress",
+    "provider": "web",
+    "arguments": [
+      "http://ncnewspress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ncnewspress.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nemaha County Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.anewspaper.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=anewspaper.net",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northplattebulletin",
+    "provider": "web",
+    "arguments": [
+      "https://northplattebulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northplattebulletin.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pilot-Tribune & Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.enterprisepub.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enterprisepub.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Seward County Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.sewardindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sewardindependent.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Nebraskan",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailynebraskan.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailynebraskan.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thefencepost",
+    "provider": "web",
+    "arguments": [
+      "http://thefencepost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thefencepost.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thereader",
+    "provider": "web",
+    "arguments": [
+      "https://thereader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thereader.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wowt",
+    "provider": "web",
+    "arguments": [
+      "http://wowt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wowt.com",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kios",
+    "provider": "web",
+    "arguments": [
+      "http://kios.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kios.org",
+    "year": "Nebraska",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

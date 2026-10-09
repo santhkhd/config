@@ -133,5 +133,126 @@
     "year": "Idaho",
     "genre": "Boise",
     "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Kidotalkradio",
+    "provider": "web",
+    "arguments": [
+      "https://kidotalkradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kidotalkradio.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kivitv",
+    "provider": "web",
+    "arguments": [
+      "http://kivitv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kivitv.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newsradio1310",
+    "provider": "web",
+    "arguments": [
+      "https://newsradio1310.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsradio1310.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktvb",
+    "provider": "web",
+    "arguments": [
+      "https://www.ktvb.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktvb.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Reader - United States - Idaho",
+    "provider": "web",
+    "arguments": [
+      "https://sandpointreader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandpointreader.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Idahobusinessreview",
+    "provider": "web",
+    "arguments": [
+      "https://idahobusinessreview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idahobusinessreview.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mtexpress",
+    "provider": "web",
+    "arguments": [
+      "https://www.mtexpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mtexpress.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kmvt",
+    "provider": "web",
+    "arguments": [
+      "http://kmvt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kmvt.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "St. Maries Gazette Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.gazetterecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gazetterecord.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Eastidahonews",
+    "provider": "web",
+    "arguments": [
+      "https://eastidahonews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastidahonews.com",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Boisestatepublicradio",
+    "provider": "web",
+    "arguments": [
+      "http://boisestatepublicradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=boisestatepublicradio.org",
+    "year": "Idaho",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

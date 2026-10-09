@@ -181,5 +181,269 @@
     "year": "Kentucky",
     "genre": "Lexington",
     "rating": "Bluegrass Region Flagship"
+  },
+  {
+    "title": "Kentuckymonthly",
+    "provider": "web",
+    "arguments": [
+      "http://kentuckymonthly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kentuckymonthly.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Kentucky Kernel",
+    "provider": "web",
+    "arguments": [
+      "https://kykernel.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kykernel.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WLEX",
+    "provider": "web",
+    "arguments": [
+      "https://www.lex18.com/home/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lex18.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Leader News - United States - Kentucky",
+    "provider": "web",
+    "arguments": [
+      "http://www.ky-leadernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ky-leadernews.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whas11",
+    "provider": "web",
+    "arguments": [
+      "https://www.whas11.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whas11.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Murrayledger",
+    "provider": "web",
+    "arguments": [
+      "http://murrayledger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=murrayledger.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sentinel Echo",
+    "provider": "web",
+    "arguments": [
+      "http://sentinel-echo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sentinel-echo.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thetimestribune",
+    "provider": "web",
+    "arguments": [
+      "http://thetimestribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetimestribune.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Appalachian News Express",
+    "provider": "web",
+    "arguments": [
+      "http://news-expressky.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-expressky.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Falmouth Outlook",
+    "provider": "web",
+    "arguments": [
+      "https://www.falmouthoutlook.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=falmouthoutlook.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Franklin Favorite",
+    "provider": "web",
+    "arguments": [
+      "https://www.franklinfavorite.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=franklinfavorite.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Georgetown News Graphic",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-graphic.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-graphic.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lanereport",
+    "provider": "web",
+    "arguments": [
+      "http://lanereport.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lanereport.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.the-messenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=the-messenger.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wave3",
+    "provider": "web",
+    "arguments": [
+      "http://wave3.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wave3.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbko",
+    "provider": "web",
+    "arguments": [
+      "http://wbko.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbko.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WCLU",
+    "provider": "web",
+    "arguments": [
+      "https://www.wcluradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wcluradio.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdrb",
+    "provider": "web",
+    "arguments": [
+      "https://www.wdrb.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdrb.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WHOP",
+    "provider": "web",
+    "arguments": [
+      "http://www.whopam.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whopam.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wkyt",
+    "provider": "web",
+    "arguments": [
+      "https://www.wkyt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkyt.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wpsdlocal6",
+    "provider": "web",
+    "arguments": [
+      "https://www.wpsdlocal6.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wpsdlocal6.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvlkam",
+    "provider": "web",
+    "arguments": [
+      "http://wvlkam.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvlkam.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wymt",
+    "provider": "web",
+    "arguments": [
+      "http://wymt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wymt.com",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wkyufm",
+    "provider": "web",
+    "arguments": [
+      "http://wkyufm.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkyufm.org",
+    "year": "Kentucky",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

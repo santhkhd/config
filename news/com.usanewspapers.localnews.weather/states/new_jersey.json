@@ -193,5 +193,456 @@
     "year": "New Jersey",
     "genre": "Trenton",
     "rating": "Daily"
+  },
+  {
+    "title": "Coaster",
+    "provider": "web",
+    "arguments": [
+      "http://www.thecoaster.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecoaster.net",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sun Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.sunjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sunjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thewhitonline",
+    "provider": "web",
+    "arguments": [
+      "https://thewhitonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewhitonline.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wobm",
+    "provider": "web",
+    "arguments": [
+      "https://wobm.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wobm.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Goleader",
+    "provider": "web",
+    "arguments": [
+      "http://goleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goleader.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Theaquarian",
+    "provider": "web",
+    "arguments": [
+      "http://theaquarian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theaquarian.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hometown Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.hometownjournal.biz"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hometownjournal.biz",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Injustice Watch",
+    "provider": "web",
+    "arguments": [
+      "https://www.injusticewatch.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=injusticewatch.org",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jerseyshoreonline",
+    "provider": "web",
+    "arguments": [
+      "https://jerseyshoreonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jerseyshoreonline.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journal of the San Juan Islands",
+    "provider": "web",
+    "arguments": [
+      "https://www.sanjuanjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanjuanjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "NJToday.net",
+    "provider": "web",
+    "arguments": [
+      "http://www.njtoday.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=njtoday.net",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Oregon Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.theoregonjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theoregonjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Town Topics",
+    "provider": "web",
+    "arguments": [
+      "https://www.towntopics.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=towntopics.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tworivertimes",
+    "provider": "web",
+    "arguments": [
+      "https://tworivertimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tworivertimes.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Washington Jewish Week",
+    "provider": "web",
+    "arguments": [
+      "http://washingtonjewishweek.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washingtonjewishweek.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Njbiz",
+    "provider": "web",
+    "arguments": [
+      "http://www.njbiz.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=njbiz.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Statesman Journal",
+    "provider": "web",
+    "arguments": [
+      "http://statesmanjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=statesmanjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Township Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.townshipjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=townshipjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Akron Beacon Journal",
+    "provider": "web",
+    "arguments": [
+      "https://eu.beaconjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eu.beaconjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Auburn Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.auburnjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=auburnjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Catholicstarherald",
+    "provider": "web",
+    "arguments": [
+      "https://catholicstarherald.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=catholicstarherald.org",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Essexnewsdaily",
+    "provider": "web",
+    "arguments": [
+      "https://essexnewsdaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=essexnewsdaily.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Herald News",
+    "provider": "web",
+    "arguments": [
+      "http://northjersey.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northjersey.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newjerseyhills",
+    "provider": "web",
+    "arguments": [
+      "http://newjerseyhills.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newjerseyhills.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.pnj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pnj.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Retrospect",
+    "provider": "web",
+    "arguments": [
+      "http://theretrospect.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theretrospect.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "River View Observer",
+    "provider": "web",
+    "arguments": [
+      "https://riverviewobserver.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=riverviewobserver.net",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sparta Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.spartaindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=spartaindependent.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.dnj.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dnj.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Princetonian",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyprincetonian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyprincetonian.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The North Jefferson News",
+    "provider": "web",
+    "arguments": [
+      "http://www.njeffersonnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=njeffersonnews.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Theobserver",
+    "provider": "web",
+    "arguments": [
+      "http://theobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theobserver.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Trentonmonitor",
+    "provider": "web",
+    "arguments": [
+      "https://trentonmonitor.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=trentonmonitor.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Union County Local Source",
+    "provider": "web",
+    "arguments": [
+      "https://unionnewsdaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=unionnewsdaily.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westmilfordmessenger",
+    "provider": "web",
+    "arguments": [
+      "http://westmilfordmessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westmilfordmessenger.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Snjtoday",
+    "provider": "web",
+    "arguments": [
+      "https://snjtoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=snjtoday.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Targum",
+    "provider": "web",
+    "arguments": [
+      "https://dailytargum.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailytargum.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San José Spotlight",
+    "provider": "web",
+    "arguments": [
+      "https://sanjosespotlight.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanjosespotlight.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Western Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.westernjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westernjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sahan Journal",
+    "provider": "web",
+    "arguments": [
+      "https://sahanjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sahanjournal.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Star News Group",
+    "provider": "web",
+    "arguments": [
+      "http://www.starnewsgroup.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starnewsgroup.com",
+    "year": "New Jersey",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -486,5 +486,1006 @@
     "year": "New York",
     "genre": "Saranac Lake",
     "rating": "Olympic Region Daily"
+  },
+  {
+    "title": "Allotsego",
+    "provider": "web",
+    "arguments": [
+      "https://allotsego.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=allotsego.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "El Diario La Prensa",
+    "provider": "web",
+    "arguments": [
+      "http://www.eldiariony.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eldiariony.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Indypendent",
+    "provider": "web",
+    "arguments": [
+      "http://www.indypendent.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indypendent.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Livescience",
+    "provider": "web",
+    "arguments": [
+      "https://www.livescience.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livescience.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News One",
+    "provider": "web",
+    "arguments": [
+      "https://newsone.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsone.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Papermag",
+    "provider": "web",
+    "arguments": [
+      "https://www.papermag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=papermag.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Propublica",
+    "provider": "web",
+    "arguments": [
+      "https://www.propublica.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=propublica.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Queensledger",
+    "provider": "web",
+    "arguments": [
+      "https://queensledger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=queensledger.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Ithacan",
+    "provider": "web",
+    "arguments": [
+      "https://theithacan.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theithacan.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Torch",
+    "provider": "web",
+    "arguments": [
+      "https://www.torchonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=torchonline.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thebatavian",
+    "provider": "web",
+    "arguments": [
+      "http://thebatavian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebatavian.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thehudsonindependent",
+    "provider": "web",
+    "arguments": [
+      "https://thehudsonindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehudsonindependent.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wabcradio",
+    "provider": "web",
+    "arguments": [
+      "http://www.WABCRadio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wabcradio.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Waynetimes",
+    "provider": "web",
+    "arguments": [
+      "https://waynetimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waynetimes.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wibx950",
+    "provider": "web",
+    "arguments": [
+      "https://wibx950.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wibx950.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wnbf",
+    "provider": "web",
+    "arguments": [
+      "https://wnbf.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wnbf.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Minority Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.minorityreporter.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=minorityreporter.net",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcnewyork",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcnewyork.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcnewyork.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Syracusenewtimes",
+    "provider": "web",
+    "arguments": [
+      "https://www.syracusenewtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=syracusenewtimes.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The New York Carib News",
+    "provider": "web",
+    "arguments": [
+      "http://www.nycaribnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nycaribnews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Villager - United States (Ellicottville)",
+    "provider": "web",
+    "arguments": [
+      "https://thevillagerny.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thevillagerny.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westside News - Hometown News‚Ä¶Advertising you can use.",
+    "provider": "web",
+    "arguments": [
+      "https://westsidenewsny.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westsidenewsny.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wkbw",
+    "provider": "web",
+    "arguments": [
+      "http://wkbw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkbw.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "AM New York",
+    "provider": "web",
+    "arguments": [
+      "https://www.amny.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amny.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Amsterdam News",
+    "provider": "web",
+    "arguments": [
+      "https://amsterdamnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amsterdamnews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ecuadornews",
+    "provider": "web",
+    "arguments": [
+      "https://www.ecuadornews.com.ec"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ecuadornews.com.ec",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Long Island Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.longislandpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=longislandpress.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New York Beacon",
+    "provider": "web",
+    "arguments": [
+      "https://newyorkbeacon.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newyorkbeacon.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rye Record",
+    "provider": "web",
+    "arguments": [
+      "http://www.ryerecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ryerecord.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundo47",
+    "provider": "web",
+    "arguments": [
+      "http://telemundo47.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundo47.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Brooklyn Paper",
+    "provider": "web",
+    "arguments": [
+      "https://www.brooklynpaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brooklynpaper.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Haitian Times",
+    "provider": "web",
+    "arguments": [
+      "https://haitiantimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=haitiantimes.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Village Voice",
+    "provider": "web",
+    "arguments": [
+      "https://www.villagevoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=villagevoice.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Theexaminernews",
+    "provider": "web",
+    "arguments": [
+      "http://theexaminernews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theexaminernews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rochester Business Journal New York business news and information",
+    "provider": "web",
+    "arguments": [
+      "http://www.rbj.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rbj.net",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Epoch Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.theepochtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theepochtimes.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Hamptons",
+    "provider": "web",
+    "arguments": [
+      "https://www.27east.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=27east.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Timestelegram",
+    "provider": "web",
+    "arguments": [
+      "http://timestelegram.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timestelegram.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wamc",
+    "provider": "web",
+    "arguments": [
+      "http://wamc.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wamc.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Weny",
+    "provider": "web",
+    "arguments": [
+      "http://weny.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weny.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wrvo",
+    "provider": "web",
+    "arguments": [
+      "http://wrvo.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wrvo.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Artvoice",
+    "provider": "web",
+    "arguments": [
+      "https://artvoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=artvoice.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cooperstown Crier - Your Source for Hometown News - Cooperstown, Baseball Hall of Fame",
+    "provider": "web",
+    "arguments": [
+      "http://coopercrier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coopercrier.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newzjunky",
+    "provider": "web",
+    "arguments": [
+      "http://newzjunky.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newzjunky.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The East Hampton Star",
+    "provider": "web",
+    "arguments": [
+      "http://easthamptonstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=easthamptonstar.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Warwick Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://warwickadvertiser.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=warwickadvertiser.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ithaca Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.ithaca.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ithaca.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Adirondackexplorer",
+    "provider": "web",
+    "arguments": [
+      "http://adirondackexplorer.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=adirondackexplorer.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Battery Park City Broadsheet",
+    "provider": "web",
+    "arguments": [
+      "https://www.ebroadsheet.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ebroadsheet.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brooklyn Eagle",
+    "provider": "web",
+    "arguments": [
+      "http://www.brooklyneagle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brooklyneagle.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Catholiccourier",
+    "provider": "web",
+    "arguments": [
+      "https://catholiccourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=catholiccourier.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chroniclenewspaper",
+    "provider": "web",
+    "arguments": [
+      "http://chroniclenewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chroniclenewspaper.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chronogram",
+    "provider": "web",
+    "arguments": [
+      "http://chronogram.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronogram.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cityandstateny",
+    "provider": "web",
+    "arguments": [
+      "https://www.cityandstateny.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cityandstateny.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cnycentral",
+    "provider": "web",
+    "arguments": [
+      "https://cnycentral.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cnycentral.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Countryfolks",
+    "provider": "web",
+    "arguments": [
+      "http://countryfolks.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=countryfolks.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ethikos Kyrix",
+    "provider": "web",
+    "arguments": [
+      "https://www.ekirikas.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ekirikas.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gay City News",
+    "provider": "web",
+    "arguments": [
+      "https://gaycitynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gaycitynews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hudson Valley News. Get the story!",
+    "provider": "web",
+    "arguments": [
+      "https://www.midhudsonnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=midhudsonnews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Long Island Advance",
+    "provider": "web",
+    "arguments": [
+      "https://www.longislandadvance.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=longislandadvance.net",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mymalonetelegram",
+    "provider": "web",
+    "arguments": [
+      "http://mymalonetelegram.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mymalonetelegram.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New York Resident",
+    "provider": "web",
+    "arguments": [
+      "http://www.resident.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=resident.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newyorkfamily",
+    "provider": "web",
+    "arguments": [
+      "http://newyorkfamily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newyorkfamily.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ny1",
+    "provider": "web",
+    "arguments": [
+      "http://www.ny1.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ny1.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oneida Daily Dispatch - Latest News, Sports, Opinion, Entertainment, Business, Life",
+    "provider": "web",
+    "arguments": [
+      "https://www.oneidadispatch.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oneidadispatch.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oswego County Today",
+    "provider": "web",
+    "arguments": [
+      "https://oswegocountytoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oswegocountytoday.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Photo News",
+    "provider": "web",
+    "arguments": [
+      "http://thephoto-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thephoto-news.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Chief",
+    "provider": "web",
+    "arguments": [
+      "https://thechiefleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thechiefleader.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Journal News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lohud.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lohud.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbng",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbng.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbng.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wicz",
+    "provider": "web",
+    "arguments": [
+      "http://wicz.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wicz.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wwnytv",
+    "provider": "web",
+    "arguments": [
+      "http://wwnytv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wwnytv.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thenationalherald",
+    "provider": "web",
+    "arguments": [
+      "https://thenationalherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenationalherald.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wktv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wktv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wktv.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Irishamerica",
+    "provider": "web",
+    "arguments": [
+      "http://irishamerica.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=irishamerica.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wxxinews",
+    "provider": "web",
+    "arguments": [
+      "http://wxxinews.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wxxinews.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "White Plains Citizenet Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://www.whiteplainscnr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whiteplainscnr.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ampoleagle",
+    "provider": "web",
+    "arguments": [
+      "https://ampoleagle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ampoleagle.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Parichoy",
+    "provider": "web",
+    "arguments": [
+      "https://parichoy.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=parichoy.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Long Island Business News",
+    "provider": "web",
+    "arguments": [
+      "https://www.libn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=libn.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nydailyrecord",
+    "provider": "web",
+    "arguments": [
+      "https://nydailyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nydailyrecord.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Waer",
+    "provider": "web",
+    "arguments": [
+      "http://waer.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waer.org",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bloomberg",
+    "provider": "web",
+    "arguments": [
+      "https://bloomberg.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bloomberg.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gothamist News",
+    "provider": "web",
+    "arguments": [
+      "https://gothamist.com/news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gothamist.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Ithaca Voice",
+    "provider": "web",
+    "arguments": [
+      "https://ithacavoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ithacavoice.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox News",
+    "provider": "web",
+    "arguments": [
+      "https://www.foxnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxnews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "NBC News",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcnews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "CBSN News",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbsnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbsnews.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "ABC News",
+    "provider": "web",
+    "arguments": [
+      "https://abcnews.go.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abcnews.go.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Western New York Family Magazine, Buffalo, NY",
+    "provider": "web",
+    "arguments": [
+      "https://www.wnyfamilymagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wnyfamilymagazine.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New York Magazine",
+    "provider": "web",
+    "arguments": [
+      "https://nymag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nymag.com",
+    "year": "New York",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

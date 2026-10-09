@@ -136,5 +136,159 @@
     "year": "Nevada",
     "genre": "Winnemucca",
     "rating": "Semi-Weekly"
+  },
+  {
+    "title": "Mvprogress",
+    "provider": "web",
+    "arguments": [
+      "https://mvprogress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mvprogress.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Carsonnow",
+    "provider": "web",
+    "arguments": [
+      "http://carsonnow.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carsonnow.org",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lccentral",
+    "provider": "web",
+    "arguments": [
+      "https://lccentral.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lccentral.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nevadabusiness",
+    "provider": "web",
+    "arguments": [
+      "https://nevadabusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nevadabusiness.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox5vegas",
+    "provider": "web",
+    "arguments": [
+      "https://www.fox5vegas.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox5vegas.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kkoh",
+    "provider": "web",
+    "arguments": [
+      "http://kkoh.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kkoh.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knpr",
+    "provider": "web",
+    "arguments": [
+      "https://www.knpr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knpr.org",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kolotv",
+    "provider": "web",
+    "arguments": [
+      "https://www.kolotv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kolotv.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktnv",
+    "provider": "web",
+    "arguments": [
+      "http://ktnv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktnv.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Las Vegas Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://lasvegasweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lasvegasweekly.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mesquitelocalnews",
+    "provider": "web",
+    "arguments": [
+      "https://mesquitelocalnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mesquitelocalnews.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sierra Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.sierrasun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sierrasun.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundolasvegas",
+    "provider": "web",
+    "arguments": [
+      "http://telemundolasvegas.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundolasvegas.com",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kunr",
+    "provider": "web",
+    "arguments": [
+      "http://kunr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kunr.org",
+    "year": "Nevada",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

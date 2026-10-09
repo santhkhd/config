@@ -136,5 +136,181 @@
     "year": "Vermont",
     "genre": "Stowe",
     "rating": "Weekly"
+  },
+  {
+    "title": "Mountaintimes",
+    "provider": "web",
+    "arguments": [
+      "https://mountaintimes.info/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mountaintimes.info",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Bona Venture",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebvnewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebvnewspaper.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bradford Journal-Opinion",
+    "provider": "web",
+    "arguments": [
+      "https://jonews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jonews.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vermontbiz",
+    "provider": "web",
+    "arguments": [
+      "http://www.vermontbiz.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vermontbiz.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Willistonobserver",
+    "provider": "web",
+    "arguments": [
+      "http://willistonobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=willistonobserver.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Essex Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.essexreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=essexreporter.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chester Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.chestertelegraph.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chestertelegraph.org",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News & Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.gvnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gvnews.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Smoky Mountain Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.thesmokymountaintimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesmokymountaintimes.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thevermontstandard",
+    "provider": "web",
+    "arguments": [
+      "https://thevermontstandard.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thevermontstandard.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "St. Albans Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://samessenger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=samessenger.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Miltonindependent",
+    "provider": "web",
+    "arguments": [
+      "http://miltonindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miltonindependent.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Santa Ynez Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://syvnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=syvnews.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vermont Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.vermontjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vermontjournal.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Colchester Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.colchestersun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=colchestersun.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newport Daily Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.newportvermontdailyexpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newportvermontdailyexpress.com",
+    "year": "Vermont",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

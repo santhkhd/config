@@ -172,5 +172,214 @@
     "year": "West Virginia",
     "genre": "Beckley",
     "rating": "Southern WV Daily"
+  },
+  {
+    "title": "Clay County Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://claycountyfreepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=claycountyfreepress.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Pocahontas Times",
+    "provider": "web",
+    "arguments": [
+      "https://pocahontastimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pocahontastimes.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Calhounchronicle",
+    "provider": "web",
+    "arguments": [
+      "https://calhounchronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calhounchronicle.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Connect Bridgeport",
+    "provider": "web",
+    "arguments": [
+      "https://www.connect-bridgeport.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=connect-bridgeport.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Athenaeum",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedaonline.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lewisburg, Greenbrier County WV News",
+    "provider": "web",
+    "arguments": [
+      "https://mountainmessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mountainmessenger.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Logan Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.loganbanner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=loganbanner.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Moorefield Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://moorefieldexaminer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moorefieldexaminer.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Parsons Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.parsonsadvocate.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=parsonsadvocate.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Spirit of Jefferson and Farmer's Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.spiritofjefferson.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=spiritofjefferson.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wajr",
+    "provider": "web",
+    "arguments": [
+      "https://wajr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wajr.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WCHS News Network",
+    "provider": "web",
+    "arguments": [
+      "https://wchsnetwork.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wchsnetwork.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdtv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wdtv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdtv.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsaz",
+    "provider": "web",
+    "arguments": [
+      "https://www.wsaz.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsaz.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvexecutive",
+    "provider": "web",
+    "arguments": [
+      "https://wvexecutive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvexecutive.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvmetronews",
+    "provider": "web",
+    "arguments": [
+      "http://www.wvmetronews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvmetronews.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvva",
+    "provider": "web",
+    "arguments": [
+      "https://www.wvva.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvva.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coalvalleynews",
+    "provider": "web",
+    "arguments": [
+      "http://coalvalleynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coalvalleynews.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Williamsondailynews",
+    "provider": "web",
+    "arguments": [
+      "https://williamsondailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=williamsondailynews.com",
+    "year": "West Virginia",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

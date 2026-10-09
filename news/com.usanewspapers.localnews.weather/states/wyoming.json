@@ -168,5 +168,698 @@
     "year": "Wyoming",
     "genre": "Wheatland",
     "rating": "Weekly"
+  },
+  {
+    "title": "K2radio",
+    "provider": "web",
+    "arguments": [
+      "https://k2radio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=k2radio.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KFBC",
+    "provider": "web",
+    "arguments": [
+      "https://www.kfbcradio.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfbcradio.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kgab",
+    "provider": "web",
+    "arguments": [
+      "https://kgab.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kgab.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KISS",
+    "provider": "web",
+    "arguments": [
+      "https://kisscasper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kisscasper.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kowb1290",
+    "provider": "web",
+    "arguments": [
+      "https://kowb1290.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kowb1290.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laramielive",
+    "provider": "web",
+    "arguments": [
+      "https://laramielive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laramielive.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Savannah Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.savannahtribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=savannahtribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "West Central Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.wctrib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wctrib.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ironton Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://irontontribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=irontontribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pioneer-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.pioneertribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pioneertribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Portuguese Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.portuguesetribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portuguesetribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Waco Tribune-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://wacotrib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wacotrib.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fort Scott Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.fstribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fstribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fowler Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://fowlertribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fowlertribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hillsboro Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://hillsborotribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hillsborotribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "La Crosse Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.lacrossetribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lacrossetribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mooresville Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://mooresvilletribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mooresvilletribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mount Olive Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.mountolivetribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mountolivetribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Bismarck Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://bismarcktribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bismarcktribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Pratt Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.pratttribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pratttribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Salt Lake Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.sltrib.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sltrib.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "World Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.worldtribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worldtribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bay City Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.baycitytribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baycitytribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pharos-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.pharostribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pharostribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Marino Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://outlooknewspapers.com/sanmarinotribune/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=outlooknewspapers.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Philadelphia Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.softlineweb.com/softlineweb/ethnic.htm"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=softlineweb.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbia Daily Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbiatribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbiatribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hornell Evening Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.eveningtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningtribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Independent Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.thermopir.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thermopir.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kokomo Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.kokomotribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kokomotribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arab Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.thearabtribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thearabtribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brush News-Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://brushnewstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brushnewstribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Buckrail",
+    "provider": "web",
+    "arguments": [
+      "https://buckrail.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buckrail.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clarke County Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.clarkecountytrib.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clarkecountytrib.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clearwater Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.clearwatertribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clearwatertribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coshocton Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.coshoctontribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coshoctontribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "County17",
+    "provider": "web",
+    "arguments": [
+      "https://county17.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=county17.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily News-Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.newstribune.info"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstribune.info",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.wisconsinrapidstribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wisconsinrapidstribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Green River Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.greenriverstar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenriverstar.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hastings Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://hastingstribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hastingstribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Moorcroft Leader",
+    "provider": "web",
+    "arguments": [
+      "http://moorcroftleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moorcroftleader.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pacifica Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.pacificatribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pacificatribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Peru Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.perutribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=perutribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shortgo",
+    "provider": "web",
+    "arguments": [
+      "https://shortgo.co/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shortgo.co",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "South Bend Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://southbendtribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southbendtribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sundancetimes",
+    "provider": "web",
+    "arguments": [
+      "http://sundancetimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundancetimes.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sweetwaternow",
+    "provider": "web",
+    "arguments": [
+      "http://sweetwaternow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sweetwaternow.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Meadville Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.meadvilletribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=meadvilletribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Tribune-Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.lajuntatribunedemocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lajuntatribunedemocrat.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.elkintribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elkintribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tribune-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribstar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribstar.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wyo4news",
+    "provider": "web",
+    "arguments": [
+      "https://wyo4news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wyo4news.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wyodaily",
+    "provider": "web",
+    "arguments": [
+      "http://wyodaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wyodaily.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wyoming Livestock Roundup",
+    "provider": "web",
+    "arguments": [
+      "https://www.wylr.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wylr.net",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Madera Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.maderatribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maderatribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wyomingpublicmedia",
+    "provider": "web",
+    "arguments": [
+      "http://wyomingpublicmedia.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wyomingpublicmedia.org",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Homer Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://homertribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=homertribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lynden Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.lyndentribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lyndentribune.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Letter Journal",
+    "provider": "web",
+    "arguments": [
+      "https://newslj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newslj.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sheridanmedia",
+    "provider": "web",
+    "arguments": [
+      "https://sheridanmedia.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sheridanmedia.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://tribtown.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribtown.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Basin Radio Network",
+    "provider": "web",
+    "arguments": [
+      "http://www.basinsradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=basinsradio.com",
+    "year": "Wyoming",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

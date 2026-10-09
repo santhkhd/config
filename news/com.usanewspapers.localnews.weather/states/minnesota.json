@@ -210,5 +210,610 @@
     "year": "Minnesota",
     "genre": "Owatonna",
     "rating": "Daily"
+  },
+  {
+    "title": "Kare11",
+    "provider": "web",
+    "arguments": [
+      "https://www.kare11.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kare11.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Montenews",
+    "provider": "web",
+    "arguments": [
+      "http://montenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montenews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Park Bugle",
+    "provider": "web",
+    "arguments": [
+      "https://www.parkbugle.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=parkbugle.org",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wjon",
+    "provider": "web",
+    "arguments": [
+      "https://wjon.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjon.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wright County Journal-Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedrummer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedrummer.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Echopress",
+    "provider": "web",
+    "arguments": [
+      "http://echopress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=echopress.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Detroit Lakes Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.dl-online.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dl-online.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fillmore County Journal",
+    "provider": "web",
+    "arguments": [
+      "https://fillmorecountyjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fillmorecountyjournal.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "MinnPost",
+    "provider": "web",
+    "arguments": [
+      "https://www.minnpost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=minnpost.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Standard Gazette & Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://sgmnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sgmnews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thecatholicspirit",
+    "provider": "web",
+    "arguments": [
+      "https://thecatholicspirit.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecatholicspirit.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox21online",
+    "provider": "web",
+    "arguments": [
+      "http://fox21online.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox21online.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Grandrapidsmn",
+    "provider": "web",
+    "arguments": [
+      "http://grandrapidsmn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=grandrapidsmn.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hometownsource",
+    "provider": "web",
+    "arguments": [
+      "https://www.hometownsource.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hometownsource.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Villager - United States - Minnesota",
+    "provider": "web",
+    "arguments": [
+      "https://www.myvillager.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myvillager.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Citizennewspaper",
+    "provider": "web",
+    "arguments": [
+      "http://citizennewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=citizennewspaper.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cook County News Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.cookcountynews-herald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cookcountynews-herald.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cook News Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.cooknewsherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cooknewsherald.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cottonwood County Citizen",
+    "provider": "web",
+    "arguments": [
+      "http://www.windomnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=windomnews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Granitefallsnews",
+    "provider": "web",
+    "arguments": [
+      "http://granitefallsnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=granitefallsnews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Headlight Herald - United States - Minnesota",
+    "provider": "web",
+    "arguments": [
+      "https://www.headlightherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=headlightherald.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KATE",
+    "provider": "web",
+    "arguments": [
+      "https://www.myalbertlea.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myalbertlea.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KLGR",
+    "provider": "web",
+    "arguments": [
+      "https://www.myklgr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myklgr.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KRWC",
+    "provider": "web",
+    "arguments": [
+      "http://www.krwc1360.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=krwc1360.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kttc",
+    "provider": "web",
+    "arguments": [
+      "http://kttc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kttc.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laprensademn",
+    "provider": "web",
+    "arguments": [
+      "https://www.laprensademn.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laprensademn.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Longfellow Nokomis Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.longfellownokomismessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=longfellownokomismessenger.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Minnesota Spokesman-Recorder",
+    "provider": "web",
+    "arguments": [
+      "http://www.spokesman-recorder.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=spokesman-recorder.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Minnesotamonthly",
+    "provider": "web",
+    "arguments": [
+      "http://minnesotamonthly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=minnesotamonthly.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Monitor - United States - Minnesota",
+    "provider": "web",
+    "arguments": [
+      "https://www.monitorsaintpaul.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=monitorsaintpaul.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Parkrapidsenterprise",
+    "provider": "web",
+    "arguments": [
+      "http://parkrapidsenterprise.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=parkrapidsenterprise.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Perham Focus",
+    "provider": "web",
+    "arguments": [
+      "https://www.perhamfocus.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=perhamfocus.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pilot Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.walkermn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=walkermn.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pineandlakes",
+    "provider": "web",
+    "arguments": [
+      "http://pineandlakes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pineandlakes.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pinejournal",
+    "provider": "web",
+    "arguments": [
+      "http://pinejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pinejournal.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Redwood Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.redwoodfallsgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redwoodfallsgazette.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rock County Star Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.star-herald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=star-herald.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shoreview Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.presspubs.com/shoreview/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=presspubs.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sleepyeyenews",
+    "provider": "web",
+    "arguments": [
+      "http://sleepyeyenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sleepyeyenews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Stjamesnews",
+    "provider": "web",
+    "arguments": [
+      "http://stjamesnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stjamesnews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Swiftcountymonitor",
+    "provider": "web",
+    "arguments": [
+      "https://swiftcountymonitor.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swiftcountymonitor.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Ely Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.elyecho.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elyecho.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wadenapj",
+    "provider": "web",
+    "arguments": [
+      "http://wadenapj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wadenapj.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WTIP",
+    "provider": "web",
+    "arguments": [
+      "http://www.wtip.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtip.org",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Messagemedia",
+    "provider": "web",
+    "arguments": [
+      "https://messagemedia.co/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=messagemedia.co",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thelandonline",
+    "provider": "web",
+    "arguments": [
+      "https://thelandonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thelandonline.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Prague Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.newpraguetimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newpraguetimes.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Frazee Vergas Forum",
+    "provider": "web",
+    "arguments": [
+      "http://www.frazeeforum.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=frazeeforum.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Montgomery Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.montgomerymnnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montgomerymnnews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Zumbrota",
+    "provider": "web",
+    "arguments": [
+      "https://zumbrota.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zumbrota.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Finance & Commerce",
+    "provider": "web",
+    "arguments": [
+      "https://www.finance-commerce.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=finance-commerce.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Insight News",
+    "provider": "web",
+    "arguments": [
+      "https://insightnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=insightnews.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KROX",
+    "provider": "web",
+    "arguments": [
+      "https://www.kroxam.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kroxam.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cold Spring Record Online, Westwind Printing - Cold Spring, MN",
+    "provider": "web",
+    "arguments": [
+      "http://www.csrecord.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=csrecord.net",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mpls.St.Paul Magazine",
+    "provider": "web",
+    "arguments": [
+      "http://www.mspmag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mspmag.com",
+    "year": "Minnesota",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -250,5 +250,984 @@
     "year": "Washington",
     "genre": "Kennewick / Pasco / Richland",
     "rating": "Tri-Cities Daily"
+  },
+  {
+    "title": "610kona",
+    "provider": "web",
+    "arguments": [
+      "https://610kona.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=610kona.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "King5",
+    "provider": "web",
+    "arguments": [
+      "https://www.king5.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=king5.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kpq",
+    "provider": "web",
+    "arguments": [
+      "https://kpq.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kpq.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Krem",
+    "provider": "web",
+    "arguments": [
+      "https://www.krem.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=krem.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newstalkkit",
+    "provider": "web",
+    "arguments": [
+      "https://newstalkkit.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstalkkit.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nwcatholic",
+    "provider": "web",
+    "arguments": [
+      "https://nwcatholic.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nwcatholic.org",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Evergreen",
+    "provider": "web",
+    "arguments": [
+      "https://dailyevergreen.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyevergreen.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kvi",
+    "provider": "web",
+    "arguments": [
+      "http://kvi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvi.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "La Voz Hispanic Newspaper",
+    "provider": "web",
+    "arguments": [
+      "https://lavozhispanicnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lavozhispanicnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Observer",
+    "provider": "web",
+    "arguments": [
+      "https://cwuobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cwuobserver.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Spectator",
+    "provider": "web",
+    "arguments": [
+      "https://stuyspec.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stuyspec.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bainbridge Island Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.bainbridgereview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bainbridgereview.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chinook Observer",
+    "provider": "web",
+    "arguments": [
+      "https://chinookobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chinookobserver.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Greenfield News",
+    "provider": "web",
+    "arguments": [
+      "https://greenfieldnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenfieldnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hays Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.hdnews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hdnews.net",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KLOG",
+    "provider": "web",
+    "arguments": [
+      "http://klog.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=klog.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Moscow-Pullman Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.dnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newstalk870",
+    "provider": "web",
+    "arguments": [
+      "https://newstalk870.am/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstalk870.am",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North American Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.napost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=napost.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Norwood News",
+    "provider": "web",
+    "arguments": [
+      "https://www.norwoodnews.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=norwoodnews.org",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nwasianweekly",
+    "provider": "web",
+    "arguments": [
+      "https://nwasianweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nwasianweekly.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Seattle Medium",
+    "provider": "web",
+    "arguments": [
+      "https://seattlemedium.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattlemedium.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Redmond Spokesman",
+    "provider": "web",
+    "arguments": [
+      "https://redmondspokesman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redmondspokesman.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northwestprimetime",
+    "provider": "web",
+    "arguments": [
+      "https://northwestprimetime.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwestprimetime.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "American Medical News",
+    "provider": "web",
+    "arguments": [
+      "http://www.amednews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amednews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Auburn Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.auburn-reporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=auburn-reporter.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Enid News & Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.enidnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enidnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Khq",
+    "provider": "web",
+    "arguments": [
+      "https://www.khq.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=khq.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northfield News",
+    "provider": "web",
+    "arguments": [
+      "http://northfieldnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northfieldnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Redmond Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://redmond-reporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redmond-reporter.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shorelineareanews",
+    "provider": "web",
+    "arguments": [
+      "http://shorelineareanews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shorelineareanews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Watchdog",
+    "provider": "web",
+    "arguments": [
+      "http://www.thewatchdogonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewatchdogonline.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Woodward News",
+    "provider": "web",
+    "arguments": [
+      "http://woodwardnews.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=woodwardnews.net",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bellevuereporter",
+    "provider": "web",
+    "arguments": [
+      "http://bellevuereporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bellevuereporter.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bothell Kenmore Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.bothell-reporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bothell-reporter.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Calvert Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.somdnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=somdnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Camas Wahougal Post Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.camaspostrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=camaspostrecord.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Capitolhilltimes",
+    "provider": "web",
+    "arguments": [
+      "https://capitolhilltimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capitolhilltimes.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cheney Free Press Homepage",
+    "provider": "web",
+    "arguments": [
+      "https://www.cheneyfreepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cheneyfreepress.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Journal of Commerce",
+    "provider": "web",
+    "arguments": [
+      "https://djcoregon.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=djcoregon.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Federalwaymirror",
+    "provider": "web",
+    "arguments": [
+      "http://federalwaymirror.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=federalwaymirror.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Forks Forum",
+    "provider": "web",
+    "arguments": [
+      "https://www.forksforum.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=forksforum.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Grist",
+    "provider": "web",
+    "arguments": [
+      "https://grist.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=grist.org",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Islandssounder",
+    "provider": "web",
+    "arguments": [
+      "http://islandssounder.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=islandssounder.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Islandsweekly",
+    "provider": "web",
+    "arguments": [
+      "http://islandsweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=islandsweekly.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Issaquahreporter",
+    "provider": "web",
+    "arguments": [
+      "http://issaquahreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=issaquahreporter.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jacksonville Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.jdnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jdnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kiro7",
+    "provider": "web",
+    "arguments": [
+      "http://kiro7.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kiro7.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kitsapdailynews",
+    "provider": "web",
+    "arguments": [
+      "http://kitsapdailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kitsapdailynews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KLCK",
+    "provider": "web",
+    "arguments": [
+      "https://gorgenewscenter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gorgenewscenter.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KNKX",
+    "provider": "web",
+    "arguments": [
+      "https://www.knkx.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knkx.org",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kxro",
+    "provider": "web",
+    "arguments": [
+      "http://kxro.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kxro.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mason County",
+    "provider": "web",
+    "arguments": [
+      "https://www.masoncounty.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=masoncounty.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcrightnow",
+    "provider": "web",
+    "arguments": [
+      "http://nbcrightnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcrightnow.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Opednews",
+    "provider": "web",
+    "arguments": [
+      "https://www.opednews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=opednews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pullmanradio",
+    "provider": "web",
+    "arguments": [
+      "https://pullmanradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pullmanradio.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Renton Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.rentonreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rentonreporter.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Seattle Gay News",
+    "provider": "web",
+    "arguments": [
+      "http://sgn.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sgn.org",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Seattlemag",
+    "provider": "web",
+    "arguments": [
+      "https://seattlemag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattlemag.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sequimgazette",
+    "provider": "web",
+    "arguments": [
+      "http://sequimgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sequimgazette.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Southwhidbeyrecord",
+    "provider": "web",
+    "arguments": [
+      "http://southwhidbeyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southwhidbeyrecord.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Soysource",
+    "provider": "web",
+    "arguments": [
+      "https://soysource.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=soysource.net",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Springfield News-Sun",
+    "provider": "web",
+    "arguments": [
+      "http://springfieldnewssun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=springfieldnewssun.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Star Homepage",
+    "provider": "web",
+    "arguments": [
+      "https://www.grandcoulee.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=grandcoulee.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thestand",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestand.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestand.org",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Times Record News",
+    "provider": "web",
+    "arguments": [
+      "http://timesrecordnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesrecordnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Valleyrecord",
+    "provider": "web",
+    "arguments": [
+      "http://valleyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=valleyrecord.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vashonbeachcomber",
+    "provider": "web",
+    "arguments": [
+      "https://www.vashonbeachcomber.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vashonbeachcomber.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Voiceofthevalley",
+    "provider": "web",
+    "arguments": [
+      "https://voiceofthevalley.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=voiceofthevalley.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westseattleblog",
+    "provider": "web",
+    "arguments": [
+      "https://westseattleblog.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westseattleblog.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whitman County Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.wcgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wcgazette.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wilsonville Spokesman",
+    "provider": "web",
+    "arguments": [
+      "http://www.wilsonvillespokesman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wilsonvillespokesman.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yelmonline",
+    "provider": "web",
+    "arguments": [
+      "https://yelmonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yelmonline.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Youmaga",
+    "provider": "web",
+    "arguments": [
+      "https://www.youmaga.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=youmaga.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kxly",
+    "provider": "web",
+    "arguments": [
+      "https://kxly920.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kxly920.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Myedmondsnews",
+    "provider": "web",
+    "arguments": [
+      "https://myedmondsnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myedmondsnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mynorthwest",
+    "provider": "web",
+    "arguments": [
+      "https://mynorthwest.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mynorthwest.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Djc",
+    "provider": "web",
+    "arguments": [
+      "http://djc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=djc.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Highland Community News",
+    "provider": "web",
+    "arguments": [
+      "https://highlandnews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=highlandnews.net",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Seattlechinesepost",
+    "provider": "web",
+    "arguments": [
+      "https://seattlechinesepost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattlechinesepost.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Elsoldeyakima",
+    "provider": "web",
+    "arguments": [
+      "https://www.elsoldeyakima.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elsoldeyakima.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily of the University of Washington",
+    "provider": "web",
+    "arguments": [
+      "https://dailyuw.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyuw.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Goldendale Sentinel Homepage",
+    "provider": "web",
+    "arguments": [
+      "https://www.goldendalesentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goldendalesentinel.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Spokanepublicradio",
+    "provider": "web",
+    "arguments": [
+      "http://spokanepublicradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=spokanepublicradio.org",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Stay Inspired",
+    "provider": "web",
+    "arguments": [
+      "https://www.stayinspirednews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stayinspirednews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Miner Online",
+    "provider": "web",
+    "arguments": [
+      "http://pendoreillerivervalley.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pendoreillerivervalley.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Weekly World News",
+    "provider": "web",
+    "arguments": [
+      "http://www.weeklyworldnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weeklyworldnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Startland News",
+    "provider": "web",
+    "arguments": [
+      "https://www.startlandnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=startlandnews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "BuzzFeed News",
+    "provider": "web",
+    "arguments": [
+      "https://buzzfeednews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buzzfeednews.com",
+    "year": "Washington",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

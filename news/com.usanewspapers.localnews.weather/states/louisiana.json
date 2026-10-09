@@ -167,5 +167,445 @@
     "year": "Louisiana",
     "genre": "Covington / Northshore",
     "rating": "Weekly"
+  },
+  {
+    "title": "Lionsroarnews",
+    "provider": "web",
+    "arguments": [
+      "https://lionsroarnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lionsroarnews.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vermilion Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.vermiliontoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vermiliontoday.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bizneworleans",
+    "provider": "web",
+    "arguments": [
+      "https://bizneworleans.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bizneworleans.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kpel965",
+    "provider": "web",
+    "arguments": [
+      "https://kpel965.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kpel965.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ruston Daily Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.rustonleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rustonleader.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wwltv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wwltv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wwltv.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "710keel",
+    "provider": "web",
+    "arguments": [
+      "https://710keel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=710keel.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Avoyelles Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.avoyellestoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=avoyellestoday.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Reveille",
+    "provider": "web",
+    "arguments": [
+      "http://www.lsureveille.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lsureveille.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Neworleanscitybusiness",
+    "provider": "web",
+    "arguments": [
+      "https://neworleanscitybusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=neworleanscitybusiness.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baptistmessage",
+    "provider": "web",
+    "arguments": [
+      "https://baptistmessage.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baptistmessage.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Evangeline Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.evangelinetoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=evangelinetoday.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktbs",
+    "provider": "web",
+    "arguments": [
+      "http://ktbs.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktbs.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Plaquemines Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://plaqueminesgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=plaqueminesgazette.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "225",
+    "provider": "web",
+    "arguments": [
+      "https://www.225batonrouge.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=225batonrouge.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bossierpress",
+    "provider": "web",
+    "arguments": [
+      "http://www.bossierpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bossierpress.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Businessreport",
+    "provider": "web",
+    "arguments": [
+      "http://businessreport.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessreport.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "DeQuincyNews.com-DeQuincy, Louisiana",
+    "provider": "web",
+    "arguments": [
+      "https://www.dequincynews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dequincynews.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Eunice News",
+    "provider": "web",
+    "arguments": [
+      "https://www.eunicetoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eunicetoday.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox8live",
+    "provider": "web",
+    "arguments": [
+      "https://www.fox8live.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox8live.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Heraldguide",
+    "provider": "web",
+    "arguments": [
+      "http://heraldguide.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldguide.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Houmatimes",
+    "provider": "web",
+    "arguments": [
+      "https://houmatimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=houmatimes.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "http",
+    "provider": "web",
+    "arguments": [
+      "http://www.fgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fgazette.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Indianola Independent Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://indianola-ia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianola-ia.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kalb",
+    "provider": "web",
+    "arguments": [
+      "https://www.kalb.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kalb.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Katc",
+    "provider": "web",
+    "arguments": [
+      "https://www.katc.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=katc.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knoe",
+    "provider": "web",
+    "arguments": [
+      "http://knoe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knoe.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kplctv",
+    "provider": "web",
+    "arguments": [
+      "http://kplctv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kplctv.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ksla",
+    "provider": "web",
+    "arguments": [
+      "https://www.ksla.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksla.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Page",
+    "provider": "web",
+    "arguments": [
+      "https://www.thejenatimes.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thejenatimes.net",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Postsouth",
+    "provider": "web",
+    "arguments": [
+      "http://postsouth.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=postsouth.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Slidell Independent",
+    "provider": "web",
+    "arguments": [
+      "https://slidell-independent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=slidell-independent.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "St. Bernard Voice",
+    "provider": "web",
+    "arguments": [
+      "http://thestbernardvoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestbernardvoice.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Teche News",
+    "provider": "web",
+    "arguments": [
+      "https://www.techetoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=techetoday.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thevermilion",
+    "provider": "web",
+    "arguments": [
+      "http://thevermilion.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thevermilion.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wafb",
+    "provider": "web",
+    "arguments": [
+      "https://www.wafb.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wafb.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdsu",
+    "provider": "web",
+    "arguments": [
+      "https://www.wdsu.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdsu.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Weekly Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.weeklycitizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=weeklycitizen.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Weekly Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.brweeklypress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brweeklypress.com",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Redriverradio",
+    "provider": "web",
+    "arguments": [
+      "http://redriverradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redriverradio.org",
+    "year": "Louisiana",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

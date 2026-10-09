@@ -569,5 +569,1831 @@
     "year": "Texas",
     "genre": "Alice",
     "rating": "Daily"
+  },
+  {
+    "title": "12newsnow",
+    "provider": "web",
+    "arguments": [
+      "https://www.12newsnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=12newsnow.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coveringkaty",
+    "provider": "web",
+    "arguments": [
+      "https://coveringkaty.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coveringkaty.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox26houston",
+    "provider": "web",
+    "arguments": [
+      "http://fox26houston.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox26houston.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gladewater Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.gladewatermirror.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gladewatermirror.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Houston Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.houstonpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=houstonpress.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kagstv",
+    "provider": "web",
+    "arguments": [
+      "http://kagstv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kagstv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kfyo",
+    "provider": "web",
+    "arguments": [
+      "https://kfyo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfyo.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Khou",
+    "provider": "web",
+    "arguments": [
+      "https://www.khou.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=khou.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kiiitv",
+    "provider": "web",
+    "arguments": [
+      "http://kiiitv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kiiitv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kristv",
+    "provider": "web",
+    "arguments": [
+      "https://www.kristv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kristv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kvue",
+    "provider": "web",
+    "arguments": [
+      "https://www.kvue.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvue.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kxxv",
+    "provider": "web",
+    "arguments": [
+      "https://www.kxxv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kxxv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Larchmont Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.larchmontchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=larchmontchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newsradioklbj",
+    "provider": "web",
+    "arguments": [
+      "http://newsradioklbj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsradioklbj.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newstalk1290",
+    "provider": "web",
+    "arguments": [
+      "https://newstalk1290.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstalk1290.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newswest9",
+    "provider": "web",
+    "arguments": [
+      "https://www.newswest9.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newswest9.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Texas en Linea",
+    "provider": "web",
+    "arguments": [
+      "https://texasenlinea.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texasenlinea.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Paisano",
+    "provider": "web",
+    "arguments": [
+      "http://www.paisano-online.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paisano-online.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox7austin",
+    "provider": "web",
+    "arguments": [
+      "http://fox7austin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox7austin.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kztv10",
+    "provider": "web",
+    "arguments": [
+      "http://kztv10.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kztv10.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Battalion",
+    "provider": "web",
+    "arguments": [
+      "http://www.thebatt.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebatt.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Stony Brook Statesman",
+    "provider": "web",
+    "arguments": [
+      "http://www.sbstatesman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sbstatesman.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baltimore Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://baltimorechronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baltimorechronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Calexico Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://calexicochronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calexicochronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Elgin Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.elgincourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elgincourier.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fort Worth Business Press",
+    "provider": "web",
+    "arguments": [
+      "https://fortworthbusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fortworthbusiness.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox4news",
+    "provider": "web",
+    "arguments": [
+      "http://fox4news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox4news.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kcentv",
+    "provider": "web",
+    "arguments": [
+      "http://kcentv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kcentv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lakelander",
+    "provider": "web",
+    "arguments": [
+      "https://lakelander.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakelander.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Messenger News",
+    "provider": "web",
+    "arguments": [
+      "https://messenger-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=messenger-news.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Post - United States - Texas",
+    "provider": "web",
+    "arguments": [
+      "https://thepostnewspaper.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepostnewspaper.net",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rice Lake Chronotype",
+    "provider": "web",
+    "arguments": [
+      "https://chronotype.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronotype.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Antonio Current",
+    "provider": "web",
+    "arguments": [
+      "https://www.sacurrent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sacurrent.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Snyder Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.snyderdailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=snyderdailynews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Austin Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.austinchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=austinchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thekatynews",
+    "provider": "web",
+    "arguments": [
+      "https://thekatynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thekatynews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alvin Sun Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.alvinsun.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alvinsun.net",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coyote Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://coyotechronicle.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coyotechronicle.net",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ksat",
+    "provider": "web",
+    "arguments": [
+      "http://ksat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksat.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mount Pleasant Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribnow.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Perryton Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.perrytonherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=perrytonherald.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Sun Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesunchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesunchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Burleson County Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.bctribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bctribune.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Citrus County Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.chronicleonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicleonline.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Democrat and Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.democratandchronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=democratandchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fayettecountyrecord",
+    "provider": "web",
+    "arguments": [
+      "http://fayettecountyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fayettecountyrecord.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fbherald",
+    "provider": "web",
+    "arguments": [
+      "http://fbherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fbherald.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Houston Forward Times",
+    "provider": "web",
+    "arguments": [
+      "http://forwardtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=forwardtimes.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Levelland & Hockley News - Press, This Week's Issue - PDF",
+    "provider": "web",
+    "arguments": [
+      "https://www.levellandnews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=levellandnews.net",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Liberty Hill Independent",
+    "provider": "web",
+    "arguments": [
+      "http://lhindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lhindependent.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.dukechronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dukechronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Dallas Weekly",
+    "provider": "web",
+    "arguments": [
+      "http://www.dallasweekly.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dallasweekly.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abc13",
+    "provider": "web",
+    "arguments": [
+      "https://abc13.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc13.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "African-American News and Issues",
+    "provider": "web",
+    "arguments": [
+      "https://aframnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aframnews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Albany News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thealbanynews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thealbanynews.net",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bandera Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.banderabulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=banderabulletin.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baotreonline",
+    "provider": "web",
+    "arguments": [
+      "https://baotreonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baotreonline.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Belton Journal",
+    "provider": "web",
+    "arguments": [
+      "http://beltonjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beltonjournal.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Blitz Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://blitzweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blitzweekly.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Boerne Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.boernestar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=boernestar.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bowie County Citizens Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.bowiecountynow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bowiecountynow.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bozeman Daily Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.bozemandailychronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bozemandailychronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Burnet Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.burnetbulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burnetbulletin.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Canadian Record",
+    "provider": "web",
+    "arguments": [
+      "http://canadianrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=canadianrecord.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Colorado County Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.coloradocountycitizen.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coloradocountycitizen.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbus Banner Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.bannerpresspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bannerpresspaper.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dallas Voice",
+    "provider": "web",
+    "arguments": [
+      "https://dallasvoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dallasvoice.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Defendernetwork",
+    "provider": "web",
+    "arguments": [
+      "https://defendernetwork.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=defendernetwork.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Elpasoinc",
+    "provider": "web",
+    "arguments": [
+      "https://www.elpasoinc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elpasoinc.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "farmersville times",
+    "provider": "web",
+    "arguments": [
+      "http://www.farmersvilletimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=farmersvilletimes.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox34",
+    "provider": "web",
+    "arguments": [
+      "http://fox34.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox34.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fredericksburg Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.fredericksburgstandard.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fredericksburgstandard.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Freestone County Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.freestonecountytimesonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=freestonecountytimesonline.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gilmermirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.gilmermirror.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gilmermirror.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Haysfreepress",
+    "provider": "web",
+    "arguments": [
+      "http://haysfreepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=haysfreepress.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Highlander - United States - Texas",
+    "provider": "web",
+    "arguments": [
+      "https://www.highlandernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=highlandernews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hillcountrynews",
+    "provider": "web",
+    "arguments": [
+      "https://hillcountrynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hillcountrynews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Idaho Statesman",
+    "provider": "web",
+    "arguments": [
+      "http://idahostatesman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idahostatesman.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Indoamerican News",
+    "provider": "web",
+    "arguments": [
+      "https://indoamerican-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indoamerican-news.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Instant News Bellaire",
+    "provider": "web",
+    "arguments": [
+      "https://www.instantnewsbellaire.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=instantnewsbellaire.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Iowa Park Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.iowaparkleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iowaparkleader.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Irving Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.irvingweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=irvingweekly.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kane County Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://kcchronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kcchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Katy Times",
+    "provider": "web",
+    "arguments": [
+      "https://katytimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=katytimes.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KGNC",
+    "provider": "web",
+    "arguments": [
+      "https://www.kgncnewsnow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kgncnewsnow.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kltv",
+    "provider": "web",
+    "arguments": [
+      "https://www.kltv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kltv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Krgv",
+    "provider": "web",
+    "arguments": [
+      "http://krgv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=krgv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kten",
+    "provider": "web",
+    "arguments": [
+      "http://kten.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kten.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktre",
+    "provider": "web",
+    "arguments": [
+      "https://www.ktre.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktre.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktsa",
+    "provider": "web",
+    "arguments": [
+      "http://ktsa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktsa.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kurv",
+    "provider": "web",
+    "arguments": [
+      "https://www.kurv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kurv.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "kxas nbc 5",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcdfw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcdfw.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kxii",
+    "provider": "web",
+    "arguments": [
+      "http://kxii.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kxii.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KXTQ",
+    "provider": "web",
+    "arguments": [
+      "https://www.telemundolubbock.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundolubbock.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lake Powell Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://lakepowellchronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakepowellchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lamb County Leader News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lambcountyleadernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lambcountyleadernews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lamesa Press Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.pressreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressreporter.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lampasasdispatchrecord",
+    "provider": "web",
+    "arguments": [
+      "http://lampasasdispatchrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lampasasdispatchrecord.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Livestockweekly",
+    "provider": "web",
+    "arguments": [
+      "http://livestockweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livestockweekly.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Local News Only",
+    "provider": "web",
+    "arguments": [
+      "https://localnewsonly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=localnewsonly.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lockhart Post Register",
+    "provider": "web",
+    "arguments": [
+      "https://post-register.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=post-register.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marfapublicradio",
+    "provider": "web",
+    "arguments": [
+      "https://marfapublicradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marfapublicradio.org",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marshallnewsmessenger",
+    "provider": "web",
+    "arguments": [
+      "https://marshallnewsmessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marshallnewsmessenger.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Midlothianmirror",
+    "provider": "web",
+    "arguments": [
+      "http://midlothianmirror.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=midlothianmirror.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Murphy Monitor",
+    "provider": "web",
+    "arguments": [
+      "https://www.murphymonitor.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=murphymonitor.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "My Southlake News",
+    "provider": "web",
+    "arguments": [
+      "https://mysouthlakenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mysouthlakenews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Navasotaexaminer",
+    "provider": "web",
+    "arguments": [
+      "http://navasotaexaminer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navasotaexaminer.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.ssnewstelegram.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ssnewstelegram.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newschannel6now",
+    "provider": "web",
+    "arguments": [
+      "https://www.newschannel6now.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newschannel6now.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newton County News",
+    "provider": "web",
+    "arguments": [
+      "https://www.newtoncountynews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newtoncountynews.net",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Dallas Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.northdallasgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northdallasgazette.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Texas Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.ntdaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ntdaily.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Panola Watchman",
+    "provider": "web",
+    "arguments": [
+      "https://www.panolawatchman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=panolawatchman.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pilot Point Post-Signal",
+    "provider": "web",
+    "arguments": [
+      "http://postsignal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=postsignal.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pittsburgh Jewish Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://jewishchronicle.timesofisrael.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jewishchronicle.timesofisrael.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Plainview Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.myplainview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myplainview.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Port Isabel South Padre Press",
+    "provider": "web",
+    "arguments": [
+      "http://portisabelsouthpadre.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portisabelsouthpadre.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "PRINCETON HERALD",
+    "provider": "web",
+    "arguments": [
+      "https://www.princetonherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=princetonherald.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Queens Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.queenschronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=queenschronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sachse News",
+    "provider": "web",
+    "arguments": [
+      "https://www.sachsenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sachsenews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Antonio Express News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mysanantonio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mysanantonio.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Benito News",
+    "provider": "web",
+    "arguments": [
+      "http://sbnewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sbnewspaper.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Francisco Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.sfchronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sfchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Schulenburg Sticker",
+    "provider": "web",
+    "arguments": [
+      "https://www.schulenburgsticker.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=schulenburgsticker.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Taylorpress",
+    "provider": "web",
+    "arguments": [
+      "http://taylorpress.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=taylorpress.net",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundo40",
+    "provider": "web",
+    "arguments": [
+      "http://telemundo40.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundo40.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundodallas",
+    "provider": "web",
+    "arguments": [
+      "http://telemundodallas.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundodallas.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundohouston",
+    "provider": "web",
+    "arguments": [
+      "http://telemundohouston.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundohouston.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundosanantonio",
+    "provider": "web",
+    "arguments": [
+      "http://telemundosanantonio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundosanantonio.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Texas Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.texastribune.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texastribune.org",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Texasborderbusiness",
+    "provider": "web",
+    "arguments": [
+      "https://texasborderbusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texasborderbusiness.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Texascatholic",
+    "provider": "web",
+    "arguments": [
+      "https://texascatholic.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texascatholic.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Texasinsider",
+    "provider": "web",
+    "arguments": [
+      "http://www.texasinsider.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texasinsider.org",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Community News",
+    "provider": "web",
+    "arguments": [
+      "https://www.community-news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=community-news.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Dallas Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://www.dallasexaminer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dallasexaminer.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "TheRecordLive",
+    "provider": "web",
+    "arguments": [
+      "http://therecordlive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=therecordlive.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thevindicator",
+    "provider": "web",
+    "arguments": [
+      "http://thevindicator.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thevindicator.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Uvaldeleadernews",
+    "provider": "web",
+    "arguments": [
+      "https://www.uvaldeleadernews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=uvaldeleadernews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WBAP",
+    "provider": "web",
+    "arguments": [
+      "http://wbap.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbap.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "West Austin News",
+    "provider": "web",
+    "arguments": [
+      "https://westaustinnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westaustinnews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Williamson County Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.wilcosun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wilcosun.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wimberley View",
+    "provider": "web",
+    "arguments": [
+      "https://www.wimberleyview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wimberleyview.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kjas",
+    "provider": "web",
+    "arguments": [
+      "https://kjas.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kjas.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Texas Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.texasobserver.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=texasobserver.org",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clarendon Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.clarendonlive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clarendonlive.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cleburne Times-Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.cleburnetimesreview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cleburnetimesreview.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crossroadstoday",
+    "provider": "web",
+    "arguments": [
+      "https://crossroadstoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crossroadstoday.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Omak-Okanogan County Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.omakchronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=omakchronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Martin County Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.martincountymessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=martincountymessenger.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hccommunityjournal",
+    "provider": "web",
+    "arguments": [
+      "http://hccommunityjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hccommunityjournal.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "High Plains Observer Perryton",
+    "provider": "web",
+    "arguments": [
+      "https://highplainsobserverperryton.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=highplainsobserverperryton.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ballinger News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ballingernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ballingernews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Elliderusa",
+    "provider": "web",
+    "arguments": [
+      "https://elliderusa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elliderusa.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Saba News and Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.sansabanews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sansabanews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yourconroenews",
+    "provider": "web",
+    "arguments": [
+      "http://yourconroenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yourconroenews.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Denton Record-Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.dentonrc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dentonrc.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kingsvillerecord",
+    "provider": "web",
+    "arguments": [
+      "http://kingsvillerecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kingsvillerecord.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Free Lance–Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.virginiachronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=virginiachronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Toreador",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailytoreador.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailytoreador.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rains County Leader",
+    "provider": "web",
+    "arguments": [
+      "http://www.rainscountyleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rainscountyleader.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Angelo Live",
+    "provider": "web",
+    "arguments": [
+      "https://sanangelolive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanangelolive.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Palestine Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.palestinechronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palestinechronicle.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cbs19",
+    "provider": "web",
+    "arguments": [
+      "http://cbs19.tv/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbs19.tv",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KCBD-TV",
+    "provider": "web",
+    "arguments": [
+      "https://www.kcbd.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kcbd.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KFDA-TV Amarillo, TX",
+    "provider": "web",
+    "arguments": [
+      "https://www.newschannel10.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newschannel10.com",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kgns",
+    "provider": "web",
+    "arguments": [
+      "http://kgns.tv/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kgns.tv",
+    "year": "Texas",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

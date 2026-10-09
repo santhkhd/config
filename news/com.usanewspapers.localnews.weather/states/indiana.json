@@ -222,5 +222,665 @@
     "year": "Indiana",
     "genre": "Indianapolis",
     "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Brown County Democrat",
+    "provider": "web",
+    "arguments": [
+      "http://www.bcdemocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bcdemocrat.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newstalk1280",
+    "provider": "web",
+    "arguments": [
+      "https://newstalk1280.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newstalk1280.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pulaski County Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.pulaskijournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pulaskijournal.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Santa Fe Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://sfreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sfreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wthr",
+    "provider": "web",
+    "arguments": [
+      "https://www.wthr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wthr.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Washtimesherald",
+    "provider": "web",
+    "arguments": [
+      "http://washtimesherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=washtimesherald.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bent County Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.bcdemocratonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bcdemocratonline.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mercer Island Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.mi-reporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mi-reporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-reporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-reporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wowo",
+    "provider": "web",
+    "arguments": [
+      "https://wowo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wowo.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bluffton News Banner",
+    "provider": "web",
+    "arguments": [
+      "http://www.news-banner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-banner.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brooklyn Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://brooklynreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brooklynreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Carrollcountycomet",
+    "provider": "web",
+    "arguments": [
+      "http://carrollcountycomet.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carrollcountycomet.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Decaturdailydemocrat",
+    "provider": "web",
+    "arguments": [
+      "http://decaturdailydemocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=decaturdailydemocrat.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lakeshorepublicmedia",
+    "provider": "web",
+    "arguments": [
+      "http://lakeshorepublicmedia.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakeshorepublicmedia.org",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northwest News",
+    "provider": "web",
+    "arguments": [
+      "https://www.kpcnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kpcnews.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Post and Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepostandmail.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepostandmail.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sweetwater Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.sweetwaterreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sweetwaterreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.thereporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thereporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ventura County Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.vcreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vcreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsbt",
+    "provider": "web",
+    "arguments": [
+      "http://www.wsbt.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsbt.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fwbusiness",
+    "provider": "web",
+    "arguments": [
+      "http://fwbusiness.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fwbusiness.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "1010wcsi",
+    "provider": "web",
+    "arguments": [
+      "https://1010wcsi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=1010wcsi.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "14news",
+    "provider": "web",
+    "arguments": [
+      "https://www.14news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=14news.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abc57",
+    "provider": "web",
+    "arguments": [
+      "https://www.abc57.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc57.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abilene Reporter-News",
+    "provider": "web",
+    "arguments": [
+      "http://reporternews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reporternews.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Akron News-Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.akronnewsreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=akronnewsreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crothersville Times",
+    "provider": "web",
+    "arguments": [
+      "https://crothersvilletimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crothersvilletimes.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Duboiscountyherald",
+    "provider": "web",
+    "arguments": [
+      "http://duboiscountyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=duboiscountyherald.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hartfordcitynewstimes",
+    "provider": "web",
+    "arguments": [
+      "http://hartfordcitynewstimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hartfordcitynewstimes.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ibj",
+    "provider": "web",
+    "arguments": [
+      "https://www.ibj.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ibj.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Indianapolismonthly",
+    "provider": "web",
+    "arguments": [
+      "http://indianapolismonthly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianapolismonthly.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jackson County Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebanner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebanner.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jconline",
+    "provider": "web",
+    "arguments": [
+      "http://jconline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jconline.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "NUVO",
+    "provider": "web",
+    "arguments": [
+      "https://www.nuvo.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nuvo.net",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Reporter Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.reporter-times.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reporter-times.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailyreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailyreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Sand Mountain Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.sandmountainreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandmountainreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Times-Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thepilotnews",
+    "provider": "web",
+    "arguments": [
+      "http://thepilotnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepilotnews.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbiw",
+    "provider": "web",
+    "arguments": [
+      "http://wbiw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbiw.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Webelpuente",
+    "provider": "web",
+    "arguments": [
+      "https://www.webelpuente.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=webelpuente.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WEVV",
+    "provider": "web",
+    "arguments": [
+      "https://www.wevv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wevv.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wfhb",
+    "provider": "web",
+    "arguments": [
+      "https://wfhb.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfhb.org",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wibc",
+    "provider": "web",
+    "arguments": [
+      "http://www.wibc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wibc.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wiky",
+    "provider": "web",
+    "arguments": [
+      "https://wiky.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiky.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wimsradio",
+    "provider": "web",
+    "arguments": [
+      "https://wimsradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wimsradio.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Winchesternewsgazette",
+    "provider": "web",
+    "arguments": [
+      "http://winchesternewsgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winchesternewsgazette.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wlfi",
+    "provider": "web",
+    "arguments": [
+      "https://www.wlfi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wlfi.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wndu",
+    "provider": "web",
+    "arguments": [
+      "https://www.wndu.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wndu.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Woofboomnews",
+    "provider": "web",
+    "arguments": [
+      "http://woofboomnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=woofboomnews.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wthitv",
+    "provider": "web",
+    "arguments": [
+      "http://wthitv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wthitv.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Purdue Exponent",
+    "provider": "web",
+    "arguments": [
+      "https://www.purdueexponent.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=purdueexponent.org",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Owasso Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://www.owassoreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=owassoreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbaa",
+    "provider": "web",
+    "arguments": [
+      "http://wbaa.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbaa.org",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Madisoncourier",
+    "provider": "web",
+    "arguments": [
+      "http://madisoncourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madisoncourier.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Asian Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.asianreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=asianreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.greenfieldreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenfieldreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Bergen Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://hudsonreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hudsonreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Hollywood Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://hollywoodreporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hollywoodreporter.com",
+    "year": "Indiana",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

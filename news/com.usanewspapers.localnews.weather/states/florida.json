@@ -311,5 +311,973 @@
     "year": "Florida",
     "genre": "Bradenton",
     "rating": "Daily"
+  },
+  {
+    "title": "Business Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.businessobserverfl.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessobserverfl.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gulfshorelife",
+    "provider": "web",
+    "arguments": [
+      "https://gulfshorelife.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gulfshorelife.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtsp",
+    "provider": "web",
+    "arguments": [
+      "https://www.wtsp.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtsp.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Firstcoastnews",
+    "provider": "web",
+    "arguments": [
+      "https://www.firstcoastnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=firstcoastnews.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Greene Publishing, Inc.",
+    "provider": "web",
+    "arguments": [
+      "https://www.greenepublishing.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenepublishing.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Libreonline",
+    "provider": "web",
+    "arguments": [
+      "https://www.libreonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=libreonline.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Orangeobserver",
+    "provider": "web",
+    "arguments": [
+      "http://orangeobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=orangeobserver.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paradise News",
+    "provider": "web",
+    "arguments": [
+      "https://www.paradisenewsfl.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paradisenewsfl.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sflcn",
+    "provider": "web",
+    "arguments": [
+      "https://sflcn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sflcn.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Miami Hurricane",
+    "provider": "web",
+    "arguments": [
+      "https://www.themiamihurricane.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themiamihurricane.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Oracle",
+    "provider": "web",
+    "arguments": [
+      "https://www.usforacle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=usforacle.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wptv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wptv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wptv.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtxl",
+    "provider": "web",
+    "arguments": [
+      "http://wtxl.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtxl.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nossagente",
+    "provider": "web",
+    "arguments": [
+      "http://nossagente.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nossagente.net",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Theapopkachief",
+    "provider": "web",
+    "arguments": [
+      "https://theapopkachief.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theapopkachief.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wmnf",
+    "provider": "web",
+    "arguments": [
+      "http://wmnf.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmnf.org",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gainesville Daily Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.gainesvilleregister.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gainesvilleregister.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Miami Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.miamitodaynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miamitodaynews.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westside Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewestsidegazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewestsidegazette.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Aroundosceola",
+    "provider": "web",
+    "arguments": [
+      "http://aroundosceola.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aroundosceola.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clickorlando",
+    "provider": "web",
+    "arguments": [
+      "https://www.clickorlando.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clickorlando.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daytona Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.daytonatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daytonatimes.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lake City Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.lakecityreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakecityreporter.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sarasotamagazine",
+    "provider": "web",
+    "arguments": [
+      "http://sarasotamagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sarasotamagazine.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Winknews",
+    "provider": "web",
+    "arguments": [
+      "https://www.winknews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winknews.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Americateve",
+    "provider": "web",
+    "arguments": [
+      "http://americateve.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=americateve.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Amisun",
+    "provider": "web",
+    "arguments": [
+      "https://amisun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amisun.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baynews9",
+    "provider": "web",
+    "arguments": [
+      "http://www.baynews9.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baynews9.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Boca Beacon",
+    "provider": "web",
+    "arguments": [
+      "http://www.bocabeacon.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bocabeacon.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bocamag",
+    "provider": "web",
+    "arguments": [
+      "https://bocamag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bocamag.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bradenton",
+    "provider": "web",
+    "arguments": [
+      "https://www.bradenton.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bradenton.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cedar Key News",
+    "provider": "web",
+    "arguments": [
+      "https://www.cedarkeynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cedarkeynews.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chipleybugle",
+    "provider": "web",
+    "arguments": [
+      "https://chipleybugle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chipleybugle.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dailyridge",
+    "provider": "web",
+    "arguments": [
+      "https://dailyridge.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyridge.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Diario Las Américas",
+    "provider": "web",
+    "arguments": [
+      "https://www.diariolasamericas.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=diariolasamericas.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Englewood Review",
+    "provider": "web",
+    "arguments": [
+      "http://www.englewoodreview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=englewoodreview.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fernandina Beach News Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.fbnewsleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fbnewsleader.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Florida Times-Union",
+    "provider": "web",
+    "arguments": [
+      "https://ufdc.ufl.edu/UF00075920"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ufdc.ufl.edu",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Floridatrend",
+    "provider": "web",
+    "arguments": [
+      "http://floridatrend.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=floridatrend.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gabber",
+    "provider": "web",
+    "arguments": [
+      "http://www.thegabber.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegabber.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gotowncrier",
+    "provider": "web",
+    "arguments": [
+      "https://gotowncrier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gotowncrier.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Heritagefl",
+    "provider": "web",
+    "arguments": [
+      "http://heritagefl.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heritagefl.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Islander - United States - Florida",
+    "provider": "web",
+    "arguments": [
+      "https://www.islander.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=islander.org",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jacksonville Daily Progress",
+    "provider": "web",
+    "arguments": [
+      "https://www.jacksonvilleprogress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonvilleprogress.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laprensafl",
+    "provider": "web",
+    "arguments": [
+      "https://laprensafl.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laprensafl.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Le Soleil de la Floride",
+    "provider": "web",
+    "arguments": [
+      "http://www.lesoleildelafloride.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lesoleildelafloride.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Local10",
+    "provider": "web",
+    "arguments": [
+      "https://www.local10.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=local10.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Miami's Community Newspapers",
+    "provider": "web",
+    "arguments": [
+      "http://www.communitynewspapers.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=communitynewspapers.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Miamidiario",
+    "provider": "web",
+    "arguments": [
+      "https://miamidiario.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miamidiario.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mynews13",
+    "provider": "web",
+    "arguments": [
+      "https://mynews13.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mynews13.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mysanfordherald",
+    "provider": "web",
+    "arguments": [
+      "http://mysanfordherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mysanfordherald.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mysuncoast",
+    "provider": "web",
+    "arguments": [
+      "http://mysuncoast.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mysuncoast.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Naples Illustrated",
+    "provider": "web",
+    "arguments": [
+      "https://www.naplesillustrated.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=naplesillustrated.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nassau County Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.nassaucountyrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nassaucountyrecord.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Navarre Press",
+    "provider": "web",
+    "arguments": [
+      "http://www.navarrepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navarrepress.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcmiami",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcmiami.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcmiami.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-press.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-press.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northfortmyersneighbor",
+    "provider": "web",
+    "arguments": [
+      "https://www.northfortmyersneighbor.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northfortmyersneighbor.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Orlando Advocate",
+    "provider": "web",
+    "arguments": [
+      "http://www.orlandoadvocate.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=orlandoadvocate.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Orlando Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.orlandoweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=orlandoweekly.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Palm Beach Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.palmbeachdailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palmbeachdailynews.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Palmbeachillustrated",
+    "provider": "web",
+    "arguments": [
+      "http://palmbeachillustrated.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palmbeachillustrated.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Srpressgazette",
+    "provider": "web",
+    "arguments": [
+      "https://srpressgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=srpressgazette.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundo51",
+    "provider": "web",
+    "arguments": [
+      "http://telemundo51.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundo51.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Miami Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.miamitimesonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miamitimesonline.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Weekly Challenger",
+    "provider": "web",
+    "arguments": [
+      "http://www.theweeklychallenger.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theweeklychallenger.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thedestinlog",
+    "provider": "web",
+    "arguments": [
+      "http://thedestinlog.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedestinlog.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Villages News",
+    "provider": "web",
+    "arguments": [
+      "http://villages-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=villages-news.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wcjb",
+    "provider": "web",
+    "arguments": [
+      "http://wcjb.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wcjb.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdbo",
+    "provider": "web",
+    "arguments": [
+      "https://www.wdbo.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdbo.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wesh",
+    "provider": "web",
+    "arguments": [
+      "https://www.wesh.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wesh.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westorlandonews",
+    "provider": "web",
+    "arguments": [
+      "https://westorlandonews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westorlandonews.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wftv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wftv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wftv.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wgcu",
+    "provider": "web",
+    "arguments": [
+      "http://wgcu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wgcu.org",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wjhg",
+    "provider": "web",
+    "arguments": [
+      "https://www.wjhg.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjhg.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wokv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wokv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wokv.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WOYS",
+    "provider": "web",
+    "arguments": [
+      "http://www.oysterradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oysterradio.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wpbf",
+    "provider": "web",
+    "arguments": [
+      "http://wpbf.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wpbf.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Florida Catholic",
+    "provider": "web",
+    "arguments": [
+      "https://thefloridacatholic.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thefloridacatholic.org",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wlrn",
+    "provider": "web",
+    "arguments": [
+      "http://wlrn.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wlrn.org",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wuft",
+    "provider": "web",
+    "arguments": [
+      "http://wuft.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wuft.org",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crestviewbulletin",
+    "provider": "web",
+    "arguments": [
+      "https://crestviewbulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crestviewbulletin.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "South Florida Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.sfltimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sfltimes.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Floridastatesman",
+    "provider": "web",
+    "arguments": [
+      "http://floridastatesman.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=floridastatesman.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Islandernews",
+    "provider": "web",
+    "arguments": [
+      "http://islandernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=islandernews.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Viera Voice",
+    "provider": "web",
+    "arguments": [
+      "https://www.vieravoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vieravoice.com",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wuwf",
+    "provider": "web",
+    "arguments": [
+      "http://wuwf.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wuwf.org",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wctv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wctv.tv"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wctv.tv",
+    "year": "Florida",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

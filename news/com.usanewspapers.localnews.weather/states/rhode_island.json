@@ -110,5 +110,16 @@
     "year": "Rhode Island",
     "genre": "Pawtucket",
     "rating": "Blackstone Valley Daily"
+  },
+  {
+    "title": "Providence Business News",
+    "provider": "web",
+    "arguments": [
+      "http://www.pbn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pbn.com",
+    "year": "Rhode Island",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

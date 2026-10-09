@@ -89,7 +89,7 @@
     ],
     "image": "https://www.google.com/s2/favicons?sz=128&domain=riograndesun.com",
     "year": "New Mexico",
-    "genre": "Espa\u00f1ola",
+    "genre": "Española",
     "rating": "Weekly",
     "rssUrl": "https://riograndesun.com/feed/"
   },
@@ -172,5 +172,137 @@
     "year": "New Mexico",
     "genre": "Las Cruces",
     "rating": "Southern NM Daily"
+  },
+  {
+    "title": "KOAT-TV7 (ABC)",
+    "provider": "web",
+    "arguments": [
+      "https://www.koat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=koat.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KCHS-AM",
+    "provider": "web",
+    "arguments": [
+      "https://www.gpkmedia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gpkmedia.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KRWG Public Media",
+    "provider": "web",
+    "arguments": [
+      "https://www.krwg.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=krwg.org",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "El Defensor Chieftain",
+    "provider": "web",
+    "arguments": [
+      "https://www.dchieftain.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dchieftain.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "ICT (formerly Indian Country Today)",
+    "provider": "web",
+    "arguments": [
+      "https://ictnews.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ictnews.org",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rio Rancho Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.rrobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rrobserver.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Las Vegas Optic",
+    "provider": "web",
+    "arguments": [
+      "http://lasvegasoptic.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lasvegasoptic.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sandoval Signpost",
+    "provider": "web",
+    "arguments": [
+      "https://sandovalsignpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandovalsignpost.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Deming Headlight",
+    "provider": "web",
+    "arguments": [
+      "https://www.demingheadlight.com/category/news/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=demingheadlight.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Corrales Comment",
+    "provider": "web",
+    "arguments": [
+      "https://corralescomment.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=corralescomment.com",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KSFR Radio",
+    "provider": "web",
+    "arguments": [
+      "https://www.ksfr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksfr.org",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KUNM 89.9 FM",
+    "provider": "web",
+    "arguments": [
+      "https://www.kunm.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kunm.org",
+    "year": "New Mexico",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

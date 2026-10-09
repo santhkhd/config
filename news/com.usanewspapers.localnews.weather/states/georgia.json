@@ -226,5 +226,544 @@
     "year": "Georgia",
     "genre": "Columbus",
     "rating": "Daily"
+  },
+  {
+    "title": "11alive",
+    "provider": "web",
+    "arguments": [
+      "https://www.11alive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=11alive.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "13wmaz",
+    "provider": "web",
+    "arguments": [
+      "https://www.13wmaz.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=13wmaz.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bryancountynews",
+    "provider": "web",
+    "arguments": [
+      "http://bryancountynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bryancountynews.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thecitizen",
+    "provider": "web",
+    "arguments": [
+      "https://thecitizen.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecitizen.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Valdostatoday",
+    "provider": "web",
+    "arguments": [
+      "https://valdostatoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=valdostatoday.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Atlanta Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.atlantatribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=atlantatribune.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coastalcourier",
+    "provider": "web",
+    "arguments": [
+      "https://coastalcourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coastalcourier.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jacksonprogress Argus",
+    "provider": "web",
+    "arguments": [
+      "http://jacksonprogress-argus.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jacksonprogress-argus.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Elberton Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.elberton.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elberton.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Times-Georgian",
+    "provider": "web",
+    "arguments": [
+      "https://www.times-georgian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=times-georgian.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "41nbc",
+    "provider": "web",
+    "arguments": [
+      "http://41nbc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=41nbc.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Atlantamagazine",
+    "provider": "web",
+    "arguments": [
+      "http://atlantamagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=atlantamagazine.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Barnesville",
+    "provider": "web",
+    "arguments": [
+      "https://barnesville.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=barnesville.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Blackshear Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.theblacksheartimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theblacksheartimes.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coosavalleynews",
+    "provider": "web",
+    "arguments": [
+      "https://coosavalleynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coosavalleynews.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Douglascountysentinel",
+    "provider": "web",
+    "arguments": [
+      "http://douglascountysentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=douglascountysentinel.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Franklin County Citizen Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.franklincountycitizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=franklincountycitizen.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Georgiabulletin",
+    "provider": "web",
+    "arguments": [
+      "http://www.georgiabulletin.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=georgiabulletin.org",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Georgiatrend",
+    "provider": "web",
+    "arguments": [
+      "http://georgiatrend.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=georgiatrend.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "http",
+    "provider": "web",
+    "arguments": [
+      "http://www.fgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fgazette.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "https",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegraphic.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegraphic.org",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Savannah Business Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.savannahbusinessjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=savannahbusinessjournal.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sowegalive",
+    "provider": "web",
+    "arguments": [
+      "https://sowegalive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sowegalive.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundoatlanta",
+    "provider": "web",
+    "arguments": [
+      "http://telemundoatlanta.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundoatlanta.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Atlanta Voice",
+    "provider": "web",
+    "arguments": [
+      "https://www.theatlantavoice.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theatlantavoice.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Champion Newspaper",
+    "provider": "web",
+    "arguments": [
+      "https://thechampionnewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thechampionnewspaper.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Northeast Georgian",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenortheastgeorgian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenortheastgeorgian.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Toccoa Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetoccoarecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetoccoarecord.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thepostsearchlight",
+    "provider": "web",
+    "arguments": [
+      "https://thepostsearchlight.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepostsearchlight.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thepress Sentinel",
+    "provider": "web",
+    "arguments": [
+      "http://thepress-sentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepress-sentinel.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tribune Georgian",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribune-georgian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribune-georgian.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Unionrecorder",
+    "provider": "web",
+    "arguments": [
+      "https://unionrecorder.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=unionrecorder.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Walb",
+    "provider": "web",
+    "arguments": [
+      "https://www.walb.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=walb.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Waltontribune",
+    "provider": "web",
+    "arguments": [
+      "http://waltontribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waltontribune.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wfxg",
+    "provider": "web",
+    "arguments": [
+      "http://wfxg.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfxg.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "White County News",
+    "provider": "web",
+    "arguments": [
+      "https://www.whitecountynews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whitecountynews.net",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wjcl",
+    "provider": "web",
+    "arguments": [
+      "http://wjcl.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjcl.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wrdw",
+    "provider": "web",
+    "arguments": [
+      "https://www.wrdw.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wrdw.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsbradio",
+    "provider": "web",
+    "arguments": [
+      "https://www.wsbradio.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsbradio.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtoc",
+    "provider": "web",
+    "arguments": [
+      "https://www.wtoc.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtoc.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtvm",
+    "provider": "web",
+    "arguments": [
+      "https://www.wtvm.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtvm.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gpb",
+    "provider": "web",
+    "arguments": [
+      "https://www.gpb.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gpb.org",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oconeeenterprise",
+    "provider": "web",
+    "arguments": [
+      "https://oconeeenterprise.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oconeeenterprise.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Griffindailynews",
+    "provider": "web",
+    "arguments": [
+      "http://griffindailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=griffindailynews.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "MainStreetNews",
+    "provider": "web",
+    "arguments": [
+      "https://www.mainstreetnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mainstreetnews.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "clayton news daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-daily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-daily.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "mymcr.net",
+    "provider": "web",
+    "arguments": [
+      "https://www.mymcr.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mymcr.net",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "CNN News",
+    "provider": "web",
+    "arguments": [
+      "https://edition.cnn.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edition.cnn.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Savannah Magazine",
+    "provider": "web",
+    "arguments": [
+      "https://savannahmagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=savannahmagazine.com",
+    "year": "Georgia",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

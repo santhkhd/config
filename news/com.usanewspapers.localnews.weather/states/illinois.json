@@ -275,5 +275,599 @@
     "year": "Illinois",
     "genre": "Belleville / Metro East",
     "rating": "Daily"
+  },
+  {
+    "title": "Abc7chicago",
+    "provider": "web",
+    "arguments": [
+      "https://abc7chicago.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc7chicago.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "La Raza",
+    "provider": "web",
+    "arguments": [
+      "https://laraza.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laraza.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Illini",
+    "provider": "web",
+    "arguments": [
+      "http://www.dailyillini.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyillini.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Northwestern",
+    "provider": "web",
+    "arguments": [
+      "https://dailynorthwestern.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailynorthwestern.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Windy City Word",
+    "provider": "web",
+    "arguments": [
+      "https://www.windycityword.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=windycityword.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wqad",
+    "provider": "web",
+    "arguments": [
+      "http://wqad.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wqad.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chicago Reader",
+    "provider": "web",
+    "arguments": [
+      "http://www.chicagoreader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagoreader.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbia Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://columbiachronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbiachronicle.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ibjonline",
+    "provider": "web",
+    "arguments": [
+      "https://ibjonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ibjonline.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Illinois Times",
+    "provider": "web",
+    "arguments": [
+      "http://illinoistimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=illinoistimes.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newcity",
+    "provider": "web",
+    "arguments": [
+      "http://newcity.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newcity.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Quincy Herald-Whig",
+    "provider": "web",
+    "arguments": [
+      "http://www.whig.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whig.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Depaulia",
+    "provider": "web",
+    "arguments": [
+      "https://depauliaonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=depauliaonline.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newsprogress",
+    "provider": "web",
+    "arguments": [
+      "https://newsprogress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsprogress.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Times Weekly",
+    "provider": "web",
+    "arguments": [
+      "http://www.thetimesweekly.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetimesweekly.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wlsam",
+    "provider": "web",
+    "arguments": [
+      "https://www.wlsam.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wlsam.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Foxillinois",
+    "provider": "web",
+    "arguments": [
+      "https://www.foxillinois.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxillinois.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Agrinews Pubs",
+    "provider": "web",
+    "arguments": [
+      "https://www.agrinews-pubs.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=agrinews-pubs.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "BB Herald Home",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbherald.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chronicleillinois",
+    "provider": "web",
+    "arguments": [
+      "https://chronicleillinois.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicleillinois.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Courier Newspapers",
+    "provider": "web",
+    "arguments": [
+      "https://www.courierpapers.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courierpapers.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Decatur Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.decaturtribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=decaturtribune.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Edwardsville Intelligencer",
+    "provider": "web",
+    "arguments": [
+      "https://www.theintelligencer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theintelligencer.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Evanstonroundtable",
+    "provider": "web",
+    "arguments": [
+      "https://evanstonroundtable.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=evanstonroundtable.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fairfield Sun Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.fairfieldsuntimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fairfieldsuntimes.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Forestparkreview",
+    "provider": "web",
+    "arguments": [
+      "https://www.forestparkreview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=forestparkreview.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Galena Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://galenagazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=galenagazette.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Greenville Advocate - United States - Illinois",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegreenvilleadvocate.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegreenvilleadvocate.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Heraldpubs",
+    "provider": "web",
+    "arguments": [
+      "http://heraldpubs.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldpubs.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hinsdalean",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehinsdalean.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehinsdalean.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jg Tc",
+    "provider": "web",
+    "arguments": [
+      "https://jg-tc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jg-tc.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journalstandard",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalstandard.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalstandard.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Morning Sentinel - United States - Illinois",
+    "provider": "web",
+    "arguments": [
+      "https://www.morningsentinel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=morningsentinel.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Myjournalcourier",
+    "provider": "web",
+    "arguments": [
+      "http://myjournalcourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myjournalcourier.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcchicago",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcchicago.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcchicago.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oakpark",
+    "provider": "web",
+    "arguments": [
+      "http://oakpark.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oakpark.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paper - United States - Illinois",
+    "provider": "web",
+    "arguments": [
+      "http://www.thepaper1901.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepaper1901.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rblandmark",
+    "provider": "web",
+    "arguments": [
+      "http://rblandmark.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rblandmark.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sj R",
+    "provider": "web",
+    "arguments": [
+      "https://www.sj-r.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sj-r.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Staunton Star Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.stauntonstartimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stauntonstartimes.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sun-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesuntimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesuntimes.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.thereporter.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thereporter.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbez",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbez.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbez.org",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wgem",
+    "provider": "web",
+    "arguments": [
+      "http://wgem.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wgem.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wifr",
+    "provider": "web",
+    "arguments": [
+      "https://www.wifr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wifr.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wjbc",
+    "provider": "web",
+    "arguments": [
+      "http://wjbc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjbc.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wjol",
+    "provider": "web",
+    "arguments": [
+      "http://wjol.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjol.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wlds",
+    "provider": "web",
+    "arguments": [
+      "https://wlds.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wlds.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsiltv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wsiltv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsiltv.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Advantagenews",
+    "provider": "web",
+    "arguments": [
+      "https://advantagenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=advantagenews.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wandtv",
+    "provider": "web",
+    "arguments": [
+      "https://wandtv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wandtv.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lawndalenews",
+    "provider": "web",
+    "arguments": [
+      "https://www.lawndalenews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lawndalenews.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "David Magazine",
+    "provider": "web",
+    "arguments": [
+      "https://www.davidatlanta.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=davidatlanta.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chicago Magazine",
+    "provider": "web",
+    "arguments": [
+      "http://www.chicagomag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chicagomag.com",
+    "year": "Illinois",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

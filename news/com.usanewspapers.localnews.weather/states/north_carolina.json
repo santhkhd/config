@@ -336,5 +336,621 @@
     "year": "North Carolina",
     "genre": "Charlotte",
     "rating": "State Flagship Daily"
+  },
+  {
+    "title": "Lanoticia",
+    "provider": "web",
+    "arguments": [
+      "https://lanoticia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lanoticia.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wcnc",
+    "provider": "web",
+    "arguments": [
+      "https://www.wcnc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wcnc.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Creative Loafing",
+    "provider": "web",
+    "arguments": [
+      "https://clclt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clclt.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Indy Week",
+    "provider": "web",
+    "arguments": [
+      "https://indyweek.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indyweek.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laconexionusa",
+    "provider": "web",
+    "arguments": [
+      "https://www.laconexionusa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laconexionusa.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laurinburg Exchange",
+    "provider": "web",
+    "arguments": [
+      "http://www.laurinburgexchange.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laurinburgexchange.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Reflector",
+    "provider": "web",
+    "arguments": [
+      "https://www.thereflector.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thereflector.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Technician",
+    "provider": "web",
+    "arguments": [
+      "http://www.technicianonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=technicianonline.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Up & Coming Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.upandcomingweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=upandcomingweekly.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yourdailyjournal",
+    "provider": "web",
+    "arguments": [
+      "http://yourdailyjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yourdailyjournal.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The McDowell News",
+    "provider": "web",
+    "arguments": [
+      "https://mcdowellnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mcdowellnews.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Carolinacoastonline",
+    "provider": "web",
+    "arguments": [
+      "http://carolinacoastonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carolinacoastonline.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wptf",
+    "provider": "web",
+    "arguments": [
+      "https://www.wptf.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wptf.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Enquirer Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.enquirerjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enquirerjournal.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Graham Star",
+    "provider": "web",
+    "arguments": [
+      "http://www.grahamstar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=grahamstar.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mitchell News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.mitchellnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mitchellnews.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Stateportpilot",
+    "provider": "web",
+    "arguments": [
+      "https://stateportpilot.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stateportpilot.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Goldsboro News-Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsargus.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsargus.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Yadkin Ripple",
+    "provider": "web",
+    "arguments": [
+      "https://www.yadkinripple.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yadkinripple.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Abc11",
+    "provider": "web",
+    "arguments": [
+      "https://abc11.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc11.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brnow",
+    "provider": "web",
+    "arguments": [
+      "https://www.brnow.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brnow.org",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Carolinapublicpress",
+    "provider": "web",
+    "arguments": [
+      "https://carolinapublicpress.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carolinapublicpress.org",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chathamjournal",
+    "provider": "web",
+    "arguments": [
+      "https://chathamjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chathamjournal.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cherokee One Feather",
+    "provider": "web",
+    "arguments": [
+      "https://theonefeather.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theonefeather.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Claycountyprogress",
+    "provider": "web",
+    "arguments": [
+      "http://claycountyprogress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=claycountyprogress.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clintonnc",
+    "provider": "web",
+    "arguments": [
+      "http://clintonnc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clintonnc.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Focus - United States",
+    "provider": "web",
+    "arguments": [
+      "http://www.focusnewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=focusnewspaper.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Robesonian",
+    "provider": "web",
+    "arguments": [
+      "http://robesonian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=robesonian.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Springhopeenterprise",
+    "provider": "web",
+    "arguments": [
+      "http://springhopeenterprise.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=springhopeenterprise.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Themountaineer",
+    "provider": "web",
+    "arguments": [
+      "http://themountaineer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themountaineer.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thepilot",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepilot.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepilot.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thestokesnews",
+    "provider": "web",
+    "arguments": [
+      "http://thestokesnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestokesnews.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wake Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.wakeweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wakeweekly.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Warrenrecord",
+    "provider": "web",
+    "arguments": [
+      "http://warrenrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=warrenrecord.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Watauga Democrat",
+    "provider": "web",
+    "arguments": [
+      "http://wataugademocrat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wataugademocrat.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbt",
+    "provider": "web",
+    "arguments": [
+      "http://www.wbt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbt.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbtv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbtv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbtv.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wccbcharlotte",
+    "provider": "web",
+    "arguments": [
+      "http://wccbcharlotte.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wccbcharlotte.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wect",
+    "provider": "web",
+    "arguments": [
+      "https://www.wect.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wect.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WHKP",
+    "provider": "web",
+    "arguments": [
+      "https://www.whkp.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whkp.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WHKY",
+    "provider": "web",
+    "arguments": [
+      "http://www.whky.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whky.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Witn",
+    "provider": "web",
+    "arguments": [
+      "https://www.witn.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=witn.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wral",
+    "provider": "web",
+    "arguments": [
+      "https://www.wral.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wral.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsoctv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wsoctv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsoctv.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wwaytv3",
+    "provider": "web",
+    "arguments": [
+      "https://www.wwaytv3.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wwaytv3.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wxii12",
+    "provider": "web",
+    "arguments": [
+      "http://wxii12.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wxii12.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Niner Times",
+    "provider": "web",
+    "arguments": [
+      "https://ninertimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ninertimes.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Transylvaniatimes",
+    "provider": "web",
+    "arguments": [
+      "https://transylvaniatimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=transylvaniatimes.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wfae",
+    "provider": "web",
+    "arguments": [
+      "http://wfae.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfae.org",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News of Orange County",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsoforange.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsoforange.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rrdailyherald",
+    "provider": "web",
+    "arguments": [
+      "https://rrdailyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rrdailyherald.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whqr",
+    "provider": "web",
+    "arguments": [
+      "http://whqr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whqr.org",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lake Gaston Gazette Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.lakegastongazette-observer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lakegastongazette-observer.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yes! Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.yesweekly.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yesweekly.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Foxwilmington",
+    "provider": "web",
+    "arguments": [
+      "https://foxwilmington.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxwilmington.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Tar Heel",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailytarheel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailytarheel.com",
+    "year": "North Carolina",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -170,5 +170,258 @@
     "year": "Mississippi",
     "genre": "Biloxi / Gulfport",
     "rating": "Gulf Coast Flagship Daily"
+  },
+  {
+    "title": "Columbian Progress",
+    "provider": "web",
+    "arguments": [
+      "https://www.columbianprogress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbianprogress.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hub City Spokes",
+    "provider": "web",
+    "arguments": [
+      "https://www.hubcityspokes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hubcityspokes.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Mississippian",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedmonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedmonline.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newton County Appeal",
+    "provider": "web",
+    "arguments": [
+      "http://newtoncountyappeal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newtoncountyappeal.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Winona Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.winonatimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winonatimes.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Scott County Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.sctonline.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sctonline.net",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mississippi Link",
+    "provider": "web",
+    "arguments": [
+      "https://themississippilink.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themississippilink.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wapt",
+    "provider": "web",
+    "arguments": [
+      "http://wapt.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wapt.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Calhoun County Journal Updated",
+    "provider": "web",
+    "arguments": [
+      "http://www.calhouncountyjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calhouncountyjournal.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Desototimes",
+    "provider": "web",
+    "arguments": [
+      "http://desototimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=desototimes.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gulf Pine Catholic",
+    "provider": "web",
+    "arguments": [
+      "http://www.gulfpinecatholic.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gulfpinecatholic.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Neshobademocrat",
+    "provider": "web",
+    "arguments": [
+      "http://neshobademocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=neshobademocrat.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Mississippi Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.yalnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yalnews.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Panolian",
+    "provider": "web",
+    "arguments": [
+      "https://panolian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=panolian.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pontiac Daily Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.pontiacdailyleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pontiacdailyleader.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Record-Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.myrecordjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myrecordjournal.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sea Coast Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.seacoastecho.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seacoastecho.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Starkvilledailynews",
+    "provider": "web",
+    "arguments": [
+      "http://starkvilledailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starkvilledailynews.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Leland Progress",
+    "provider": "web",
+    "arguments": [
+      "https://www.thelelandprogress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thelelandprogress.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wdam",
+    "provider": "web",
+    "arguments": [
+      "https://www.wdam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wdam.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtok",
+    "provider": "web",
+    "arguments": [
+      "http://wtok.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtok.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gulflive",
+    "provider": "web",
+    "arguments": [
+      "http://gulflive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gulflive.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Standard Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.rexburgstandardjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rexburgstandardjournal.com",
+    "year": "Mississippi",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

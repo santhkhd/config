@@ -226,5 +226,3712 @@
     "year": "Alabama",
     "genre": "Pell City",
     "rating": "Weekly"
+  },
+  {
+    "title": "Asian Pacific American Law Journal",
+    "provider": "web",
+    "arguments": [
+      "https://law.ucla.edu/academics/journals/asian-pacific-american-law-journal"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=law.ucla.edu",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Calaveras Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.calaverasenterprise.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calaverasenterprise.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chilkat Valley News",
+    "provider": "web",
+    "arguments": [
+      "http://chilkatvalleynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chilkatvalleynews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Emerald",
+    "provider": "web",
+    "arguments": [
+      "https://dailyemerald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyemerald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dallas Express",
+    "provider": "web",
+    "arguments": [
+      "https://dallasexpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dallasexpress.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "East County Californian",
+    "provider": "web",
+    "arguments": [
+      "https://eccalifornian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eccalifornian.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Emergency Federal Register",
+    "provider": "web",
+    "arguments": [
+      "http://emergency-federal-register.gov/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=emergency-federal-register.gov",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Escalon Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.escalontimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=escalontimes.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fairborn Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.fairborndailyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fairborndailyherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Galion Inquirer",
+    "provider": "web",
+    "arguments": [
+      "http://galioninquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=galioninquirer.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hawaii Tribune-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.hawaiitribune-herald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hawaiitribune-herald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hooversun",
+    "provider": "web",
+    "arguments": [
+      "https://hooversun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hooversun.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journal Record - United States - Alabama",
+    "provider": "web",
+    "arguments": [
+      "https://www.myjrpaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myjrpaper.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Las Vegas Review-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.reviewjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reviewjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "National Memo",
+    "provider": "web",
+    "arguments": [
+      "https://www.nationalmemo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalmemo.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oakdale Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.oakdaleleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oakdaleleader.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "OBA",
+    "provider": "web",
+    "arguments": [
+      "https://www.obawebsite.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=obawebsite.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Opelikaobserver",
+    "provider": "web",
+    "arguments": [
+      "https://opelikaobserver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=opelikaobserver.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Portland Press Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.portland.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portland.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Record Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.recordherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recordherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Simi Valley Acorn",
+    "provider": "web",
+    "arguments": [
+      "https://www.simivalleyacorn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=simivalleyacorn.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Talkingnewmedia",
+    "provider": "web",
+    "arguments": [
+      "http://talkingnewmedia.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=talkingnewmedia.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Badger Herald",
+    "provider": "web",
+    "arguments": [
+      "https://badgerherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=badgerherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Call",
+    "provider": "web",
+    "arguments": [
+      "https://www.kccall.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kccall.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Times-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.mytrpaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mytrpaper.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tulane Hullabaloo",
+    "provider": "web",
+    "arguments": [
+      "http://www.tulanehullabaloo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tulanehullabaloo.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Turlock Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.turlockjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=turlockjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Valley Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.valleyreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=valleyreporter.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vestaviavoice",
+    "provider": "web",
+    "arguments": [
+      "https://vestaviavoice.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vestaviavoice.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "White River Valley Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.ourherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ourherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alter Net (news aggregator website)",
+    "provider": "web",
+    "arguments": [
+      "https://www.alternet.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alternet.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Austin Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.austindailyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=austindailyherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Birmingham Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.birminghamtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=birminghamtimes.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "College Heights Herald",
+    "provider": "web",
+    "arguments": [
+      "https://wkuherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkuherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gallatin News",
+    "provider": "web",
+    "arguments": [
+      "https://mainstreetmediatn.com/gallatin-news/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mainstreetmediatn.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Grand Forks Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.grandforksherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=grandforksherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Herald & Review",
+    "provider": "web",
+    "arguments": [
+      "https://herald-review.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald-review.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hudsonvalley360",
+    "provider": "web",
+    "arguments": [
+      "http://hudsonvalley360.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hudsonvalley360.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Jersey County Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.jerseycountyjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jerseycountyjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lincoln Journal Star",
+    "provider": "web",
+    "arguments": [
+      "http://www.journalstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalstar.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Miami Valley Today",
+    "provider": "web",
+    "arguments": [
+      "https://miamivalleytoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miamivalleytoday.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Leader Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.leaderherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leaderherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Valley Roadrunner",
+    "provider": "web",
+    "arguments": [
+      "https://www.valleycenter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=valleycenter.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Village Living",
+    "provider": "web",
+    "arguments": [
+      "https://www.villagelivingonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=villagelivingonline.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Whitehall Ledger",
+    "provider": "web",
+    "arguments": [
+      "https://www.whitehallledger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whitehallledger.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alachua County Today",
+    "provider": "web",
+    "arguments": [
+      "http://www.alachuatoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alachuatoday.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alamogordo Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://www.alamogordonews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alamogordonews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Albany Democrat-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://democratherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=democratherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Albert Lea Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.albertleatribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=albertleatribune.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Algona Upper Des Moines",
+    "provider": "web",
+    "arguments": [
+      "https://algona.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=algona.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alpine Avalanche",
+    "provider": "web",
+    "arguments": [
+      "https://www.alpineavalanche.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alpineavalanche.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Altoona Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.altoonamirror.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=altoonamirror.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Andalusia Star News",
+    "provider": "web",
+    "arguments": [
+      "https://www.andalusiastarnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=andalusiastarnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Athens News Courier",
+    "provider": "web",
+    "arguments": [
+      "https://enewscourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enewscourier.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baker City Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.bakercityherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bakercityherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baltimore Beat",
+    "provider": "web",
+    "arguments": [
+      "https://baltimorebeat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baltimorebeat.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Capital Press",
+    "provider": "web",
+    "arguments": [
+      "http://www.capitalpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capitalpress.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Central Oregonian",
+    "provider": "web",
+    "arguments": [
+      "http://www.centraloregonian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=centraloregonian.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clanton Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.clantonadvertiser.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clantonadvertiser.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dallas Observer",
+    "provider": "web",
+    "arguments": [
+      "http://dallasobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dallasobserver.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dalton Gazette & Kidron News",
+    "provider": "web",
+    "arguments": [
+      "https://www.daltonkidronnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daltonkidronnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Devils Lake Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.devilslakejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=devilslakejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hannibal Courier-Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.hannibal.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hannibal.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Herald-Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldstaronline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldstaronline.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kilgore News Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.kilgorenewsherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kilgorenewsherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kingston Times",
+    "provider": "web",
+    "arguments": [
+      "https://hudsonvalleyone.com/paper/kingston-times"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hudsonvalleyone.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Latin Opinion",
+    "provider": "web",
+    "arguments": [
+      "https://latinopinionbaltimore.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=latinopinionbaltimore.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Longview News-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://news-journal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-journal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Los Angeles Business Journal",
+    "provider": "web",
+    "arguments": [
+      "https://labusinessjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=labusinessjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Luverne Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.luvernejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=luvernejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marshall Democrat-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.marshallnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marshallnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mission Local",
+    "provider": "web",
+    "arguments": [
+      "https://missionlocal.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=missionlocal.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Molalla Pioneer",
+    "provider": "web",
+    "arguments": [
+      "http://www.molallapioneer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=molallapioneer.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Times Broward",
+    "provider": "web",
+    "arguments": [
+      "http://browardpalmbeach.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=browardpalmbeach.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.pnj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pnj.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Coast Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.northcoastjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northcoastjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Novato Advance",
+    "provider": "web",
+    "arguments": [
+      "https://marinlocalnews.com/category/local-news/novato/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=marinlocalnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ottawa Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.ottawaherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ottawaherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Palisadian-Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.palipost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palipost.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pickens County Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.pcherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pcherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pine Bluff Commercial",
+    "provider": "web",
+    "arguments": [
+      "https://www.pbcommercial.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pbcommercial.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Racine Journal Times",
+    "provider": "web",
+    "arguments": [
+      "https://journaltimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journaltimes.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Roanoke-Chowan News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.roanoke-chowannewsherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=roanoke-chowannewsherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rocketcitynow",
+    "provider": "web",
+    "arguments": [
+      "http://rocketcitynow.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rocketcitynow.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Roll Call",
+    "provider": "web",
+    "arguments": [
+      "https://rollcall.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rollcall.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Salamanca Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.salamancapress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salamancapress.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Salisbury Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.salisburypost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salisburypost.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sioux City Journal",
+    "provider": "web",
+    "arguments": [
+      "https://siouxcityjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=siouxcityjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Socialist Worker",
+    "provider": "web",
+    "arguments": [
+      "https://socialistworker.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=socialistworker.co.uk",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tacoma Ledger",
+    "provider": "web",
+    "arguments": [
+      "https://thetacomaledger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetacomaledger.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Alabama Baptist",
+    "provider": "web",
+    "arguments": [
+      "http://www.thealabamabaptist.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thealabamabaptist.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Almanac",
+    "provider": "web",
+    "arguments": [
+      "https://www.thealmanac.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thealmanac.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Alpena News",
+    "provider": "web",
+    "arguments": [
+      "http://thealpenanews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thealpenanews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Catalyst",
+    "provider": "web",
+    "arguments": [
+      "https://thecatalystnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecatalystnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Commonwealth Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.commonwealthtimes.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=commonwealthtimes.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Everett Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldnet.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldnet.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Farmville Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.farmvilleherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=farmvilleherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.heralddemocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heralddemocrat.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Hippo",
+    "provider": "web",
+    "arguments": [
+      "https://hippopress.com/digital-library/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hippopress.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Hudson Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.hudherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hudherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Jewish Journal of Greater Los Angeles",
+    "provider": "web",
+    "arguments": [
+      "http://bibpurl.oclc.org/web/1094"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bibpurl.oclc.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Mining Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.miningjournal.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miningjournal.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Post-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.post-journal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=post-journal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Seattle Globalist",
+    "provider": "web",
+    "arguments": [
+      "https://seattleglobalist.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=seattleglobalist.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Sidney Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.sidneyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sidneyherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Suffolk Journal",
+    "provider": "web",
+    "arguments": [
+      "https://thesuffolkjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesuffolkjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Troy Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://www.troymessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=troymessenger.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wallowa County Chieftain",
+    "provider": "web",
+    "arguments": [
+      "http://www.wallowa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wallowa.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westside Seattle",
+    "provider": "web",
+    "arguments": [
+      "https://www.westseattleherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westseattleherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Winston-Salem Journal",
+    "provider": "web",
+    "arguments": [
+      "https://journalnow.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalnow.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "World Soccer Talk",
+    "provider": "web",
+    "arguments": [
+      "https://worldsoccertalk.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worldsoccertalk.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Signal",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailysignal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailysignal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Box Elder News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.benewsjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=benewsjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Headlight-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.tillamookheadlightherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tillamookheadlightherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Idaho State Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.idahostatejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=idahostatejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ka Leo O Hawaii",
+    "provider": "web",
+    "arguments": [
+      "http://kaleo.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kaleo.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lagniappe",
+    "provider": "web",
+    "arguments": [
+      "http://lagniappemobile.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lagniappemobile.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Plain Dealer & Sun",
+    "provider": "web",
+    "arguments": [
+      "http://plaindealer-sun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=plaindealer-sun.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "River Falls Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.riverfallsjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=riverfallsjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sun Herald",
+    "provider": "web",
+    "arguments": [
+      "http://sunherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sunherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tallahassee Democrat",
+    "provider": "web",
+    "arguments": [
+      "http://tallahassee.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tallahassee.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Caledonian-Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.caledonianrecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=caledonianrecord.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Courier-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.courier-journal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courier-journal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Californian",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailycal.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycal.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Palm Beach Post",
+    "provider": "web",
+    "arguments": [
+      "http://palmbeachpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palmbeachpost.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Trinity Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.trinityjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=trinityjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wetumpka Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.thewetumpkaherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewetumpkaherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alcona County Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.alconareview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alconareview.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alexander City Outlook",
+    "provider": "web",
+    "arguments": [
+      "http://alexcityoutlook.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alexcityoutlook.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Almaden Times Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://timesmedia.pageflip.site/publications/AlmadenTimes"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesmedia.pageflip.site",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Appeal-Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.appeal-democrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=appeal-democrat.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Blackwell Journal-Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.blackwelljournaltribune.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blackwelljournaltribune.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Columbia Basin Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.columbiabasinherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=columbiabasinherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Corpus Christi Caller-Times",
+    "provider": "web",
+    "arguments": [
+      "http://caller.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=caller.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Courierjournal",
+    "provider": "web",
+    "arguments": [
+      "http://courierjournal.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courierjournal.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Commercial",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailycommercial.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycommercial.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "East Valley Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.eastvalleytribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastvalleytribune.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "El Sol de Salinas",
+    "provider": "web",
+    "arguments": [
+      "https://www.elsoldesalinas.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elsoldesalinas.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox10tv",
+    "provider": "web",
+    "arguments": [
+      "https://www.fox10tv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox10tv.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Herald-Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldargus.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldargus.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kern Valley Sun",
+    "provider": "web",
+    "arguments": [
+      "https://kernvalleysun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kernvalleysun.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Leadville Herald Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.leadvilleherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leadvilleherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Napa Valley Register",
+    "provider": "web",
+    "arguments": [
+      "https://napavalleyregister.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=napavalleyregister.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Narragansett Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.ricentral.com/narragansett_times/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ricentral.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "National Enquirer",
+    "provider": "web",
+    "arguments": [
+      "http://www.nationalenquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalenquirer.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.wnewsj.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wnewsj.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Palestine Herald-Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.palestineherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=palestineherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Palladium-Item",
+    "provider": "web",
+    "arguments": [
+      "https://www.pal-item.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pal-item.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "San Pedro Valley News-Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.myheraldreview.com/news/benson/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myheraldreview.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Spokane Journal of Business",
+    "provider": "web",
+    "arguments": [
+      "https://www.spokanejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=spokanejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tallassee Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.tallasseetribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tallasseetribune.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Concrete Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.concrete-herald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=concrete-herald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Mountain Eagle",
+    "provider": "web",
+    "arguments": [
+      "https://www.themountaineagle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themountaineagle.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Register-Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.galesburg.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=galesburg.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Salinas Californian",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecalifornian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecalifornian.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tulare Advance-Register",
+    "provider": "web",
+    "arguments": [
+      "https://www.visaliatimesdelta.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=visaliatimesdelta.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tuscaloosa News",
+    "provider": "web",
+    "arguments": [
+      "https://www.tuscaloosanews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tuscaloosanews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbhm",
+    "provider": "web",
+    "arguments": [
+      "https://wbhm.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbhm.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "West Valley View",
+    "provider": "web",
+    "arguments": [
+      "https://www.westvalleyview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westvalleyview.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "White Mountain Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.wmicentral.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmicentral.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Al Día",
+    "provider": "web",
+    "arguments": [
+      "http://aldiadallas.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aldiadallas.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alaska Journal of Commerce",
+    "provider": "web",
+    "arguments": [
+      "http://www.alaskajournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alaskajournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Algemeiner Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.algemeiner.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=algemeiner.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "All Point Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.allpointbulletin.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=allpointbulletin.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Almanac",
+    "provider": "web",
+    "arguments": [
+      "https://www.almanacnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=almanacnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Altus Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.altustimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=altustimes.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Apr",
+    "provider": "web",
+    "arguments": [
+      "http://apr.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=apr.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Argus-Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.petaluma360.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=petaluma360.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baldwin Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.gulfcoastnewstoday.com/baldwin-times/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gulfcoastnewstoday.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ballard News-Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.ballardnewstribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ballardnewstribune.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Baltimore Times",
+    "provider": "web",
+    "arguments": [
+      "https://baltimoretimes-online.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=baltimoretimes-online.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Beaverton Valley Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.beavertonvalleytimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beavertonvalleytimes.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "California Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.californiademocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=californiademocrat.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Canby Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.canbyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=canbyherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Casa Grande Dispatch",
+    "provider": "web",
+    "arguments": [
+      "https://www.pinalcentral.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pinalcentral.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cheshire Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.cheshireherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cheshireherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chino Valley Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.dcourier.com/news/chino-valley-review/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dcourier.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clinton Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.clintonherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clintonherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coastal View News",
+    "provider": "web",
+    "arguments": [
+      "https://www.coastalview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coastalview.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coeur d'Alene Press",
+    "provider": "web",
+    "arguments": [
+      "http://www.cdapress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cdapress.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cortez Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.the-journal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=the-journal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Courier-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.courierherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=courierherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://dailyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.daily-journal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=daily-journal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Sun News",
+    "provider": "web",
+    "arguments": [
+      "https://www.yourvalley.net/sun-city-independent/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yourvalley.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Donaldsonville Chief",
+    "provider": "web",
+    "arguments": [
+      "https://www.donaldsonvillechief.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=donaldsonvillechief.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "El Segundo Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldpublications.com/herald/el-segundo-herald"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldpublications.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Falls City Journal",
+    "provider": "web",
+    "arguments": [
+      "https://fcjournal.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fcjournal.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ferndale Enterprise",
+    "provider": "web",
+    "arguments": [
+      "https://www.theferndaleenterprise.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theferndaleenterprise.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fontana Herald News",
+    "provider": "web",
+    "arguments": [
+      "https://www.fontanaheraldnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fontanaheraldnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fresno Vida en el Valle",
+    "provider": "web",
+    "arguments": [
+      "https://www.vidaenelvalle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vidaenelvalle.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gadsden Messenger",
+    "provider": "web",
+    "arguments": [
+      "https://gadsdenmessenger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gadsdenmessenger.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Galva News",
+    "provider": "web",
+    "arguments": [
+      "https://www.galvanews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=galvanews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Great Falls Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.greatfallstribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greatfallstribune.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hangö",
+    "provider": "web",
+    "arguments": [
+      "https://digi.kansalliskirjasto.fi/sanomalehti/titles/1458-0764"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=digi.kansalliskirjasto.fi",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Herald and News",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldandnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldandnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Herald and Ruralite",
+    "provider": "web",
+    "arguments": [
+      "https://www.thesylvaherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesylvaherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Herald Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldweekly.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "https",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegraphic.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegraphic.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hyde Park Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.hpherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hpherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Journal Inquirer",
+    "provider": "web",
+    "arguments": [
+      "http://www.journalinquirer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalinquirer.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "La Jolla Light",
+    "provider": "web",
+    "arguments": [
+      "https://www.lajollalight.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lajollalight.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lansing State Journal",
+    "provider": "web",
+    "arguments": [
+      "http://lansingstatejournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lansingstatejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lockport Union-Sun & Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.lockportjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lockportjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Long Island Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.liherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=liherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Longmont Times-Call",
+    "provider": "web",
+    "arguments": [
+      "https://www.timescall.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timescall.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Los Altos Town Crier",
+    "provider": "web",
+    "arguments": [
+      "https://www.losaltosonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=losaltosonline.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lowndes Signal",
+    "provider": "web",
+    "arguments": [
+      "https://www.lowndessignal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lowndessignal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Manchester Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.manchesterjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manchesterjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mansfield News Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.mansfieldnewsjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mansfieldnewsjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marana News",
+    "provider": "web",
+    "arguments": [
+      "https://www.tucsonlocalmedia.com/marana/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tucsonlocalmedia.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "McKinney Courier-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://starlocalmedia.com/mckinneycouriergazette/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starlocalmedia.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Methow Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://methowvalleynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=methowvalleynews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Miami Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.miami.com/herald"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miami.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Monroe Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.monroejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=monroejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Moulton Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.moultonadvertiser.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=moultonadvertiser.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mountain Valley News",
+    "provider": "web",
+    "arguments": [
+      "http://www.mountainvalleynewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mountainvalleynewspaper.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mullet Wrapper",
+    "provider": "web",
+    "arguments": [
+      "https://mulletwrapper.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mulletwrapper.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Muscatine Journal",
+    "provider": "web",
+    "arguments": [
+      "https://muscatinejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=muscatinejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "National Mortgage News",
+    "provider": "web",
+    "arguments": [
+      "https://www.nationalmortgagenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalmortgagenews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Braunfels Herald-Zeitung",
+    "provider": "web",
+    "arguments": [
+      "https://herald-zeitung.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald-zeitung.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Britain Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.newbritainherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newbritainherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newport Plain Talk",
+    "provider": "web",
+    "arguments": [
+      "https://www.newportplaintalk.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newportplaintalk.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Niagara Falls Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://www.niagarafallsreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=niagarafallsreporter.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nogales International",
+    "provider": "web",
+    "arguments": [
+      "https://www.nogalesinternational.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nogalesinternational.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northwest Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.nwherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nwherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ojai Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ojaivalleynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ojaivalleynews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Palo Alto Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.paloaltoonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paloaltoonline.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Poughkeepsie Journal",
+    "provider": "web",
+    "arguments": [
+      "http://poughkeepsiejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=poughkeepsiejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ravalli Republic",
+    "provider": "web",
+    "arguments": [
+      "https://ravallirepublic.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ravallirepublic.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Real News Network",
+    "provider": "web",
+    "arguments": [
+      "https://therealnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=therealnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Redstone Rocket",
+    "provider": "web",
+    "arguments": [
+      "https://www.theredstonerocket.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theredstonerocket.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Riverdale Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.riverdalepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=riverdalepress.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sabato's Crystal Ball",
+    "provider": "web",
+    "arguments": [
+      "http://www.centerforpolitics.org/crystalball"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=centerforpolitics.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Salon",
+    "provider": "web",
+    "arguments": [
+      "https://www.salon.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salon.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sanford Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.sanfordherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sanfordherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sarasota Herald-Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://heraldtribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldtribune.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sedalia Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.sedaliademocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sedaliademocrat.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sierra Vista Herald",
+    "provider": "web",
+    "arguments": [
+      "https://svherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=svherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Skiatook Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.skiatookjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=skiatookjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Somerville Journal",
+    "provider": "web",
+    "arguments": [
+      "https://wickedlocal.com/somerville"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wickedlocal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "South Jersey Local News",
+    "provider": "web",
+    "arguments": [
+      "http://www.southjerseylocalnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southjerseylocalnews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Star–Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.ocala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ocala.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sturgis Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.sturgisjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sturgisjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Taegan Goddard's Political Wire",
+    "provider": "web",
+    "arguments": [
+      "https://politicalwire.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=politicalwire.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Talk Media News",
+    "provider": "web",
+    "arguments": [
+      "http://talkmedianews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=talkmedianews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The California Courier",
+    "provider": "web",
+    "arguments": [
+      "https://thecaliforniacourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecaliforniacourier.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Cameron Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.cameronherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cameronherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Cavalier Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.cavalierdaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cavalierdaily.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Commercial Appeal",
+    "provider": "web",
+    "arguments": [
+      "https://www.commercialappeal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=commercialappeal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Cooper Point Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.cooperpointjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cooperpointjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Cardinal",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailycardinal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycardinal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Durango Herald",
+    "provider": "web",
+    "arguments": [
+      "http://durangoherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=durangoherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Hazard Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.hazard-herald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hazard-herald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.sharonherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sharonherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald-News",
+    "provider": "web",
+    "arguments": [
+      "http://theherald-news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theherald-news.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald-Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldpressnd.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldpressnd.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldtimesonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldtimesonline.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Hermiston Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.hermistonherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hermistonherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Independent Florida Alligator",
+    "provider": "web",
+    "arguments": [
+      "https://alligator.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alligator.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.journal-news.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journal-news.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Journal-News",
+    "provider": "web",
+    "arguments": [
+      "https://www.thejournal-news.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thejournal-news.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Malibu Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.malibutimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malibutimes.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The New Hampshire",
+    "provider": "web",
+    "arguments": [
+      "https://tnhdigital.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tnhdigital.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The News-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.news-herald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news-herald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Providence Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.providencejournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=providencejournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Salina Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.saljournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saljournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Times Journal",
+    "provider": "web",
+    "arguments": [
+      "https://times-journal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=times-journal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Townhall",
+    "provider": "web",
+    "arguments": [
+      "https://townhall.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=townhall.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Trussvilletribune",
+    "provider": "web",
+    "arguments": [
+      "http://trussvilletribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=trussvilletribune.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ukiah Daily Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.ukiahdailyjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ukiahdailyjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vallejo Times Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.timesheraldonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesheraldonline.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Valley Times News",
+    "provider": "web",
+    "arguments": [
+      "https://www.valleytimes-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=valleytimes-news.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Vincennes Sun-Commercial",
+    "provider": "web",
+    "arguments": [
+      "https://www.suncommercial.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=suncommercial.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wausau Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.wausaudailyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wausaudailyherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Weekly Alibi",
+    "provider": "web",
+    "arguments": [
+      "http://www.alibi.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alibi.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Western Herald",
+    "provider": "web",
+    "arguments": [
+      "http://westernherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westernherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wilkes Journal-Patriot",
+    "provider": "web",
+    "arguments": [
+      "https://www.journalpatriot.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journalpatriot.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsfa",
+    "provider": "web",
+    "arguments": [
+      "https://www.wsfa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsfa.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wtvy",
+    "provider": "web",
+    "arguments": [
+      "http://wtvy.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wtvy.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvtm13",
+    "provider": "web",
+    "arguments": [
+      "http://wvtm13.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvtm13.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yakima Herald-Republic",
+    "provider": "web",
+    "arguments": [
+      "https://www.yakimaherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yakimaherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yellowhammernews",
+    "provider": "web",
+    "arguments": [
+      "https://yellowhammernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yellowhammernews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Waaytv",
+    "provider": "web",
+    "arguments": [
+      "https://waaytv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waaytv.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Auburnvillager",
+    "provider": "web",
+    "arguments": [
+      "http://auburnvillager.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=auburnvillager.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "National Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://voices.revealdigital.com/cgi-bin/independentvoices?a=cl&cl=CL1&sp=CCEDDCD&ai=1"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=voices.revealdigital.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newnan Times-Herald",
+    "provider": "web",
+    "arguments": [
+      "https://times-herald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=times-herald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "off our backs",
+    "provider": "web",
+    "arguments": [
+      "https://jstor.org/journal/offourbacks"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jstor.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Real Clear Politics",
+    "provider": "web",
+    "arguments": [
+      "https://www.realclearpolitics.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=realclearpolitics.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Teton Valley News",
+    "provider": "web",
+    "arguments": [
+      "https://www.tetonvalleynews.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tetonvalleynews.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Capital",
+    "provider": "web",
+    "arguments": [
+      "https://capitalgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=capitalgazette.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Collegian",
+    "provider": "web",
+    "arguments": [
+      "https://www.hbucollegian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hbucollegian.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Express-Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.lehighvalleylive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lehighvalleylive.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wabash Plain Dealer",
+    "provider": "web",
+    "arguments": [
+      "https://www.wabashplaindealer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wabashplaindealer.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Al-Sahafa",
+    "provider": "web",
+    "arguments": [
+      "http://www.al-sahafa.us/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=al-sahafa.us",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Big Spring Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.bigspringherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bigspringherald.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "National Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.nationalreview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalreview.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "All Top",
+    "provider": "web",
+    "arguments": [
+      "https://alltop.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alltop.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cardinal Courier Media",
+    "provider": "web",
+    "arguments": [
+      "https://www.cardinalcourieronline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cardinalcourieronline.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Centralia News-Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://access.newspaperarchive.com/browse/us/washington/centralia/centralia-news-examiner/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=access.newspaperarchive.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Gallup Independent",
+    "provider": "web",
+    "arguments": [
+      "https://gallupindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gallupindependent.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "National Sports Journalism Center",
+    "provider": "web",
+    "arguments": [
+      "http://www.sportsjournalism.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sportsjournalism.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New York Daily News",
+    "provider": "web",
+    "arguments": [
+      "https://LJ3LE7ZK2E.search.serialssolutions.com/?V=1.0&L=LJ3LE7ZK2E&S=JCs&C=DAILNEWNEY&T=marc"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lj3le7zk2e.search.serialssolutions.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pittsburgh Post-Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://link.galegroup.com/apps/pub/0QFE/ITBC?sid=kbart?&u=uvictoria"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=link.galegroup.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Polish American Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.polamjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=polamjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sanger Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.reedleyexponent.com/sanger_herald/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=reedleyexponent.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Territorial Enterprise",
+    "provider": "web",
+    "arguments": [
+      "http://www.territorial-enterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=territorial-enterprise.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Chetek Alert",
+    "provider": "web",
+    "arguments": [
+      "https://www.chetekalert.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chetekalert.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Olympian",
+    "provider": "web",
+    "arguments": [
+      "https://global.factiva.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=global.factiva.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Palm Beach Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepalmbeachtimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepalmbeachtimes.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Tombstone Epitaph",
+    "provider": "web",
+    "arguments": [
+      "https://ezproxy.aut.ac.nz/login?url=http://YU7RZ9HN8Y.search.serialssolutions.com/?V=1.0&L=YU7RZ9HN8Y&S=JCs&C=TC0000390275&T=marc"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ezproxy.aut.ac.nz",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Athens Republique",
+    "provider": "web",
+    "arguments": [
+      "https://gahistoricnewspapers.galileo.usg.edu/lccn/2012233098/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gahistoricnewspapers.galileo.usg.edu",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Latino News",
+    "provider": "web",
+    "arguments": [
+      "https://www.latino-news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=latino-news.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Alva Review-Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.alvareviewcourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alvareviewcourier.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Liberty",
+    "provider": "web",
+    "arguments": [
+      "https://catalog.hathitrust.org/Record/008001672"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=catalog.hathitrust.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Montecito Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.montecitojournal.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montecitojournal.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvua23",
+    "provider": "web",
+    "arguments": [
+      "http://wvua23.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvua23.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Home News Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.mycentraljersey.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mycentraljersey.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crain's Chicago Business",
+    "provider": "web",
+    "arguments": [
+      "http://search.rdsinc.com/sessions?products=CWI"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=search.rdsinc.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Malden Evening News",
+    "provider": "web",
+    "arguments": [
+      "http://maldennews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maldennews.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "OBU Signal",
+    "provider": "web",
+    "arguments": [
+      "http://obusignal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=obusignal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Mid Valley Town Crier",
+    "provider": "web",
+    "arguments": [
+      "http://www.midvalleytowncrier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=midvalleytowncrier.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The News & Observer",
+    "provider": "web",
+    "arguments": [
+      "http://gale.cengage.com/usnewspapers/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gale.cengage.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Buffalo News",
+    "provider": "web",
+    "arguments": [
+      "https://resolver.library.ualberta.ca/resolver?ctx_enc=info:ofi/enc:UTF-8&ctx_ver=Z39.88-2004&rfr_id=info:sid/ualberta.ca:opac&rft.genre=journal&rft.object_id=711031861653016&rft.issn=0745-2691&rft.eissn=&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=resolver.library.ualberta.ca",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Medical News Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.medicalnewstoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=medicalnewstoday.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Talking Points Memo",
+    "provider": "web",
+    "arguments": [
+      "https://talkingpointsmemo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=talkingpointsmemo.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "China Digital Times",
+    "provider": "web",
+    "arguments": [
+      "https://chinadigitaltimes.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chinadigitaltimes.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cache Valley Daily",
+    "provider": "web",
+    "arguments": [
+      "https://www.cachevalleydaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cachevalleydaily.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Foreign Policy Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.foreignpolicyjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foreignpolicyjournal.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Salish Current",
+    "provider": "web",
+    "arguments": [
+      "https://salish-current.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salish-current.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Baltimore Post",
+    "provider": "web",
+    "arguments": [
+      "https://thebaltimorepost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebaltimorepost.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Daily Caller",
+    "provider": "web",
+    "arguments": [
+      "https://dailycaller.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailycaller.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Missouri Business Alert",
+    "provider": "web",
+    "arguments": [
+      "https://www.missouribusinessalert.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=missouribusinessalert.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Al Hal Net",
+    "provider": "web",
+    "arguments": [
+      "https://7al.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=7al.net",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sports Business Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.sportsbizdaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sportsbizdaily.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Windows IT Pro",
+    "provider": "web",
+    "arguments": [
+      "https://link.gale.com/apps/pub/5FBV/CWI?&sid=CWI"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=link.gale.com",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wvasfm",
+    "provider": "web",
+    "arguments": [
+      "http://wvasfm.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wvasfm.org",
+    "year": "Alabama",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -148,5 +148,126 @@
     "year": "Maine",
     "genre": "Rockland",
     "rating": "Weekly"
+  },
+  {
+    "title": "1019therock",
+    "provider": "web",
+    "arguments": [
+      "https://1019therock.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=1019therock.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Q 96.1",
+    "provider": "web",
+    "arguments": [
+      "https://q961.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=q961.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Foxbangor",
+    "provider": "web",
+    "arguments": [
+      "http://foxbangor.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=foxbangor.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Bulldog",
+    "provider": "web",
+    "arguments": [
+      "http://www.dailybulldog.com/db/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailybulldog.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Machias Valley News Observer",
+    "provider": "web",
+    "arguments": [
+      "http://machiasnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=machiasnews.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mainebiz",
+    "provider": "web",
+    "arguments": [
+      "https://mainebiz.biz/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mainebiz.biz",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Town Line",
+    "provider": "web",
+    "arguments": [
+      "https://townline.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=townline.org",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wagmtv",
+    "provider": "web",
+    "arguments": [
+      "http://wagmtv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wagmtv.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wiscassetnewspaper",
+    "provider": "web",
+    "arguments": [
+      "http://wiscassetnewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiscassetnewspaper.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Twin City Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.twincitytimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=twincitytimes.com",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wabi",
+    "provider": "web",
+    "arguments": [
+      "http://wabi.tv/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wabi.tv",
+    "year": "Maine",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

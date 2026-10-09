@@ -472,5 +472,478 @@
     "year": "Pennsylvania",
     "genre": "Beaver",
     "rating": "Daily"
+  },
+  {
+    "title": "Lvb",
+    "provider": "web",
+    "arguments": [
+      "https://lvb.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lvb.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nbcphiladelphia",
+    "provider": "web",
+    "arguments": [
+      "https://www.nbcphiladelphia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nbcphiladelphia.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wnep",
+    "provider": "web",
+    "arguments": [
+      "https://www.wnep.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wnep.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Jewish Exponent",
+    "provider": "web",
+    "arguments": [
+      "https://www.jewishexponent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jewishexponent.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fox43",
+    "provider": "web",
+    "arguments": [
+      "http://fox43.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox43.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Philadelphia Gay News",
+    "provider": "web",
+    "arguments": [
+      "https://epgn.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=epgn.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Triangle",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetriangle.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetriangle.org",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bucks County Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.buckscountyherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buckscountyherald.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Catholicphilly",
+    "provider": "web",
+    "arguments": [
+      "https://catholicphilly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=catholicphilly.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Lancasterfarming",
+    "provider": "web",
+    "arguments": [
+      "https://www.lancasterfarming.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lancasterfarming.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "New Castle News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ncnewsonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ncnewsonline.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Standard Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.rexburgstandardjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rexburgstandardjournal.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "6abc",
+    "provider": "web",
+    "arguments": [
+      "https://6abc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=6abc.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bedford Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.bedfordgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bedfordgazette.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Billypenn",
+    "provider": "web",
+    "arguments": [
+      "https://billypenn.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=billypenn.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Corry Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecorryjournal.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecorryjournal.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kanerepublican",
+    "provider": "web",
+    "arguments": [
+      "http://kanerepublican.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kanerepublican.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Main Line Media News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mainlinemedianews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mainlinemedianews.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mainlinetoday",
+    "provider": "web",
+    "arguments": [
+      "https://mainlinetoday.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mainlinetoday.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Morning Times",
+    "provider": "web",
+    "arguments": [
+      "http://morning-times.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=morning-times.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mydallaspost",
+    "provider": "web",
+    "arguments": [
+      "http://mydallaspost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mydallaspost.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newsitem",
+    "provider": "web",
+    "arguments": [
+      "http://newsitem.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsitem.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Philasun",
+    "provider": "web",
+    "arguments": [
+      "http://www.philasun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=philasun.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Phillyburbs",
+    "provider": "web",
+    "arguments": [
+      "https://www.phillyburbs.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=phillyburbs.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Phillymag",
+    "provider": "web",
+    "arguments": [
+      "https://www.phillymag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=phillymag.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pittsburghmagazine",
+    "provider": "web",
+    "arguments": [
+      "http://pittsburghmagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pittsburghmagazine.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Politicspa",
+    "provider": "web",
+    "arguments": [
+      "http://www.politicspa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=politicspa.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Publicopiniononline",
+    "provider": "web",
+    "arguments": [
+      "http://publicopiniononline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=publicopiniononline.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Record Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.recordargusnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=recordargusnews.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundo62",
+    "provider": "web",
+    "arguments": [
+      "http://telemundo62.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundo62.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Gettysburg Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.gettysburgtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gettysburgtimes.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thecourierexpress",
+    "provider": "web",
+    "arguments": [
+      "http://thecourierexpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecourierexpress.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thedailyreview",
+    "provider": "web",
+    "arguments": [
+      "https://www.thedailyreview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedailyreview.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Theprogressnews",
+    "provider": "web",
+    "arguments": [
+      "http://theprogressnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theprogressnews.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wfmz",
+    "provider": "web",
+    "arguments": [
+      "https://www.wfmz.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wfmz.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WWCP",
+    "provider": "web",
+    "arguments": [
+      "https://www.fox8tv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fox8tv.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Huntingdondailynews",
+    "provider": "web",
+    "arguments": [
+      "http://huntingdondailynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=huntingdondailynews.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Latrobe Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.latrobebulletinnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=latrobebulletinnews.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Punxsutawneyspirit",
+    "provider": "web",
+    "arguments": [
+      "http://punxsutawneyspirit.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=punxsutawneyspirit.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tiogapublishing",
+    "provider": "web",
+    "arguments": [
+      "https://tiogapublishing.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tiogapublishing.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wkok",
+    "provider": "web",
+    "arguments": [
+      "http://wkok.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wkok.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Home News",
+    "provider": "web",
+    "arguments": [
+      "http://www.homenewspa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=homenewspa.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "BRC TV 13",
+    "provider": "web",
+    "arguments": [
+      "https://www.brctv13.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brctv13.com",
+    "year": "Pennsylvania",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -176,5 +176,258 @@
     "year": "Arkansas",
     "genre": "Harrison",
     "rating": "Daily"
+  },
+  {
+    "title": "5newsonline",
+    "provider": "web",
+    "arguments": [
+      "http://5newsonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=5newsonline.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thv11",
+    "provider": "web",
+    "arguments": [
+      "https://www.thv11.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thv11.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arkansas Times",
+    "provider": "web",
+    "arguments": [
+      "https://arktimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arktimes.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Leader",
+    "provider": "web",
+    "arguments": [
+      "https://www.stuttgartdailyleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stuttgartdailyleader.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Duluth News Tribune",
+    "provider": "web",
+    "arguments": [
+      "http://www.duluthnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=duluthnews.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mountain Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.flippinonline.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=flippinonline.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Magnoliareporter",
+    "provider": "web",
+    "arguments": [
+      "http://magnoliareporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=magnoliareporter.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "4029tv",
+    "provider": "web",
+    "arguments": [
+      "https://www.4029tv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=4029tv.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arkansas Catholic",
+    "provider": "web",
+    "arguments": [
+      "https://arkansas-catholic.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arkansas-catholic.org",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "https",
+    "provider": "web",
+    "arguments": [
+      "https://www.thegraphic.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thegraphic.org",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KARN",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsradio1029.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsradio1029.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Marshall Mountain Wave",
+    "provider": "web",
+    "arguments": [
+      "https://www.emountainwave.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=emountainwave.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North News",
+    "provider": "web",
+    "arguments": [
+      "https://mynorthnews.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mynorthnews.org",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Osceola Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.osceolatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=osceolatimes.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pocahontas Star Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.starheraldnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=starheraldnews.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Southwest Arkansas News",
+    "provider": "web",
+    "arguments": [
+      "http://www.swarkansasnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swarkansasnews.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thnews",
+    "provider": "web",
+    "arguments": [
+      "https://thnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thnews.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kasu",
+    "provider": "web",
+    "arguments": [
+      "http://kasu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kasu.org",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Arkansas Traveler",
+    "provider": "web",
+    "arguments": [
+      "https://www.uatrav.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=uatrav.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Malvern Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.malvern-online.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malvern-online.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Waldron News",
+    "provider": "web",
+    "arguments": [
+      "http://www.waldronnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waldronnews.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Littlerocksoiree",
+    "provider": "web",
+    "arguments": [
+      "https://littlerocksoiree.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=littlerocksoiree.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KAIT",
+    "provider": "web",
+    "arguments": [
+      "https://www.kait8.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kait8.com",
+    "year": "Arkansas",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

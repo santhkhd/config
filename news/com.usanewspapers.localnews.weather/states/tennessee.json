@@ -221,5 +221,379 @@
     "year": "Tennessee",
     "genre": "Memphis",
     "rating": "Mid-South Flagship Daily"
+  },
+  {
+    "title": "Chattanoogapulse",
+    "provider": "web",
+    "arguments": [
+      "http://chattanoogapulse.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chattanoogapulse.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Beacon",
+    "provider": "web",
+    "arguments": [
+      "http://www.utdailybeacon.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=utdailybeacon.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Localmemphis",
+    "provider": "web",
+    "arguments": [
+      "http://localmemphis.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=localmemphis.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Memphismagazine",
+    "provider": "web",
+    "arguments": [
+      "https://memphismagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=memphismagazine.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "newschannel5",
+    "provider": "web",
+    "arguments": [
+      "https://www.newschannel5.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newschannel5.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbir",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbir.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbir.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laprensalatina",
+    "provider": "web",
+    "arguments": [
+      "https://www.laprensalatina.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laprensalatina.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Memphis Flyer",
+    "provider": "web",
+    "arguments": [
+      "https://www.memphisflyer.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=memphisflyer.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knoxville Knox County Focus",
+    "provider": "web",
+    "arguments": [
+      "https://www.knoxfocus.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knoxfocus.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Advocateanddemocrat",
+    "provider": "web",
+    "arguments": [
+      "http://advocateanddemocrat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=advocateanddemocrat.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brownsville States Graphic",
+    "provider": "web",
+    "arguments": [
+      "http://www.statesgraphic.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=statesgraphic.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Claiborneprogress",
+    "provider": "web",
+    "arguments": [
+      "https://claiborneprogress.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=claiborneprogress.net",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clarksvilleonline",
+    "provider": "web",
+    "arguments": [
+      "https://www.clarksvilleonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clarksvilleonline.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crossville Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://crossville-chronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crossville-chronicle.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Post Athenian",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailypostathenian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailypostathenian.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "East Tennessee Catholic",
+    "provider": "web",
+    "arguments": [
+      "https://etcatholic.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=etcatholic.org",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Heraldchronicle",
+    "provider": "web",
+    "arguments": [
+      "http://heraldchronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldchronicle.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Knoxvilledailysun",
+    "provider": "web",
+    "arguments": [
+      "https://knoxvilledailysun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knoxvilledailysun.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Local8now",
+    "provider": "web",
+    "arguments": [
+      "http://local8now.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=local8now.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Metropulse",
+    "provider": "web",
+    "arguments": [
+      "http://www.metropulse.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=metropulse.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Millington Star",
+    "provider": "web",
+    "arguments": [
+      "https://millington-news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=millington-news.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rheaheraldnews",
+    "provider": "web",
+    "arguments": [
+      "http://rheaheraldnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rheaheraldnews.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tri Statedefender",
+    "provider": "web",
+    "arguments": [
+      "https://tri-statedefender.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tri-statedefender.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tullahomanews",
+    "provider": "web",
+    "arguments": [
+      "http://tullahomanews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tullahomanews.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wbbjtv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wbbjtv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wbbjtv.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wgnsradio",
+    "provider": "web",
+    "arguments": [
+      "http://wgnsradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wgnsradio.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WGOW",
+    "provider": "web",
+    "arguments": [
+      "https://www.wgowam.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wgowam.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "WJLE",
+    "provider": "web",
+    "arguments": [
+      "https://www.wjle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wjle.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wsmv",
+    "provider": "web",
+    "arguments": [
+      "https://www.wsmv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wsmv.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Williamsonherald",
+    "provider": "web",
+    "arguments": [
+      "http://williamsonherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=williamsonherald.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Leader - United States - Tennessee",
+    "provider": "web",
+    "arguments": [
+      "https://www.readtheleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=readtheleader.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Themountainpress",
+    "provider": "web",
+    "arguments": [
+      "http://themountainpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themountainpress.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Tnledger",
+    "provider": "web",
+    "arguments": [
+      "https://tnledger.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tnledger.com",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wknofm",
+    "provider": "web",
+    "arguments": [
+      "http://wknofm.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wknofm.org",
+    "year": "Tennessee",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

@@ -117,5 +117,115 @@
     "year": "North Dakota",
     "genre": "Valley City",
     "rating": "Daily"
+  },
+  {
+    "title": "McKenzie County Farmer",
+    "provider": "web",
+    "arguments": [
+      "https://www.watfordcitynd.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=watfordcitynd.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "kfgo",
+    "provider": "web",
+    "arguments": [
+      "http://www.kfgo.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfgo.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hillsboro Banner",
+    "provider": "web",
+    "arguments": [
+      "https://www.hillsborobanner.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hillsborobanner.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Agweek",
+    "provider": "web",
+    "arguments": [
+      "https://www.agweek.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=agweek.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "enderlin independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.enderlinindependent.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=enderlinindependent.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kfyrtv",
+    "provider": "web",
+    "arguments": [
+      "http://kfyrtv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kfyrtv.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KNOX",
+    "provider": "web",
+    "arguments": [
+      "http://www.knoxradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=knoxradio.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "KSJB",
+    "provider": "web",
+    "arguments": [
+      "https://www.ksjbam.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksjbam.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kvrr",
+    "provider": "web",
+    "arguments": [
+      "http://kvrr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvrr.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Valleynewslive",
+    "provider": "web",
+    "arguments": [
+      "https://www.valleynewslive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=valleynewslive.com",
+    "year": "North Dakota",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

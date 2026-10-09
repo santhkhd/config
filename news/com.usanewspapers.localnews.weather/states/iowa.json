@@ -181,5 +181,489 @@
     "year": "Iowa",
     "genre": "Burlington",
     "rating": "Oldest IA Daily"
+  },
+  {
+    "title": "Cresco Times Plain Dealer",
+    "provider": "web",
+    "arguments": [
+      "https://www.crescotimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crescotimes.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Iowa State Daily",
+    "provider": "web",
+    "arguments": [
+      "http://www.iowastatedaily.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iowastatedaily.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Press Banner",
+    "provider": "web",
+    "arguments": [
+      "http://www.goldenstatenewspapers.com/press_banner/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=goldenstatenewspapers.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "River Cities' Reader",
+    "provider": "web",
+    "arguments": [
+      "https://www.rcreader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rcreader.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Catholicmessenger",
+    "provider": "web",
+    "arguments": [
+      "https://catholicmessenger.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=catholicmessenger.net",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Businessrecord",
+    "provider": "web",
+    "arguments": [
+      "https://businessrecord.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessrecord.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bloomfield Democrat",
+    "provider": "web",
+    "arguments": [
+      "https://www.bdemo.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bdemo.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "CHARITON NEWSPAPERS",
+    "provider": "web",
+    "arguments": [
+      "https://www.charitonleader.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=charitonleader.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dyersville Commercial",
+    "provider": "web",
+    "arguments": [
+      "https://www.dyersvillecommercial.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dyersvillecommercial.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kxel",
+    "provider": "web",
+    "arguments": [
+      "https://kxel.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kxel.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Opinion Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.opinion-tribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=opinion-tribune.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Albia Newspapers",
+    "provider": "web",
+    "arguments": [
+      "https://www.albianews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=albianews.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kmaland",
+    "provider": "web",
+    "arguments": [
+      "http://kmaland.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kmaland.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kwwl",
+    "provider": "web",
+    "arguments": [
+      "http://kwwl.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kwwl.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bedford Times Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.bedfordtimes-press.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bedfordtimes-press.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Centinel of the Northwest Territory",
+    "provider": "web",
+    "arguments": [
+      "https://www.chillicothegazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chillicothegazette.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crestonnews",
+    "provider": "web",
+    "arguments": [
+      "http://crestonnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crestonnews.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Hamburg Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.hamburgreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hamburgreporter.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Iowa City Press-Citizen",
+    "provider": "web",
+    "arguments": [
+      "http://press-citizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=press-citizen.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Iowapublicradio",
+    "provider": "web",
+    "arguments": [
+      "http://iowapublicradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iowapublicradio.org",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kcci",
+    "provider": "web",
+    "arguments": [
+      "https://www.kcci.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kcci.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kcrg",
+    "provider": "web",
+    "arguments": [
+      "https://www.kcrg.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kcrg.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kiwaradio",
+    "provider": "web",
+    "arguments": [
+      "https://kiwaradio.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kiwaradio.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kjan",
+    "provider": "web",
+    "arguments": [
+      "http://kjan.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kjan.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ktiv",
+    "provider": "web",
+    "arguments": [
+      "http://ktiv.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ktiv.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Littlevillagemag",
+    "provider": "web",
+    "arguments": [
+      "https://littlevillagemag.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=littlevillagemag.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Manchester Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.manchesterpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manchesterpress.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mount Ayr Record News",
+    "provider": "web",
+    "arguments": [
+      "https://www.mtayrnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mtayrnews.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mount Vernon - Lisbon Sun - www.mtvernonlisbonsun.com",
+    "provider": "web",
+    "arguments": [
+      "http://www.mvlsun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mvlsun.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Archives - Lyon County Reporter",
+    "provider": "web",
+    "arguments": [
+      "https://www.lyoncountyreporter.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lyoncountyreporter.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nwestiowa",
+    "provider": "web",
+    "arguments": [
+      "http://nwestiowa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nwestiowa.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "osceolaiowa.com",
+    "provider": "web",
+    "arguments": [
+      "https://www.osceolaiowa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=osceolaiowa.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Oskaloosa",
+    "provider": "web",
+    "arguments": [
+      "http://oskaloosa.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oskaloosa.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Solon Economist",
+    "provider": "web",
+    "arguments": [
+      "http://www.soloneconomist.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=soloneconomist.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "SW Iowa News Source",
+    "provider": "web",
+    "arguments": [
+      "https://www.swiowanewssource.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swiowanewssource.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telegraphherald",
+    "provider": "web",
+    "arguments": [
+      "http://telegraphherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telegraphherald.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The State News",
+    "provider": "web",
+    "arguments": [
+      "http://www.statenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=statenews.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Times-Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.timescitizen.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timescitizen.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Carroll Daily Times Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.carrollspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carrollspaper.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Dmcityview",
+    "provider": "web",
+    "arguments": [
+      "https://www.dmcityview.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dmcityview.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Waukon Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.waukonstandard.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=waukonstandard.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westbranchtimes",
+    "provider": "web",
+    "arguments": [
+      "https://westbranchtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westbranchtimes.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Maquoketa Sentinel Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.maqnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maqnews.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Radioiowa",
+    "provider": "web",
+    "arguments": [
+      "https://www.radioiowa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=radioiowa.com",
+    "year": "Iowa",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

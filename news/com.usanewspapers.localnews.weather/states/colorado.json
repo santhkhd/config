@@ -250,5 +250,588 @@
     "year": "Colorado",
     "genre": "Telluride",
     "rating": "Weekly"
+  },
+  {
+    "title": "9news",
+    "provider": "web",
+    "arguments": [
+      "https://www.9news.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=9news.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "North Forty News",
+    "provider": "web",
+    "arguments": [
+      "http://www.northfortynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northfortynews.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rocky Mountain Collegian",
+    "provider": "web",
+    "arguments": [
+      "http://www.collegian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=collegian.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Collegian",
+    "provider": "web",
+    "arguments": [
+      "https://www.hbucollegian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hbucollegian.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Westword",
+    "provider": "web",
+    "arguments": [
+      "http://westword.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westword.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yellowscene",
+    "provider": "web",
+    "arguments": [
+      "https://yellowscene.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yellowscene.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Cherry Creek News",
+    "provider": "web",
+    "arguments": [
+      "https://thecherrycreeknews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecherrycreeknews.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kansas State Collegian",
+    "provider": "web",
+    "arguments": [
+      "http://www.kstatecollegian.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kstatecollegian.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Koaa",
+    "provider": "web",
+    "arguments": [
+      "https://www.koaa.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=koaa.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Thebusinesstimes",
+    "provider": "web",
+    "arguments": [
+      "https://thebusinesstimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebusinesstimes.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Clarion",
+    "provider": "web",
+    "arguments": [
+      "https://duclarion.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=duclarion.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Crested Butte News",
+    "provider": "web",
+    "arguments": [
+      "https://crestedbuttenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=crestedbuttenews.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Denvercatholic",
+    "provider": "web",
+    "arguments": [
+      "http://denvercatholic.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=denvercatholic.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "La Voz",
+    "provider": "web",
+    "arguments": [
+      "http://www.lavozcolorado.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lavozcolorado.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ouray County Plaindealer",
+    "provider": "web",
+    "arguments": [
+      "https://www.ouraynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ouraynews.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "University of Tulsa Collegian",
+    "provider": "web",
+    "arguments": [
+      "https://tucollegian.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tucollegian.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Willamette Collegian",
+    "provider": "web",
+    "arguments": [
+      "https://www.willamettecollegian.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=willamettecollegian.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Haxtun Fleming Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.hfherald.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hfherald.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kvor",
+    "provider": "web",
+    "arguments": [
+      "https://www.kvor.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvor.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Brighton Standard Blade",
+    "provider": "web",
+    "arguments": [
+      "https://www.thebrightonblade.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thebrightonblade.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Chaffee County Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.chaffeecountytimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chaffeecountytimes.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Estes Park News",
+    "provider": "web",
+    "arguments": [
+      "https://www.estesparknews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=estesparknews.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Left Hand Valley Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.lhvc.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lhvc.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Themountainmail",
+    "provider": "web",
+    "arguments": [
+      "http://themountainmail.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themountainmail.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "303magazine",
+    "provider": "web",
+    "arguments": [
+      "https://303magazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=303magazine.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Arvadapress",
+    "provider": "web",
+    "arguments": [
+      "http://arvadapress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=arvadapress.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Berthoud Weekly Surveyor",
+    "provider": "web",
+    "arguments": [
+      "http://www.berthoudsurveyor.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=berthoudsurveyor.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bizwest",
+    "provider": "web",
+    "arguments": [
+      "https://bizwest.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bizwest.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Broomfield Enterprise",
+    "provider": "web",
+    "arguments": [
+      "http://broomfieldenterprise.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=broomfieldenterprise.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Canyon Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.canyoncourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=canyoncourier.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Castle Rock News Press",
+    "provider": "web",
+    "arguments": [
+      "http://castlerocknewspress.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=castlerocknewspress.net",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Colorado Hometown Weekly",
+    "provider": "web",
+    "arguments": [
+      "https://www.coloradohometownweekly.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coloradohometownweekly.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Delta County Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.deltacountyindependent.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deltacountyindependent.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Estes Park Trail-Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.eptrail.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eptrail.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Fort Lupton Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.ftluptonpress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ftluptonpress.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Julesburg Advocate",
+    "provider": "web",
+    "arguments": [
+      "https://www.julesburgadvocate.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=julesburgadvocate.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kgnu",
+    "provider": "web",
+    "arguments": [
+      "https://kgnu.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kgnu.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kjct8",
+    "provider": "web",
+    "arguments": [
+      "http://kjct8.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kjct8.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kktv",
+    "provider": "web",
+    "arguments": [
+      "https://www.kktv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kktv.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Laprensadecolorado",
+    "provider": "web",
+    "arguments": [
+      "https://laprensadecolorado.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=laprensadecolorado.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Littletonindependent",
+    "provider": "web",
+    "arguments": [
+      "http://littletonindependent.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=littletonindependent.net",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northdenvernews",
+    "provider": "web",
+    "arguments": [
+      "https://northdenvernews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northdenvernews.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Pagosadailypost",
+    "provider": "web",
+    "arguments": [
+      "https://pagosadailypost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pagosadailypost.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Signature - United States",
+    "provider": "web",
+    "arguments": [
+      "https://signaturenewspaper.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=signaturenewspaper.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Soprissun",
+    "provider": "web",
+    "arguments": [
+      "https://soprissun.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=soprissun.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telemundodenver",
+    "provider": "web",
+    "arguments": [
+      "http://telemundodenver.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telemundodenver.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kunc",
+    "provider": "web",
+    "arguments": [
+      "http://kunc.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kunc.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kvnf",
+    "provider": "web",
+    "arguments": [
+      "http://kvnf.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kvnf.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Aspenpublicradio",
+    "provider": "web",
+    "arguments": [
+      "http://aspenpublicradio.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aspenpublicradio.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Kdnk",
+    "provider": "web",
+    "arguments": [
+      "http://kdnk.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kdnk.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Ksut",
+    "provider": "web",
+    "arguments": [
+      "http://ksut.org/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ksut.org",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Northdenvertribune",
+    "provider": "web",
+    "arguments": [
+      "https://northdenvertribune.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northdenvertribune.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Milehighsports",
+    "provider": "web",
+    "arguments": [
+      "https://milehighsports.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=milehighsports.com",
+    "year": "Colorado",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]

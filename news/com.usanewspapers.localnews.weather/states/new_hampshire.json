@@ -137,5 +137,93 @@
     "year": "New Hampshire",
     "genre": "Keene",
     "rating": "Monadnock Region Daily"
+  },
+  {
+    "title": "Londonderry Times",
+    "provider": "web",
+    "arguments": [
+      "https://londonderrytimes.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=londonderrytimes.net",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Dartmouth",
+    "provider": "web",
+    "arguments": [
+      "http://thedartmouth.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thedartmouth.com",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Derry News",
+    "provider": "web",
+    "arguments": [
+      "https://www.derrynews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=derrynews.com",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nhpr",
+    "provider": "web",
+    "arguments": [
+      "https://www.nhpr.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nhpr.org",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nhbr",
+    "provider": "web",
+    "arguments": [
+      "http://nhbr.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nhbr.com",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nhgazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.nhgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nhgazette.com",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Nhmagazine",
+    "provider": "web",
+    "arguments": [
+      "http://nhmagazine.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nhmagazine.com",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wmur",
+    "provider": "web",
+    "arguments": [
+      "http://wmur.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wmur.com",
+    "year": "New Hampshire",
+    "genre": "News",
+    "rating": "Daily"
   }
 ]
