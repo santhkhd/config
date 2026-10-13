@@ -1,145 +1,162 @@
 [
   {
-    "title": "Bristol Post / Live",
-    "provider": "web",
-    "arguments": [
-      "https://www.bristolpost.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristolpost.co.uk",
-    "year": "South West",
-    "genre": "Flagship Bristol Daily",
-    "rating": "Daily"
+    "title": "Pensioner arrested on suspicion of woman's murder near Bristol",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUzZrNlVJdGVaZzcyUWJsRkZ4d3hlaEUtbzFxcXRCT0ZzT2MxOVdicTUtT2ZPTS1xRktMcURQbDVTZnNHUWRUU1IxMzhrYlVvdFRKcXVEc0FqcHBlYWc?oc=5",
+    "description": "Pensioner arrested on suspicion of woman's murder near Bristol&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 19:26:21 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Western Daily Press",
-    "provider": "web",
-    "arguments": [
-      "https://www.westerndailypress.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristolpost.co.uk",
-    "year": "South West",
-    "genre": "West Country Regional",
-    "rating": "Daily"
+    "title": "TEAM NEWS | Saracens Men vs Bristol Bears (PREM R3)",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYazZpOFVJdUstVzdlZDRRNnY1ZW1OUlhWN2FSRHV6TlRZMURqVU5lNV9fem5GVmtKdm9yUW1acXU2SEhDSXo1TDN1cXlYWWJsVTFzMnAwb2R4endtc0tkUmotNmNQbXhVbW1KRjlMRXdmdw?oc=5",
+    "description": "TEAM NEWS | Saracens Men vs Bristol Bears (PREM R3)&nbsp;&nbsp;Saracens",
+    "pubDate": "Fri, 09 Oct 2026 11:00:00 GMT",
+    "sourceName": "Saracens",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Bath Chronicle / Live",
-    "provider": "web",
-    "arguments": [
-      "https://www.somersetlive.co.uk/all-about/bath"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=somersetlive.co.uk",
-    "year": "South West",
-    "genre": "City of Bath & Somerset",
-    "rating": "Weekly"
+    "title": "October: 150 University of Bristol | News and features",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BR0RuVjliUldhYTFzV0h3SVY1SDBRcnBzYXZLQUhUNzM3eXVyUWtsN3oydlZpTkFuZ0dEcHh4YjVKc2g1QlFhMXdfSWNOMlVHR0hqUGVUelU3UFBoQmsyaFhNWlh4cFhlSFlxVXdtaXd4cjMtbHFUTXNhLURxZE0?oc=5",
+    "description": "October: 150 University of Bristol | News and features&nbsp;&nbsp;University of Bristol",
+    "pubDate": "Sat, 10 Oct 2026 11:31:23 GMT",
+    "sourceName": "University of Bristol",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Gloucestershire Live / The Citizen",
-    "provider": "web",
-    "arguments": [
-      "https://www.gloucestershirelive.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=gloucestershirelive.co.uk",
-    "year": "South West",
-    "genre": "Gloucester & Cheltenham",
-    "rating": "Daily"
+    "title": "Bristol Bears announce official partnership with EcoAir",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjJWXzh5bEQ4WDhHUUdCOU8yTV9tZmVZVXNsSVpVbTR5bjJmQl91Z3poRF9MaDYyUGNOU25MVGllbjRHZVZSeFhIVk1iTjhFc1JUZ3dETW1VNF9zbi1KREV1cnF0czRwbHZJRnVuLXRGVGRaWHlRM01PRl9JWFN4NkcwcTlEbi1FMHdkMHlsOW9iODYxeVE1c3lYdw?oc=5",
+    "description": "Bristol Bears announce official partnership with EcoAir&nbsp;&nbsp;Bristol Bears Rugby",
+    "pubDate": "Tue, 13 Oct 2026 10:54:34 GMT",
+    "sourceName": "Bristol Bears Rugby",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Bristol Post",
-    "provider": "web",
-    "arguments": [
-      "http://www.bristolpost.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristolpost.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "Match Report: Bristol City U21 3 Exeter City U21 5",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxaWo2Z1RrVU5fNkFvSmxxUU1UcHJNNnRJRFdHbXpqNkhkaHdRU1BxNVVzOC1fWDNaTzBZTjY5b3pjNnktZGtDOFh2NXJCd056V2Q4?oc=5",
+    "description": "Match Report: Bristol City U21 3 Exeter City U21 5&nbsp;&nbsp;Exeter City Football Club",
+    "pubDate": "Mon, 12 Oct 2026 19:16:48 GMT",
+    "sourceName": "Exeter City Football Club",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Swindon Advertiser",
-    "provider": "web",
-    "arguments": [
-      "http://www.swindonadvertiser.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=swindonadvertiser.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "Student lay in wait for housemate before stabbing him 30 times, Bristol court hears",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXzl2WkVROV9McmZ4VGFEVVFibE5aV0F3ckFnSzNvMEFiTnh3eE91TU4zaUNoaTROdTQwcGdrLS15YzBXN1RuYlV4ZVVqWVpBcjNfd3JKU0VycXBseEtxZGxFcVR5YzYwMDRpT1VEandtdEFDeTBJX21KZDBHdjA1cVo5UVlsZXd0RzJYcG1mMmxXUEQzNnpTZklfeUw2ZFV5bkRlbEpwTzg3QXRHM2JSbkhRYUZaanBZZXYzalJOREJ3RjZaNnMwTUJB?oc=5",
+    "description": "Student lay in wait for housemate before stabbing him 30 times, Bristol court hears&nbsp;&nbsp;The Guardian",
+    "pubDate": "Mon, 12 Oct 2026 20:11:00 GMT",
+    "sourceName": "The Guardian",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Wiltshire Star",
-    "provider": "web",
-    "arguments": [
-      "http://www.thisiswiltshire.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thisiswiltshire.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "Charlton Athletic 1–1 Bristol City | Championship highlights",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOURzaHRxMUJfNDBSVXBqb3JqNjByOGFOS25JZUd2VF9JV1VZbVQwalNvazh2SUFpbHREMUdqMHVpNDVySHVDcjlucDg1QkF0VkRiUkhfU2czMjdEVXF1VkRTdFJvMGIzRXp3LVVKeUo0dDFzUlFORHBpekRTTDZfcm1felB4MXdMNDREbWs5SlpmVWpzd2w4ajFTMjB4Y1diSUw1SmFOUGR1ak1W?oc=5",
+    "description": "Charlton Athletic 1–1 Bristol City | Championship highlights&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 13:33:51 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Somerset County Gazette",
-    "provider": "web",
-    "arguments": [
-      "http://www.somersetcountygazette.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=somersetcountygazette.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "England Under-21s double-header at Ashton Gate",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3pkdXp0elR1NFFvMnhvUTRwdmlxd25BOFRRMmhzR0tJRTFyT0s4M3BaM2paeHlraG0yQ1lRU3Q1RDRSZ20yY0hSaTQtWXVWN21wcnFjdlNUMF9ickREQ2xzVDBGN0JEVXAyVVozWlM1OXhiZXVhNXo2TXB2WnA4aQ?oc=5",
+    "description": "England Under-21s double-header at Ashton Gate&nbsp;&nbsp;Bristol City FC",
+    "pubDate": "Mon, 12 Oct 2026 13:03:58 GMT",
+    "sourceName": "Bristol City FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Weston Mercury",
-    "provider": "web",
-    "arguments": [
-      "http://www.thewestonmercury.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewestonmercury.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "Police given temporary dispersal powers ahead of protests",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0welZLakJYLVRYMC1XQmZsbUpVZzBPejMxd2dXVHFvcWZwQVAzaURQQ2JXaXRORFpSQ25SQWV1cVluMkM2YTNwbkdXazNaNFRfbWlCX0ZtdUFwVkgxMVE?oc=5",
+    "description": "Police given temporary dispersal powers ahead of protests&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 09:18:14 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Wiltshire Times",
-    "provider": "web",
-    "arguments": [
-      "http://www.wiltshiretimes.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiltshiretimes.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "Highlights: Saracens 30-7 Bristol Bears",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGx6S0wwaU5Vc2dkQkpNcFJ6M1BSOU9TdTlqN2xxREdmQ2ZHOUg4Mlh6bnhwRFE1UURTWnBIeDcxWkdiTlpaaUVLb3lPWm1lUXUzcFFhb1hKNTlhcXlJTkxvTDREMWNzNzZ6UW5YcEczZnZ5MGluUXhrOFBfLXozN2VDMnRBQzFYQUlIOC00QWFuS1IweEE?oc=5",
+    "description": "Highlights: Saracens 30-7 Bristol Bears&nbsp;&nbsp;Bristol Bears Rugby",
+    "pubDate": "Sun, 11 Oct 2026 09:57:09 GMT",
+    "sourceName": "Bristol Bears Rugby",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Gloucestershire Gazette",
-    "provider": "web",
-    "arguments": [
-      "http://www.gazetteseries.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=gazetteseries.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "Man charged with murder after woman, 71, found dead in Bradley Stoke",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVKNUJLTUpKbjhBWm5GQkY4S3JnZnJkWmtnclgzMmVQVDljUHVxN1FOdDE3aFB3V1RVMDVnUFJTQnB4aExUWjlqRjBVSThGQjU1enJsSW0yNDdOeS0yQkFfVEVnbVp0d1VzZHdYa0JzQ0hhT29VOVdWbThKZlhBVEJtVW5MbVpXbEZnbEVsM1k?oc=5",
+    "description": "Man charged with murder after woman, 71, found dead in Bradley Stoke&nbsp;&nbsp;Bristol Live",
+    "pubDate": "Sun, 11 Oct 2026 12:32:00 GMT",
+    "sourceName": "Bristol Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Stroud News and Journal",
-    "provider": "web",
-    "arguments": [
-      "http://www.stroudnewsandjournal.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=stroudnewsandjournal.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "October: New £9.8 million robotics hub to benefit South West businesses | News and features",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHhHLVFEdTVLOWNMOENDTTd5UTJLWWcwZ0lBUjhTdkx4ajA5RWF3cVZRVjZrWlpScXFkRnRtUUU0Q0JqdmFRTlVDYW1jYWJkQUxiZzNxOG5hTlotVThkNW41ZXA1NFl6MlRvVi13anlGWjBRcnlWTDZvUGloTEJkU0JCMXpRT093aWsydllYbGVPQmhCdUg5aVBIRjR4Smh1N3pOaXYwMjU4SkxlSGc?oc=5",
+    "description": "October: New £9.8 million robotics hub to benefit South West businesses | News and features&nbsp;&nbsp;University of Bristol",
+    "pubDate": "Fri, 09 Oct 2026 13:30:01 GMT",
+    "sourceName": "University of Bristol",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "North Somerset Times",
-    "provider": "web",
-    "arguments": [
-      "http://www.northsomersettimes.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=northsomersettimes.co.uk",
-    "year": "Bristol",
-    "genre": "Bristol & South West Daily",
-    "rating": "4.8"
+    "title": "Bristol man charged with murder after woman dies in Bradley Stoke",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vTnJJajVrU1VKZXV0REdHdmxGY2xKLXA5N2lDanlycmhRVmwya2ZycUdISFhTU0tVSzFJMW5lZUFLT1hYOXRWamRYOFdQWWZiX2hWc2gyNVh3aFV5SlE?oc=5",
+    "description": "Bristol man charged with murder after woman dies in Bradley Stoke&nbsp;&nbsp;BBC",
+    "pubDate": "Sun, 11 Oct 2026 10:10:40 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Row over stolen e-bike culminated in Speedwell shooting, court hears",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXdCemM4SENGVUVfUkVxU2RfQXNYVVpKV21JbW9Ka2xGYW5jZnNzdDBmZUJaTl9na3l6Z0RKd3V5R2h3NlM2b3M3eFgyU3BrUzVjc21QWXRteU9tazJEMHdPZGQxd05DZU94RHN1VGtsSmdsUFUwa3RhLUw3LWZQb0RxZGctUQ?oc=5",
+    "description": "Row over stolen e-bike culminated in Speedwell shooting, court hears&nbsp;&nbsp;Bristol Live",
+    "pubDate": "Mon, 12 Oct 2026 15:40:00 GMT",
+    "sourceName": "Bristol Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Man dies and Bristol roads closed after Southmead crash",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JZHNVQVFSMllmQTFWNE04a05iSzZVcEhUM3FrQnFWbkRYcnRKcDIzQU1PdEU2UjdiM2VpWWM4b041WXEtWjRTYkJtcVZFNDBHYXJOU2w4c01OQmdLemc?oc=5",
+    "description": "Man dies and Bristol roads closed after Southmead crash&nbsp;&nbsp;BBC",
+    "pubDate": "Tue, 13 Oct 2026 14:57:45 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "UWE student 'lay in wait before stabbing housemate 30 times'",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42aVBhYTR0TDBscXh1dkVFcE9aY0ExekxCaUtpQ1hQX0JpeDBDd0U0Y1JrSWhZb0pCXzFYMHQ5b2R5dHp2bmZLUjViYUE3a3RHUE9oMWNOUmlWR3dSVkE?oc=5",
+    "description": "UWE student 'lay in wait before stabbing housemate 30 times'&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 14:30:39 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Student stabbed housemate 30 times, murder jury told",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVjdYYjlZem9tY1laNEFLZThRRmkxSE5SSUtYUFR3ZzNkVGR0V2xpXzdHVktBeGF5VGZBMnlQTXNsM0NJeFkwRExpLVpvMUpmbDk3V1BpUDN2YmZpbWQ2Mm1iX2l6M2tna1V5TzhrLUNRUDBtRHAxRjd0TlBwVFNXQjBjR0pwOWdPVmVXQWtTLVdYRUh0NGc?oc=5",
+    "description": "Student stabbed housemate 30 times, murder jury told&nbsp;&nbsp;Bristol Live",
+    "pubDate": "Mon, 12 Oct 2026 13:38:00 GMT",
+    "sourceName": "Bristol Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Bristol City v Blackburn Rovers: Championship stats & head-to-head",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vQlNpUkwxZWpKSUlJc0lrREdYQ25rRVUzQ3ZhWTJKcXhMV2hVLTB2RVFLcEgxazNEc3ZDclEtMlRNSFNONi1GZ1FoMU1ZVEhDSndQYmJpMkJ2M1pHUklUc1JrbG00UQ?oc=5",
+    "description": "Bristol City v Blackburn Rovers: Championship stats & head-to-head&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 01:22:00 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Bradley Stoke murder accused Gerald Bishop appears in court",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6NEdpYVU4MnZyYU84YzNtbnFGamhBWkFzN29POHU5YnJ1TmRTR25rNjIwdU1BMDRfeGdsVVdqMEFpOUpSZkVVUUE4SEc3OG0xc2dseGtTa3BaTzRvTmc?oc=5",
+    "description": "Bradley Stoke murder accused Gerald Bishop appears in court&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 11:34:26 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "The Prem: Saracens 30-7 Bristol: Noah Calouri scores on Saracens return",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SeFZvUkpNU2dqZzJJcFdrbnJGRWI3cTFvUTcxa1FCc1dtbjVoYWVpNk40cjlxOThWY2laZVV4cVh4dWpBZUJNYzZDYVJBVU4wbU96NXlob2tORXcxLXFHNUdrNEx5cWVZX1ZqZA?oc=5",
+    "description": "The Prem: Saracens 30-7 Bristol: Noah Calouri scores on Saracens return&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 18:27:36 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

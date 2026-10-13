@@ -1,90 +1,162 @@
 [
   {
-    "title": "Western Mail / WalesOnline",
-    "provider": "web",
-    "arguments": [
-      "https://www.walesonline.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=walesonline.co.uk",
-    "year": "Wales",
-    "genre": "National Newspaper of Wales",
-    "rating": "Daily"
+    "title": "Cardiff University 'banter' account criticised for sexual assault posts",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Eb21GTkRlUnk1NmY3SVBJbGpvY0ZBTWlmZ1NwczBNSWFuajZyVFNfYVNIZXRkY2NNOU82ZGQ4ek04T2d0ekhFRFVKOGRMek00ZE1YR19TaW1NTjZTeVE?oc=5",
+    "description": "Cardiff University 'banter' account criticised for sexual assault posts&nbsp;&nbsp;BBC",
+    "pubDate": "Thu, 08 Oct 2026 21:02:47 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "South Wales Echo",
-    "provider": "web",
-    "arguments": [
-      "https://www.walesonline.co.uk/all-about/south-wales-echo"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=walesonline.co.uk",
-    "year": "Wales",
-    "genre": "Cardiff City & Vale Daily",
-    "rating": "Daily"
+    "title": "Team News | Cardiff City vs. Watford",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wOHlwcDk5Q29GNFVYQzhXTTdEWEQ1UWFEdW0zT1huOS1qSF9YbmVLLTlIRWhQSnlMTXRyUk5jcjhjRWt4R2M5SDI0MWt3UFpJVjlfMDgwUTVVNEdDZTMxQXJ5S3gxaU1jWDdaMmdFMWtoQTJjaVg0dzh2dFg?oc=5",
+    "description": "Team News | Cardiff City vs. Watford&nbsp;&nbsp;Cardiff City",
+    "pubDate": "Tue, 13 Oct 2026 17:32:49 GMT",
+    "sourceName": "Cardiff City",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Penarth Times",
-    "provider": "web",
-    "arguments": [
-      "https://www.penarthtimes.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=penarthtimes.co.uk",
-    "year": "Wales",
-    "genre": "Penarth & Cardiff Bay",
-    "rating": "Weekly"
+    "title": "Cardiff change seven for Leinster showdown",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmZ2LVp0ekl5bnFDbXVZQVZ3Q1pmY3dzZWNkZ3VRaFZnYzR0WVJadnpOQlJQLS1waFVUMTZzVlpBYURiSnVZbUVpQU5qTmltSXh6UjRmUFNkckNzTXZUYlY0R0d3TTlYX3VmY3JQM0laTm5lakg2ZHFCMzEzOVliSWZxQ1E5Zw?oc=5",
+    "description": "Cardiff change seven for Leinster showdown&nbsp;&nbsp;Cardiff Rugby",
+    "pubDate": "Thu, 08 Oct 2026 12:58:00 GMT",
+    "sourceName": "Cardiff Rugby",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Barry & District News",
-    "provider": "web",
-    "arguments": [
-      "https://www.barryanddistrictnews.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=barryanddistrictnews.co.uk",
-    "year": "Wales",
-    "genre": "Vale of Glamorgan",
-    "rating": "Weekly"
+    "title": "Blackburn Rovers 2–1 Cardiff City | Championship highlights",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVERKZXI1UElURlM0cHZuMDVHZVMwMDN6cDg1Y3ItUW5rSmFUSzh5YzgydE9YVGttaGZNVGs5M2IxcVZ4Y2djYTNxbkhoaVVJbUNMQ2NUWlNMZUFKNjZpWHJ1bXBhWjFGNnc4djExLWg4MzFodU9TdmFQcER1ZDM2VFZ4WW1zRGljSmJjRTlDblFuNmxOYXhHeTNPbHZsdHR1WXFmUUM1Z2wzekU?oc=5",
+    "description": "Blackburn Rovers 2–1 Cardiff City | Championship highlights&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 16:16:45 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "South Wales Argus",
-    "provider": "web",
-    "arguments": [
-      "https://www.southwalesargus.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=southwalesargus.co.uk",
-    "year": "Cardiff",
-    "genre": "Cardiff Local",
-    "rating": "4.8"
+    "title": "Leinster 29-5 Cardiff: Irish province win on URC return to Laya Arena",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16RWlsX1A2Vl8tTEFjbEpBNWlDSWhicFd4a0xqMm5kaHp2YUt1TnFMWkF3VFR5UTNEeUlLb3lyeFBJU19qWEFDbDI4X0hBNGg3dVFDT1BxUExGZWEtMEN4ZnJkb0R0MlRpQTNwNQ?oc=5",
+    "description": "Leinster 29-5 Cardiff: Irish province win on URC return to Laya Arena&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 20:33:01 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Western Telegraph",
-    "provider": "web",
-    "arguments": [
-      "http://www.westerntelegraph.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=westerntelegraph.co.uk",
-    "year": "Cardiff",
-    "genre": "Cardiff Local",
-    "rating": "4.8"
+    "title": "Tomos Williams’s ‘Cwmwl Tystion III/Empathy’ in Cardiff",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXdXQlRvSWo2dmxrVGU0ZThoNVpGUEdrZklyTE1Td0lQZk1mSXRFeE0xcFJFTEJYMWRCSU9jYW9QOVlCZHVsRUUwcXRxQm9uS2tSZ2lxNUVmckdKNjVQTkY0MHlmRlNEYUpSM0hzQ3V1WFcyWU1Ec3dYT3JuVGxkdGV3?oc=5",
+    "description": "Tomos Williams’s ‘Cwmwl Tystion III/Empathy’ in Cardiff&nbsp;&nbsp;UK Jazz News",
+    "pubDate": "Mon, 12 Oct 2026 12:58:29 GMT",
+    "sourceName": "UK Jazz News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "North Wales Chronicle",
-    "provider": "web",
-    "arguments": [
-      "http://www.northwaleschronicle.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwaleschronicle.co.uk",
-    "year": "Cardiff",
-    "genre": "Cardiff Local",
-    "rating": "4.8"
+    "title": "Krystian Bielik: Cardiff defender makes death threat claim following fan clash",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Q2M3dVJHeDlNTnk1M2QwWnlLc29lX1J6ZGdkaFZObFk1YS1GUVNQLVJldmNvZmVqWE5wWWJRdFBWb0tUaHhQOWFRUy1vdmtwdWZYOVJRSGNyQjUzajdCYzRXX2poSnN4V1VN?oc=5",
+    "description": "Krystian Bielik: Cardiff defender makes death threat claim following fan clash&nbsp;&nbsp;BBC",
+    "pubDate": "Tue, 13 Oct 2026 15:57:13 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "North Wales Pioneer",
-    "provider": "web",
-    "arguments": [
-      "http://www.northwalespioneer.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwalespioneer.co.uk",
-    "year": "Cardiff",
-    "genre": "Cardiff Local",
-    "rating": "4.8"
+    "title": "Team News | Blackburn Rovers vs. Cardiff City",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDF5U2ZBdlVlemFEbDFyOEFveGZJMTZPSHJxMkRkLXNHRDc3ZlpDWFhiTlhHb284bmRkdGlWZDExWjhFRFhfYXRMR2ZhWG9sMjNVUmZ0TV9uN3BEekZzZm9ZQ3FYVU1mbFlKcWJRNlZoWFo0QVNjajdQMElvY1I2VVpiQzdsemhz?oc=5",
+    "description": "Team News | Blackburn Rovers vs. Cardiff City&nbsp;&nbsp;Cardiff City",
+    "pubDate": "Sat, 10 Oct 2026 06:03:11 GMT",
+    "sourceName": "Cardiff City",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Leinster 29",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VWEYxOHNNR1BRRWNpdF9DWVJLU0ZaUy1oellYNC1NVDhZYmJYcWtuNWNJYzZ1TjYycXkxSE5abmtBb0t4RjU3RmxxVnRtWkR0b01ETlQtalJkaW1nZ0ZKZ2g0d1RyeHZjRGpiVXUwQkl6dw?oc=5",
+    "description": "Leinster 29&nbsp;&nbsp;Cardiff Rugby",
+    "pubDate": "Sat, 10 Oct 2026 20:46:35 GMT",
+    "sourceName": "Cardiff Rugby",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "'Worst' bedbug infestation pest controller has ever seen",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vdklJelBMMTZzaUJ2a1hBNXEwNzVZTzVEdjZpOXVmeExFRmhLbl9oME11TUpVQlZwN3FtX1FCLTczWV9xLWJtNjZxTTFBTzIxcGxPYVNSNVMzd0k?oc=5",
+    "description": "'Worst' bedbug infestation pest controller has ever seen&nbsp;&nbsp;BBC",
+    "pubDate": "Thu, 08 Oct 2026 14:04:38 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Van Zyl: Cardiff must learn from Leinster defeat",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUhncWxneDlSYkd6ZUVjZ3pHMnJBd2FpNDl0Wm5MRUZmbkZPLWRlTzRpSU9UV2VBUFY4elZwZ3Z0bWRRUEhVcmV0MEVMTS1ldnBONmtaS2lrZThFRDRXRml1NHJydTQ3RG0ta1ptQ2V2THZYNVczdkZuYkNQX25TXy1GMXAyUzNrLVJHaw?oc=5",
+    "description": "Van Zyl: Cardiff must learn from Leinster defeat&nbsp;&nbsp;Cardiff Rugby",
+    "pubDate": "Sat, 10 Oct 2026 21:11:38 GMT",
+    "sourceName": "Cardiff Rugby",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "'You're made to feel like a criminal' - cancer survivor screamed at for stoma at airport",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FS2d6VWFjbU9XbGUzNWJYV254eWhfQlBkS0dmdFVTX0NYdldNNk0yZVpraERYUEo3LWF2V3lLM1o5MFNuc0NVbXJHRkZYOFZHTkdFTC1VUy1OVHJwZ3c?oc=5",
+    "description": "'You're made to feel like a criminal' - cancer survivor screamed at for stoma at airport&nbsp;&nbsp;BBC",
+    "pubDate": "Wed, 07 Oct 2026 21:01:34 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Belcher eager to take the learnings from Leinster loss",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdktabGRVS0Q5c2pqTVBLdzZLMXVfTU9vN25sdWVIT0p0dFhWaHBMXzZJd0xCTzRNclZWbnRSaDlMb3NiMEQ4MUVfVy14aTNjZUR2WjZWYWdUOFpqZVpmdDdHMTJKQ21FWHRVY3REWkNjbEdyUGw3UFQwcGs4NGJmVThSMFBPYldVY29PRXF1T3Zfb3J4NFE?oc=5",
+    "description": "Belcher eager to take the learnings from Leinster loss&nbsp;&nbsp;Cardiff Rugby",
+    "pubDate": "Sun, 11 Oct 2026 11:14:34 GMT",
+    "sourceName": "Cardiff Rugby",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Cardiff City v Watford: Championship stats & head-to-head",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ubi0xTVVOa1dURENmVXh6TFBvdk9mdnJrcXZCRVNNTUh5UTZhVkJTRFhUNTdjMklSSjFiUzZ1bmF6ZWFZVG9HUWM0b0EwY0dvUkZnM1BGWk8xSUdjNy02anYyRkQ4UQ?oc=5",
+    "description": "Cardiff City v Watford: Championship stats & head-to-head&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 01:22:00 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "McNally: Leinster challenge a chance for Cardiff to test progress",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGxRTTNGekh6NUNFS1ZVNUl2SDgtbV9ib0JzdG15ZXZ2akhVVkVUaDJNS3BZWGhFdjJVS3EybHA4cThwMWMyOTRzbi1xZE9yanV6N1pYYmd4R1QtUXdQa1VCcm9FWVZ5TlVWSGxud3MyZ1M4NWgyT1ZMTWptVDQtdk1FcmdkS3V0UktQVGZhb1VZbjJlM0EySDdQSGNRTHF3X2ExVHU4cmZOOWM?oc=5",
+    "description": "McNally: Leinster challenge a chance for Cardiff to test progress&nbsp;&nbsp;Cardiff Rugby",
+    "pubDate": "Thu, 08 Oct 2026 15:00:03 GMT",
+    "sourceName": "Cardiff Rugby",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Blackburn Rovers 2-1 Cardiff City: Gudjohnsen and Cantwell fire Rovers to narrow win",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTbEo2cU16ZHR2VEt1TTJzcUt5Zl9OeS01RmxFSksyX0tZX2M0WUJ4UkhBa2o3bjg2eXE4cGozX0ExY2NJcUk3Vi04MlZpR29xOENHd1Nhd0szb1dwYjVUdlhVcmdfUQ?oc=5",
+    "description": "Blackburn Rovers 2-1 Cardiff City: Gudjohnsen and Cantwell fire Rovers to narrow win&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 15:55:00 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Bedbugs crawling out the wallpaper in 'worst ever' Cardiff infestation",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrSllvd1kzM0dSeXlFa1hDbFlyMnZrSDJFai1MVmlGRnhoZG5NZVJmc3N4c0J0Y3lIWU5pUFhWVjN0U2pIb3Q2c1hjN3dLVExOZlVmODdoczJpOG9sckE?oc=5",
+    "description": "Bedbugs crawling out the wallpaper in 'worst ever' Cardiff infestation&nbsp;&nbsp;BBC",
+    "pubDate": "Thu, 08 Oct 2026 11:44:55 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Pick of the stats: Cardiff City v Watford",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpdGFQdHBvYTl3OGk4dEhvX2VfMkwzQVdOaElGZnR2VUJRclVpaF93YUs5dzBsNmotTFRJbkN3YW5XYVZweDZOV2NoQ2lDeHZZY0lsU0JzeW5wWlBHODBhTlA5VWV3TUhBOHhj?oc=5",
+    "description": "Pick of the stats: Cardiff City v Watford&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 13:19:21 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Cardiff City news: Dylan Lawlor subbed as precaution at Blackburn",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vS25Sb0ZMeXQtTVM0aFhFeWRlUUdEdWdsVVNTNk14YjdMQmI3V3dhWkJFbHNrRVdDZjJmWmxKZHZVcEw0MnQ3dGh2dWtmZ2xRUnE1OXpwRTlDdUk5SFA5U0RIUzNyMVpTWlk4?oc=5",
+    "description": "Cardiff City news: Dylan Lawlor subbed as precaution at Blackburn&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 17:37:31 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Halloween fans warned over scarefest scam",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41VGVvSXFvcG1SN1kya21wMmcxcjJvQmluTEFacnF6US1WYndJSHktMUhjWlk1bjlTWTFJZEJ4S2hsMXdLVV9NZVNxeV9hejhtXy1kRkdFUXpYZFQ2cWc?oc=5",
+    "description": "Halloween fans warned over scarefest scam&nbsp;&nbsp;BBC",
+    "pubDate": "Thu, 08 Oct 2026 05:28:50 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

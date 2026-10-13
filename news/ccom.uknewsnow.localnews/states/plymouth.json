@@ -1,101 +1,162 @@
 [
   {
-    "title": "The Herald (Plymouth)",
-    "provider": "web",
-    "arguments": [
-      "https://www.plymouthherald.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=plymouthherald.co.uk",
-    "year": "Est. 1895",
-    "genre": "Plymouth & Ocean City News",
-    "rating": "4.8"
+    "title": "Mount Batten asbestos mystery leaves beloved Plymouth beach shut",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oM0dwOS1lNlRxX1ZrSFdXaHEtTDhSUzBjVzBjMHo0VHl5cmg4dVpCWk1Wend1eWxDZFlTd3RwT3ZYYmNOWm4tdmsyc3RMOGowZW16Zy1iOW55MnlTbkE?oc=5",
+    "description": "Mount Batten asbestos mystery leaves beloved Plymouth beach shut&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 06:16:06 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Devon Live",
-    "provider": "web",
-    "arguments": [
-      "https://www.devonlive.com"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=devonlive.com",
-    "year": "Est. 2017",
-    "genre": "All Devon Daily Portal",
-    "rating": "4.8"
+    "title": "Plymouth Argyle 2-1 AFC Wimbledon | League One highlights",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBLWUFWWkFwZkpEUFFxeUlCLWtCdGJ3THJPVUpkbEtjZ2J2TkRLaFU3VkhKU1hIek5IUmVwR3lIeFBGSExFUjZkQy1lX2tJWjZWaEV0ZWhBdzk2UUhxLTRLQUpGdkx3aUV2X1pBXzNSRS1zcWNsbnlHZWNwWnpUOHFxekcyN19jQk5EZS10d05WLVN1V2NPeVNNSFZYUWFfcGFrRTFvNjk?oc=5",
+    "description": "Plymouth Argyle 2-1 AFC Wimbledon | League One highlights&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 13:56:10 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Western Morning News",
-    "provider": "web",
-    "arguments": [
-      "https://www.westernmorningnews.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=westernmorningnews.co.uk",
-    "year": "Est. 1860",
-    "genre": "South West Regional Daily",
-    "rating": "4.8"
+    "title": "Team News | AFC Wimbledon (H) - Plymouth Argyle",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UUFByTC1kcTczMzA5SFlCU2xVZkk3VWx2cC1SamFGdHduejlFX0ZmdWZMOW90Q2N1RF9DbmZwNU5NR01iZk5UNTY3S0Z1azR6anhxRkFxQ3lsUlhEMkZqdlh5dUVnZw?oc=5",
+    "description": "Team News | AFC Wimbledon (H)&nbsp;&nbsp;Plymouth Argyle - PAFC",
+    "pubDate": "Sat, 10 Oct 2026 10:26:13 GMT",
+    "sourceName": "PAFC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Cornwall Live",
-    "provider": "web",
-    "arguments": [
-      "https://www.cornwalllive.com"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=cornwalllive.com",
-    "year": "Est. 2017",
-    "genre": "Cornish News & Marine Updates",
-    "rating": "4.8"
+    "title": "Group of around 20 men reported making teenage girls feel uneasy",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZUl0NXplR09scU1ubXJZQnRSamJGZzNVN213NlVQR0xETTNweV9iel9fVGNmb0FMMndxYzNsM0dXbFdhWHd2V0gyWmI3dEFtelJ2X00tQXhFRW9sWnpBZUk4SWZDcFdVY3FIdVJsVTJMYnhiSkNKc2FVZTlESEpDYnM3VmZLNW5uVWZVSEYwT0Z0eEHSAZgBQVVfeXFMTXNiXzFYVlIxR2V5R2xtbk9QRkZQZzF3dzFNQ0dzaDRiN3BMcXRZQldrYWVtU0I3LTFCNkRvM2hqYjYtWWVSd0lTR1p2ZWtFQnB6anY0OHc3cE11VDFGZjdRTFVYdzBuUVpDcC05ZTY0SkxQZUpvX1dlUTJKR3lSbjN0SC1HMlEtM09JNGtQT2hVRS1nX19YcEY?oc=5",
+    "description": "Group of around 20 men reported making teenage girls feel uneasy&nbsp;&nbsp;The Herald",
+    "pubDate": "Sat, 10 Oct 2026 17:23:00 GMT",
+    "sourceName": "The Herald",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "BBC News Devon",
-    "provider": "web",
-    "arguments": [
-      "https://www.bbc.co.uk/news/england/devon"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
-    "year": "Est. 1922",
-    "genre": "Devon & Cornwall Regional",
-    "rating": "4.8"
+    "title": "Plymouth Argyle's AFC Wimbledon win one of Tom Cleverley's best moments",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHanJtQTVkSkZ0V1ZCTjRkZjRaVi1sZk1oWDJhSTVSOEljckhMY1pmTl9yMzVZN3JfMFd2VzkzTEtzYlJRcWRHcHY0NFJTSjB5ekt5R2FURDE5QVRxRHRISkttYW5GN05h?oc=5",
+    "description": "Plymouth Argyle's AFC Wimbledon win one of Tom Cleverley's best moments&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 08:44:24 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "North Devon Journal",
-    "provider": "web",
-    "arguments": [
-      "http://www.devonlive.com/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=devonlive.com",
-    "year": "Plymouth",
-    "genre": "Devon & Cornwall Daily",
-    "rating": "4.8"
+    "title": "Plymouth eye care centre offering free appointments opens",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKZmZFTFJvTl9XSS1Vai02djJlLTFfTXVJem5vZHFVWHNRRmhRZlZQc2VMUUM2aFVSM1NfVklRVjVrT0pybEpTejFKSEV0QTUtS0NPSElSNXlVa2ds?oc=5",
+    "description": "Plymouth eye care centre offering free appointments opens&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 05:29:22 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Cornish Guardian",
-    "provider": "web",
-    "arguments": [
-      "http://www.cornwalllive.com/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=cornwalllive.com",
-    "year": "Plymouth",
-    "genre": "Devon & Cornwall Daily",
-    "rating": "4.8"
+    "title": "Match Report | Argyle 2-1 AFC Wimbledon - Plymouth Argyle",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aQW81V0IxTFlCOC1MWXRqbWEzTkxNTTVDZGhDcW9GaGFUNFR6dVF1UEk0cmlBazNLOTZXVzRlNzROSi1TdkxKbE1wZUZ0MzUwM0ptRGZuX3BES20wSnhFZWM0ek44S0NvNjhyVG5zLTFwam8?oc=5",
+    "description": "Match Report | Argyle 2-1 AFC Wimbledon&nbsp;&nbsp;Plymouth Argyle - PAFC",
+    "pubDate": "Sun, 11 Oct 2026 07:47:58 GMT",
+    "sourceName": "PAFC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "North Devon Gazette",
-    "provider": "web",
-    "arguments": [
-      "http://www.northdevongazette.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=northdevongazette.co.uk",
-    "year": "Plymouth",
-    "genre": "Devon & Cornwall Daily",
-    "rating": "4.8"
+    "title": "Welcome back to The Herald - a new dawn for trusted news in Plymouth",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2RjSkVGMzhPQ2NiQ1JYTWhMaUNBR1VYcFhJX1N6OVZwMVF4dVhaSDFqVUEtb2JVbXVVYVJYdUlma2FTR2lWVFRqeFJIX01XdEI2bnZ3dkJUMjQ0WF9vZlViRjF6MkUtZ3RkSWVoX2oyZHIwVUg1c2xUS1VudFZaeWRldDRzQ0E3QjBUbDN3TU4wXzQ?oc=5",
+    "description": "Welcome back to The Herald - a new dawn for trusted news in Plymouth&nbsp;&nbsp;Plymouth Live",
+    "pubDate": "Tue, 13 Oct 2026 09:28:29 GMT",
+    "sourceName": "Plymouth Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Exmouth Journal",
-    "provider": "web",
-    "arguments": [
-      "https://www.exmouthjournal.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=exmouthjournal.co.uk",
-    "year": "Plymouth",
-    "genre": "Devon & Cornwall Daily",
-    "rating": "4.8"
+    "title": "Plymouth 2-1 AFC Wimbledon",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Tbl84bzNFMUU4NFRQV21MQXRTU3IwZ0l0UHRfNXBmNlNWWmdSMl9mTkhPcXRyTlgyLWhkTVlUeDh6a2NHMlNNZldOaml5LWtBZ0lFcU8wLTBzLTNOd09weTF1N2VEcjlCVjdTa0ZXRGkxV2RILW1VNGNoQW9mYnM?oc=5",
+    "description": "Plymouth 2-1 AFC Wimbledon&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "City swimmers hit with second sewage warning in a week",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmMlpFYlE5dVhNOUJwQTd1U1NfSTgxZHYtNl9GMHUtcjRDelJvTU5yTzBfckhBeU0zSE5TWmxtNDZKck9tVEhfTEFFQnB6TjNIeFFnblR2eXJuQkp0eXc?oc=5",
+    "description": "City swimmers hit with second sewage warning in a week&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 20:34:24 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Plymouth attempted murder accused Sammy Lee Burton appears in court",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVJPQ245VDk0a19JeHN2ZjdaQ1Z1UTR4MmVfT0ZuTUtvWTM1emMtT0FOX0ZhbXJ0VnZQZ1BZdDRFSXpLR1JBa2pEZWRLaTJKTVN5WHE5anhkS0hDUnJqUmJ2MGtRM24wUHFXemhqZVctaG1wODZXWXRmQURpb2Z1d1h1OE1jdjhaNlNSd0k4bTFMcnNIcWFNNUxQWTNBUnp3Z3fSAacBQVVfeXFMTUdnOGFHOVNZSE45OXM0RHV5c2NJeXQ5bFdZUnJiSlgwWHNMOGVKMjQwcWpTUTNXd3RFcGZiVm54ZHk1TjV6Y1dmcC02MDRUeE1pRzI5alYwbjdWNzBGUTdaQlFZR0NOOXpMMDFNUkwtd0hveVRYMEhDbzd3aWp0WnNUM2JUaS1BM0s3ZTgzQ3dVWkxlQ2U3aVVVZjJ0cUVaR01lZ3MxamM?oc=5",
+    "description": "Plymouth attempted murder accused Sammy Lee Burton appears in court&nbsp;&nbsp;The Herald",
+    "pubDate": "Thu, 08 Oct 2026 09:55:33 GMT",
+    "sourceName": "The Herald",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Plymouth skateboarder heading to World Skate Games aged 60",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PNkdhajVBSE9UWWxqb2Y0NklGXzQ2dzVldHNxWDlIWFp4Qko3N0o2ZkpiVnNMejVOcVRNQXh1Z3lXdWhVYjFBbFhKck0wUUhwbl82Nkp6a3lDSnM?oc=5",
+    "description": "Plymouth skateboarder heading to World Skate Games aged 60&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 05:22:02 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Sign error directs drivers to city 70 miles away",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFd1owOW9LRjR2UHNucjRNNDRfbG94aVBzWTFETkdVc2NjN0c4VTRjZHZBWHlINnlTMTduNnFMb1lwQWptWVpueWlUMEkzdXZyeVpZTG9jTjEwWWZCRFE?oc=5",
+    "description": "Sign error directs drivers to city 70 miles away&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 14:17:28 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Car stolen from busy Plymouth car park in early morning theft",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEZySTlRdFg1am9YaGZBMUI4a082MkEyN2praHFhQ2ZESmIxTW9FTUlpU0E2UVBQYXpSSUptQVNKaUJKV0RMeHhhNjhxZmVWWlNTMC1TTGJYMG1hT1IxRUJHa0owZ1BtX0d6bjVYdzZpR0Naek44cTI2Z1hXYlBfcUxkcTRoYzBwMWhISzRscmMxYm_SAZgBQVVfeXFMUHpYNC1KajllU05NSWdzTEF3SkdYdkNlN09ZRjlYYnk2b0hBdEdMaWJSM01oYmFLODBXRjZSNmNHSGhJOHNBZlRXQVI5MHRrQ2dfdlNfOWNibVkwbW9DZGtwemg3bk5zSml4VkJjXzJNMmFDbVNhUFplX1BPcUVibXM4Vjl2dTFfZUhVUkJxeVJ5MnpTWXd3UEo?oc=5",
+    "description": "Car stolen from busy Plymouth car park in early morning theft&nbsp;&nbsp;The Herald",
+    "pubDate": "Mon, 12 Oct 2026 15:48:00 GMT",
+    "sourceName": "The Herald",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Man charged with woman's murder appears in court",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51eDV4ellkMGlBVUg5THBfOVB6SVdOeGtTVlczdGRXMnZVN0ZVcThQVk5WR3BJQWxZcnBmbmZoNUJXOWkxTXVqMWk2LWVoUGRVendrNEZFN0NLZU5qdHc?oc=5",
+    "description": "Man charged with woman's murder appears in court&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 10:08:45 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Search for woman after Plymouth hotel room trashed leaving £2,000 worth of damage",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGJxclFKOWY2dDFFY1dxWXRVUUx3MUNxUGJCZ25KeGJyREg3eHg5NDduX1hJLWx1Yi1DdmN1QWtLWFR0RGRGRnZXaDc3djhfY1BNNm5Ld28yQmk2czNHNWdIQXM1SFlpYjBlOWFnQU1zaVQySjVEd2ZrcTIyZnNsS1poNUNvYjZvU2VINlB3b19CWmlrTUxyWkNB0gGfAUFVX3lxTE9adW0tRlhZLU92dlBxVGhmSklab1BDek1JQWdXVTBjRjc4WE1mZnM4a0VpV3UwVjNURHlFVmk2VjR0enNITmEzaUpzeXNIdWZpd3A1UzNweEpOeGV6LU1Vc2hTeGtrZV90VlEzWnhtbmRpdHNjbk4xVzlzRjNrQTV3UnFnaVE0a09KSjlSbHBTZWFUUnhmSFl5MERaQ0Vrdw?oc=5",
+    "description": "Search for woman after Plymouth hotel room trashed leaving £2,000 worth of damage&nbsp;&nbsp;Plymouth Live",
+    "pubDate": "Mon, 12 Oct 2026 13:28:00 GMT",
+    "sourceName": "Plymouth Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Victim suffers multiple wounds after being stabbed 'inside property' in Plymouth",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXBaU0pzM1UwUk42SFRvZmJlWlE1NFR1NHA3ZXg3MnBDOGczWnRZWmZQRUVYV3Jia3NRX1ItWmxRTVF3cEJPZGlGWUVTeFhkakE2N2NtMURvcUgtQ3RjMzI0OVZjRXB0RFlwQ241SmRsc3BNWGhEcUw0bzhDRVdZVWxsUTNtczhYZE1QRmF6emlvSU9NaG53dTlrV3hudw?oc=5",
+    "description": "Victim suffers multiple wounds after being stabbed 'inside property' in Plymouth&nbsp;&nbsp;Plymouth Live",
+    "pubDate": "Tue, 06 Oct 2026 19:03:12 GMT",
+    "sourceName": "Plymouth Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Asbestos mystery leaves beloved beach in Plymouth closed",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZUNfdGVCYklnbmt3cU5aWWdZTjlIVTFyYnJOVWNBa0tzUUlEa2VyQnphdjcxVlZ5bnFSUW5TTEhMaGZxbGdxcVJEcmdldDVpOF9PVHh5UGgzblU?oc=5",
+    "description": "Asbestos mystery leaves beloved beach in Plymouth closed&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 11:26:01 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Police update after St Budeaux bus brawl",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHdSNTNrWkNxV2lvZHo3Zm04MHl4eXFmSktwcmVNcUd6NzgyZDcwQVJoYXhJcTdQY1FPU003LTNUMHNqeFhSaFJ6U3drT1dGZWE1dGg4alV6U2ZBa0NJcGFiRkRZWVZmSHpPLWRpcmRpQjVoaWpBYjN5SXBQZWpmeXRRZVB2S1llRXlwNDBxRVNsZTdjMXfSAZsBQVVfeXFMTVFKNnFZN2RwWUhFSW1LSnp1LW9xX2I1QnVrQnJ2MzBEVUNFY3JpcmIzNF9CUzA1MHlSZWN6Sm5WNDJRanVwNVZSNTdrRmZSRWNEb0g3V1lKN3RkM0pOTVo0WG9nY1VwN0d0Nk9OQkVISjItYmtuOG0zSkVja29GMnlaVWlOLUV6RzdUbmdPcG5SVWVMQmtYNXNGMGM?oc=5",
+    "description": "Police update after St Budeaux bus brawl&nbsp;&nbsp;Plymouth Live",
+    "pubDate": "Mon, 12 Oct 2026 08:19:00 GMT",
+    "sourceName": "Plymouth Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Remember, remember the fifth of November…on the Plymouth Hoe",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanZpZzZySlpzLUdxcTliMURSLTI4LVBkVXZwSUNwYVJidnNPbHE5UUJYN01OYndVbzNKVHFva1czUEF2RjNYallreUZ2a19zOVlVemZfWWlKSzI2andaX3BVZzVDTVhFeVVzT1VJVHNFeXo3b3NiZFF2WVpoYmVFbzJnWQ?oc=5",
+    "description": "Remember, remember the fifth of November…on the Plymouth Hoe&nbsp;&nbsp;One Plymouth",
+    "pubDate": "Fri, 09 Oct 2026 16:30:09 GMT",
+    "sourceName": "One Plymouth",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

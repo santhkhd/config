@@ -1,178 +1,162 @@
 [
   {
-    "title": "The Yorkshire Post",
-    "provider": "web",
-    "arguments": [
-      "https://www.yorkshirepost.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkshirepost.co.uk",
-    "year": "West Yorkshire",
-    "genre": "Yorkshire's National Newspaper",
-    "rating": "Daily"
+    "title": "How Harvey Nichols changed retail in Leeds - and what went wrong",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50eEVEZGh6X3dfVXljV3oyNk1Cc3JNRkRiMldGejhYYlZKSmVaZnVNSW03eml6aHBrYVFuaHVVUlBnR3ZIdjZ1cWdENFM3a3RpdjFoeVZHVHpEazM4R2c?oc=5",
+    "description": "How Harvey Nichols changed retail in Leeds - and what went wrong&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 06:19:12 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Yorkshire Evening Post",
-    "provider": "web",
-    "arguments": [
-      "https://www.yorkshireeveningpost.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkshireeveningpost.co.uk",
-    "year": "West Yorkshire",
-    "genre": "Leeds City Daily",
-    "rating": "Daily"
+    "title": "Arsenal vs Leeds United: Team news, key stats and everything you need to know - Leeds United | Official Website",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblp5UG1Wa3RGaUpHY1F4NEZZODNSZWpNVlFPMGRKWGV3NjM5QldtMWhZenYzNGx2blh3Xzl6WnF6UEw4Zl9DVDBKeE1MM05pZGFmMkFObGFXWmNzZjZrLWhlZ1FwcWdPRlo0X21UYUh3LURMSV84enk1cXh5MUNYTHhPOHVWM3h1Smk3d0daNy1SUnFMbnNLb0RielJ4NXd5aENmUm96TF9WWEhQdTFieA?oc=5",
+    "description": "Arsenal vs Leeds United: Team news, key stats and everything you need to know&nbsp;&nbsp;Leeds United | Official Website - Leeds United",
+    "pubDate": "Fri, 09 Oct 2026 14:59:26 GMT",
+    "sourceName": "Leeds United",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Telegraph & Argus",
-    "provider": "web",
-    "arguments": [
-      "https://www.thetelegraphandargus.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetelegraphandargus.co.uk",
-    "year": "West Yorkshire",
-    "genre": "Bradford & District",
-    "rating": "Daily"
+    "title": "Team news: Trio fit, three more come in for Leeds test",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTEgyYlhzN3NmUnVMMWVtaXkzRG15cHVfLWFQMXg4X2VvZnRhb0pBeXlzeGc2TnNfQkp6SDhxMkN6MFFoSnUtXzZKVVNCNVhaeTJwY1VSa0VLZUJnOUVHQ0N2MlhFTE9ZeUZHbzRRaDdQV1VMa0RoSGN1WXp2T3N6MUlkNktZVjdyRHd6Z0RETFIzZlk0REZhMGR3?oc=5",
+    "description": "Team news: Trio fit, three more come in for Leeds test&nbsp;&nbsp;Arsenal.com",
+    "pubDate": "Sat, 10 Oct 2026 10:26:22 GMT",
+    "sourceName": "Arsenal.com",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Huddersfield Daily Examiner",
-    "provider": "web",
-    "arguments": [
-      "https://www.examinerlive.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=examinerlive.co.uk",
-    "year": "West Yorkshire",
-    "genre": "Huddersfield & Kirklees",
-    "rating": "Daily"
+    "title": "Appeal: Fatal Collision, Leeds",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUdJWkw1cWpRR0YtX0Zzb0FPZlNfUkJHM0lJQ1kzM2o3dE4zOUVpcTV5SWVXakI3NHBpNndSaGo0MXVrSU85eGpEdUh2VURkeUl5amNfc21meG1JTWZleUZOUXlDLU9hNG9qcUVSSnZBMDhWV2JyMm1QeUllUEJvd1c4VkJ4dw?oc=5",
+    "description": "Appeal: Fatal Collision, Leeds&nbsp;&nbsp;West Yorkshire Police",
+    "pubDate": "Mon, 12 Oct 2026 09:02:43 GMT",
+    "sourceName": "West Yorkshire Police",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Wakefield Express",
-    "provider": "web",
-    "arguments": [
-      "https://www.wakefieldexpress.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=wakefieldexpress.co.uk",
-    "year": "West Yorkshire",
-    "genre": "Wakefield City & Five Towns",
-    "rating": "Weekly"
+    "title": "Premier League ticket news: Leeds at home | News | Official Site",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjNrWmRZS1B1bkZaUE9kV0IxQmV5MFRMd19oMXN2NzZmRnRicUsxYUhET3d4aVlrTHd1a0lheFRRV0g5YVhuaURJc2lwRF9JalFoY1g4bkZJSnYwY2psWEp1Wkk5bDllUmVVcEhFMWJwaWl6aXptUnlVMmZGVWY3a2FNNk5sSHlhbGl2a0xpTGlqZ0JS?oc=5",
+    "description": "Premier League ticket news: Leeds at home | News | Official Site&nbsp;&nbsp;Chelsea Football Club",
+    "pubDate": "Fri, 09 Oct 2026 14:30:00 GMT",
+    "sourceName": "Chelsea Football Club",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Yorkshire Evening Post",
-    "provider": "web",
-    "arguments": [
-      "http://www.yorkshireeveningpost.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkshireeveningpost.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Leeds Bradford Airport air traffic controllers strike halted",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnotUkFiTXBHeV81N0FUeWJIemtvWF9tVWZaU0FOWDVnYVI3bnpLSExGOFFTa09ydHFIRldmME5QNWctYnpsNkJJSHkzVlpHXzIxSE5XcTlHZjRDU0c5WG13WnI0cS0yX3hfS3Q0cWprc1hrdFgxLWlKV0sxOWpFVVlmWC0ycktWQndWQU9NMUY3X1drM0hjOHBJTkl1WjI1RkhUV0lieGk4OGdHUUI0RXlWT2U1UURmalRKUA?oc=5",
+    "description": "Leeds Bradford Airport air traffic controllers strike halted&nbsp;&nbsp;Unite the Union",
+    "pubDate": "Tue, 13 Oct 2026 12:23:16 GMT",
+    "sourceName": "Unite the Union",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Press",
-    "provider": "web",
-    "arguments": [
-      "http://www.yorkpress.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkpress.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Daniel Farke's mixed emotions and half-time message as Leeds lose narrowly at Arsenal - Leeds United | Official Website",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkh3TGI5RWxCUWN1eDhPMHdLUTlnYm9LZ0ZXM2NDbExXemVoamhaQjRndW5pNU9tSktnWmhDa1AtdXRHal96Y0Z5OWpjVEg5WHRQZW5CdmZHc2JLa2RFUTN0RVJIemd4OWNZbG9Qc1FROEoxX2pWSS1UQnFqVEpvYWtsMElGQ2RBU3JEUmpwTnRTUzdjR0NQR0tZRExKZ1g1dllaNjl4Q0l2SzM4Yy1SNkNmS1VlWWxuNUJNTg?oc=5",
+    "description": "Daniel Farke's mixed emotions and half-time message as Leeds lose narrowly at Arsenal&nbsp;&nbsp;Leeds United | Official Website - Leeds United",
+    "pubDate": "Sat, 10 Oct 2026 14:48:15 GMT",
+    "sourceName": "Leeds United",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Telegraph and Argus",
-    "provider": "web",
-    "arguments": [
-      "http://www.thetelegraphandargus.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetelegraphandargus.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Families feel 'heard' by minister over Leeds maternity failings",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RZHZQSmp4THQ2Y1JWRkVHaWR4U3hQcG01c3BMcjduOXhjbVo1azdwUmVSRVY4TFM3Nk8zNWlaaDJwTFkwbWpScEJ6RTV5TG5MMEFNRDBocUF1bWVhSmc?oc=5",
+    "description": "Families feel 'heard' by minister over Leeds maternity failings&nbsp;&nbsp;BBC",
+    "pubDate": "Wed, 07 Oct 2026 05:12:05 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Wakefield Express",
-    "provider": "web",
-    "arguments": [
-      "http://www.wakefieldexpress.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=wakefieldexpress.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Leeds Bradford Airport strikes to escalate",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnM0NHQ5YkRGRzlCNG9ZSWVNRmJ3aV9ia1JfRzljTWNhbXRtM3NWM0dwTGJzbk5EUDBra0xvSzNwa2N3NndSLWc4OWxxTGNNdWVSWFRmM1o3aWVrdHNjVGFVTUItYTY5UHVOYk9rRi1YZ1JCY2pwYVNZUWlVekFoS19zNGQzby1RdnVHX0drUWM4WG9KUUFkVzJoOGsyS2RZSUwzcw?oc=5",
+    "description": "Leeds Bradford Airport strikes to escalate&nbsp;&nbsp;Unite the Union",
+    "pubDate": "Mon, 12 Oct 2026 17:32:25 GMT",
+    "sourceName": "Unite the Union",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Scarborough News",
-    "provider": "web",
-    "arguments": [
-      "http://www.thescarboroughnews.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thescarboroughnews.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Report: Arsenal 2-1 Leeds United",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RcnJLWGJPTURiX1M2bE5pbmNkTWUyRC0tM25SVXNvQkxqZk9ZZ0RKUkNvOEFxYVJJNl91QmM5T2lQMGp3eDVRSzlQSU5DOGlWbG5lSVRXamo0T3pna0xkV2ZnOGlxUkVCcXF4LUVkSDRsWF9fREswSW9iSlJNQQ?oc=5",
+    "description": "Report: Arsenal 2-1 Leeds United&nbsp;&nbsp;Arsenal.com",
+    "pubDate": "Sat, 10 Oct 2026 13:47:00 GMT",
+    "sourceName": "Arsenal.com",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Harrogate Advertiser",
-    "provider": "web",
-    "arguments": [
-      "http://www.harrogateadvertiser.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=harrogateadvertiser.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Leeds United produce receipt in defeat at Arsenal - Graham Smyth's Verdict - Leeds United | Official Website",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXZWYi0xSTVJSU1FV0MxQmhVelBjenRua2o0QVBGc3hEV1VJRVQ1ZHRKVE1YRTBiYXlGR0x0RlBDajJudFppNFc4dVBBT3EzUGlSUTAySzJDNWd4QVBsQml1cWJXRFhsSHZBM01ldEJnWkJQaUxJdGQ1N0RMYU8wMFc2dW10QmpKVnhPTTdveVpSbFBQU1BjcTdIX2MxX0VZMzd4ZFR4T0ozcFk?oc=5",
+    "description": "Leeds United produce receipt in defeat at Arsenal - Graham Smyth's Verdict&nbsp;&nbsp;Leeds United | Official Website - Leeds United",
+    "pubDate": "Sun, 11 Oct 2026 06:03:51 GMT",
+    "sourceName": "Leeds United",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Bridlington Free Press",
-    "provider": "web",
-    "arguments": [
-      "http://www.bridlingtonfreepress.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bridlingtonfreepress.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Highlights - Premier League - Arsenal 2-1 Leeds United",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RZVlJa0lQUkpBTU9nRTI5c1p0MnRYMDNqM0NuN0UycDJRYkdFUUxoYXhpYk1vS0VTMG1FZmhoQmRIZ2dERnZBU2ZjR200UDhKd3JrYWxSLUVpLV8xUGNRaDZVNm1GenNq?oc=5",
+    "description": "Highlights - Premier League - Arsenal 2-1 Leeds United&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 19:00:08 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Keighley News",
-    "provider": "web",
-    "arguments": [
-      "http://www.keighleynews.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=keighleynews.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Preview: Arsenal v Leeds United",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EbjBLLUNRZndPRXJsTUJlRU5PamxyUGQ5SHhGZjM4cTJ1UU1GTHlsVkJNeHhubjJBcHVLUEVSQ0duazU4emJIV0lwd2xHd1FIWThxeE92Qi1mUnE1SFI3YVctUUkxZTAwN1UtczZfQWJYcnBoSkFhbTBJRjU?oc=5",
+    "description": "Preview: Arsenal v Leeds United&nbsp;&nbsp;Arsenal.com",
+    "pubDate": "Fri, 09 Oct 2026 16:52:27 GMT",
+    "sourceName": "Arsenal.com",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Craven Herald and Pioneer",
-    "provider": "web",
-    "arguments": [
-      "http://www.cravenherald.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=cravenherald.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Blue plaque honour for poet's childhood home",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82MjF5OGlDODR2eFU0MmZTRmVVWVNLNUlpWWNBV2ExU0tHcmNYd3NtZW0ycl9iUGZXXzJiY1ByY041WHJWam0zUkRXb2ZkTlc0S21DSjZuamc1R24tNmc?oc=5",
+    "description": "Blue plaque honour for poet's childhood home&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 19:06:02 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Pontefract and Castleford Express",
-    "provider": "web",
-    "arguments": [
-      "http://www.pontefractandcastlefordexpress.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=pontefractandcastlefordexpress.co.uk",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Line-ups announced at the Emirates Stadium - Leeds United | Official Website",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzV2NHFLeDNQTE9nZUx1anZ5aDdpRUhHR3AtMy1OWnN6TWlSV3REME1ZX3ZyQXo3QlUtcktkLXB4ZVNUSm9jUUNsNnhwdTJQNzRENmhEeDc5dEtiVU80VUxJdnBjQkVzVFZaMmFHZDR0c0x6MlZERjRIXzBjTFVydE1SREU?oc=5",
+    "description": "Line-ups announced at the Emirates Stadium&nbsp;&nbsp;Leeds United | Official Website - Leeds United",
+    "pubDate": "Sat, 10 Oct 2026 10:55:29 GMT",
+    "sourceName": "Leeds United",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The North Yorkshire News",
-    "provider": "web",
-    "arguments": [
-      "http://www.northyorkshirenews.com/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=northyorkshirenews.com",
-    "year": "Leeds",
-    "genre": "Yorkshire Daily",
-    "rating": "4.8"
+    "title": "Premier League: Arsenal 2-1 Leeds United - Daniel Farke post match interview",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mSzVGNjVfU3hNbnNsQXFvakFVeFFEVjQ1R1I0ZFdzd1lfelIwbVdhNjRDREUtVE14VkNIOGItNnQyOWVLcEdUb1R0bDQxVUxOY0RjWU5XeVkxejVPV29iblhxM0FVb1VI?oc=5",
+    "description": "Premier League: Arsenal 2-1 Leeds United - Daniel Farke post match interview&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 14:29:41 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Premier League: Arsenal 2-1 Leeds United - Mikel Arteta post match interview",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wSTZJQzJtTlk4dGVyaDAxZ2VOV01Ea25VMWY2QTh3cDJjTUtOS2VOalQxNTN4aVBvSEZfY1daV2tDZV8tS0NKcGV6RGJnSmoyLUcwOXdDLXltRnNndGQ3ZkhpTFVkeHQ1?oc=5",
+    "description": "Premier League: Arsenal 2-1 Leeds United - Mikel Arteta post match interview&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 14:34:11 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Arsenal v Leeds United: Key stats and talking points",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rZjlONTlJU2hEMDF0Sk5CUlU0YkpsXzFCVG9XXzVpZ0d1Nnl2Z0k2X3lpamt4ZVNtUkE3RFE0a0dDM0tYTFExVjI4Y1JPWG1kMEZBdG81UjNuUUNEcnhUVnhJb1NzX28yMC1z?oc=5",
+    "description": "Arsenal v Leeds United: Key stats and talking points&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 18:17:36 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Mother's concerns 'dismissed' before baby death in Leeds, inquest hears",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tMnFIcm5QclI0RWQxSWw1WXR0NzZpX3phREtlYmR4d0pFa0dqRDhIX25BVHZzSTVzeUQwU05YYkFPaDVwaDk1VDR2cGQyY1VFVXFfaTBPQlNGd1RuNWc?oc=5",
+    "description": "Mother's concerns 'dismissed' before baby death in Leeds, inquest hears&nbsp;&nbsp;BBC",
+    "pubDate": "Thu, 08 Oct 2026 17:40:56 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Oldham Athletic vs Leeds United U21: EFL Trophy stats & head-to-head",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UeDd0U242OUx2MGk4WURZTkh3YThZR1dRMVFEdktRVHV2OFlYSVhZS0FMQTRSQ2UtZkVWaW8xSFJ5QTR1T0haSmd5b0pucFZlb3BDazhyZXNDZlpiNEExd2hWSEdNZw?oc=5",
+    "description": "Oldham Athletic vs Leeds United U21: EFL Trophy stats & head-to-head&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 03:25:52 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

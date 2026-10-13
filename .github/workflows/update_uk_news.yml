@@ -1,0 +1,39 @@
+name: Auto Update UK & Regional News
+
+on:
+  schedule:
+    # Runs automatically on a recurring schedule (every 5 minutes)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allows manual 1-click trigger from GitHub Actions tab anytime
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r automation/requirements.txt
+
+      - name: Fetch Top 100 UK News & 22 Regional City Feeds
+        run: |
+          python automation/update_uk_news.py
+
+      - name: Commit and Push Updated News Feeds
+        run: |
+          git config --global user.name "UK News Bot"
+          git config --global user.email "bot@uknewsnow.com"
+          git add news/ccom.uknewsnow.localnews/ news/com.uknewsnow.localnews/
+          git commit -m "Auto-update Top 100 UK & Regional news feeds [skip ci]" || echo "No news changes to commit"
+          git pull --rebase
+          git push

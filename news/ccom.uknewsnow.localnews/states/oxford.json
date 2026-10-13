@@ -1,79 +1,162 @@
 [
   {
-    "title": "Oxford Mail",
-    "provider": "web",
-    "arguments": [
-      "https://www.oxfordmail.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=oxfordmail.co.uk",
-    "year": "Est. 1928",
-    "genre": "Oxford Daily Newspaper",
-    "rating": "4.8"
+    "title": "HMV to close Oxford Street store after three years",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xcGdBMlVKRTZ0b2c1Y0FfaDdPSTgxVnNocGdCYTZtdVM1RThsc1I2NWFCTWJzVEJlVHEycEtaV2dEN0twQmVWZnhqV0x0ZDFqY2xGbTRXXzJzNUVEQVE?oc=5",
+    "description": "HMV to close Oxford Street store after three years&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 10:36:39 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Oxford Times",
-    "provider": "web",
-    "arguments": [
-      "https://www.oxfordtimes.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=oxfordtimes.co.uk",
-    "year": "Est. 1862",
-    "genre": "In-Depth County Weekly",
-    "rating": "4.8"
+    "title": "Notts County 1-2 Oxford United | League One Highlights",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmlyczlWUkZvUnhtNUhtNXA3TFhwUXhseUxOc1dxd09ZWnEtS09VWnFsdk9sNFdvRlU4cjR4SkxxUkhPZDNvUVB6SWl6eVZRTHB5d0hCZ1lrUUY3SGIzbjd3SkVveUVlSFJOTTRDLWNhZWI1bk1lSlFDbm5VeEoxRzNBRUNaYmhjRVkwZEVvcGNBbmpQRl9VZHUtNHJEOXhOUnFQMA?oc=5",
+    "description": "Notts County 1-2 Oxford United | League One Highlights&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 13:58:26 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Banbury Guardian",
-    "provider": "web",
-    "arguments": [
-      "https://www.banburyguardian.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=banburyguardian.co.uk",
-    "year": "Est. 1838",
-    "genre": "North Oxfordshire News",
-    "rating": "4.8"
+    "title": "Team News for Notts County Clash at Meadow Lane",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVWE1bFhpUE5fb3MyMzlHRFA5TkNJaUptRTdoVEFRMG1NZ2RfSzNhTE5rSGx0YW4tSWsySmZIYWRCQU93eDNYbEpKVFZUSEdYV3lDRlc0a0YzRnFUU0QxVTlLdzFJS1Z3ZkR1dEhFbU43bWRuZHhZ?oc=5",
+    "description": "Team News for Notts County Clash at Meadow Lane&nbsp;&nbsp;Oxford United Football Club",
+    "pubDate": "Sat, 10 Oct 2026 10:18:25 GMT",
+    "sourceName": "Oxford United Football Club",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "BBC News Oxford",
-    "provider": "web",
-    "arguments": [
-      "https://www.bbc.co.uk/news/england/oxfordshire"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
-    "year": "Est. 1922",
-    "genre": "Oxfordshire Regional Broadcaster",
-    "rating": "4.8"
+    "title": "Experiencing Oxford as…",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04N185VlItUVc5U3M1VlJMNzRaaHRGZjd6ZTBLdUNTNWR5MDJOTVViWmpFSzFOWkFiVHQyUVBVVmRhc2VQZFJBUkRaQ3p5WHFvUEhzTVpDUWZLRGpiTHZmQ3BiNkVNNTEtOFBDb1QwQnRDUQ?oc=5",
+    "description": "Experiencing Oxford as…&nbsp;&nbsp;The Oxford Student",
+    "pubDate": "Mon, 12 Oct 2026 16:35:01 GMT",
+    "sourceName": "The Oxford Student",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Oxford Times",
-    "provider": "web",
-    "arguments": [
-      "http://www.oxfordtimes.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=oxfordtimes.co.uk",
-    "year": "Oxford",
-    "genre": "Oxfordshire Daily",
-    "rating": "4.8"
+    "title": "Oxford University staff told not to use phrase ‘learn the ropes’",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazEzSkZWSlgxMFZ3ak0zeHprX1JhRTFhcUxRR2Z5bWJDNFc1bFl6U3RKbnNYOUhnLU5mb2FranZORS1FLUFnY3M3OXozRVZCYzNVeU5Xck5ub2tnWkEwSU9jMUFLS3JmeFNRMTNiVUo4aEdTMW9QYkpyMjJGUHoycUFQSDhPdzBwX3plbXJwZ3hNdmF2SE91Q1JMbDlTcU1vREIxNi1COA?oc=5",
+    "description": "Oxford University staff told not to use phrase ‘learn the ropes’&nbsp;&nbsp;The Telegraph",
+    "pubDate": "Mon, 12 Oct 2026 13:30:00 GMT",
+    "sourceName": "The Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Oxford Star",
-    "provider": "web",
-    "arguments": [
-      "http://www.thisisoxfordshire.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thisisoxfordshire.co.uk",
-    "year": "Oxford",
-    "genre": "Oxfordshire Daily",
-    "rating": "4.8"
+    "title": "Northern Lights to be visible in UK tonight after Met Office alert",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUEN5cVdFY2N2NGVXemZfUnQzM085TXp6bS00SFowbElLOVVjQlR3NWtneFhoTmZZTlFYMnlmczFwMUp0dFdFcGtQUkRycDlWbkxPa0tCeGJOaUFDNjJGSGF4Yy1MSnZsRDdBbFBudlpsNENZS3NOTUdBTGpIT2RER2FZbkRLcThwbk9xWTJ5UFdWZjRlTGtmRzhjRQ?oc=5",
+    "description": "Northern Lights to be visible in UK tonight after Met Office alert&nbsp;&nbsp;Oxford Mail",
+    "pubDate": "Mon, 12 Oct 2026 13:30:00 GMT",
+    "sourceName": "Oxford Mail",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Thame Gazette",
-    "provider": "web",
-    "arguments": [
-      "http://www.thametoday.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thametoday.co.uk",
-    "year": "Oxford",
-    "genre": "Oxfordshire Daily",
-    "rating": "4.8"
+    "title": "‘If not me, then who?’: George Abaraonye’s return to Oxford",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTHhGY2VmYS1TQTJDVW5zSWNjWFlPbExpU2Y4WUtPeFRFd1NMLVV5U2VxRTZWTGZmTTVWN0Job3p5SHAyMkJaOVJGZFpUQjF4cGZYMDduY3BmQ1NXZ2dvRFRuVkNxQjBWMmlwT2xFYWRRRDNKOEZQLVlB?oc=5",
+    "description": "‘If not me, then who?’: George Abaraonye’s return to Oxford&nbsp;&nbsp;Cherwell",
+    "pubDate": "Sun, 11 Oct 2026 17:07:43 GMT",
+    "sourceName": "Cherwell",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "In pictures: Record numbers at Oxford Half Marathon",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ISVlKR1hOSDVwTmhVWXBOd3ZGcDBnMk4xelB0ckJ4bFJUWEZPd0M5SFlKbzZ4Mjc2Sm5JV3g1R05JQkNxVkFsaU82bjU2RXQ4Q1RPSl9UWXZQNkRYamc?oc=5",
+    "description": "In pictures: Record numbers at Oxford Half Marathon&nbsp;&nbsp;BBC",
+    "pubDate": "Sun, 11 Oct 2026 15:11:02 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Aaron Ramsey reflects on life at Oxford United so far",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2hidU1uVjVxMDh1Wmk4VjZ4c25CSVNwQnRtRkgtRVVaakYySlo1QkxkTFBFdXpucnhORkhHeW1ScnBXNWlmT0sxa0d6RUF2V2tuLTE1MEwzeFE3b2d6OHZPY3hISi1OOG9nUmNHaHNjWGNkLXN3T205elNKZS1WVHE5WFptdWEyR2tITENUMHFzbDlhd2dVZjJnTElseTctbWVrMnR3?oc=5",
+    "description": "Aaron Ramsey reflects on life at Oxford United so far&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Mon, 12 Oct 2026 14:46:01 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "My second Oxford year",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdVB2YUtjZHJpenFhZ3hxLW1ncFV2RXkwaURETkFhTEJOaVZYandYRHVWaFlsa1dGcG1uZmFnRHlxaUJ5cEx1SWR6NTF6ZEpWcFJ4SVlhVThMY3l4SW4tNEZDRVAwZTJveW90bG5xck8?oc=5",
+    "description": "My second Oxford year&nbsp;&nbsp;The Oxford Student",
+    "pubDate": "Sat, 10 Oct 2026 19:08:51 GMT",
+    "sourceName": "The Oxford Student",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Oxford's traffic filters scheme sees city centre gridlock",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RZWF5SjhMbG9tWGVxeUFWY1NrUXVTRjZrU0xERmxVWjlTZTZuOXp6Mk9wLXlIZTE5Q2U4U2RVeE5uMHRSNjVTb2duRnY4a0h2eWFja3d3Rzl4OVVrRGc?oc=5",
+    "description": "Oxford's traffic filters scheme sees city centre gridlock&nbsp;&nbsp;BBC",
+    "pubDate": "Tue, 13 Oct 2026 05:09:33 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Mum, I think I want to drop out of Oxford.",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGdCeXRpRlZTendWM3NsNExSS3h2N2hFTUMtNm1iNnVMX2pMU1ppYjF4Z21nbnh3NVI0bzhUV2JsM2NaSlVsb01idEZVM3Z4TnBkZXlSMElSUmlUQXFNcUxNT3haR0JXNTRuWExZV2MtQk9fWnBndVZKdHAycjZucU83ZjVTMXNrYnc?oc=5",
+    "description": "Mum, I think I want to drop out of Oxford.&nbsp;&nbsp;The Oxford Student",
+    "pubDate": "Sat, 10 Oct 2026 16:21:22 GMT",
+    "sourceName": "The Oxford Student",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "'A HUGE error' | Goalkeeping howler gifts Oxford the lead against Notts County!",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEUtYWtmWjhPbGUzUTczQ0x1R2x4WHBWcWRZWWwwc0ZJT3E1NEJXME5Wd3R6V0pBdXNuUU8zbXkya25CVnBXV0xZNy1QcWxQcTFmWjRKZnV1TmEyeTdLamJNZjF1SWZ3ZE9mUGQwbGdDOUVsWHN0UDE3RTFVb3lDa01ZRF8wT0dyWHQ4dF9rYXBGeXZHMW9pYWNfVDF6eFJYcUZJVTR2OGp4ckZaLXpjbDIzel9ScENFRkFNQ3lMbkZVQQ?oc=5",
+    "description": "'A HUGE error' | Goalkeeping howler gifts Oxford the lead against Notts County!&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 12:09:43 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Services and support planned for Oxford's transgender community",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SEhHVlpXWC1aTldaRF95d0N4cUg5N2E0dHZYQ1lvclV1Yl94N01QRXVlSWtUcDNneUpzdTdPVmlrY1kxN1E0c3lFSUVnM0xmeVJaR3BRNWlPR3VyRVE?oc=5",
+    "description": "Services and support planned for Oxford's transgender community&nbsp;&nbsp;BBC",
+    "pubDate": "Thu, 08 Oct 2026 05:11:30 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Oxford lecturer denies possessing indecent child images",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52TTNtZGxrMmNhM0NGRjQwTkY3Vk0zdUhIdlBaRFdUc0psQ0ppSWNLWWZ4SXdGdzJqZjExX0NlajFZNmVhQk9WX1htMGJkWm16MVpiU2hQazJaek5DWnc?oc=5",
+    "description": "Oxford lecturer denies possessing indecent child images&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 15:48:57 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Oxford roadworks hitting trade and delaying buses",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXcDJtNUc0Y2c2eTl2ZU1uc1NIWEpCUWFJWFV3UTNrS2lYN0NrTTFkTU53a2NHd2JrRlZWRnFtaFhYdTVsOUo4d2hMTzBlS3ZiWTBobzNjakxhR0F2NVE?oc=5",
+    "description": "Oxford roadworks hitting trade and delaying buses&nbsp;&nbsp;BBC",
+    "pubDate": "Wed, 07 Oct 2026 05:22:24 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Drivers mounting pavements threaten bin crew safety",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wOWJMV0pDclo4WTdGaDY4VzczYkhmZDdCdmVseFB1SnBrZE5WazZtc2hydjNQWHBSTHZ3S0EyaWlYQndwWDhpeWtGSk40d1RYYVVlVE5pNFZjNTFhTEE?oc=5",
+    "description": "Drivers mounting pavements threaten bin crew safety&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 05:17:18 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Cambourne: Woman arrested after 'suspicious' baby death",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pS19OSXVfcXNvcGxUQWl0N1A1cFdrZ3RoUXBnb2ZEQjFXdHVEUm9EM1dIUDVSbThUeVJRVUx4ZVl1THI5dGVscV95T2RPaTJ6M2J6OFluOW9OdkNKaUE?oc=5",
+    "description": "Cambourne: Woman arrested after 'suspicious' baby death&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 16:06:29 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Baby found dead in Staffordshire woods named as Lacey May Oxford",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ENEtpdjU1bEx3OFgwbVZQMmNqaUljdjRSZlJwQTlFbkFONm55aDg0em9CT3I5a1gzemdxR05xVmJ0cEpld1c0VWtrY3cxWTR2Y050cUN6RWlLTjJ5Nnc?oc=5",
+    "description": "Baby found dead in Staffordshire woods named as Lacey May Oxford&nbsp;&nbsp;BBC",
+    "pubDate": "Wed, 07 Oct 2026 12:07:10 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Drivers wrongly fined for Oxford congestion charge breaches",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54STctZExUU1BTVUEtblVNVFB1eVZVZjJuRzZyTV91WWhYbElQaWJQRGIyNHBVX3pHSjdjOFR0TkxLbVVhV0F1T2R0c1g4cDdjd0dVUFNHNEExb1Vo?oc=5",
+    "description": "Drivers wrongly fined for Oxford congestion charge breaches&nbsp;&nbsp;BBC",
+    "pubDate": "Tue, 13 Oct 2026 11:13:28 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

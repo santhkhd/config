@@ -1,57 +1,162 @@
 [
   {
-    "title": "Belfast Telegraph",
-    "provider": "web",
-    "arguments": [
-      "https://www.belfasttelegraph.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=belfasttelegraph.co.uk",
-    "year": "Northern Ireland",
-    "genre": "Flagship Belfast Daily",
-    "rating": "Daily"
+    "title": "HMS Queen Elizabeth departs Belfast after historic visit",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVC1xaExWMlp2WUFRYW9DMlh1NjU1dnZxQkE5RUdGeEhKVXpOWTVBd1dYa2ZsY1pGcXp6dk40VmZGaHBoQ1ZsWndQNnpSX1dZTHBkY1R6U1NDYUVNbEdRTmpHdnFSd3IwcVFoT3hZSnp6enFfeVR1b1p1VTZackQzdzVlUk1rT2dqYlpKRXF6Zkw4dFdIanhGd0dnS3RVaW9OdGVkMkdyVGpGd0FDNF9IdHpDUmdqUQ?oc=5",
+    "description": "HMS Queen Elizabeth departs Belfast after historic visit&nbsp;&nbsp;Royal Navy",
+    "pubDate": "Mon, 12 Oct 2026 10:47:25 GMT",
+    "sourceName": "Royal Navy",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Irish News",
-    "provider": "web",
-    "arguments": [
-      "https://www.irishnews.com"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=irishnews.com",
-    "year": "Northern Ireland",
-    "genre": "Belfast Metro & Regional",
-    "rating": "Daily"
+    "title": "Prince of Wales: William and Kate visit Northern Ireland",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ZDJjdGVOM2lsVnVSQmZaQkFYaTg2SlJrMlRTU0tNYWFRRGUzWENDcFdCQ3FiQU1CcWZsY1RDbFdoS050U2djVVlNSmVIcUV4b1d2X0ZPM1hNVWs?oc=5",
+    "description": "Prince of Wales: William and Kate visit Northern Ireland&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 15:47:25 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "News Letter",
-    "provider": "web",
-    "arguments": [
-      "https://www.newsletter.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsletter.co.uk",
-    "year": "Northern Ireland",
-    "genre": "Historic Belfast Morning Daily",
-    "rating": "Daily"
+    "title": "First Ulster Scots street sign for Belfast since changes to approval rule",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FR0lDdVN5VEVNVFVwdUhRZnhJNl81N1RrSnVTTHNYbUs1ZjJXWXdFb043NkRhc2FHbW9yazZIaXhpYy1qY1dFZjN3WXFHbDZINmxsdFUtb3FDLXpweVE?oc=5",
+    "description": "First Ulster Scots street sign for Belfast since changes to approval rule&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 05:22:49 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Belfast Live",
-    "provider": "web",
-    "arguments": [
-      "https://www.belfastlive.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=belfastlive.co.uk",
-    "year": "Northern Ireland",
-    "genre": "Breaking News & What's On",
-    "rating": "Live"
+    "title": "Police in Dublin and Belfast appeal over missing teenager",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXNjdDh6OFVfRFR1Z09scVkySGtPcG9qVE1FV0c4VlFRV05pQ1hJdTI1RGJCX19KVWNhZVNTZEVrcTZta1lvYU1uaVFCM05HY2I0XzZMb0pubWZhLW9GYlotY0xwaXN4N182bkhWYkFRTFNrQ3VucDJyd2o2MGZYMnVrckxnNzY5Um1VbFRiRjY5Wm1CU1RtbkZiZjVNQXJFbG44c2VBaHZQTGhUcDFjZ0ZZUlVOSTBVaWhvWUJ0dmFqTmhGdVdqM3VXZXVEUQ?oc=5",
+    "description": "Police in Dublin and Belfast appeal over missing teenager&nbsp;&nbsp;The Irish News",
+    "pubDate": "Mon, 12 Oct 2026 09:27:29 GMT",
+    "sourceName": "The Irish News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Irish News",
-    "provider": "web",
-    "arguments": [
-      "http://www.irishnews.com/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=irishnews.com",
-    "year": "Belfast",
-    "genre": "Belfast Local",
-    "rating": "4.8"
+    "title": "Ice Hockey Fights Cancer Game Night",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxVE1YTmZMTG9tRTB1OWFBZjBhWHRxckN2NzRWQjhJX3hPeEhYZjNrY3ltWW90OTlqTUlYOTc4TXlrekw4VTBZaDVoYzdKcHBMT2pfMFVsMkFmVE1yWDF0bFJ1YmdYNVdYUWFRQktXdnBLRkh0YTFZNEln?oc=5",
+    "description": "Ice Hockey Fights Cancer Game Night&nbsp;&nbsp;Belfast Giants",
+    "pubDate": "Mon, 12 Oct 2026 16:00:00 GMT",
+    "sourceName": "Belfast Giants",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "HMS Queen Elizabeth makes Belfast debut in first aircraft carrier visit in decades",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSG1TNS1vS05WWnJ2QzZrdks2SkNnVzFaOVFOeU9zWDMzOWdleUcwa2lKZmJyNF9IeVZ5dGJKNnprOV9xOEdNVGJTUUFsSlR5ZUhzU2twU21rTjhvbUFGTFRoTHZLYmczZXhoUlZkZTRrX0lCd2RldVhCT0RGelItZk4xYXNZdHJjV2pVVmJSbkR1UnhMTjBFRXFiTHRSdVlmcWV4TUdFbVpfY1dMcGFWaks2SDFPSGlz?oc=5",
+    "description": "HMS Queen Elizabeth makes Belfast debut in first aircraft carrier visit in decades&nbsp;&nbsp;Forces News",
+    "pubDate": "Wed, 07 Oct 2026 10:51:56 GMT",
+    "sourceName": "Forces News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Police investigating Dundonald protest attended by DUP Leader Gavin Robinson",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVZBVV9fVFVCaDA5TmFkemctRHFDUUtXTi1VVGJDREhmZG5wTmlfa0RORHk3ZDVERDRYREZiTUtwemdJa2dvX0hqc1I4c0g5U0RGdVpzamcyUG1jNERwUmFYVy1uWTRIcGJpSW82dzFxblBqTFl6WldaTjBPLVc5YXp6Ymdnbm5xWEwyRUJiLWhSdExsTjhrYjA1RFVMY1dZVUNWRjUya9IBrAFBVV95cUxPUDBFRGZvblk5akpIcEFGT19rUnlUdXE1N0ZjQ1pmeU8wY1l4eEVWQWhzengtR2ZmU051MnpQUVBvVzM0dUV4RjUxVEJhaHJxOGZWTnptZXFIZnR2RWZ6MTM5azA1SEozZWhaeUhoNGFRYjhyVV9KY3ZvY01QN016UWZ2OUhWbUxaa1hjcVRTQmRXOVdTWFdBZms1SkJRQVN5b0MtMG40bERqRjg5?oc=5",
+    "description": "Police investigating Dundonald protest attended by DUP Leader Gavin Robinson&nbsp;&nbsp;Belfast Live",
+    "pubDate": "Sat, 10 Oct 2026 16:17:00 GMT",
+    "sourceName": "Belfast Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Ciara Mageean: Olympian gets married amid cancer diagnosis",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uOFBzOE9aMW5Kb1ZqTlhRbk13My1DOUFOcWNDclA5QVVqb0JFZlI3MVZyVDBmTUhzMDRSTTJabloxLWkwUEJPckwzUjFtWWhjRlRUZ0UxRERiM2xVSHc?oc=5",
+    "description": "Ciara Mageean: Olympian gets married amid cancer diagnosis&nbsp;&nbsp;BBC",
+    "pubDate": "Tue, 13 Oct 2026 11:37:32 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Police appeal for help in identifying man discovered dead on rocks near Portstewart promenade",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdmt3MWo5MVA3Wk0teWN5UVlTRkRqNjJUTmdjY3ZfUGM3bUxVbDlUcFZneEFNdTZGRzhkT012dTJHcmJ6dVVpbEJmbmFJTTFHWDhhdlB2b01fblBWM2VYUC1Jb090ZExkLWNSWXpsMmMxN1FicXlPTnVNU0tTOER4QjllNHRsaHlycEhqaWtEaEVRUDhETlBMdWg5QlA3TXlFdXFjV3gzUXpjTk1OT0tTa2ZKdEJPTlZJRXNfNi1mLWxaYTl5eDZaZ3E1OUpKbEt3ZFVUTDF0LXF6N3hlMEJRTFloNjA?oc=5",
+    "description": "Police appeal for help in identifying man discovered dead on rocks near Portstewart promenade&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Sat, 10 Oct 2026 18:55:00 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Orange Order in Belfast tells members to cease all engagement with PSNI",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEZpMDNFV0JWLTZfMXF1SnFxUFcwZk91QWJFa2UwTXFWbmVpdmpmaXJCNlV0UGk5bHluaXNqMy1HVURNZkpFenBsNjZLVG1FQWFGaHk1Y1BDY1NCY0RFTzBiTTlUbU9CN0U1MGItLXg5amhiZzZTeG96SWxzQXdSdnVpem5KdU9CWUNKNjctMllkRld6TXZ4X011cVF4bVdpdTVZNGZXMm1lcUY3YmViNzRQUVZBNFVJeDlhX3VJanJITjRvUDBJ?oc=5",
+    "description": "Orange Order in Belfast tells members to cease all engagement with PSNI&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Mon, 12 Oct 2026 06:00:00 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Police issue update on body found in Portstewart as ‘no crime is suspected’",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR0RxaWF5cVI5bWlUbHp3ZjFxMVZaQTZGcDFVSl91REl1a2pqTnhkcjNXUHN2SHhQSS1ULVM0YVo0TEs3Vlh5QTVOeDJVLXFiUk1FcXBCWWx4RTBjMGl6c2wxWFNacmwxZjBRODFUMVFwY0FjT2FzOWRPUno5TTFJeUdHU3l3c2VVb0NwNnJwOVF3UjVOd1QzU015dFp0cnBaRmVVbGFKRlVqNEo0STRMXzFYTDlVOU5Bd2QtWnUtSmR6aGlCT18zOGFEMmt0bmFySndrWm94YjFVUXMySUcxYw?oc=5",
+    "description": "Police issue update on body found in Portstewart as ‘no crime is suspected’&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Mon, 12 Oct 2026 14:30:00 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Royal surprise in south Belfast as William and Kate delight crowds on the Ormeau Road",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc25aa0EtQTNQWUpuNEtOVVlNUFBWdnNwY0U1Wm5xLWFHUS1hNktOc05FVjdjd1o5RmY4UGJKdnRLTWVPUGFUaDdZa1FaTHJHd1pvZjVNNlNPTkIzNWZWQldsck1SRW14dDF4U1NGMkVFZ1otcVhxQzlBd1U4WnVoT1RtbFVJRjJvWHBsVUkzeTcxODB3aXF6ZEsxaUpHU0hRanV0ZGl2VmtvVGF2WWRzc1U2UWlsZE9DTDlHUkFUR1NLS1l5X29OdHp5azcwX3d1N2JtVHBEOFJOdw?oc=5",
+    "description": "Royal surprise in south Belfast as William and Kate delight crowds on the Ormeau Road&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Fri, 09 Oct 2026 20:03:00 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "‘When injustice becomes law resistance becomes duty’: Unnotified loyalist parade takes place on Shankill Road following Garvaghy Road ruling",
+    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPay1YVkYydDFwYWs4ZldvMnpRU19FSUpoS2lBc3BJVWNuaENUbXgwazFzT2txWjR4bEp5blFVa2dpN1RjeWlIRm96dXVHcjhVMlFHN1JXTnBGZ25iMFEtZjVPcW5TbGRFZTlIWk5qbFktVThkcFZfX2Y1LU5VbEh3OUo1YVBSUEpRN2lZUnlSSl8xYWt2LVVETHZUa3ZRN0d1TTNmVF9ueWFEWU9LT3FVeV82THJydVlFTEZWUU1OX0ZYTW5xczdDUGVvVFo1VEk5dHgyR2Z5dFZBWm9nTzBTeTIzRU5HSEo3dHJEamZmb3hSU0NHWmN6dHVDdzd1aVFNRmdWcl9TdGdwbkFqS2JzbmxPLWNHdzNfaEFpN1RnbHV3NFRnbTZNcG42YTdLdU55?oc=5",
+    "description": "‘When injustice becomes law resistance becomes duty’: Unnotified loyalist parade takes place on Shankill Road following Garvaghy Road ruling&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Tue, 13 Oct 2026 12:35:51 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Belfast International Airport paid French parent £62m in dividend payments over three years",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVzYzTDU2TUYwellGSE9QVGczcDBLMC02d1dKeUpBZEc4T1Fzbzc0QXExbUd3MmEwemhDenFoN1Rxa3cwRjRyR1h1SDhYaXB2MWczQ19kYUNWYU9vNFRsbzJaN3pORDAwa2FpQ0VnY05sQklqamU4NnF4QUN4aDQtXzdZdUl5VzY1TkthbG94emFURXBjSkM3ZzdpZnFOOFk5bUlON19iREtpQXYwWjJBRHhGMU1aUXdWV2l4clpMcGp0NHNDSTc3emdZOUh0eEdTSEpkbWNRTFFuOWtqQ0NiZTNDT2hIUFo1UVYxaHFoSQ?oc=5",
+    "description": "Belfast International Airport paid French parent £62m in dividend payments over three years&nbsp;&nbsp;The Irish News",
+    "pubDate": "Tue, 13 Oct 2026 05:00:01 GMT",
+    "sourceName": "The Irish News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "King sends message for National Cyber Security Centre’s 10th anniversary",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVlzVWNXcUZmT0NRR044ZHA2d21oNXBvVldLX25zd0xJUl9MN3VuNGM5UEZobTJmOWU1NFFuM3U1blNweTd3RzhRVXFNWHE2Tnk2dFE2OFlsYzJCZ2FXRFpfYjk4dUNhekRHV3lxc2RRQ3dRRTNGYUVBMUI0cGpMM3NISTQ1cFRLcEVoR3k3Tk52Ry1ISDBnNEhGTXZCdzd4VlBpU01aMXpoMklZSzY1OTVsbTRBWWs3UXVBZWltZTNUQ0JMWXVnSF9Ndw?oc=5",
+    "description": "King sends message for National Cyber Security Centre’s 10th anniversary&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Sat, 10 Oct 2026 17:11:56 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Emergency services attend serious incident at popular south Down restaurant",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVmk2N3hNeU9aNVVsVEplSS0zbEVfLWVBZWlDbURYTmtPNlZ5SUhpUzVfNllRNWVFNTRRZHZ1aElxVmh0ZkRCVUFONk94RTFjZ01za011STk5VEVuMU9qSUtucWFNck41RExuSGgxVDctLUNEQlNBSERlNDZod1JrMlRxUml2bGRnOHprNDR3RFpweGk2QzdWOHVzbnRrYzFWdGZ3NHQ3TU9Qek41QWtNSXE3RlJQX1A2UEtPVzV3UmJTekpxdTVyMkljbjA?oc=5",
+    "description": "Emergency services attend serious incident at popular south Down restaurant&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Sun, 11 Oct 2026 21:14:00 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Allison Morris: DUP could be the biggest losers from Drumcree as a new political crisis emerges",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnVOWEJoc3BqSG12d094S19fekFzNkMyNlFkTGJOalJSNE5RRUZPMlh1akFPZlpCRlFvamZQNndQMDZfU0Y1WWZnMWRkRXRnTk1rYU5VaGVqTVVjYk9XTUVNcU1ZRzNva1plSHdvWm0tdTk2WWNRYUgweUhFd3ZwVU1uaW0zTmxaTVNiLTkxVGdNVWpnLUhjVGQzalNXYnNRUldUVi0xR2dFWTdJWnNZWWxfWU56NlJobGN4c0xZdEEwSkR0aEdSMzFaMVJlVWZzbnc?oc=5",
+    "description": "Allison Morris: DUP could be the biggest losers from Drumcree as a new political crisis emerges&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Mon, 12 Oct 2026 06:20:00 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Golf Business Technology Conference returns to Belfast in 2027",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVno5eS1LMHZlcnB3cGJQVlgxMVFsV1VheFBJZm1yQ1JQcHRqT21ERmpfVHhHWEdhdXRsbktmNmtITk5Wcl8wdTQybndYTktkQzRLTi1kMjhMcnNoVlpZSlBBbTJNcGdmQVdWdTV4YUNZcFZtbTBJaUM1QWFpa3lBX3VrMUh5N3IwQ3dUWHdFSWxfelB0UlJEWHNoUVlNOW8tWW96S1N1c2M3SE5RUFpVOEc4UEluT1AydDhrT1ZRc3liM1U?oc=5",
+    "description": "Golf Business Technology Conference returns to Belfast in 2027&nbsp;&nbsp;Golf Business News",
+    "pubDate": "Fri, 09 Oct 2026 09:22:36 GMT",
+    "sourceName": "Golf Business News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "I went on the floating book fair in Belfast and here's why it's a great trip out with the kids",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjA5TlF2UzNsWFFSRFlMOGdlZW41ZHl1bTVlZndCVTFhS21pMW1BUEZZazJaalBNWFdPUnVkM3J6RVFLR0t2aVVJdHFTeDZIV2RNUmN0QmxXUjNHZ3lCQ0dXRXN3UktlTUMtRUxxQW9CbkpEbl9mUnZHak1Za3l4QVdISlI3Y2FoZUJ4aXd0Q1Nsa2x2enFWWDA0YmpUZ9IBowFBVV95cUxQa1ZIc1ZlWHUydDdHZTNDSExEYWluLVp4UU1sSUFaSi1zdV8zQ2d3MVRBQWVxSHptWmdRSVpfY1lGX2hxamVpNlNxTS1SZERoZ3VvTjdwb2l1cW5GY1RnczBPOG5NYmljNkxrQ0VsTElnZGJ0SnBHSkNIODNGamxySjMycWZCY1phelVudzRZTkVXbzhtN1NtQUZlR24xbWozNDRR?oc=5",
+    "description": "I went on the floating book fair in Belfast and here's why it's a great trip out with the kids&nbsp;&nbsp;Belfast Live",
+    "pubDate": "Sat, 10 Oct 2026 20:40:00 GMT",
+    "sourceName": "Belfast Live",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Family appeal for part-time dog share or animal behaviourist following pet’s traumatic incident",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY0xLcnZhUXl3bWJmRFRpYTJPZ1p3bE1jcTNDcXJyNWF0bjJOQnVjMHNLQ3VicWJfdWZfU09Qakl5MHNjaEFLSnNtUV94OUcyblBMMGpxNlc3RVB3MmsyVHNyams4end1Z2RZODJfUlhodFFzU0ZiRlNwUzNkeVZPVnYwNXpwakFoSjVEckdnOEdOU28zSm1DcEJlbjVPTVRmaVhMM1JVZUxjcmJuc2ZqdExPdGZVdU9aYlRPTEJHMlk2aWc2YS1BSHM5WVZ3MnBpLUt5RnVrRXRhWHpwalU5amtPbXRXVVcxdkd3Ui1qa0puM2dLTjYzeGppVGtNZw?oc=5",
+    "description": "Family appeal for part-time dog share or animal behaviourist following pet’s traumatic incident&nbsp;&nbsp;Belfast Telegraph",
+    "pubDate": "Thu, 08 Oct 2026 08:26:00 GMT",
+    "sourceName": "Belfast Telegraph",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

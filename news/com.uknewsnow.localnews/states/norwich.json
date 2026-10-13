@@ -1,167 +1,162 @@
 [
   {
-    "title": "Eastern Daily Press",
-    "provider": "web",
-    "arguments": [
-      "https://www.edp24.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=edp24.co.uk",
-    "year": "Est. 1870",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Teen on trial for attempted murder at school 'not to learn but kill', jury told",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekgyY19oQ0JyYVRUaU9rR0szSkU4Wlp6RkRFRVh2YUgtcW9CZnRYTnN6TnF0TnVWeGRHSHZOc1Z4Sy1oZk1OMXh6Q1JIUnNyMklaWTdXd2FiazVKNzIxRjgwTGprSjM4Nnp6emo3WGhVb1kwdlpIMDVucHpLT3dDV2tWN0lyWVRTaEdWaUNBcVBxZzFNMEJuUVNfZm9JeU0?oc=5",
+    "description": "Teen on trial for attempted murder at school 'not to learn but kill', jury told&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Wed, 07 Oct 2026 13:13:08 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Norwich Evening News",
-    "provider": "web",
-    "arguments": [
-      "https://www.eveningnews24.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningnews24.co.uk",
-    "year": "Est. 1882",
-    "genre": "Norwich City Daily",
-    "rating": "4.8"
+    "title": "Unauthorised person gets on school grounds where 15-year-old girl was stabbed",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0FtSmhjU19TcGpGWDA1bW9ETGI3dVBtNEVSVGx0MDcxVm55TU9qb21WMHdYMjc5SGJqa0RPc1dwUGJCa3BoN1VFcERTN1ZnNFpQVzNoRExsUEhVeUxyb3Ffd2JrQUl6RXdtV2dFX3FYcmhyd01hWjBsSV9QZjB2a25zM1lCU3dyeG1DajVGcm53SnViVE5BQk1IdmMyQQ?oc=5",
+    "description": "Unauthorised person gets on school grounds where 15-year-old girl was stabbed&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Fri, 09 Oct 2026 15:45:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "East Anglian Daily Times",
-    "provider": "web",
-    "arguments": [
-      "https://www.eadt.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=eadt.co.uk",
-    "year": "Est. 1874",
-    "genre": "Suffolk & Essex News",
-    "rating": "4.8"
+    "title": "Data centre raises noise and wildlife impact fears",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBicXFGVlJpbEhQRkE3RnRwMG1QLUpkaGFxUHJWSFAwREpYaU9EMl9KdkYtcWtVd213OTBDWjVtak5DdkhiTnpJQkQ5MGpKMG9fMVVnNWpwTTVCbUpDUmc?oc=5",
+    "description": "Data centre raises noise and wildlife impact fears&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 05:30:42 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Lynn News",
-    "provider": "web",
-    "arguments": [
-      "https://www.lynnnews.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=lynnnews.co.uk",
-    "year": "Est. 1841",
-    "genre": "West Norfolk & King's Lynn",
-    "rating": "4.8"
+    "title": "PRESSER: Norwich City vs Southampton – Two fresh injury concerns",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTRtWjZleDkwSl9QZXNUdnN5S3VKUkNFRERMVVM5dEFnOUlDZkpjbUdmaE12TW0tTkctTV82elNobG5qbDFoREhOT0pDTEZFWlBRcWdSWktVdkhoa3g3NnZHWEF0c1daQXoxMGliWTducGdqRm94SklxdDdGSG9vTnpoaXM5QmxmX1ZQRzhDVXh0LWpGbVV0VXNPRDBjOUhGeFE?oc=5",
+    "description": "PRESSER: Norwich City vs Southampton – Two fresh injury concerns&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Tue, 13 Oct 2026 11:15:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "BBC News Norfolk",
-    "provider": "web",
-    "arguments": [
-      "https://www.bbc.co.uk/news/england/norfolk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
-    "year": "Est. 1922",
-    "genre": "Norfolk Local Broadcaster",
-    "rating": "4.8"
+    "title": "Team news | Swansea City v Norwich City",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OREtMeXo2bUlhVFp4V2huNmJMaVVvZGV5MjRNSWdRV0xoeG8wb0JwSEI5RlJ6eEFRVHJfRUttU0p1ZEx6UmN6WksxbW11UVRzMnFaVFo2NnJnOUhRVDJwMTI1Nm1KSXQtQ3dZeWpyU1diV1pQUzItNkJLc2w?oc=5",
+    "description": "Team news | Swansea City v Norwich City&nbsp;&nbsp;Swansea City",
+    "pubDate": "Sat, 10 Oct 2026 06:34:14 GMT",
+    "sourceName": "Swansea City",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Essex Chronicle",
-    "provider": "web",
-    "arguments": [
-      "http://www.essexlive.news/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=essexlive.news",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Norwich City Q&A with Paddy Davitt and Adam Harvey",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHJLWFcwVTVmVmFzeVJhXzZORlhSVjJkSWVmRGpHUFBHeDhaVU1JYVpqdndKYlNCX0ZmeTJQTFFXUzFtY3NmQUt3TE55OXkwTW5UTVBsXy1Gb3ZEY3M5cnMwS0VIdEFvWER6WVVZSVRmNno1dy1ERno2VmZ0OFNCMWgxLUtiM09TOTN4UjA3amp3eVlHV0pJdWR3?oc=5",
+    "description": "Norwich City Q&amp;A with Paddy Davitt and Adam Harvey&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Mon, 12 Oct 2026 11:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Norwich Evening News",
-    "provider": "web",
-    "arguments": [
-      "http://www.eveningnews24.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningnews24.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Death notices and funeral announcements from the Norwich Evening News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY01tV19NTHI5ZVA3amZDNnlGZkhLbEJ6SzRMX0ROamN1S2tlWHdrOTdBQmFyYmd5R05yX09HVGZ6Nl8wa052UDd2YkZycHhiU1dWZ2lnVGd5VFNvdjBaZ2I5b3hQejhHVkhkN0hkMThtcmlEVnFZZ28wcVpwQlF3Q1dLWXNlZVFIc0pCdTJ5RkU4MlU?oc=5",
+    "description": "Death notices and funeral announcements from the Norwich Evening News&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Sat, 10 Oct 2026 04:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Lynn News",
-    "provider": "web",
-    "arguments": [
-      "http://www.lynnnews.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=lynnnews.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "City bakery put to the test by influencer duo with thousands of followers",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXZrdzR2cTZSUVIzY1ZLUkJLdmNxbWxmdjJLQy1sZTBpNUU2YW11Y2Y1RnZCdE1YUWwxTkFIOHBnY2MxaEN1XzhsaV9nTW1LaEp0bjZubWxUMXRyNFAyWWhJT1FBdVpMWDNQU2ZrWTZyWHlOOVd2Y2FqWlg5RlNJSGdKbTlpZnZGNERtQkV6b0JTSExRMzRGTjdjWUVGc2hfaFRMa093?oc=5",
+    "description": "City bakery put to the test by influencer duo with thousands of followers&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Sun, 11 Oct 2026 09:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Lowestoft Journal",
-    "provider": "web",
-    "arguments": [
-      "http://www.lowestoftjournal.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=lowestoftjournal.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Swansea 2-1 Norwich | Championship Highlights",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhVVmxuM1RMMWd2VjI3VV9wbkl1NVJCWTBrUGdwc1YxT3VGR194NVZBNUZreWFiMlg3TExkNmVfM1hyQm1Nb0JTYXFUbk05aUhJeEdQSkJFQmw3cmVZc3R6RHdIemNtVjFfV3U4ZEFrc0VKRm03SHFFd2lWYmJtNlc5aVZhZTN4emVrZGtoR21FVmJzLVRBTg?oc=5",
+    "description": "Swansea 2-1 Norwich | Championship Highlights&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 13:37:14 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Thurrock Gazette",
-    "provider": "web",
-    "arguments": [
-      "http://www.thurrockgazette.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=thurrockgazette.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Man City breaches could have cost Norwich £43.8m - report",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGpBUFlBTXUzNGdkV28tZHNySWNQRUFza3ZDcWxiaUUwOVB6V281S0Rfc2luR3owNjZpTGVNeXJGQ0JLV0taMlZlQTZrejBuVkZqSThNeVFvR0I3MU1oRVR0NktCMkJfVTUyRHREWnZxNi1nbzhjVkpoVHIyQmJESTJiekhtTnNIWnNHRFNrUHprSFNyM3BLOXJjUm5XUUhMV2g5R3gxbw?oc=5",
+    "description": "Man City breaches could have cost Norwich £43.8m - report&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Tue, 13 Oct 2026 11:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Dereham Times",
-    "provider": "web",
-    "arguments": [
-      "http://www.derehamtimes.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=derehamtimes.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "New homeless tents spotted across Norwich",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObzRvemhDQ1o5MEgtWjV2WGlGR1V1QXoweVhUNWxZd0kxT2pBSzlNdmx3c0RteVBQeVNvYTNSUk92dE1vajh5dTlyNUk2MFQ0RUMxTDNaakQtazZBbV9pVGhkUTRTMW5mb0xPcXpoLXVVUHpKdlJwVUJVUU0tN3FyeEk1VVNPZk02WTRXeFVkNGhTcDRQUXpIbDRuZw?oc=5",
+    "description": "New homeless tents spotted across Norwich&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Fri, 09 Oct 2026 14:45:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Chelmsford Weekly News",
-    "provider": "web",
-    "arguments": [
-      "http://www.chelmsfordweeklynews.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=chelmsfordweeklynews.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Aurora displays light Norfolk's skies with more expected next week",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUxFWUp5aWdqaE1LNkdPblJGSnFDNFBBSEt1X01SVDYyRzRWTnJMbVFBQVQzNXVXVXV4U3V5U3lBeUo4UHp2LXVOaGwyRk8tYVpicWRxV0VtMm5icnh4UC1MNzJRTDZMMV8tVFJyM1hGcFhzOVNjZEhLNXpxZFdxSm12Y2dDZlE?oc=5",
+    "description": "Aurora displays light Norfolk's skies with more expected next week&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Sun, 11 Oct 2026 17:39:01 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Saffron Walden Reporter",
-    "provider": "web",
-    "arguments": [
-      "http://www.saffronwaldenreporter.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=saffronwaldenreporter.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Norwich schoolgirl was stabbed by masked 15-year-old, court hears",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84TndJN09aM0I3M2F5VXhkM0Zpak5TUE9JV1pKQ3BNOTNsekg2MC1EZG1Db1oxbW90OS0zekpLbkpWOFBVa1BVWmJvOHFvWmkwWHFGbVN6N1FOVEFKVnc?oc=5",
+    "description": "Norwich schoolgirl was stabbed by masked 15-year-old, court hears&nbsp;&nbsp;BBC",
+    "pubDate": "Wed, 07 Oct 2026 17:56:54 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Dunmow Broadcast and Recorder",
-    "provider": "web",
-    "arguments": [
-      "https://www.dunmowbroadcast.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=dunmowbroadcast.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "PRESSER: Swansea v Norwich City - Toure out until Jan; Diallo weeks; Chrisene boost",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelpwbXNmZElkY2E1a2F3dnFLZWJqWUpPYlRDZVlLREpQQ0NxcGdvRVdON3IxZWk0ZVZ6Ujd1QlZhYTU2VjJfaXNESWNVYjBjZHRJN3BpSHcyNVNKWXZma3NTWlJiQU9pZjkyNTh6bVo0SUhNcHR1SmpmVUhVdzNmTHdrdTlwYlV3ZEFVazh0V25TMGt0bHNFdElkLWVqV0VxTVNj?oc=5",
+    "description": "PRESSER: Swansea v Norwich City - Toure out until Jan; Diallo weeks; Chrisene boost&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Fri, 09 Oct 2026 14:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Brentwood Weekly News",
-    "provider": "web",
-    "arguments": [
-      "http://www.brentwoodlive.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=brentwoodlive.co.uk",
-    "year": "Norwich",
-    "genre": "Norfolk & East Anglia Daily",
-    "rating": "4.8"
+    "title": "Norwich woman remembered for her elegance and love of dancing",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUC1fR1VZalpWc3N2VnE1MmZLaTFkYTdOVXZOWjZYM0diRzVRWUNMeHNhai1Ta2R5Nm1jVklXOHVRV3gwMkU0UE1sQldvQlA0Vm9MN0I3Rm1BbDNOQkkzWGI5QWxsQzhvUXg1dGtMb3d0VTRwS09LczJ0cmpRVUpVcnI2VXhhMFIyWm5EYlZVQktEWnNYM1JqM1V1RlBSOTJOdXc?oc=5",
+    "description": "Norwich woman remembered for her elegance and love of dancing&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Mon, 12 Oct 2026 05:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Chris Goreham: Pivotal week and City need to break the bank",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHF4ZlJKT3hFdVNDYjR6X0VIaGtQY2JQbUx4YkhHQURtYnM1OFdteHF4QU44Qm53WUc0WEFzSmxSN1hCU2I2d0Z0MVBTUzkzWHlpWl9BeVliTjNXczlIUi1vT2J3YmROYm1FZF9jSHZtTFBLQWJ3U0xiWUJWQm5xTFZFcTBHN1JwanFRN0h1UlB4SWNRSkV6MnZWbWhTOEE?oc=5",
+    "description": "Chris Goreham: Pivotal week and City need to break the bank&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Tue, 13 Oct 2026 05:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Red Arrows plane spotted flying over Norfolk",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUnBNbDlNdXhoNmlUcGxCaDJmbkxDaXJuMHlYUFhyQlVwS19zZmYwMHl2V1A3bmpjZVdzdzJaSWh2MGZBR2I5eGRucGFWR09vblNaRUFDLVZ0VVREWDhLZFhjRzlpZTRvTjk3MEo2RUJLa0dnbHBNbVg4OHd4V1dCX3NTZDlDU2VJbGViV0FGeTE3REFGVkl4SHZ2eEsxQQ?oc=5",
+    "description": "Red Arrows plane spotted flying over Norfolk&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Mon, 12 Oct 2026 10:32:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Six things you might have missed from City’s second-half collapse at Swansea",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVRPeFFsZzVPU3FhNE80VHkxY0V5ZmVGYUxBb0UyS011MmQ0TG9qV1BZVzNrNU91VlJiNW9fNzMtZkZuR1BaS1ZqWVN2SW83UHdSMGpqSG5OdDA2SktuLVRJX0Yxckh6czhzVU5fQ1FoNlVrVXEtV3IzWGFmSkxnQl9iY2w5LW50OWw5WTJQcXVXc01CWHlqOXpR?oc=5",
+    "description": "Six things you might have missed from City’s second-half collapse at Swansea&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Mon, 12 Oct 2026 05:00:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Growing homeless camp near River Wensum leads to calls for urgent council action",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVlMVTNhSkxZWnEwMHc3a1FpdUpkWTFHT0kxTjFOTDRUeDF2bkZNV0tiZkk4elNGUXdqYkZvU3llbWY4NzlPNjJJR2g5d0NCMmlsOW52ZUVTSDAxQlJOV3dEcVlZNnMxa0dVRTJlVXl4Ri1RX1VqQkNtODY4ZzQxR0JuZ2RNRHI3N1M4R0NwUFNpbVotYzJVaXo4eF8?oc=5",
+    "description": "Growing homeless camp near River Wensum leads to calls for urgent council action&nbsp;&nbsp;Norwich Evening News",
+    "pubDate": "Tue, 13 Oct 2026 15:40:00 GMT",
+    "sourceName": "Norwich Evening News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Championship: Swansea score sublime team goal against Norwich",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSk1xdl9lYzNMY0hGamE3bmV2VDYydVplN0x1MU40aTJuNWgxYnBqNzV5VGpXMDNCRVBCdVUzeVRLSE5uVWxIOHRGdVhSZUcxZlBIM2lkbE9rR1YxZGU3b0wyRGljMEw2M0RJdGZwNjQ2LWJrMUhwb0M2cFFES0pXSjhaSC1oSjgxSDZBNDhSWk52UEtVWGdXalZfZjhWci1pRUxobUdMUGNmOHhXV1lv?oc=5",
+    "description": "Championship: Swansea score sublime team goal against Norwich&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sat, 10 Oct 2026 12:53:18 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

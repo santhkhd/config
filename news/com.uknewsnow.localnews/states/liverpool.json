@@ -1,90 +1,162 @@
 [
   {
-    "title": "Liverpool Echo",
-    "provider": "web",
-    "arguments": [
-      "https://www.liverpoolecho.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=liverpoolecho.co.uk",
-    "year": "Merseyside",
-    "genre": "Flagship Liverpool Daily",
-    "rating": "Daily"
+    "title": "Liverpool v Manchester City: Team news",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucGNpWU81QW8yMVU2RERFY1IzcWNZbmN0YU04UzhXWkM1Uml5cnViQ3VhMzNqRVRKVmtDZy0xZDByclZrb2FyTVRfUlhQRHU1ZzR2T3poOEQxbTV4QVlQY3FaUDRfVEo0YXdSS2FHNHRGZC1NRTk4djltRnpRZw?oc=5",
+    "description": "Liverpool v Manchester City: Team news&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Sat, 10 Oct 2026 08:15:50 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Wirral Globe",
-    "provider": "web",
-    "arguments": [
-      "https://www.wirralglobe.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=wirralglobe.co.uk",
-    "year": "Merseyside",
-    "genre": "Birkenhead & Wirral Peninsula",
-    "rating": "Weekly"
+    "title": "Arrests made following Liverpool v Manchester City",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1dQWkxNSEE2Yk5tR3p2ZlBzbWs5YVg4d2haM1BwQ3l6eE1KRDNTaFE3WkM5Q3FWU1RMdU45U2pldWg0cGZaQ3NxQjg0cDJZalJxRTJabFRnR2F3U05yNll2M1IyWnNQODNSejFFWVluMUVGTjE4bmVkeHllOUl6UWpqMXUwUnpSSC02ODY1QXhjLUJSbjNvZkp2eFV1YkNXTGhBVGpldU5HbzdDbVg0V3B2MlduT3dzaEtpRm85UnM?oc=5",
+    "description": "Arrests made following Liverpool v Manchester City&nbsp;&nbsp;Merseyside Police",
+    "pubDate": "Mon, 12 Oct 2026 10:21:00 GMT",
+    "sourceName": "Merseyside Police",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "St Helens Star",
-    "provider": "web",
-    "arguments": [
-      "https://www.sthelensstar.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=sthelensstar.co.uk",
-    "year": "Merseyside",
-    "genre": "St Helens & Rainford",
-    "rating": "Weekly"
+    "title": "Liverpool player ratings as £239m pair just 5/10 in contentious defeat to Man City",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWdvSmMwbktJa0lnZVhnYWRhRC1TSE95di1NYlctWjNNN0pqYjFad3ZtR3VYUkN4UXFLLXJxMUNlTjY3R1p1dmJjWkRFcDNJQjdQUWM0aDBrZlpWaW1yMG5YMGpMTTBhT01nYXE3dE5JRURZR3ZHZUV4Rm1xNWRrT3RqYWdEblFjRTYwOVNidk9JSG1Mbk5hTDB1T21UclA4Q0RxcFNvSQ?oc=5",
+    "description": "Liverpool player ratings as £239m pair just 5/10 in contentious defeat to Man City&nbsp;&nbsp;Liverpool Echo",
+    "pubDate": "Sun, 11 Oct 2026 20:01:00 GMT",
+    "sourceName": "Liverpool Echo",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Southport Visiter",
-    "provider": "web",
-    "arguments": [
-      "https://www.southportvisiter.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=southportvisiter.co.uk",
-    "year": "Merseyside",
-    "genre": "Southport & Formby",
-    "rating": "Weekly"
+    "title": "Liverpool 0-3 Man City: Anfield delivers own verdict on Premier League ruling but City are defiant and top of the table",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ19mQVB2bEZJNHdxMjFKY3NLZHB1SVFFb3VhRTV6VUpuMGMzeTkxRUR5S1ozQnN2UkhlYjItenUyUDR0U3RnNlFsTlJraGxsaUZPaXBQUkVGbGdGQ1haREVHZlBKUER2a01ZUUJWRHJIbEVzT21mSHFTWUFVZlJnalJ1Z1Rzc3oxZXoyWXRsQ0VlVmE2dUhKNlVTMGxNM3JxOGhsaTQwbGw4bmcxTkVxVVJkY0ZHZm5LZThpLVBwTEhOcDRFcTl5cXppcW1OeUpuRXNmTV9UVmdGdDJQMzB1eXIyb3hSQWxWdXhkQmVTOUxNQndvLWVSZGVSbw?oc=5",
+    "description": "Liverpool 0-3 Man City: Anfield delivers own verdict on Premier League ruling but City are defiant and top of the table&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Tue, 13 Oct 2026 16:28:31 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Liverpool Echo",
-    "provider": "web",
-    "arguments": [
-      "http://www.liverpoolecho.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=liverpoolecho.co.uk",
-    "year": "Liverpool",
-    "genre": "Merseyside & Liverpool Daily",
-    "rating": "4.8"
+    "title": "Liverpool City Region Tourism Awards 2026 shortlist revealed",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmZHTFpqOEl6bjBXUmt3S2NsUHhNZXJBSkcwb2FTNF90VHhSLWNKalFHVEh3LXNRQWZ4dExTa21lMkdxNC1XTFJ5MVp0TFlKaXRPOHFHWGpSbHhPMXYwVUo4NUs5STZuVGN2a2RzWktVY2Z4V0pza1JiOTFBd2lHRUU1RlcxazlNRDluWkFUZ1IzWTlwa1k5R2pTMTVhWmRnMXpXMmx6cjVPSDg?oc=5",
+    "description": "Liverpool City Region Tourism Awards 2026 shortlist revealed&nbsp;&nbsp;Liverpool City Region Combined Authority",
+    "pubDate": "Tue, 13 Oct 2026 13:53:43 GMT",
+    "sourceName": "Liverpool City Region Combined Authority",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Wirral Globe",
-    "provider": "web",
-    "arguments": [
-      "http://www.wirralglobe.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=wirralglobe.co.uk",
-    "year": "Liverpool",
-    "genre": "Merseyside & Liverpool Daily",
-    "rating": "4.8"
+    "title": "Reaction: Andoni Iraola's press conference after Liverpool's loss to Man City",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDRVeXhYSXU1WDM4S044UHVTVTNyTUQwWVY1R0ZKNVFId0NZUHRLRzBNdlZGdy1RWC1ZeGROWGx0ZEowME1mVHFjYWk2b2lpa1FpRUlsUTEzOHpJSHY2QVRia1pnRDlZNVFDY09BbE9PYmZVSUpnTm02c2hGOFNCVVJFMmhYNzQ2MVVoZmw3OWF5UVBsQ3h4VDBOelg0QQ?oc=5",
+    "description": "Reaction: Andoni Iraola's press conference after Liverpool's loss to Man City&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Mon, 12 Oct 2026 01:03:28 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "St. Helens Star",
-    "provider": "web",
-    "arguments": [
-      "http://www.sthelensstar.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=sthelensstar.co.uk",
-    "year": "Liverpool",
-    "genre": "Merseyside & Liverpool Daily",
-    "rating": "4.8"
+    "title": "Andoni Iraola has delivered an appraisal of Liverpool's",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMThEbGFUZllXUTBDMkNzZGx3eTBrZUtYbEtaYmN5SGRsYTh3VEJPcHE1bTF6Q0ZEMDNOX2lLSDlFNDd5VFktYTVFLTA0Q2RNQ2hTQlZza0plejVyS1VFVS0zUUpoOGppZ2Y3RGtOeFRLblVoVWNra1lwZDBseFRmQnV6MlpJTG02dmtiSjlWZHJUYmJ2Q21nWkU1NnJCZUVza00yczJzYWdZdw?oc=5",
+    "description": "Andoni Iraola has delivered an appraisal of Liverpool's&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Wed, 07 Oct 2026 15:03:26 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "St. Helens Reporter",
-    "provider": "web",
-    "arguments": [
-      "http://www.sthelensreporter.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=sthelensreporter.co.uk",
-    "year": "Liverpool",
-    "genre": "Merseyside & Liverpool Daily",
-    "rating": "4.8"
+    "title": "Liverpool name 23-man squad for Champions League trip to LASK",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3FzN09xTWZ4NXhlWDBPN1JtdVB4bFRkaFlSZ09yY1cyaDI3MWF0cm9jZ2pibUtTUl9CT04yX3poQ0x2eXBwV3lIdlhNOUR0VEl4NU5BakV6LW8wckwxcU0zQ0NjT0NmaGszTlhtd1lqV090V2thOUJsejQ0V0YyTGd3eU5TOTNJbnkzU2gwZ1Ywakc1OVE?oc=5",
+    "description": "Liverpool name 23-man squad for Champions League trip to LASK&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Tue, 13 Oct 2026 12:37:47 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "LFC fitness update: Alexander Isak, Cody Gakpo, Federico Chiesa and Jeremy Jacquet",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlRQRWZ4cFB2R3pHTEREYlFGeUd6NkFCN3ZUbFQ3eHhXbHZIbHJLendlMEdJMVpOWlBJUENXd1djQjVUSUVfU1BqZHhLNUotcFBDLWdfU0xNMVlYdURXQm9CVGlmdHI1eVMyNEZuS3Q3Y1FBSk5UVjdZc0xoTVNwazB5MmdqMzdndVJKRDVmWXoxNmVpd1dXbGlmTWJFY0h4UmFxU3FubFhsOU8zdnVPWl9B?oc=5",
+    "description": "LFC fitness update: Alexander Isak, Cody Gakpo, Federico Chiesa and Jeremy Jacquet&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Fri, 09 Oct 2026 13:12:34 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Confirmed Liverpool line-up v Manchester City",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHVRbVVzS3RZMnplN2hrLUx0cS1ZaXJOajFDRzBKMUpWc3BJVHNFYzQ5eENyYlJWNU0zTzFJT25NOWktemgyUjdRNXh4VkQtLXZRczRVcDMzTHpCRko3emJKUVExOEFDRzN6WXhJcEZwX251SGI4LXRHY2RyeTNOSjVKZDU?oc=5",
+    "description": "Confirmed Liverpool line-up v Manchester City&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Sun, 11 Oct 2026 14:15:13 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Liverpool 0-3 Manchester City: Watch match action",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2pJd3dieHZ4NmUzZkpxaTlvS3hXc0M0bWIxVUNFZC1idC1yTU1ob0hoV1l0ZmhfNDY4RVRUTnZuUlJXSTVETGVhbUc0QmtGbFpfc25LOE1YWndIb29VV2NMRGZidmtIU0JfZkN4bkVfV3ZxbTVDY2R4X3ZqTlRfWEpUTldKMkhWRnFRMDNR?oc=5",
+    "description": "Liverpool 0-3 Manchester City: Watch match action&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Mon, 12 Oct 2026 07:50:24 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "'Very difficult' - Virgil van Dijk's verdict on Liverpool's defeat by Man City",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaW9yVWhTZlBpT2pEaFo2WjhGaFF6Z1dMVU5BaENraXB3dnd0d0p2ZXRON25TQnpFaHpCQW5SRU94Qi1wSmRYT3kxMXM5Tk1lcFMwdmx5WUJWM2hvcENTT0VUOTk2dDhPY04xcjh3Ui1LcF92cTc0Wms3RUktUEItbm44ZndDMThQTUdLMmEtQkZfQQ?oc=5",
+    "description": "'Very difficult' - Virgil van Dijk's verdict on Liverpool's defeat by Man City&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Sun, 11 Oct 2026 18:34:47 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Match report: Liverpool beaten by Manchester City in PL clash at Anfield",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXpuWjdRSGZHYjhkaW9jZEdlY3NIb2o5Ujc2QTdqN25TemxJRS15NU9nV19kaGc5TVIwUHJwdWgtSk15VjMzUFVUUnJGa3pjSWozTHd1ZWFMUF9DMng5OXBzN2FzWTV5ejkySUo1bjdFUXJNejQ5U1NDUDh5cVQ1TU84YkRYYWtTMEc5TzdXQXQ?oc=5",
+    "description": "Match report: Liverpool beaten by Manchester City in PL clash at Anfield&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Sun, 11 Oct 2026 17:26:01 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Dominik Szoboszlai injury update",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ19EbDBJdVJrandrdUdLUWpxaVRYMmw0MGpqSVRreHRNSVZqdTR4Rmp1WlowNU9TRzdwZGE2RE9WOUdORjBUdzVnNThod0g2TXVWV2t3RFdzcTJtUjRpLXlHM3NpYWVXdEU3MmttWGhKWjdqeTlLMHhuZk4ydXdsYU9TT0V6Rk5oNGtlMWREWF9YZw?oc=5",
+    "description": "Dominik Szoboszlai injury update&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Sun, 11 Oct 2026 14:59:16 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "A new official book celebrating the greatest men’s players",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaG5DdE1Gd0xUUTVwMlBia1g2MU56Y21VX2dhRjQwSXRBNlJMTkJMajByY0hfUnYyUjFxWkxnT2k0VlhhX2kyNElPekF1eU5sU2VkTHpYQkJBc2JkVkgzWlpGakszd2IxUmxNRkJEdE1ZSkY5QkV5NHlWQlZtR0paUkpqYW05dlN4SkpDMENxTVhFanBmQ1dFcml3dzc?oc=5",
+    "description": "A new official book celebrating the greatest men’s players&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Wed, 07 Oct 2026 09:06:02 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "U18s match report: Liverpool beaten at Stoke City in Premier League Cup",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT21VeHNobExDMEFxV0p6Y0k4U1padXBQMFdLNnpKLXdKX3ZTSjJsbnY2bXFBVkwtYkhkVkhVcjhZeXhrQ09TR3VJamZsVXlLNy1NOUxnWlRpUkpXQWJBMEFpQmNLZk5PMUdZTG96d0dvTENnQVczYWN1VE9nY2dlb2s5d2d0M2hwS2kwS1JpUjFtaDRQ?oc=5",
+    "description": "U18s match report: Liverpool beaten at Stoke City in Premier League Cup&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Sat, 10 Oct 2026 13:57:58 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Andoni Iraola on attacking options against Man City and why Barcola is 'super-valuable'",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWZTVklRNkFUQzBUUjJwcThQaHFxU0VUY0pkNFU2TC16LUdMRTdDNGtDYmRIWS1kb0tJdHN1LXc2d0NOWUtqYy01a3paY3RCdEZpaXF1Q2w2QzUxOXZrQzFoQ0wwLWptbGxhVzN2MVgzNkpOUUJXckEzaHEwVGFkaHRBeHg2YWFvcEhz?oc=5",
+    "description": "Andoni Iraola on attacking options against Man City and why Barcola is 'super-valuable'&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Thu, 08 Oct 2026 23:00:00 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Arne Slot lands new job four months after Liverpool exit as decision confirmed",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVE9ORTV0Q1hCVjJYQXZuWEl6WFU4U0JOYlZLS29aTFBYOC1ncU1CbldnTU04NzU4UHhTNEdBLUJ0OHlZenk0QnBReVpQLVF6VTNhZmc3NV9mZjNMbWRrMU8wQzc1VVZyWHp3T1NrXzJJTlE2d0I2T19Mbk0xb21CbkI1cXBIQU41VldIRlEwMklqTHdZR0NOYVAzV3paUHPSAaQBQVVfeXFMUHF0WnJITGJMeGVINXNTd1hib1FoQlM4dHNVWHd1bTJyeURmRklBUHdwb0JsYlNCNHNWOWdzcjZXM3hJN2kzQXBZcVcxYTY5MWJfTGJoNm9TMFlyd3Nkek04WFc4SUxjSjVmQ2NLUVNUd00yOU5SSHhJNk9KelNyV2FiZUFjbzMzakJscEE1aXZGdkEzTnRRbjY2cHRxU3l3ZlBmaVg?oc=5",
+    "description": "Arne Slot lands new job four months after Liverpool exit as decision confirmed&nbsp;&nbsp;Liverpool Echo",
+    "pubDate": "Fri, 09 Oct 2026 09:01:00 GMT",
+    "sourceName": "Liverpool Echo",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Milos Kerkez on defeat by Man City and showing a response at LASK",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZU9aMmFTb2Q2RHd0OVozY0VoSDRBSXY0VUl6T2JNQ0pJVmNaVzhXS00xaHUwdzBnSjE4RUttVHl1dW5lc2pMenk3aGJJdXloenFLYWtoMEx6dE4zaGU4YTFoLW8tSUZhY1haLUxyQk92RnRCbnBOajRlMVVZaWVNdDZfOWM?oc=5",
+    "description": "Milos Kerkez on defeat by Man City and showing a response at LASK&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Mon, 12 Oct 2026 16:50:37 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Dominik Szoboszlai's Spurs stunner voted LFC Goal of the Month",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV2VrdXctRjUxb2dacXhIY2xpQl9DMVlURXU4WmpBRlREcFc5UjE3V0EwcmQ0ZnhMdnVPN0VBSG9kUlk0VE5lOXlWbndTWGszQm9jUDNSX2lHNHotbTBpN3kyUXU4Z0F0M0k5aTZpdnZERFlCX2tKajBmdUFxS0FvZTRCNnpzUQ?oc=5",
+    "description": "Dominik Szoboszlai's Spurs stunner voted LFC Goal of the Month&nbsp;&nbsp;Liverpool FC",
+    "pubDate": "Fri, 09 Oct 2026 09:14:48 GMT",
+    "sourceName": "Liverpool FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]

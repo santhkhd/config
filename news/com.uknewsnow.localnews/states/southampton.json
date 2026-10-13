@@ -1,134 +1,162 @@
 [
   {
-    "title": "Southern Daily Echo",
-    "provider": "web",
-    "arguments": [
-      "https://www.dailyecho.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyecho.co.uk",
-    "year": "Est. 1888",
-    "genre": "Southampton & Hampshire Daily",
-    "rating": "4.8"
+    "title": "Match Preview: Southampton v Pompey",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVl9pczdETUkxMlVKc1c3WDFWQW5GVEdnQ1NTVXl1cmUyTjVUcTFfT184cHdMZlZEUXpoelVKdThMeVdZU2cwcG9ZcWdJUUFqQVpwbHVhYnJqV0lIUzNZejN2cWdRWm5aYThjb0ZtQi1vcGVnbnQ0S1I5VTdBUHNxOGZKbEh4aVRNZ19EMG1rRDJOQQ?oc=5",
+    "description": "Match Preview: Southampton v Pompey&nbsp;&nbsp;Portsmouth FC",
+    "pubDate": "Sat, 10 Oct 2026 13:00:48 GMT",
+    "sourceName": "Portsmouth FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The News (Portsmouth)",
-    "provider": "web",
-    "arguments": [
-      "https://www.portsmouth.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=portsmouth.co.uk",
-    "year": "Est. 1877",
-    "genre": "Portsmouth & Solent Daily",
-    "rating": "4.8"
+    "title": "Southampton community on a mission to clean up its streets",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRWFwbFh0LTd3N3NQVE9weFJoVkQzXzNwNkNLLWZkejhocFNOQVQ2TXdWZEgyVy10R1lQT09PaERyY1VaZFctamRyYWYwWU13dUpldm9icDhNMHZPc1E?oc=5",
+    "description": "Southampton community on a mission to clean up its streets&nbsp;&nbsp;BBC",
+    "pubDate": "Sun, 11 Oct 2026 06:21:43 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Hampshire Chronicle",
-    "provider": "web",
-    "arguments": [
-      "https://www.hampshirechronicle.co.uk"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=hampshirechronicle.co.uk",
-    "year": "Est. 1772",
-    "genre": "Winchester & County News",
-    "rating": "4.8"
+    "title": "Southampton City Council seizes illegal and unsafe goods estimated at £250,000",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVVsb2JpM2lYNGd2cnJSVGhFaVEzNVNCaEVkb2I0Wk5XYVotSzNrOUNzUFoyU2M2aHU3LWhyTHphS2pXV29TaGdGejlscE5OTkVsYnNsOW82ZEhnVDBvc2c4SHZGOFFFTEtvYTN3cWtsMkF6SGRpUUJZalIyXzBIWVpCUGV2SUdlX19wSEFBZTdnTmJvSHJCTTlLei1OcmJCd3hSdDhMWC1oY3AzNTFJU2JRQnREUko1REg5MDJuYw?oc=5",
+    "description": "Southampton City Council seizes illegal and unsafe goods estimated at £250,000&nbsp;&nbsp;Southampton City Council",
+    "pubDate": "Fri, 09 Oct 2026 06:08:49 GMT",
+    "sourceName": "Southampton City Council",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "BBC News Hampshire",
-    "provider": "web",
-    "arguments": [
-      "https://www.bbc.co.uk/news/england/hampshire"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
-    "year": "Est. 1922",
-    "genre": "Solent & Hampshire News",
-    "rating": "4.8"
+    "title": "Team News | Southampton (H)",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xYTd1MmxmNFlWdTMzRkhGUGxfck5GeVJyQ0Z3aXQ5U3J6SnNEWWZETF9OR0VXekpjbWZrY0dkcDJ6SDlER0xUZ2FQWk1BdzRzNmsxYWxVeW92Z3kxZ0oyMkY4RC04QQ?oc=5",
+    "description": "Team News | Southampton (H)&nbsp;&nbsp;Norwich City Football Club",
+    "pubDate": "Tue, 13 Oct 2026 13:05:08 GMT",
+    "sourceName": "Norwich City Football Club",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The News",
-    "provider": "web",
-    "arguments": [
-      "http://www.portsmouth.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=portsmouth.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "Southampton manager handed suspended ban over Spygate scandal",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlRyUVp6a3h3XzdpOEE2VW0zYWoyQl9ZQXFYUXdZa2J2NzJwR0d4NnRtdTFzWXp0RlJFNTlSd3Jsd3pSRVVNamdkMmQzSWhZVEZKZk15Rk5wYUl5UnYzZ3hYT3Z0MDJFOEtGY1BOTkVBbkV1ZEd2eW9sV2gyR05Ya016YzdvSFVDUHpMODFuT0d4Y045c0xpM0p3UQ?oc=5",
+    "description": "Southampton manager handed suspended ban over Spygate scandal&nbsp;&nbsp;Sky News",
+    "pubDate": "Wed, 07 Oct 2026 16:41:46 GMT",
+    "sourceName": "Sky News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Southern Daily Echo",
-    "provider": "web",
-    "arguments": [
-      "http://www.dailyecho.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyecho.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "Appeal following fatal collision in Southampton",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFlnTjFJdHhlVjB2cm9tRnJuMjlad0tmb3ExVFZvcWRRNHhNUDBvUndlUkQ3UHNsMmM5MllGZWFtR0RwSzhjRVFaWGVjSFRLSmZmMGtlSUd3ei1pSlZrQ2lXcUdGa2ZQUE9mazAweVBYeDNHcGw2c1c1dmdDM0xwUTdUTG1iaWJsNGZFUnd4QmlDXzJpbzAzbVdLMGI4NzdlNXcxZDB0RVRVZDdaUHl5NVBmdERxc1NobTJRVUd3?oc=5",
+    "description": "Appeal following fatal collision in Southampton&nbsp;&nbsp;Hampshire and Isle of Wight Constabulary",
+    "pubDate": "Fri, 09 Oct 2026 09:43:00 GMT",
+    "sourceName": "Hampshire and Isle of Wight Constabulary",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "The Daily Echo",
-    "provider": "web",
-    "arguments": [
-      "http://www.bournemouthecho.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=bournemouthecho.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "Southampton 1-0 Portsmouth | Championship highlights",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUgyenZ2R0RIaDJ2NThNWGFuRzN1dVlzdkxRUGtFMEwwWDlqanV6RF9SR3JxdGhOeUc1UU5oOHBsNUMzR0pNSVNuVTFmakJBRGRYQkRlMGNYLTd5VXNEbHpmVlgyS0JzSmlhSkVWcTNodGpqeHVMOHp0QXZDVUxGSE44S2YxZ2lWQkMwZXN3a0VzZVN0S3hQRHlKY2RreUl4QXc?oc=5",
+    "description": "Southampton 1-0 Portsmouth | Championship highlights&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Sun, 11 Oct 2026 13:11:04 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Dorset Echo",
-    "provider": "web",
-    "arguments": [
-      "http://www.dorsetecho.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=dorsetecho.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "Spygate: Southampton manager Tonda Eckert given suspended ban",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ReTc1bllCR0dNN3A2RktqcDgySFRudFhnNGNhVkpvTkdBTWFqdkNreGhoR2NiZjI5QkVpeGZmVFIxVjV0V0R0RF9reUFQeVFTRUJZUUZOaDJvNVhxd2RaS2N1UFY2NEFo?oc=5",
+    "description": "Spygate: Southampton manager Tonda Eckert given suspended ban&nbsp;&nbsp;BBC",
+    "pubDate": "Wed, 07 Oct 2026 14:58:10 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Basingstoke Gazette",
-    "provider": "web",
-    "arguments": [
-      "http://www.basingstokegazette.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=basingstokegazette.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "Gallery: Saints 1-0 Portsmouth",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUVUZEVxTlcyZG1mWGt4N1luLXdKbHhQMjAtbG5wWFBsZ2ZzUHRrdWRTbVFNY0QwYlJjOU5DZm5sWmNPUHJSWExteENJVFBxVzhHVjhCTmtTbVZDNFN4ZUZqTGlyWFZhWDQyNUs5a0laNjBzSFZhOFFOSmRpVVVHZQ?oc=5",
+    "description": "Gallery: Saints 1-0 Portsmouth&nbsp;&nbsp;Southampton FC Official Site",
+    "pubDate": "Sun, 11 Oct 2026 16:30:00 GMT",
+    "sourceName": "Southampton FC Official Site",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Hampshire Chronicle",
-    "provider": "web",
-    "arguments": [
-      "http://www.hampshirechronicle.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=hampshirechronicle.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "Huge police operation in force as fans leave St Mary's after derby - updates",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDlfT01SUkt4dVVqX01laHp2OVV6X2NEZk1yZHRRa2oyeTBLbVhNUFlDeml4SWNaUVZxOFlnZ3lVQVJfbEF2akM5QjZrcmYxT1JJSHpYWUFyRHNGVXBMMjF4WVNUQzZtRGRlemJmWVNOM2FLY05CNU9aR182WVdNbG52ZWxfMVpoTmV6Z08ydDJBeVAxNXgtQw?oc=5",
+    "description": "Huge police operation in force as fans leave St Mary's after derby - updates&nbsp;&nbsp;Daily Echo",
+    "pubDate": "Sun, 11 Oct 2026 08:24:47 GMT",
+    "sourceName": "Daily Echo",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Isle of Wight County Press",
-    "provider": "web",
-    "arguments": [
-      "https://www.countypress.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=countypress.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "Southampton’s children and young people with special education needs and or disabilities (SEND) set to benefit from Local SEND reform plan implementation",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTTdEMnpDRnlEanFhZDRpYWNhYjdRdkZlLTNTaThxZW5SNUlVUzZfb0pUS0hSdGg3WkVYZVEyMVlIZGx6Ni1nMExpZ3FNNGRJbXJhcFBpYWxvRkVXQ1YtMnRMZjR2QlJaaVNIWkNGNFhyZXBhSVNQRjR2SjJ6MTU5Tjh0aC1fLXpHQzgyZFQxNF83ZE5KZXMxczJlbnJDWUo2OXVTYjIzUTdhYXo5czlxV09UT3pVUGR1WVJEMw?oc=5",
+    "description": "Southampton’s children and young people with special education needs and or disabilities (SEND) set to benefit from Local SEND reform plan implementation&nbsp;&nbsp;Southampton City Council",
+    "pubDate": "Thu, 08 Oct 2026 23:31:50 GMT",
+    "sourceName": "Southampton City Council",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Andover Advertiser",
-    "provider": "web",
-    "arguments": [
-      "http://www.andoveradvertiser.co.uk/"
-    ],
-    "image": "https://www.google.com/s2/favicons?sz=128&domain=andoveradvertiser.co.uk",
-    "year": "Southampton",
-    "genre": "Hampshire & Solent Daily",
-    "rating": "4.8"
+    "title": "WANTED: Nicholas Joslin, 37, from Southampton",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFphOEp2c3BBZXFDOWs0OHREeW5sQlk0UVBpMFVGZkVEeENXeVRwU0VmZHBJTTNaOU9DUVBReFRwSnJMSzc5c0U2ZDFhX0ZfcWpqRW5kQmI3Q1gya09CVnpWdzVZdk9hWGZCYXQxNy0tc1h6LVo4Q2NlMlNBdndvNW53QjZlNUhyQTR5eFlZaW1JQlhaWnd2ei1JNDRtS29FU1FpVE9kVE9sU0hUZFM0SUtBTXVHUQ?oc=5",
+    "description": "WANTED: Nicholas Joslin, 37, from Southampton&nbsp;&nbsp;Hampshire and Isle of Wight Constabulary",
+    "pubDate": "Mon, 12 Oct 2026 11:17:00 GMT",
+    "sourceName": "Hampshire and Isle of Wight Constabulary",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Match Preview | Norwich City v Southampton",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CM2xuLTNnLW5iendZX1RiNmplZFI5bjZDeE51ZU1udVFWQzNSb1loLXVJRWZoZlkxTi1IbmVxb25oaE91ZDhVY1lVbFlhRkh0eVBRbUNpNWpFRDhxUXVnQjhDUl9WYkR0MndFVkNqeXV0Q2pyNDVmSlQ4VnM?oc=5",
+    "description": "Match Preview | Norwich City v Southampton&nbsp;&nbsp;Norwich City Football Club",
+    "pubDate": "Tue, 13 Oct 2026 06:50:48 GMT",
+    "sourceName": "Norwich City Football Club",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Spygate: Southampton boss Tonda Eckert keeps job after receiving six-week suspended ban and £28,000 fine",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUZoV2FPY0VBRHlLWkRXMkVwWUFxR0xzQUR6X1FCNjNENGgwMnNwWWY5WmItNWJmWGpzbnoyRXpjWkhObkt5WUEwMlFieEJZYzBEaG50ZmR2RmlKc2xHYVlLbm5EOVhFT3pHOGZYT3dsS2o1YjFLSFZ1by1NT3lWM25fMVRQOTFSX3pWOVRCSFp3UW81a1hzT3dKWEFGVkpmanhWVG1JVjZMWUdzbXVVV1pIVnM5MEF4bDYyRG5FME9SeWY5NE5sc09wQmVKUlN6WnhkY3lPUkZTVnk1bjVWR3Z6SG9vSTRk?oc=5",
+    "description": "Spygate: Southampton boss Tonda Eckert keeps job after receiving six-week suspended ban and £28,000 fine&nbsp;&nbsp;Sky Sports",
+    "pubDate": "Wed, 07 Oct 2026 16:04:28 GMT",
+    "sourceName": "Sky Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Gallery: Southampton 1 Pompey 0",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGNuclJ5Wkg5TFNCV0pyUTZBelhFOHlpM2c1Wkh1UVBJcWhtdTE1Wkkta3gzN1RFYmFjc3E2WXZ5dHhXMC1kT1pZUzZCR1h1bzNjSEtYdkFoQ0NrZG0yVEVLV2g0T0RMQmFFQ1ZabWl4d3ZJUWx4WDhTOFI1MjczQ21nSUEzendfUFVzVA?oc=5",
+    "description": "Gallery: Southampton 1 Pompey 0&nbsp;&nbsp;Portsmouth FC",
+    "pubDate": "Sun, 11 Oct 2026 18:06:31 GMT",
+    "sourceName": "Portsmouth FC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Bus driver arrested after pedestrian dies in crash",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vXzFYWmlacHpwZktLQmRSVm9uN2NMb0pPN2k4UjN1dGlET05CSjhlQVNNSHFSeGV2MGU0MUdLMWlpb2l4ZUctMG1CNzFaN0xWZVNpVUpxaTIwN2VvaGc?oc=5",
+    "description": "Bus driver arrested after pedestrian dies in crash&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 11:41:17 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Appeal after teenager injured in fail to stop collision in Southampton",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSVlrODIzd3BrOENrUlFaOW5zNTdaakhPQ0ZVN1FjdjQ5LUhBZ3FOZDhpME9IZ0JXNWd3YTlGMzQxWE00VzRqU0xaSWJuR2p1NkFQNWtybzQ1UURBYVVaZE5GM1ptQmk4c0I5ejFJNUZMblVsalE2NTBJS0VEd3M5Y0NvTVhlQ2I0ZHF3VTBCbV8tREJzNFh0MElEUTBoVk0xUHhEbXJwUm1qeTc5WFh5Mk9NbjAxUUt0djEteE1UVVFxR1l0MDJfanlXUWZfcEgwS0l6WXFHMm51WVdB?oc=5",
+    "description": "Appeal after teenager injured in fail to stop collision in Southampton&nbsp;&nbsp;Hampshire and Isle of Wight Constabulary",
+    "pubDate": "Mon, 12 Oct 2026 15:38:00 GMT",
+    "sourceName": "Hampshire and Isle of Wight Constabulary",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Hampshire officer injured as football fans pull down barriers",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIejd5QzllV3NmZ0tIX29ISmtmY2t0aUFsQ3RRaWJfdFlvRlp2ZnZDRHVrOVpmTW80Mjh1bERHeEdHanZWOGs4eGJydHZrTUpPMHdWMllrU011TjdQV1E?oc=5",
+    "description": "Hampshire officer injured as football fans pull down barriers&nbsp;&nbsp;BBC",
+    "pubDate": "Sun, 11 Oct 2026 10:54:08 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Renewed appeal as Southampton Common murder investigation continues",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSV9NcUhXT0pERl9UZzR1SGl4T1BoMnBUSGNPV0RJWUloVDZzQy1zOEJmT2FVaV9CcXRRdVd3VGJtNE9wNWJtOHp0UjNqWjFZNHJacUpsTGhRVmZQUmF5Z3l3WEFTdWNBTE5JbWRSbGhYSklad3Y4VldtMk5icVdzWDFiMWhlZGxtVW5YUFVLREJsU0dIbE9UcVVfTHprOWQ3MGZFM3ZXNVhEWVdJVnBYcmV3OC1vRTREVUpYU2g5eEs5U3RrMkdnNEJBZEl6RnpNc3JQZFJmU3E?oc=5",
+    "description": "Renewed appeal as Southampton Common murder investigation continues&nbsp;&nbsp;Hampshire and Isle of Wight Constabulary",
+    "pubDate": "Fri, 09 Oct 2026 13:15:00 GMT",
+    "sourceName": "Hampshire and Isle of Wight Constabulary",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Newborn baby screening study at University Hospital Southampton",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LVHlRbERiOHhUR2NoMUxyWUZIdnpIbi1CMk9FVC01a2ltV01INmdGbHZEZUs1UjJocGVxYXRabm9rVUVXR2pjRDVPRVhIREM4QVZBS3c5dC1iQ19wVXc?oc=5",
+    "description": "Newborn baby screening study at University Hospital Southampton&nbsp;&nbsp;BBC",
+    "pubDate": "Thu, 08 Oct 2026 05:08:35 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]
