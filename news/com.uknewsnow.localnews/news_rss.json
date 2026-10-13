@@ -1,0 +1,353 @@
+[
+  {
+    "title": "BBC News (Top Stories)",
+    "url": "http://feeds.bbci.co.uk/news/rss.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "Sky News (UK Top Stories)",
+    "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "The Guardian (UK Headlines)",
+    "url": "https://www.theguardian.com/uk-news/rss",
+    "category": "TOP"
+  },
+  {
+    "title": "The Daily Telegraph",
+    "url": "https://www.telegraph.co.uk/rss.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "The Independent (UK)",
+    "url": "https://www.independent.co.uk/news/uk/rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Financial Times",
+    "url": "https://www.ft.com/news-feed?format=rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Daily Mail (UK News)",
+    "url": "https://www.dailymail.co.uk/articles.rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Daily Mirror (UK Headlines)",
+    "url": "https://www.mirror.co.uk/news/uk-news/?service=rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Daily Express (UK News)",
+    "url": "https://www.express.co.uk/posts/rss/78/uk",
+    "category": "TOP"
+  },
+  {
+    "title": "Metro (UK Headlines)",
+    "url": "https://metro.co.uk/news/uk/feed/",
+    "category": "TOP"
+  },
+  {
+    "title": "Google News UK (Top Stories)",
+    "url": "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "TOP"
+  },
+
+  {
+    "title": "BBC News (UK Politics)",
+    "url": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Sky News (Politics)",
+    "url": "https://feeds.skynews.com/feeds/rss/politics.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Guardian (UK Politics)",
+    "url": "https://www.theguardian.com/politics/rss",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Telegraph (Politics)",
+    "url": "https://www.telegraph.co.uk/politics/rss.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Independent (Politics)",
+    "url": "https://www.independent.co.uk/news/uk/politics/rss",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Google News UK (Westminster & Politics)",
+    "url": "https://news.google.com/rss/headlines/section/topic/POLITICS?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "POLITICS"
+  },
+
+  {
+    "title": "BBC News (Business & Economy)",
+    "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Sky News (Business)",
+    "url": "https://feeds.skynews.com/feeds/rss/business.xml",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Financial Times (Markets & Economy)",
+    "url": "https://www.ft.com/markets?format=rss",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "The Guardian (Business)",
+    "url": "https://www.theguardian.com/uk/business/rss",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "The Telegraph (Economy & Markets)",
+    "url": "https://www.telegraph.co.uk/business/rss.xml",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "City A.M. (London Finance)",
+    "url": "https://www.cityam.com/feed/",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Google News UK (Business & Markets)",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "BUSINESS"
+  },
+
+  {
+    "title": "BBC News (Technology)",
+    "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "category": "TECH"
+  },
+  {
+    "title": "Sky News (Technology)",
+    "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
+    "category": "TECH"
+  },
+  {
+    "title": "The Guardian (Technology & AI)",
+    "url": "https://www.theguardian.com/uk/technology/rss",
+    "category": "TECH"
+  },
+  {
+    "title": "The Telegraph (Technology)",
+    "url": "https://www.telegraph.co.uk/technology/rss.xml",
+    "category": "TECH"
+  },
+  {
+    "title": "Wired (Technology & Culture)",
+    "url": "https://www.wired.com/feed/rss",
+    "category": "TECH"
+  },
+  {
+    "title": "TechCrunch (UK & European Tech)",
+    "url": "https://techcrunch.com/feed/",
+    "category": "TECH"
+  },
+  {
+    "title": "Google News UK (Technology)",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "TECH"
+  },
+
+  {
+    "title": "BBC News (Science & Environment)",
+    "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "The Guardian (Science)",
+    "url": "https://www.theguardian.com/science/rss",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "New Scientist (News)",
+    "url": "https://www.newscientist.com/section/news/feed/",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Nature (Research & Science)",
+    "url": "https://www.nature.com/nature.rss",
+    "category": "SCIENCE"
+  },
+  {
+    "title": "Google News UK (Science)",
+    "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "SCIENCE"
+  },
+
+  {
+    "title": "BBC News (World)",
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "WORLD"
+  },
+  {
+    "title": "Sky News (World Affairs)",
+    "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+    "category": "WORLD"
+  },
+  {
+    "title": "The Guardian (World News)",
+    "url": "https://www.theguardian.com/world/rss",
+    "category": "WORLD"
+  },
+  {
+    "title": "The Telegraph (World News)",
+    "url": "https://www.telegraph.co.uk/news/world/rss.xml",
+    "category": "WORLD"
+  },
+  {
+    "title": "The Independent (World)",
+    "url": "https://www.independent.co.uk/news/world/rss",
+    "category": "WORLD"
+  },
+  {
+    "title": "Google News UK (World Affairs)",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "WORLD"
+  },
+
+  {
+    "title": "BBC Sport (Top Stories)",
+    "url": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Sky Sports (Latest Headlines)",
+    "url": "https://www.skysports.com/rss/12040",
+    "category": "SPORTS"
+  },
+  {
+    "title": "The Guardian (Football)",
+    "url": "https://www.theguardian.com/football/rss",
+    "category": "SPORTS"
+  },
+  {
+    "title": "The Telegraph (Sport)",
+    "url": "https://www.telegraph.co.uk/sport/rss.xml",
+    "category": "SPORTS"
+  },
+  {
+    "title": "talkSPORT (Football & Sport)",
+    "url": "https://talksport.com/feed/",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Google News UK (Premier League & Sport)",
+    "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "SPORTS"
+  },
+
+  {
+    "title": "BBC News (Entertainment & Arts)",
+    "url": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Sky News (Entertainment)",
+    "url": "https://feeds.skynews.com/feeds/rss/entertainment.xml",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "The Guardian (Culture & Arts)",
+    "url": "https://www.theguardian.com/culture/rss",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Daily Mail (Showbiz & TV)",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/index.rss",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Google News UK (Entertainment)",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "ENTERTAINMENT"
+  },
+
+  {
+    "title": "BBC News (Health & NHS)",
+    "url": "http://feeds.bbci.co.uk/news/health/rss.xml",
+    "category": "HEALTH"
+  },
+  {
+    "title": "The Guardian (Health & Wellbeing)",
+    "url": "https://www.theguardian.com/society/health/rss",
+    "category": "HEALTH"
+  },
+  {
+    "title": "The Telegraph (Health & Medicine)",
+    "url": "https://www.telegraph.co.uk/health-fitness/rss.xml",
+    "category": "HEALTH"
+  },
+  {
+    "title": "Google News UK (NHS & Healthcare)",
+    "url": "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "HEALTH"
+  },
+
+  {
+    "title": "British Royal Family Updates",
+    "url": "https://news.google.com/rss/search?q=British+Royal+Family+King+Charles+Prince+William&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "ROYAL"
+  },
+  {
+    "title": "The Telegraph (Royal Family)",
+    "url": "https://www.telegraph.co.uk/royal-family/rss.xml",
+    "category": "ROYAL"
+  },
+  {
+    "title": "Daily Mail (Royals)",
+    "url": "https://news.google.com/rss/search?q=site:dailymail.co.uk+royal-family&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "ROYAL"
+  },
+
+  {
+    "title": "London News Feed",
+    "url": "https://news.google.com/rss/search?q=London+news&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Manchester News Feed",
+    "url": "https://news.google.com/rss/search?q=Manchester+news&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Birmingham News Feed",
+    "url": "https://news.google.com/rss/search?q=Birmingham+UK+news&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Scotland News Feed",
+    "url": "https://news.google.com/rss/search?q=Scotland+news&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Wales News Feed",
+    "url": "https://news.google.com/rss/search?q=Wales+news&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "LOCAL"
+  },
+  {
+    "title": "Northern Ireland News Feed",
+    "url": "https://news.google.com/rss/search?q=Northern+Ireland+news&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "LOCAL"
+  },
+
+  {
+    "title": "UK Weather & Met Office Forecasts",
+    "url": "https://news.google.com/rss/search?q=UK+weather+forecast+Met+Office+storm&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "WEATHER"
+  },
+  {
+    "title": "BBC Weather Live Reports",
+    "url": "https://news.google.com/rss/search?q=BBC+weather+forecast+UK&hl=en-GB&gl=GB&ceid=GB:en",
+    "category": "WEATHER"
+  }
+]

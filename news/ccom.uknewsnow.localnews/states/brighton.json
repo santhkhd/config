@@ -1,0 +1,123 @@
+[
+  {
+    "title": "The Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.theargus.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theargus.co.uk",
+    "year": "Est. 1880",
+    "genre": "Brighton & Hove Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Eastbourne Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.eastbourneherald.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastbourneherald.co.uk",
+    "year": "Est. 1922",
+    "genre": "East Sussex Coast News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Chichester Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.chichester.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chichester.co.uk",
+    "year": "Est. 1887",
+    "genre": "West Sussex Observer",
+    "rating": "4.8"
+  },
+  {
+    "title": "West Sussex County Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.wscountytimes.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wscountytimes.co.uk",
+    "year": "Est. 1869",
+    "genre": "County News & Features",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Sussex",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/england/sussex"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Sussex Regional Feed",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Argus",
+    "provider": "web",
+    "arguments": [
+      "http://www.theargus.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theargus.co.uk",
+    "year": "Brighton",
+    "genre": "Sussex & Brighton News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Eastbourne Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.eastbourneherald.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastbourneherald.co.uk",
+    "year": "Brighton",
+    "genre": "Sussex & Brighton News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hastings and St. Leonards Observer",
+    "provider": "web",
+    "arguments": [
+      "http://www.hastingsobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hastingsobserver.co.uk",
+    "year": "Brighton",
+    "genre": "Sussex & Brighton News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Sussex Express",
+    "provider": "web",
+    "arguments": [
+      "http://www.sussexexpress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sussexexpress.co.uk",
+    "year": "Brighton",
+    "genre": "Sussex & Brighton News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Mid Sussex Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.midsussextimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=midsussextimes.co.uk",
+    "year": "Brighton",
+    "genre": "Sussex & Brighton News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Worthing Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.worthingherald.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worthingherald.co.uk",
+    "year": "Brighton",
+    "genre": "Sussex & Brighton News",
+    "rating": "4.8"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "title": "The Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecourier.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecourier.co.uk",
+    "year": "Est. 1801",
+    "genre": "Dundee, Fife & Tayside Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evening Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.eveningtelegraph.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningtelegraph.co.uk",
+    "year": "Est. 1877",
+    "genre": "Dundee Evening Tele",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Tayside",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/scotland/tayside_and_central"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Tayside & Central News",
+    "rating": "4.8"
+  }
+]

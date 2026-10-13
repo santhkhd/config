@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Glasgow Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.glasgowtimes.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=glasgowtimes.co.uk",
+    "year": "Scotland",
+    "genre": "City of Glasgow Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldscotland.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldscotland.com",
+    "year": "Scotland",
+    "genre": "West of Scotland Quality",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyrecord.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyrecord.co.uk",
+    "year": "Scotland",
+    "genre": "Clyde & Scotland Tabloid",
+    "rating": "Daily"
+  },
+  {
+    "title": "Paisley Daily Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyrecord.co.uk/all-about/paisley-daily-express"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyrecord.co.uk",
+    "year": "Scotland",
+    "genre": "Renfrewshire & Paisley",
+    "rating": "Daily"
+  },
+  {
+    "title": "Evening Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.eveningtimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningtimes.co.uk",
+    "year": "Glasgow",
+    "genre": "Glasgow Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "Falkirk Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.falkirkherald.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=falkirkherald.co.uk",
+    "year": "Glasgow",
+    "genre": "Glasgow Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "Oban Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.obantimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=obantimes.co.uk",
+    "year": "Glasgow",
+    "genre": "Glasgow Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "Clydebank Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.clydebankpost.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clydebankpost.co.uk",
+    "year": "Glasgow",
+    "genre": "Glasgow Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "Glasgow South & Eastwood Extra",
+    "provider": "web",
+    "arguments": [
+      "http://www.glasgowsouthandeastwoodextra.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=glasgowsouthandeastwoodextra.co.uk",
+    "year": "Glasgow",
+    "genre": "Glasgow Local",
+    "rating": "4.8"
+  }
+]

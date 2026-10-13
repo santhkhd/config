@@ -1,0 +1,50 @@
+[
+  {
+    "title": "UK News Channels (Live & Videos)",
+    "provider": "overview",
+    "arguments": [
+      "news_channels.json"
+    ],
+    "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png&w=400"
+  },
+  {
+    "title": "Featured UK National Newspapers",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk"
+  },
+  {
+    "title": "UK Regional Newspapers (Nations & Cities)",
+    "provider": "overview",
+    "arguments": [
+      "usa_states_newspapers.json"
+    ],
+    "image": "https://flagcdn.com/w160/gb.png"
+  },
+  {
+    "title": "Breaking UK News Feed (RSS)",
+    "provider": "rss",
+    "arguments": [
+      "ALL_NEWS"
+    ],
+    "image": "https://img.icons8.com/color/96/news.png"
+  },
+  {
+    "title": "24/7 UK News & Talk Radio",
+    "provider": "radio",
+    "arguments": [
+      "news_radio.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk"
+  },
+  {
+    "title": "Explore by UK Topic & Category",
+    "provider": "overview",
+    "arguments": [
+      "categories.json"
+    ],
+    "image": "https://img.icons8.com/color/96/categorize.png"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "title": "The Yorkshire Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.yorkshirepost.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkshirepost.co.uk",
+    "year": "West Yorkshire",
+    "genre": "Yorkshire's National Newspaper",
+    "rating": "Daily"
+  },
+  {
+    "title": "Yorkshire Evening Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.yorkshireeveningpost.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkshireeveningpost.co.uk",
+    "year": "West Yorkshire",
+    "genre": "Leeds City Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Telegraph & Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.thetelegraphandargus.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetelegraphandargus.co.uk",
+    "year": "West Yorkshire",
+    "genre": "Bradford & District",
+    "rating": "Daily"
+  },
+  {
+    "title": "Huddersfield Daily Examiner",
+    "provider": "web",
+    "arguments": [
+      "https://www.examinerlive.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=examinerlive.co.uk",
+    "year": "West Yorkshire",
+    "genre": "Huddersfield & Kirklees",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wakefield Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.wakefieldexpress.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wakefieldexpress.co.uk",
+    "year": "West Yorkshire",
+    "genre": "Wakefield City & Five Towns",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Yorkshire Evening Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.yorkshireeveningpost.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkshireeveningpost.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Press",
+    "provider": "web",
+    "arguments": [
+      "http://www.yorkpress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yorkpress.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Telegraph and Argus",
+    "provider": "web",
+    "arguments": [
+      "http://www.thetelegraphandargus.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetelegraphandargus.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Wakefield Express",
+    "provider": "web",
+    "arguments": [
+      "http://www.wakefieldexpress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wakefieldexpress.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Scarborough News",
+    "provider": "web",
+    "arguments": [
+      "http://www.thescarboroughnews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thescarboroughnews.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Harrogate Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://www.harrogateadvertiser.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=harrogateadvertiser.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Bridlington Free Press",
+    "provider": "web",
+    "arguments": [
+      "http://www.bridlingtonfreepress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bridlingtonfreepress.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Keighley News",
+    "provider": "web",
+    "arguments": [
+      "http://www.keighleynews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keighleynews.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Craven Herald and Pioneer",
+    "provider": "web",
+    "arguments": [
+      "http://www.cravenherald.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cravenherald.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Pontefract and Castleford Express",
+    "provider": "web",
+    "arguments": [
+      "http://www.pontefractandcastlefordexpress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pontefractandcastlefordexpress.co.uk",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The North Yorkshire News",
+    "provider": "web",
+    "arguments": [
+      "http://www.northyorkshirenews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northyorkshirenews.com",
+    "year": "Leeds",
+    "genre": "Yorkshire Daily",
+    "rating": "4.8"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "title": "The Herald (Plymouth)",
+    "provider": "web",
+    "arguments": [
+      "https://www.plymouthherald.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=plymouthherald.co.uk",
+    "year": "Est. 1895",
+    "genre": "Plymouth & Ocean City News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Devon Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.devonlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=devonlive.com",
+    "year": "Est. 2017",
+    "genre": "All Devon Daily Portal",
+    "rating": "4.8"
+  },
+  {
+    "title": "Western Morning News",
+    "provider": "web",
+    "arguments": [
+      "https://www.westernmorningnews.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westernmorningnews.co.uk",
+    "year": "Est. 1860",
+    "genre": "South West Regional Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Cornwall Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.cornwalllive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cornwalllive.com",
+    "year": "Est. 2017",
+    "genre": "Cornish News & Marine Updates",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Devon",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/england/devon"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Devon & Cornwall Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "North Devon Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.devonlive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=devonlive.com",
+    "year": "Plymouth",
+    "genre": "Devon & Cornwall Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Cornish Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://www.cornwalllive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cornwalllive.com",
+    "year": "Plymouth",
+    "genre": "Devon & Cornwall Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "North Devon Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.northdevongazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northdevongazette.co.uk",
+    "year": "Plymouth",
+    "genre": "Devon & Cornwall Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Exmouth Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.exmouthjournal.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=exmouthjournal.co.uk",
+    "year": "Plymouth",
+    "genre": "Devon & Cornwall Daily",
+    "rating": "4.8"
+  }
+]

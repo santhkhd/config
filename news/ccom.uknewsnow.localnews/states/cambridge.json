@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Cambridge Evening News",
+    "provider": "web",
+    "arguments": [
+      "https://www.cambridge-news.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cambridge-news.co.uk",
+    "year": "Est. 1888",
+    "genre": "Cambridge & Silicon Fen Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Peterborough Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.peterboroughtoday.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peterboroughtoday.co.uk",
+    "year": "Est. 1948",
+    "genre": "Peterborough & Fenland Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Ely Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.elystandard.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=elystandard.co.uk",
+    "year": "Est. 1970",
+    "genre": "East Cambridgeshire Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Cambridgeshire",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/england/cambridgeshire"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Regional Coverage",
+    "rating": "4.8"
+  },
+  {
+    "title": "Cambridge Evening News",
+    "provider": "web",
+    "arguments": [
+      "http://www.cambridge-news.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cambridge-news.co.uk",
+    "year": "Cambridge",
+    "genre": "Cambridgeshire & Fenland Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Peterborough Evening Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.peterboroughtoday.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peterboroughtoday.co.uk",
+    "year": "Cambridge",
+    "genre": "Cambridgeshire & Fenland Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hunts Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.huntspost.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=huntspost.co.uk",
+    "year": "Cambridge",
+    "genre": "Cambridgeshire & Fenland Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Fenland Citizen",
+    "provider": "web",
+    "arguments": [
+      "http://www.fenlandcitizen.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fenlandcitizen.co.uk",
+    "year": "Cambridge",
+    "genre": "Cambridgeshire & Fenland Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Cambridge Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.cambstimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cambstimes.co.uk",
+    "year": "Cambridge",
+    "genre": "Cambridgeshire & Fenland Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Royston Crow",
+    "provider": "web",
+    "arguments": [
+      "http://www.royston-crow.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=royston-crow.co.uk",
+    "year": "Cambridge",
+    "genre": "Cambridgeshire & Fenland Daily",
+    "rating": "4.8"
+  }
+]

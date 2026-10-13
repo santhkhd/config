@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Inverness Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.inverness-courier.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inverness-courier.co.uk",
+    "year": "Est. 1817",
+    "genre": "Highlands Capital Newspaper",
+    "rating": "4.8"
+  },
+  {
+    "title": "Strathspey & Badenoch Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.strathspey-herald.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=strathspey-herald.co.uk",
+    "year": "Est. 1907",
+    "genre": "Cairngorms Community News",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Press and Journal (Highlands)",
+    "provider": "web",
+    "arguments": [
+      "https://www.pressandjournal.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressandjournal.co.uk",
+    "year": "Est. 1748",
+    "genre": "Highlands & Moray Coverage",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Highlands",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/scotland/highlands_and_islands"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Highlands & Islands Public News",
+    "rating": "4.8"
+  }
+]

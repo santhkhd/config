@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Western Mail / WalesOnline",
+    "provider": "web",
+    "arguments": [
+      "https://www.walesonline.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=walesonline.co.uk",
+    "year": "Wales",
+    "genre": "National Newspaper of Wales",
+    "rating": "Daily"
+  },
+  {
+    "title": "South Wales Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.walesonline.co.uk/all-about/south-wales-echo"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=walesonline.co.uk",
+    "year": "Wales",
+    "genre": "Cardiff City & Vale Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Penarth Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.penarthtimes.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=penarthtimes.co.uk",
+    "year": "Wales",
+    "genre": "Penarth & Cardiff Bay",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Barry & District News",
+    "provider": "web",
+    "arguments": [
+      "https://www.barryanddistrictnews.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=barryanddistrictnews.co.uk",
+    "year": "Wales",
+    "genre": "Vale of Glamorgan",
+    "rating": "Weekly"
+  },
+  {
+    "title": "South Wales Argus",
+    "provider": "web",
+    "arguments": [
+      "https://www.southwalesargus.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southwalesargus.co.uk",
+    "year": "Cardiff",
+    "genre": "Cardiff Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "Western Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.westerntelegraph.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=westerntelegraph.co.uk",
+    "year": "Cardiff",
+    "genre": "Cardiff Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "North Wales Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.northwaleschronicle.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwaleschronicle.co.uk",
+    "year": "Cardiff",
+    "genre": "Cardiff Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "North Wales Pioneer",
+    "provider": "web",
+    "arguments": [
+      "http://www.northwalespioneer.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwalespioneer.co.uk",
+    "year": "Cardiff",
+    "genre": "Cardiff Local",
+    "rating": "4.8"
+  }
+]

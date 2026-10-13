@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Birmingham Mail / Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.birminghammail.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=birminghammail.co.uk",
+    "year": "West Midlands",
+    "genre": "Flagship Birmingham Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Express & Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.expressandstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=expressandstar.com",
+    "year": "West Midlands",
+    "genre": "Wolverhampton & Black Country",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coventry Telegraph / Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.coventrytelegraph.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coventrytelegraph.net",
+    "year": "West Midlands",
+    "genre": "Coventry & Warwickshire",
+    "rating": "Daily"
+  },
+  {
+    "title": "Solihull Observer",
+    "provider": "web",
+    "arguments": [
+      "https://solihullobserver.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=solihullobserver.co.uk",
+    "year": "West Midlands",
+    "genre": "Solihull & Shirley",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Worcester News",
+    "provider": "web",
+    "arguments": [
+      "https://www.worcesternews.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worcesternews.co.uk",
+    "year": "West Midlands",
+    "genre": "Worcestershire",
+    "rating": "Daily"
+  },
+  {
+    "title": "Coventry Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.coventrytelegraph.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coventrytelegraph.net",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Shropshire Star",
+    "provider": "web",
+    "arguments": [
+      "http://www.shropshirestar.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shropshirestar.com",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Worcester News",
+    "provider": "web",
+    "arguments": [
+      "http://www.worcesternews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worcesternews.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Birmingham Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.business-live.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=business-live.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hereford Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.herefordtimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herefordtimes.com",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Malvern Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.malverngazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=malverngazette.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Stourbridge News",
+    "provider": "web",
+    "arguments": [
+      "http://www.stourbridgenews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stourbridgenews.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Halesowen News",
+    "provider": "web",
+    "arguments": [
+      "http://www.halesowennews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=halesowennews.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evesham Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.eveshamjournal.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveshamjournal.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Dudley News",
+    "provider": "web",
+    "arguments": [
+      "http://www.dudleynews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dudleynews.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Redditch Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://www.redditchadvertiser.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=redditchadvertiser.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Coventry Observer",
+    "provider": "web",
+    "arguments": [
+      "http://coventryobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=coventryobserver.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Bromsgrove Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://www.bromsgroveadvertiser.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bromsgroveadvertiser.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Leamington Observer",
+    "provider": "web",
+    "arguments": [
+      "http://leamingtonobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leamingtonobserver.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Evesham and Cotswold Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.cotswoldjournal.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cotswoldjournal.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Solihull Shirley and Arden Observer",
+    "provider": "web",
+    "arguments": [
+      "http://solihullobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=solihullobserver.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Worcester Observer",
+    "provider": "web",
+    "arguments": [
+      "http://worcesterobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worcesterobserver.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evesham Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.eveshamobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveshamobserver.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Rugby Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.rugbyobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rugbyobserver.co.uk",
+    "year": "Birmingham",
+    "genre": "West Midlands & Black Country",
+    "rating": "4.8"
+  }
+]

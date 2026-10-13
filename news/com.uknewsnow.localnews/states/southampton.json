@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Southern Daily Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyecho.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyecho.co.uk",
+    "year": "Est. 1888",
+    "genre": "Southampton & Hampshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The News (Portsmouth)",
+    "provider": "web",
+    "arguments": [
+      "https://www.portsmouth.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portsmouth.co.uk",
+    "year": "Est. 1877",
+    "genre": "Portsmouth & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hampshire Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.hampshirechronicle.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hampshirechronicle.co.uk",
+    "year": "Est. 1772",
+    "genre": "Winchester & County News",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Hampshire",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/england/hampshire"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Solent & Hampshire News",
+    "rating": "4.8"
+  },
+  {
+    "title": "The News",
+    "provider": "web",
+    "arguments": [
+      "http://www.portsmouth.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=portsmouth.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Southern Daily Echo",
+    "provider": "web",
+    "arguments": [
+      "http://www.dailyecho.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyecho.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Daily Echo",
+    "provider": "web",
+    "arguments": [
+      "http://www.bournemouthecho.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bournemouthecho.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Dorset Echo",
+    "provider": "web",
+    "arguments": [
+      "http://www.dorsetecho.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dorsetecho.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Basingstoke Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.basingstokegazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=basingstokegazette.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hampshire Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.hampshirechronicle.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hampshirechronicle.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Isle of Wight County Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.countypress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=countypress.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Andover Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://www.andoveradvertiser.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=andoveradvertiser.co.uk",
+    "year": "Southampton",
+    "genre": "Hampshire & Solent Daily",
+    "rating": "4.8"
+  }
+]

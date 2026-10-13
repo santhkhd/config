@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Edinburgh Evening News",
+    "provider": "web",
+    "arguments": [
+      "https://www.edinburghnews.scotsman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edinburghnews.scotsman.com",
+    "year": "Scotland",
+    "genre": "Flagship Edinburgh Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Scotsman",
+    "provider": "web",
+    "arguments": [
+      "https://www.scotsman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=scotsman.com",
+    "year": "Scotland",
+    "genre": "Scotland's National Quality",
+    "rating": "Daily"
+  },
+  {
+    "title": "East Lothian Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.eastlothiancourier.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastlothiancourier.com",
+    "year": "Scotland",
+    "genre": "Haddington & East Lothian",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Midlothian View",
+    "provider": "web",
+    "arguments": [
+      "https://www.midlothianview.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=midlothianview.com",
+    "year": "Scotland",
+    "genre": "Dalkeith & Midlothian",
+    "rating": "Live"
+  },
+  {
+    "title": "East Lothian Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.eastlothiancourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastlothiancourier.com",
+    "year": "Edinburgh",
+    "genre": "Edinburgh Local",
+    "rating": "4.8"
+  }
+]

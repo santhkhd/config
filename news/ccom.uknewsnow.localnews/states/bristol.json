@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Bristol Post / Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.bristolpost.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristolpost.co.uk",
+    "year": "South West",
+    "genre": "Flagship Bristol Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Western Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.westerndailypress.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristolpost.co.uk",
+    "year": "South West",
+    "genre": "West Country Regional",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bath Chronicle / Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.somersetlive.co.uk/all-about/bath"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=somersetlive.co.uk",
+    "year": "South West",
+    "genre": "City of Bath & Somerset",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Gloucestershire Live / The Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://www.gloucestershirelive.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gloucestershirelive.co.uk",
+    "year": "South West",
+    "genre": "Gloucester & Cheltenham",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bristol Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.bristolpost.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bristolpost.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Swindon Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://www.swindonadvertiser.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swindonadvertiser.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Wiltshire Star",
+    "provider": "web",
+    "arguments": [
+      "http://www.thisiswiltshire.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thisiswiltshire.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Somerset County Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.somersetcountygazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=somersetcountygazette.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Weston Mercury",
+    "provider": "web",
+    "arguments": [
+      "http://www.thewestonmercury.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewestonmercury.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Wiltshire Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.wiltshiretimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wiltshiretimes.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Gloucestershire Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.gazetteseries.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gazetteseries.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Stroud News and Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.stroudnewsandjournal.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stroudnewsandjournal.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "North Somerset Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.northsomersettimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northsomersettimes.co.uk",
+    "year": "Bristol",
+    "genre": "Bristol & South West Daily",
+    "rating": "4.8"
+  }
+]

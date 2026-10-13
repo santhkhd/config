@@ -1,0 +1,167 @@
+[
+  {
+    "title": "The Chronicle Newcastle",
+    "provider": "web",
+    "arguments": [
+      "https://www.chroniclelive.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chroniclelive.co.uk",
+    "year": "Tyne & Wear",
+    "genre": "Newcastle upon Tyne & Tyneside",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.chroniclelive.co.uk/all-about/the-journal"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chroniclelive.co.uk",
+    "year": "Tyne & Wear",
+    "genre": "North East Business & Region",
+    "rating": "Daily"
+  },
+  {
+    "title": "Sunderland Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.sunderlandecho.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sunderlandecho.com",
+    "year": "Tyne & Wear",
+    "genre": "Sunderland & Wearside",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Northern Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.thenorthernecho.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenorthernecho.co.uk",
+    "year": "Tyne & Wear",
+    "genre": "Durham & Darlington",
+    "rating": "Daily"
+  },
+  {
+    "title": "Shields Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://www.shieldsgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shieldsgazette.com",
+    "year": "Tyne & Wear",
+    "genre": "South Shields & South Tyneside",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Chronicle & The Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.chroniclelive.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chroniclelive.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evening Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.gazettelive.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gazettelive.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Northern Echo",
+    "provider": "web",
+    "arguments": [
+      "http://www.thenorthernecho.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenorthernecho.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Sunderland Echo",
+    "provider": "web",
+    "arguments": [
+      "http://www.sunderlandecho.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sunderlandecho.com",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Shields Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.shieldsgazette.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=shieldsgazette.com",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hartlepool Mail",
+    "provider": "web",
+    "arguments": [
+      "http://www.hartlepoolmail.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hartlepoolmail.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Darlington and Stockton Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.darlingtonandstocktontimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=darlingtonandstocktontimes.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "News Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://www.newsguardian.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsguardian.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "News Post Leader",
+    "provider": "web",
+    "arguments": [
+      "http://www.newspostleader.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newspostleader.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hexham Courant",
+    "provider": "web",
+    "arguments": [
+      "http://www.hexham-courant.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hexham-courant.co.uk",
+    "year": "Newcastle",
+    "genre": "North East & Tyne Daily",
+    "rating": "4.8"
+  }
+]

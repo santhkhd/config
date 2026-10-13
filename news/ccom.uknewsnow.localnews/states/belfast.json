@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Belfast Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.belfasttelegraph.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=belfasttelegraph.co.uk",
+    "year": "Northern Ireland",
+    "genre": "Flagship Belfast Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Irish News",
+    "provider": "web",
+    "arguments": [
+      "https://www.irishnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=irishnews.com",
+    "year": "Northern Ireland",
+    "genre": "Belfast Metro & Regional",
+    "rating": "Daily"
+  },
+  {
+    "title": "News Letter",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsletter.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsletter.co.uk",
+    "year": "Northern Ireland",
+    "genre": "Historic Belfast Morning Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Belfast Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.belfastlive.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=belfastlive.co.uk",
+    "year": "Northern Ireland",
+    "genre": "Breaking News & What's On",
+    "rating": "Live"
+  },
+  {
+    "title": "The Irish News",
+    "provider": "web",
+    "arguments": [
+      "http://www.irishnews.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=irishnews.com",
+    "year": "Belfast",
+    "genre": "Belfast Local",
+    "rating": "4.8"
+  }
+]

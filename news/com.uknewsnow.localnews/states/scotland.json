@@ -1,0 +1,310 @@
+[
+  {
+    "title": "The Scotsman",
+    "provider": "web",
+    "arguments": [
+      "https://www.scotsman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=scotsman.com",
+    "year": "Scotland",
+    "genre": "National Newspaper of Scotland",
+    "rating": "Daily"
+  },
+  {
+    "title": "Daily Record",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailyrecord.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailyrecord.co.uk",
+    "year": "Scotland",
+    "genre": "Scotland's National Tabloid",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldscotland.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldscotland.com",
+    "year": "Scotland",
+    "genre": "Glasgow & West of Scotland",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Press and Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.pressandjournal.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressandjournal.co.uk",
+    "year": "Scotland",
+    "genre": "Aberdeen & The Highlands",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.thecourier.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecourier.co.uk",
+    "year": "Scotland",
+    "genre": "Dundee, Fife & Perthshire",
+    "rating": "Daily"
+  },
+  {
+    "title": "Edinburgh Evening News",
+    "provider": "web",
+    "arguments": [
+      "https://www.edinburghnews.scotsman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edinburghnews.scotsman.com",
+    "year": "Scotland",
+    "genre": "City of Edinburgh & Lothians",
+    "rating": "Daily"
+  },
+  {
+    "title": "Glasgow Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.glasgowtimes.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=glasgowtimes.co.uk",
+    "year": "Scotland",
+    "genre": "Greater Glasgow & Clyde",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.thecourier.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thecourier.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evening Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.eveningtimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningtimes.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evening Express",
+    "provider": "web",
+    "arguments": [
+      "http://www.eveningexpress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningexpress.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Sunday Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.sundaypost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaypost.com",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Kent and Sussex Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.kentlive.news/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kentlive.news",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evening Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.eveningtelegraph.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningtelegraph.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evening Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.halifaxcourier.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=halifaxcourier.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Inverness Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.inverness-courier.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=inverness-courier.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Falkirk Herald",
+    "provider": "web",
+    "arguments": [
+      "http://www.falkirkherald.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=falkirkherald.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Southern Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://www.thesouthernreporter.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesouthernreporter.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Leamington Spa Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.leamingtoncourier.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leamingtoncourier.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Greenock Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.greenocktelegraph.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greenocktelegraph.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "East Lothian Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.eastlothiancourier.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eastlothiancourier.com",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Oban Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.obantimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=obantimes.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Dunfermline Press",
+    "provider": "web",
+    "arguments": [
+      "http://www.dunfermlinepress.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dunfermlinepress.com",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Northern Scot",
+    "provider": "web",
+    "arguments": [
+      "http://www.northern-scot.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northern-scot.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Stornoway Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.stornowaygazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=stornowaygazette.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Clydebank Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.clydebankpost.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=clydebankpost.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Carluke Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.carlukegazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=carlukegazette.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Glasgow South & Eastwood Extra",
+    "provider": "web",
+    "arguments": [
+      "http://www.glasgowsouthandeastwoodextra.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=glasgowsouthandeastwoodextra.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  },
+  {
+    "title": "Dungannon News and Tyrone Courier",
+    "provider": "web",
+    "arguments": [
+      "http://www.tyronecourier.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tyronecourier.co.uk",
+    "year": "Scotland",
+    "genre": "Scottish National & Regional",
+    "rating": "4.8"
+  }
+]

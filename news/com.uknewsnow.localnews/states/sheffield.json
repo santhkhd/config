@@ -1,0 +1,79 @@
+[
+  {
+    "title": "The Star Sheffield",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestar.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestar.co.uk",
+    "year": "South Yorkshire",
+    "genre": "Sheffield City Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Rotherham Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.rotherhamadvertiser.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rotherhamadvertiser.co.uk",
+    "year": "South Yorkshire",
+    "genre": "Rotherham Metropolitan Borough",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Doncaster Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.doncasterfreepress.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=doncasterfreepress.co.uk",
+    "year": "South Yorkshire",
+    "genre": "City of Doncaster",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Barnsley Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.barnsleychronicle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=barnsleychronicle.com",
+    "year": "South Yorkshire",
+    "genre": "Barnsley Borough",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Sheffield Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.sheffieldtelegraph.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sheffieldtelegraph.co.uk",
+    "year": "Sheffield",
+    "genre": "South Yorkshire News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Rotherham Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://www.rotherhamadvertiser.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rotherhamadvertiser.co.uk",
+    "year": "Sheffield",
+    "genre": "South Yorkshire News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Barnsley Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.barnsleychronicle.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=barnsleychronicle.com",
+    "year": "Sheffield",
+    "genre": "South Yorkshire News",
+    "rating": "4.8"
+  }
+]

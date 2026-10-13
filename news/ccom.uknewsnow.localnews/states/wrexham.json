@@ -1,0 +1,35 @@
+[
+  {
+    "title": "The Leader (Wrexham & Flintshire)",
+    "provider": "web",
+    "arguments": [
+      "https://www.leaderlive.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leaderlive.co.uk",
+    "year": "Est. 1973",
+    "genre": "North East Wales Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "North Wales Live / Daily Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailypost.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailypost.co.uk",
+    "year": "Est. 1855",
+    "genre": "North Wales Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News North Wales",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/wales/north_east_wales"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "North East Wales Public Feed",
+    "rating": "4.8"
+  }
+]

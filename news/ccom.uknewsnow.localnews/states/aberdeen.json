@@ -1,0 +1,35 @@
+[
+  {
+    "title": "The Press and Journal",
+    "provider": "web",
+    "arguments": [
+      "https://www.pressandjournal.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pressandjournal.co.uk",
+    "year": "Est. 1748",
+    "genre": "Highlands & Islands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Evening Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.eveningexpress.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningexpress.co.uk",
+    "year": "Est. 1879",
+    "genre": "Aberdeen Metro Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News NE Scotland",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/scotland/north_east_orkney_shetland"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "North East Scotland Broadcaster",
+    "rating": "4.8"
+  }
+]

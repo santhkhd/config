@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Oxford Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.oxfordmail.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oxfordmail.co.uk",
+    "year": "Est. 1928",
+    "genre": "Oxford Daily Newspaper",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Oxford Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.oxfordtimes.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oxfordtimes.co.uk",
+    "year": "Est. 1862",
+    "genre": "In-Depth County Weekly",
+    "rating": "4.8"
+  },
+  {
+    "title": "Banbury Guardian",
+    "provider": "web",
+    "arguments": [
+      "https://www.banburyguardian.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=banburyguardian.co.uk",
+    "year": "Est. 1838",
+    "genre": "North Oxfordshire News",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Oxford",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/england/oxfordshire"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Oxfordshire Regional Broadcaster",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Oxford Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.oxfordtimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oxfordtimes.co.uk",
+    "year": "Oxford",
+    "genre": "Oxfordshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Oxford Star",
+    "provider": "web",
+    "arguments": [
+      "http://www.thisisoxfordshire.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thisisoxfordshire.co.uk",
+    "year": "Oxford",
+    "genre": "Oxfordshire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Thame Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.thametoday.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thametoday.co.uk",
+    "year": "Oxford",
+    "genre": "Oxfordshire Daily",
+    "rating": "4.8"
+  }
+]

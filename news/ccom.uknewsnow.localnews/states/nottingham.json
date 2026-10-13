@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Nottingham Post / Live",
+    "provider": "web",
+    "arguments": [
+      "https://www.nottinghampost.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nottinghampost.co.uk",
+    "year": "East Midlands",
+    "genre": "Flagship Nottingham Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Mansfield Chad",
+    "provider": "web",
+    "arguments": [
+      "https://www.chad.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chad.co.uk",
+    "year": "East Midlands",
+    "genre": "Mansfield & Ashfield",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Newark Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.newarkadvertiser.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newarkadvertiser.co.uk",
+    "year": "East Midlands",
+    "genre": "Newark & Sherwood",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Worksop Guardian",
+    "provider": "web",
+    "arguments": [
+      "https://www.worksopguardian.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worksopguardian.co.uk",
+    "year": "East Midlands",
+    "genre": "Worksop & Bassetlaw",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Nottingham Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.nottinghampost.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nottinghampost.com",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Derby Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.derbytelegraph.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=derbytelegraph.co.uk",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Derbyshire Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.derbyshiretimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=derbyshiretimes.co.uk",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Mansfield & Ashfield Chad",
+    "provider": "web",
+    "arguments": [
+      "http://www.chad.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chad.co.uk",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Worksop Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://www.worksopguardian.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=worksopguardian.co.uk",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Matlock Mercury",
+    "provider": "web",
+    "arguments": [
+      "http://www.matlockmercury.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=matlockmercury.co.uk",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Buxton Advertiser",
+    "provider": "web",
+    "arguments": [
+      "http://www.buxtonadvertiser.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buxtonadvertiser.co.uk",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Trader and Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://www.retfordtoday.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=retfordtoday.co.uk",
+    "year": "Nottingham",
+    "genre": "Nottingham & East Midlands Daily",
+    "rating": "4.8"
+  }
+]

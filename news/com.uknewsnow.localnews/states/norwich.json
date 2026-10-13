@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Eastern Daily Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.edp24.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edp24.co.uk",
+    "year": "Est. 1870",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Norwich Evening News",
+    "provider": "web",
+    "arguments": [
+      "https://www.eveningnews24.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningnews24.co.uk",
+    "year": "Est. 1882",
+    "genre": "Norwich City Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "East Anglian Daily Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.eadt.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eadt.co.uk",
+    "year": "Est. 1874",
+    "genre": "Suffolk & Essex News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Lynn News",
+    "provider": "web",
+    "arguments": [
+      "https://www.lynnnews.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lynnnews.co.uk",
+    "year": "Est. 1841",
+    "genre": "West Norfolk & King's Lynn",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Norfolk",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/england/norfolk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Norfolk Local Broadcaster",
+    "rating": "4.8"
+  },
+  {
+    "title": "Essex Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.essexlive.news/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=essexlive.news",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Norwich Evening News",
+    "provider": "web",
+    "arguments": [
+      "http://www.eveningnews24.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eveningnews24.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Lynn News",
+    "provider": "web",
+    "arguments": [
+      "http://www.lynnnews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lynnnews.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Lowestoft Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.lowestoftjournal.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lowestoftjournal.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Thurrock Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.thurrockgazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thurrockgazette.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Dereham Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.derehamtimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=derehamtimes.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Chelmsford Weekly News",
+    "provider": "web",
+    "arguments": [
+      "http://www.chelmsfordweeklynews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chelmsfordweeklynews.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Saffron Walden Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://www.saffronwaldenreporter.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saffronwaldenreporter.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Dunmow Broadcast and Recorder",
+    "provider": "web",
+    "arguments": [
+      "https://www.dunmowbroadcast.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dunmowbroadcast.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Brentwood Weekly News",
+    "provider": "web",
+    "arguments": [
+      "http://www.brentwoodlive.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=brentwoodlive.co.uk",
+    "year": "Norwich",
+    "genre": "Norfolk & East Anglia Daily",
+    "rating": "4.8"
+  }
+]

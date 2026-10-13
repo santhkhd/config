@@ -1,0 +1,3557 @@
+[
+  {
+    "category": "BBC National & World Service",
+    "stations": [
+      {
+        "name": "BBC Radio 1",
+        "description": "The UK's biggest new music & youth station",
+        "stream_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/791/bbc-radio-1.f1ba8e5f.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 2",
+        "description": "The UK's most listened to radio station • Pop & Adult Contemporary",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_96120538/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/793/bbc-radio-2.d29f6fc1.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 4",
+        "description": "Today Programme, In-Depth News, Analysis & Culture",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/795/bbc-radio-4.cf7d8a55.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 5 Live",
+        "description": "24/7 Rolling Breaking News, Live Sports & Phone-Ins",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/799/bbc-radio-5-live.1f3fd9bc.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC World Service",
+        "description": "Global News, International Analysis & Cultural Features",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "image": "https://static.mytuner.mobi/media/radios-150px/811/bbc-world-service.b4cdcf1f.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 6 Music",
+        "description": "Groundbreaking Alternative, Indie, Rock & Electronica",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_12117565/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/801/bbc-radio-6-music.3a86c0e5.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 3",
+        "description": "Classical Music, Jazz, World Music & High Culture",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_74849318/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/794/bbc-radio-3.c1fa3b6c.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 1Xtra",
+        "description": "Amplifying Black Music, Hip-Hop, RnB & UK Drill",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_22919864/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/792/bbc-radio-1xtra.9e79d5bf.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Asian Network",
+        "description": "British Asian Music, Culture, News & Debate",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_91040333/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/802/bbc-asian-network.c9849fa7.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC News HD",
+        "description": "England • England • English • London",
+        "stream_url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC World Service for East Asia",
+        "description": "News",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
+        "image": "https://static.mytuner.mobi/media/radios-150px/811/bbc-world-service.b4cdcf1f.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 4 Extra",
+        "description": "Comedy • Drama • Entertainment",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/795/bbc-radio-4.cf7d8a55.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 1 Dance",
+        "description": "Dance • Pop",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/791/bbc-radio-1.f1ba8e5f.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 1 Anthems",
+        "description": "Anthems • Pop",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/791/bbc-radio-1.f1ba8e5f.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC Radio 3 Unwind",
+        "description": "Classical • Relax • Unwind",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/794/bbc-radio-3.c1fa3b6c.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC World Service News Internet",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio=320000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/811/bbc-world-service.b4cdcf1f.png",
+        "category": "BBC National & World Service"
+      },
+      {
+        "name": "BBC World Service Europe",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_86406537/live/ww/bbc_world_service_europe/bbc_world_service_europe.isml/bbc_world_service_europe-audio%3d320000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/811/bbc-world-service.b4cdcf1f.png",
+        "category": "BBC National & World Service"
+      }
+    ]
+  },
+  {
+    "category": "UK News, Talk & Sport",
+    "stations": [
+      {
+        "name": "LBC",
+        "description": "Leading Britain's Conversation • Nick Ferrari, James O'Brien & Debate",
+        "stream_url": "https://media-ssl.musicradio.com/LBCUK",
+        "image": "https://static.mytuner.mobi/media/radios-150px/158/lbc.cae1eb6a.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "LBC News",
+        "description": "Where the News Never Stops • 24/7 Rolling UK & World Headlines",
+        "stream_url": "https://media-ssl.musicradio.com/LBCNewsUK",
+        "image": "https://static.mytuner.mobi/media/radios-150px/158/lbc-news.187e59b2.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "GB News Radio",
+        "description": "Britain's News Channel Live on Radio • Opinions & Analysis",
+        "stream_url": "https://listen-gbnews.sharp-stream.com/gbnews.mp3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/147/gb-news-radio.3f701390.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "TalkSPORT",
+        "description": "The World's Biggest Sports Radio Station • Premier League & Live Commentary",
+        "stream_url": "https://ais-sa2.cdn.streamtheworld.com/TALKSPORT.mp3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/809/talksport.0ce1804f.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "TalkSPORT 2",
+        "description": "Live Cricket, Rugby, Racing & Exclusive Sports Action",
+        "stream_url": "https://ais-sa2.cdn.streamtheworld.com/TALKSPORT2.mp3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/810/talksport-2.ec6a757e.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "TalkRadio",
+        "description": "Straight Talking News, Politics, Debate & Opinion",
+        "stream_url": "https://ais-sa2.cdn.streamtheworld.com/TALKRADIO.mp3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/808/talkradio.ee09a259.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Times Radio",
+        "description": "Insightful News, Analysis & Intelligent Conversation from The Times",
+        "stream_url": "https://ais-sa2.cdn.streamtheworld.com/TIMESRADIO.mp3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/times-radio.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "LBC Radio",
+        "description": "Political Talk",
+        "stream_url": "http://media-sov.musicradio.com/LBC973MP3Low",
+        "image": "https://static.mytuner.mobi/media/radios-150px/158/lbc.cae1eb6a.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "LBC UK",
+        "description": "News Talk • Talk",
+        "stream_url": "http://media-ice.musicradio.com/LBCUK",
+        "image": "https://static.mytuner.mobi/media/radios-150px/158/lbc.cae1eb6a.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "LBC London (National stream)",
+        "description": "London • News • Talk",
+        "stream_url": "http://media-ice.musicradio.com/LBCUKMP3Low",
+        "image": "https://static.mytuner.mobi/media/radios-150px/158/lbc.cae1eb6a.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "LBC London (London stream)",
+        "description": "London • News • Talk",
+        "stream_url": "http://media-sov.musicradio.com/LBCLondon",
+        "image": "https://static.mytuner.mobi/media/radios-150px/158/lbc.cae1eb6a.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "LBC London News",
+        "description": "London • News",
+        "stream_url": "http://media-ice.musicradio.com/LBC1152",
+        "image": "https://static.mytuner.mobi/media/radios-150px/158/lbc.cae1eb6a.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "GBNews",
+        "description": "News • News Talk • Talk",
+        "stream_url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.gbnews.uk",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Virgin Radio UK",
+        "description": "London, England • 00S • 80S • 90S",
+        "stream_url": "https://radio.virginradio.co.uk/stream",
+        "image": "https://static.mytuner.mobi/media/radios-150px/virgin-radio-uk.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "CNN UK",
+        "description": "London • Business • Business News • Education",
+        "stream_url": "https://tunein.cdnstream1.com/2868_96.mp3",
+        "image": "https://edition.cnn.com/favicon.ico",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "gb news",
+        "description": "London",
+        "stream_url": "http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF",
+        "image": "https://www.google.com/favicon.ico",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "GB News (UK) 48k eAAC+",
+        "description": "News • News Talk",
+        "stream_url": "http://listen-gbnews.sharp-stream.com/gbnews.aac",
+        "image": "http://cdn-profiles.tunein.com/s310252/images/logod.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "WRN Europe",
+        "description": "International • News • World Radio",
+        "stream_url": "http://shoutcast.wrn.org:8026/",
+        "image": "https://www.encompass.tv/wp-content/themes/encompassmarketing/library/images/favicon.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "FSN World News",
+        "description": "News • World News",
+        "stream_url": "https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.featurestorynews.com",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "U105",
+        "description": "Northern Ireland • Charts • Classic Hits • Contemporary Hits",
+        "stream_url": "http://gbradio.cdn.tibus.net/U105?ref=rf",
+        "image": "https://mm.aiircdn.com/615/5d77b0909f0e5.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Gen X Radio",
+        "description": "Suffolk • 00S • 10S • 20S",
+        "stream_url": "https://s2.radio.co/sf25229e16/listen",
+        "image": "https://genxradio.co.uk/wp-content/uploads/2021/11/cropped-GenXAsset-9-192x192.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Hot Radio",
+        "description": "Dorset • 00S • 2000S • 2010S",
+        "stream_url": "https://stream1.hippynet.co.uk/stream/hotradio/dorset",
+        "image": "https://mmo.aiircdn.com/406/601068617960a.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Radio Le Mans RS1",
+        "description": "Motorsport • Sport • Talk",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=radioshow.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.radiolemans.co",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "MAX FM DERBY 92.2",
+        "description": "Derby • Drum And Bass • News • Pop",
+        "stream_url": "http://12991.cloudrad.io:9438/live",
+        "image": "https://www.cloudrad.io/favicon.ico",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Bloomberg DAB Digital Radio London",
+        "description": "Business • Business News • News",
+        "stream_url": "http://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8",
+        "image": "https://cdn-profiles.tunein.com/s308991/images/logod.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Monocle Radio",
+        "description": "London, England • Culture • Design • Entrepreneurship",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONOCLE_24.mp3",
+        "image": "https://pbs.twimg.com/profile_images/1641728752236281856/zeIa6wPU_400x400.jpg",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "News Radio UK",
+        "description": "Information • News • Talk",
+        "stream_url": "https://stream.aiir.com/clcb6m0k9shvv",
+        "image": "https://newsradiouk.co.uk/wp-content/uploads/2022/06/Facebook-profile.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Shetland Islands Broadcasting Company (SIBC) 96.2 & 102.2",
+        "description": "Scotland • Commercial • Local News • Music",
+        "stream_url": "http://tx9.zetcast.net:8100/stream",
+        "image": "http://www.sibc.co.uk/favicon-196x196.png",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Radio Le Mans RS2",
+        "description": "Motorsport • Sport • Talk",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.radiolemans.co",
+        "category": "UK News, Talk & Sport"
+      },
+      {
+        "name": "Radio Le Mans RS3",
+        "description": "Motorsport • Sport • Talk",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=radioshow3.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.radiolemans.co",
+        "category": "UK News, Talk & Sport"
+      }
+    ]
+  },
+  {
+    "category": "BBC Local & Regional UK",
+    "stations": [
+      {
+        "name": "BBC Radio London",
+        "description": "Greater London News, Debate, Culture & Sport on 94.9 FM",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_london",
+        "image": "https://static.mytuner.mobi/media/radios-150px/775/bbc-london.4c94f1c5.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Manchester",
+        "description": "Greater Manchester Local News, Traffic, Football & Community",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_25317916/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/bbc-radio-manchester.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Scotland",
+        "description": "Scottish News, Politics, Sport, Arts & Culture",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/bbc-radio-scotland.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Wales",
+        "description": "Welsh News, Views, Sport & Live Phone-Ins across Wales",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/bbc-radio-wales.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Ulster",
+        "description": "Northern Ireland News, Current Affairs, Talk & Sport",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/bbc-radio-ulster.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Merseyside",
+        "description": "Liverpool & Merseyside Local News, Everton & Liverpool FC",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_46699767/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/775/bbc-london.4c94f1c5.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Newcastle",
+        "description": "Tyne & Wear, Newcastle & North East News, Sport & Talk",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_46887953/live/ww/bbc_radio_newcastle/bbc_radio_newcastle.isml/bbc_radio_newcastle-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/775/bbc-london.4c94f1c5.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Leeds",
+        "description": "West Yorkshire News, Leeds United & Community Voice",
+        "stream_url": "https://as-hls-ww-live.akamaized.net/pool_50115440/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/775/bbc-london.4c94f1c5.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Bristol",
+        "description": "Bristol, Bath & West Country Regional News & Talk",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/775/bbc-london.4c94f1c5.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Solent",
+        "description": "Southampton, Portsmouth & Isle of Wight News & Sport",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_11685351/live/ww/bbc_radio_solent/bbc_radio_solent.isml/bbc_radio_solent-audio=128000.norewind.m3u8",
+        "image": "https://static.mytuner.mobi/media/radios-150px/775/bbc-london.4c94f1c5.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Scotland",
+        "description": "News • Talk • Variety",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8",
+        "image": "https://i.imgur.com/CrWbg3f.jpg",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Wales",
+        "description": "News • Talk • Variety",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d128000.norewind.m3u8",
+        "image": "https://i.imgur.com/VENvlOP.png",
+        "category": "BBC Local & Regional UK"
+      },
+      {
+        "name": "BBC Radio Nottingham",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_nottingham.m3u8",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/U3M5n4tQDu.png",
+        "category": "BBC Local & Regional UK"
+      }
+    ]
+  },
+  {
+    "category": "National Commercial & Hit Music",
+    "stations": [
+      {
+        "name": "Capital FM London",
+        "description": "London • Pop",
+        "stream_url": "http://media-ice.musicradio.com/CapitalMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart London 106.2",
+        "description": "London • Commercial • Hot Adult Contemporary • London",
+        "stream_url": "http://ice-sov.musicradio.com/HeartLondonMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Smooth Radio",
+        "description": "Nottinghamshire • Easy Listening • Smooth • Soft Music",
+        "stream_url": "http://media-the.musicradio.com/SmoothEastMids",
+        "image": "https://static.mytuner.mobi/media/radios-150px/807/smooth-radio-london.99d300ad.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart UK",
+        "description": "Adult Contemporary • National • Pop",
+        "stream_url": "http://media-ice.musicradio.com/HeartUKMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Smooth Radio London 102.2",
+        "description": "Adult Contemporary • Middle Of The Road",
+        "stream_url": "http://media-the.musicradio.com/SmoothLondonMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/807/smooth-radio-london.99d300ad.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "TruckersFM",
+        "description": "Pop Music • Top 40 • Variety",
+        "stream_url": "http://radio.truckers.fm/",
+        "image": "https://truckers.fm/favicon.ico",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Essex 96.3 & 102.6",
+        "description": "Essex • Hot Adult Contemporary",
+        "stream_url": "http://ice-sov.musicradio.com/HeartEssexMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Xmas",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://icecast.thisisdax.com/HeartXmasMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Suffolk",
+        "description": "Suffolk",
+        "stream_url": "http://ice-sov.musicradio.com/HeartSuffolkMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Virgin Radio Anthems",
+        "description": "Anthems • National",
+        "stream_url": "https://radio.virginradio.co.uk/stream-anthems",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=virginradio.co.uk",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "KISS UK",
+        "description": "Bauer Radio • Kiss • Kiss Fm",
+        "stream_url": "https://live-kiss.sharp-stream.com/kiss100.mp3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/kiss-fm.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Radio Essex",
+        "description": "Essex • Contemporary Hits Radio • Pop • Top 40 Hits",
+        "stream_url": "https://stream.aiir.com/ujzy590c3stvv",
+        "image": "https://mmo.aiircdn.com/339/67698698b4c61.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Smooth Country",
+        "description": "Country • Country Music",
+        "stream_url": "https://media-ssl.musicradio.com/SmoothCountry",
+        "image": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Capital FM Manchester",
+        "description": "Manchester • Pop",
+        "stream_url": "http://ice-the.musicradio.com/CapitalManchester",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Virgin Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://radio.virginradio.co.uk/stream?aw_0_1st.platform=vr-web",
+        "image": "https://img.icons8.com/fluency/96/radio.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Joy Hits UK",
+        "description": "Commercial Free • Pop • Pop Music",
+        "stream_url": "http://joyhits.online/joyhitshq.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=joyhits.online",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "CAPITAL",
+        "description": "The UK's No.1 Hit Music Station",
+        "stream_url": "https://media-ssl.musicradio.com/CapitalUK",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Smooth Radio (London, UK) 48k aac+",
+        "description": "Easy Listening",
+        "stream_url": "http://media-the.musicradio.com/SmoothLondon",
+        "image": "https://static.mytuner.mobi/media/radios-150px/807/smooth-radio-london.99d300ad.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Torbay 96.4",
+        "description": "Commercial • Hot Adult Contemporary",
+        "stream_url": "http://media-sov.musicradio.com/HeartTorbay",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Joy Hits Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://joyhits.online/joyhits.aac",
+        "image": "https://joyhits.online/wp-content/uploads/2023/12/JoyMusic7.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Sussex 102.4 &103.5",
+        "description": "Sussex • Commercial • Hot Adult Contemporary",
+        "stream_url": "http://media-ice.musicradio.com/HeartSussexMP3?.mp3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Capital FM",
+        "description": "London • Top 40",
+        "stream_url": "http://ice-the.musicradio.com/Capital",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Norfolk 102.4",
+        "description": "Norfolk • Commercial • Hot Adult Contemporary",
+        "stream_url": "http://ice-sov.musicradio.com/HeartNorfolkMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Musicals",
+        "description": "Movies • Musicals",
+        "stream_url": "https://media-ice.musicradio.com/HeartMusicalsMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Capital FM South Coast 103.2",
+        "description": "Commercial • Pop • South Coast",
+        "stream_url": "http://media-ice.musicradio.com/CapitalSouthCoastMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Oxfordshire 102.6 & 97.4",
+        "description": "Oxfordshire • Commercial • Hot Adult Contemporary",
+        "stream_url": "http://media-sov.musicradio.com/HeartOxfordshireMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Capital UK",
+        "description": "Pop",
+        "stream_url": "http://icecast.thisisdax.com/CapitalUKMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Capital XTRA",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://media-the.musicradio.com/CapitalXTRALondonMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Yorkshire",
+        "description": "Pop",
+        "stream_url": "http://media-sov.musicradio.com/HeartYorkshire",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart FM",
+        "description": "London",
+        "stream_url": "https://media-ssl.musicradio.com/HeartUK",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Smooth Christmas",
+        "description": "Christmas Music",
+        "stream_url": "https://media-ice.musicradio.com/SmoothXmasMP3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smoothradio.com",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Smooth Soul",
+        "description": "Motown • Soul",
+        "stream_url": "https://media-ice.musicradio.com/SmoothSoulMP3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smoothradio.com",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Sun FM",
+        "description": "Pop Music",
+        "stream_url": "http://edge-ads-03-gos2.sharp-stream.com/sunfmi.aac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=sun-fm.com",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Absolute Radio",
+        "description": "Adult Contemporary",
+        "stream_url": "http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20#EXTINF:0,Absolute%2080s",
+        "image": "https://static.mytuner.mobi/media/radios-150px/absolute-radio.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Capital Liverpool",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://media-ice.musicradio.com/CapitalLiverpoolMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart FM (Birmingham)",
+        "description": "West Midlands",
+        "stream_url": "https://media-ssl.musicradio.com/HeartWestMids?isLoggedIn=true&dax_version=release_4140&dax_player=GlobalPlayer&dax_platform=Web&delivery_type=streaming&aw_0_req.userConsentV2=CPytTYAPytTYAAGABCENATEoAP_AAAGAAAwIGMpF7D5VZWFC-OZ5YKsAMYhXQMCAIuQQCASAA-ABCAKQIIQGgmAQFASgBAAKAQAAIAJBAAIECAAQCQAAAAAAAACAAAAABAAIAAAAgAAAAAAIAAAGAAAAAAAIgAAAEAAAmAwAAIIAAADgkBkABAACwAKgAcAA8ACAAGQANAAeQBDAEQAJgATwAqgB-AEIAKUAW4AwwB7AD9AIGAVcAxQCkQF5hAAoADwASAA_AHOApsMABAU2IAAgAkFQAQAhjIAIAQx0BwABYAFQAOAAgABkADQAHkAQwBEACYAE8AKoAXQAxAB-AFGAKUAW4AwwBogD2AH6AQMAjoBVwCxAGKAReAvMcAOAAQAA8AC4AJAAcgA_AHOAQgAiIBFgCMgKQAU2AvohAIAAWAEMAJgAVQAxAClAKuAYogADAAQAOcAsRKAcAAgABYAHAAeABEACYAFUAMQAowBbgFXAMUAi8BeZIAIABcAHIA1ADMlIC4ACwAKgAcABAADIAGgAPIAhgCIAEwAJ4AUgAqgBiAD8AKMAUoAtwBogD9AI6AVcBF4C8ygA8AC4AJAAcgA_ADaANQAc4BFgCxAF1AMUAa8BSACmwF9A.YAAAAAAAAAAA&dax_listenerid=824C2FA8EC1A06EF990BEDF6BE300A70&gigya_id=aca49a64b4254a8ab5a088cd031e7efe&nlsid=1c499bb707f2fc48cfd210acda4433d0",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Manx Radio AM",
+        "description": "Isle of Man • Top 40",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=manxradioam.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.manxradio.com",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart North West 105.4",
+        "description": "Manchester • Hot Adult Contemporary",
+        "stream_url": "http://media-the.musicradio.com/HeartNorthWest",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart South Coast 96.7 & 97.5",
+        "description": "Hot Adult Contemporary",
+        "stream_url": "http://media-sov.musicradio.com/HeartHampshire",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Cambridge 103.0",
+        "description": "Cambridge • Hot Adult Contemporary",
+        "stream_url": "http://ice-sov.musicradio.com/HeartCambridgeMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Persian Vibe Radio",
+        "description": "London, England • Iranian Music • Persian Music • Persian Pop",
+        "stream_url": "https://radio.aydayazdani.com/stream",
+        "image": "https://radio.aydayazdani.com/assets/img/pvr-logo.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Fantasy Radio 97.0",
+        "description": "Devizes",
+        "stream_url": "http://server.fantasyradio.co.uk:8300/;stream/1",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.fantasyradio.co.uk",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Cornwall 105.1 &107.0",
+        "description": "Hot Adult Contemporary",
+        "stream_url": "http://media-ice.musicradio.com/HeartCornwallMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Capital Anthems",
+        "description": "Adult Contemporary • Anthems • Pop",
+        "stream_url": "https://media-ice.musicradio.com/CapitalAnthemsMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "National Commercial & Hit Music"
+      },
+      {
+        "name": "Heart Bristol 96.3",
+        "description": "Hot Adult Contemporary",
+        "stream_url": "http://ice-sov.musicradio.com/HeartBristolMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "National Commercial & Hit Music"
+      }
+    ]
+  },
+  {
+    "category": "Rock, Indie & Alternative",
+    "stations": [
+      {
+        "name": "Radio Caroline",
+        "description": "Country • Pop • Rock",
+        "stream_url": "http://78.129.202.200:8040/;",
+        "image": "http://www.radiocaroline.co.uk/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Heart London 106.2",
+        "description": "London • Adult Contemporary • Pop Rock",
+        "stream_url": "http://media-ice.musicradio.com/HeartLondon",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio X",
+        "description": "Indie • Pop",
+        "stream_url": "http://media-the.musicradio.com/RadioXUK",
+        "image": "https://static.mytuner.mobi/media/radios-150px/806/radio-x-london.b714b9b9.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio X Manchester",
+        "description": "North West",
+        "stream_url": "http://media-the.musicradio.com/RadioXManchester",
+        "image": "https://static.mytuner.mobi/media/radios-150px/806/radio-x-london.b714b9b9.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Exclusively Dire Straits",
+        "description": "Rock",
+        "stream_url": "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=exclusive.radio",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio X London",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://media-the.musicradio.com/RadioXLondonMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/806/radio-x-london.b714b9b9.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Weymouth Rocks (Medium Bitrate)",
+        "description": "Dorset • Punk • Rock • Ska",
+        "stream_url": "http://cast1.asurahosting.com:8621/med",
+        "image": "https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Exclusively Supertramp",
+        "description": "Rock",
+        "stream_url": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=exclusive.radio",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio Caroline AAC 96 kbps",
+        "description": "Rock",
+        "stream_url": "http://78.129.202.200:8030/;",
+        "image": "https://www.radiocaroline.co.uk/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio Caroline Flashback",
+        "description": "60S • 70S • Pop",
+        "stream_url": "http://sc2.radiocaroline.net:10558/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.carolineflashback.co.uk",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Exclusively AC/DC",
+        "description": "Classic Rock",
+        "stream_url": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=play.exclusive.radio",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio X Classic Rock",
+        "description": "Classic Rock • Rock",
+        "stream_url": "https://media-ice.musicradio.com/RadioXClassicRockMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/806/radio-x-london.b714b9b9.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "England",
+        "description": "Heart London Radio",
+        "stream_url": "http://ice-the.musicradio.com/HeartLondonMP3",
+        "image": "https://img.icons8.com/fluency/96/radio.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "HearMe",
+        "description": "Classic Hard Rock",
+        "stream_url": "https://radio.hearme.fm:8250/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=hearme.fm",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio X 90s",
+        "description": "London, England • Alternative • Alternative Rock • Global",
+        "stream_url": "http://media-ice.musicradio.com/RadioX90sMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/806/radio-x-london.b714b9b9.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "24-7 Psychedelic Rock",
+        "description": "Psychedelic Rock",
+        "stream_url": "http://antares.dribbcast.com:4289/stream",
+        "image": "https://24-7nicheradio.com/wp-content/uploads/2017/04/psychedelic.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Offshore Music Radio",
+        "description": "Classic Rock • Oldies",
+        "stream_url": "http://bitsmitter.com:8000/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.offshoremusicradio.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Caroline Flashback",
+        "description": "Goldies • Pop Rock",
+        "stream_url": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.carolineflashback.co.uk",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Surf Rock Radio",
+        "description": "Surf • Surf Rock",
+        "stream_url": "http://139.162.89.191:8020/radio.mp3",
+        "image": "http://cdn-radiotime-logos.tunein.com/s228037d.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio X Chilled",
+        "description": "London, England • Alternative • Alternative Rock • Chilled",
+        "stream_url": "http://media-ice.musicradio.com/RadioXChilledMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/806/radio-x-london.b714b9b9.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "ARfm",
+        "description": "Classic Rock • Hard Rock • Heavy Metal",
+        "stream_url": "http://108.163.245.230:9016/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=arfm.co.uk",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio Jackie (HiEnd)",
+        "description": "London • Oldies • Pop • Rock",
+        "stream_url": "http://media.radiojackie.com:5873/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.radiojackie.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "24-7 Legends Classic Rock",
+        "description": "Legends Classic Rock",
+        "stream_url": "http://antares.dribbcast.com:4330/stream",
+        "image": "https://24-7nicheradio.com/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "PLANET ROCK",
+        "description": "Where Rock Lives",
+        "stream_url": "https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+        "image": "https://static.mytuner.mobi/media/radios-150px/planet-rock.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Dandelion Radio",
+        "description": "Alternative • Indie • Eclectic",
+        "stream_url": "https://solid41.streamupsolutions.com/proxy/bqbyzdhi?mp=/stream",
+        "image": "http://www.dandelionradio.com/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Solid Gold Gem AM",
+        "description": "Classic Rock • Oldies",
+        "stream_url": "http://4483.cloudrad.io:8130/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.solidgoldgem.am",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "KAOS Sound",
+        "description": "Pink Floyd Radio",
+        "stream_url": "https://s3.myradiostream.com/:59506/stream/1/",
+        "image": "https://cdn-profiles.tunein.com/s140303/images/logog.png?t=160685",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "The Tube",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape26",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "24-7 Rock ‘n’ Roll",
+        "description": "Rock ‘N’ Roll",
+        "stream_url": "http://antares.dribbcast.com:4266/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=24-7nicheradio.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Greatest Hits Radio (Devon)",
+        "description": "Devon • 1980S Hits • 1990S Hits • Pop Music",
+        "stream_url": "http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850",
+        "image": "https://static.mytuner.mobi/media/radios-150px/greatest-hits-radio.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "The Voice Of Doom",
+        "description": "Death Metal • Doom Metal • Gothic Metal",
+        "stream_url": "https://streaming.galaxywebsolutions.com:9046/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.thevoiceofdoom.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Islands FM",
+        "description": "Scilly Isles • Community Radio • Country • Pop",
+        "stream_url": "http://radio.canstream.co.uk:8040/live.mp3",
+        "image": "https://www.liveradio.uk/files/images/405648/resized/180x172c/islands_fm.jpg",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Boogaloo Radio",
+        "description": "Brit Pop • Indie Rock",
+        "stream_url": "https://streams.radio.co/sb88c742f0/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=boogalooradio.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Boot Boy Radio",
+        "description": "Lowestoft, England • Punk • Reggae • Ska",
+        "stream_url": "https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream",
+        "image": "https://bootboyradio.net/wp-content/uploads/2021/02/cropped-900logosquare-192x192.jpg",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio Caroline [48k aac+]",
+        "description": "Album • Album Tracks • Community Radio",
+        "stream_url": "http://78.129.202.10:8010/;",
+        "image": "https://www.radiocaroline.co.uk/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Mystery Train Radio",
+        "description": "Americana • Blues • Eclectic",
+        "stream_url": "https://streamer.radio.co/sf662f27c0/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.mysterytrainradio.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Zonkers Radio",
+        "description": "00S • 10S • 80S",
+        "stream_url": "http://128.199.35.208:8000/radio.mp3?",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zonkersradio.co.uk",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio Bloodstream",
+        "description": "Hard Rock • Heavy Metal • Rock",
+        "stream_url": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream",
+        "image": "https://www.radiobloodstream.com/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Splinterwood Rock'n Roll Radio",
+        "description": "Northampton • 1950S • 50'S • Oldies 50'S/60'S",
+        "stream_url": "http://31.3.245.162:8000/",
+        "image": "https://www.splinterwoodradio.uk/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "24-7 Just Rock",
+        "description": "Just Rock",
+        "stream_url": "http://antares.dribbcast.com:4324/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=24-7nicheradio.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Rockin50s Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://eu10.fastcast4u.com/rockin50s",
+        "image": "https://rockin50s.uk/images/site/site_logo2small.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio Jackie (Lo Mono)",
+        "description": "London • Low Bandwidth • Oldies • Pop",
+        "stream_url": "http://media.radiojackie.com:11209/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=radiojackie.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Rockit British Comedy 1",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://streaming04.liveboxstream.uk/proxy/roksta17/stream",
+        "image": "https://rokitradio.com/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Rockabilly-Radio.net",
+        "description": "50S • Oldies • Rockabilly",
+        "stream_url": "http://lin3.ash.fast-serv.com:6026/stream_96",
+        "image": "https://i.imgur.com/4XLjE9o.jpg",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "The Mix Radio 80s",
+        "description": "1980S • 80S • Classic Rock",
+        "stream_url": "https://tmr80s.radioca.st/stream",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/390/the-mix-radio-80s.dd4413ea.png",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "80s Zoom",
+        "description": "London, England • 128 Kbit/S • 192Kbps • 1980S",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUFC8MX_VPOLHcB32vggZZhwC928NeErEyQ&s.jpg",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "TotalRock Radio",
+        "description": "London, England • Metal • Music • Rock",
+        "stream_url": "https://s3.citrus3.com:8056/stream",
+        "image": "https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.18169-9/11400985_1602513246663466_6035298720034077887_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=108&ccb=1-7&_nc_sid=7aed08&efg=eyJpIjoiYiJ9&_nc_eui2=AeEETQvQCq6lHutRRfK171iMKMnkfCxBQUgoyeR8LEFBSC8L74DpSPHz7DvwVuHvpZkIi6qJ0_1acvrVbfekHQL9&_nc_ohc=Oo7DzNH7oTMAX_ZluE8&tn=I4UqcoMHerbAkKms&_nc_ht=scontent.fcgk8-1.fna&oh=00_AfBCXINd2TGpeja3jEiHkpvCmVAH0sxg6_Q39XWj5iRvUA&oe=6407F56B",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Radio Caroline North (Ross Revenge live broadcasts)",
+        "description": "60S • 70S • 80S",
+        "stream_url": "http://sc2.radiocaroline.net:8100/;",
+        "image": "https://radiocaroline.co.uk/images/logos/caroline_north_logo.svg",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Now Rock",
+        "description": "Alternative Rock • Classic Rock • Pop Rock",
+        "stream_url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nowmusic.com",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "The Pit",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape34",
+        "image": "https://www.nts.live/favicon.ico",
+        "category": "Rock, Indie & Alternative"
+      },
+      {
+        "name": "Revolution Radio One",
+        "description": "Rock",
+        "stream_url": "https://visual.shoutca.st/stream/revolutionone/stream",
+        "image": "https://static.wixstatic.com/media/a4f5c5_466d1b7b03424018be005a100fda1990%7emv2_d_1726_1562_s_2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/a4f5c5_466d1b7b03424018be005a100fda1990%7emv2_d_1726_1562_s_2.png",
+        "category": "Rock, Indie & Alternative"
+      }
+    ]
+  },
+  {
+    "category": "Greatest Hits & Decades (60s-00s)",
+    "stations": [
+      {
+        "name": "Heart 80s",
+        "description": "80S • National • Pop",
+        "stream_url": "https://media-ssl.musicradio.com/Heart80sMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Heart 70s",
+        "description": "70S • National • Pop",
+        "stream_url": "https://media-ssl.musicradio.com/Heart70sMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Gold",
+        "description": "Classic Hits • National • Oldies",
+        "stream_url": "https://media-ssl.musicradio.com/GoldMP3",
+        "image": "https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Heart 90s",
+        "description": "90S • National • Pop",
+        "stream_url": "https://media-ssl.musicradio.com/Heart90sMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "LOVE.radio Only Love Songs 70s80s90s",
+        "description": "Love • Love Songs • Lovesongs",
+        "stream_url": "https://loveradio.streamingmedia.it/england",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=love.radio",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Gold AM 1548 London",
+        "description": "Classic Hits • London • Oldies",
+        "stream_url": "http://media-ice.musicradio.com/GoldMP3",
+        "image": "http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Heart",
+        "description": "Lancashire • Oldies • Pop • Public Radio",
+        "stream_url": "http://media-the.musicradio.com/HeartNorthLancsCumbria",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "SOUL RADIO Only Classic Soul",
+        "description": "Bristol • 50S • 60S • 70S",
+        "stream_url": "https://listen.soulradio.uk/uk",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=soulradio.uk",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Magic Radio UK",
+        "description": "00S • 70S • 80S",
+        "stream_url": "https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag",
+        "image": "https://static.mytuner.mobi/media/radios-150px/magic-radio.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "The Groove",
+        "description": "70S • 80S • Disco",
+        "stream_url": "http://uk7.internet-radio.com:8352/",
+        "image": "http://thegrooveradio.co.uk/upload/5d67aa7d3a8281.16670430.ico",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Boom Radio",
+        "description": "Oldies",
+        "stream_url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.boomradiouk.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Bailiwick Radio Classics",
+        "description": "Bailiwick of Jersey • 70S • 80S • Classic Hits",
+        "stream_url": "http://streaming.radio.co/s20224a067/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.bailiwickexpress.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Now 70s",
+        "description": "1970S • 70S • Classic Hits",
+        "stream_url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/NOW_70s.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "24-7 The ’60s",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://antares.dribbcast.com:4361/stream",
+        "image": "https://24-7nicheradio.com/wp-content/uploads/2022/06/24-7-The-60s.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Nation 60s",
+        "description": "Scotland",
+        "stream_url": "https://listen-nation.sharp-stream.com/nation60s.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.nationradio.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Redroad FM 102.4",
+        "description": "Music Is Life • Oldies • Pop Music",
+        "stream_url": "http://s45.myradiostream.com:13784/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.redroadfm.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Gold London",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://media-ssl.musicradio.com/Gold?isLoggedIn=false&dax_version=release_2019&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1612127423858_0.6253666805372976&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1612127423&aw_0_req.userConsentV2=CPA5x3uPA5x3uAGABCENBLCgAAAAAAAAAATIAAAAAAAA.YAAAAAAAAAAA",
+        "image": "https://media-ssl.musicradio.com/favicon.ico",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "45 Radio",
+        "description": "60S • 70S • 80S",
+        "stream_url": "https://stream1.themediasite.co.uk:7009/stream",
+        "image": "https://www.my45radio.co.uk/apple-touch-icon.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "60s Swinging Radio",
+        "description": "Havant, Hampshire • Classic Hits 60S 70A 80S • Israeli Pop Oldies • Sixties",
+        "stream_url": "http://s2.xrad.io:8058/stream",
+        "image": "https://www.liveradio.ie/files/images/342992/resized/180x172c/swinging_radio_60s.jpg",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Greatest Hits Non-Stop",
+        "description": "Scotland",
+        "stream_url": "https://s8.myradiostream.com/58238//listen.mp3",
+        "image": "https://greatesthitsnonstop.com/wp-content/uploads/2020/02/GHNS_512-1.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "24-7 The 70s",
+        "description": "The 70S",
+        "stream_url": "http://antares.dribbcast.com:4418/stream",
+        "image": "https://24-7nicheradio.com/favicon.ico",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Now 80s",
+        "description": "1980S • 80S • Classic Hits",
+        "stream_url": "https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nowmusic.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Totally 80s Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3",
+        "image": "https://lh3.googleusercontent.com/YJxyM8-pCOf0oai9UTisHiudRJ1ni2Xt3s7DdPYQKp_oMCuHBn75zpZMSpFd_CBt6PdCKjlOWk9ToqItZPzcrlcgtMXK_h0k=s500",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "American Gold",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/americangold/stream",
+        "image": "https://pumpkinfm.com/wp-content/uploads/2021/01/AmericanGold300x300.jpg",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "America's Greatest 70s Hits",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://hydra.cdnstream.com/1823_128",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.americasgreatest70s.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Actual Radio",
+        "description": "80S • Classic Hits • Oldies",
+        "stream_url": "https://securestreams.autopo.st:1174/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=actualradio.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Boom Light",
+        "description": "Decades",
+        "stream_url": "https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3",
+        "image": "https://img.icons8.com/fluency/96/radio.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "FunkURadio",
+        "description": "70S • 80S • Disco",
+        "stream_url": "https://furfmcou.radioca.st/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.funkuradio.co.uk",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Pride Radio 90s",
+        "description": "90S • Lgbt",
+        "stream_url": "http://philae.shoutca.st:8807/stream",
+        "image": "http://prideradio.co.uk/favicon.ico",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Gem Radio Gold",
+        "description": "Hits • Pop • Top40",
+        "stream_url": "http://gemradio.radioca.st/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=gemradio.co.uk",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "80s 90s",
+        "description": "Pop",
+        "stream_url": "http://radioradio.ddns.net:8000/8090",
+        "image": "https://img.icons8.com/fluency/96/radio.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Gold Radio UK",
+        "description": "Golden Oldies • Pop",
+        "stream_url": "https://media-ice.musicradio.com/GoldMP3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.goldradio.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Smooth Radio (Suffolk)",
+        "description": "Suffolk • Adult Contemporary • Chill • Chillout",
+        "stream_url": "https://media-ssl.musicradio.com/SmoothSuffolk",
+        "image": "https://static.mytuner.mobi/media/radios-150px/807/smooth-radio-london.99d300ad.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "24-7 Decades",
+        "description": "Decades",
+        "stream_url": "http://antares.dribbcast.com:4260/stream",
+        "image": "https://24-7nicheradio.com/favicon.ico",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Solid Soul Grooves Radio",
+        "description": "Stourbridge",
+        "stream_url": "http://stream.zeno.fm/u08ymmrybg8uv",
+        "image": "https://i.ibb.co/Njb073L/image-3.jpg",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Angel Radio",
+        "description": "Nostalgia • Oldies • Vintage Music",
+        "stream_url": "http://s2.xrad.io:8522/stream",
+        "image": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a4/95/3282/c175.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Big L 1",
+        "description": "80'S • Hits 70'S • Motown",
+        "stream_url": "http://stream4.nsupdate.info:8100/biglh.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=bigl.co.uk",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Offshore Music Station",
+        "description": "60'S • 70'S • 80'S",
+        "stream_url": "http://bitsmitter.com:8000/omr%20;stream.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.offshoremusicradio.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Forest Gold",
+        "description": "Epping Essex • Classic Hits • Golden Oldies • Goldies",
+        "stream_url": "https://c2.prostream365.com:8000/live",
+        "image": "https://www.forestgoldradio.com/favicon.ico",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Drive 105",
+        "description": "Northern Ireland • Classic Hits • Variety",
+        "stream_url": "http://icecast.easystream.co.uk:8000/drive105",
+        "image": "http://static.wixstatic.com/media/0c58e0_959ce2d0d6cd415c88e82fd7174bbc61.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/0c58e0_959ce2d0d6cd415c88e82fd7174bbc61.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Heart 00s",
+        "description": "Pop",
+        "stream_url": "https://media-ssl.musicradio.com/Heart00sMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Nation 80s",
+        "description": "1980'S • 1980S • 80'S",
+        "stream_url": "http://listen-nation.sharp-stream.com/nationradio80s.aac",
+        "image": "https://cdn-profiles.tunein.com/s320731/images/logod.jpg?t=638216535230000000",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Radio Heart 80s",
+        "description": "80S • Classic Hits • Oldies",
+        "stream_url": "https://ice-sov.musicradio.com/Heart80sMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/heart-80s.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Smooth 80s",
+        "description": "80S",
+        "stream_url": "https://media-ice.musicradio.com/Smooth80sMP3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smoothradio.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Hot Gold",
+        "description": "Dorset • 70S • 80S • 90S",
+        "stream_url": "https://stream1.hippynet.co.uk/stream/hotgold/dorset",
+        "image": "https://mmo.aiircdn.com/406/61940c9fa5f84.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "2day mix radio",
+        "description": "London, England • 00S • 2010S • 2020S",
+        "stream_url": "https://2day.2daymixradio.org:8000/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=2daymixradio.org",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Greatest Hits Radio",
+        "description": "West Midlands",
+        "stream_url": "https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1",
+        "image": "https://static.mytuner.mobi/media/radios-150px/greatest-hits-radio.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "80s Music Station",
+        "description": "1980'S • 1980S • 80'S",
+        "stream_url": "http://stream.zeno.fm/1fm38n8f74zuv",
+        "image": "https://i.ibb.co/x7X1zJD/a-HR0c-HM6-Ly9zd-HJl-YW0td-G9vb-HMuem-Vub21l-ZGlh-Lm-Nvb-S9jb250-ZW50-L3-N0-YXRpb25z-L2-Fne-Hpmbn-Bs.jpg",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Absolute Radio 90s",
+        "description": "90S Radio",
+        "stream_url": "http://stream-ar.planetradio.co.uk/absolute90shigh.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true",
+        "image": "https://static.mytuner.mobi/media/radios-150px/absolute-radio.png",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Ram FM 80s Hit Radio",
+        "description": "70S • 80S • 90S",
+        "stream_url": "https://usa1-vn.mixstream.net/8084/listen.mp3",
+        "image": "https://ramfm.org/favicon.ico",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "90s Hiphop",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://strm112.1.fm/spanishtophits_mobile_mp3?aw_0_req.gdpr=true",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.1.fm",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      },
+      {
+        "name": "Phoenix Radio 1208",
+        "description": "England • 1970S • 1980S • 1990S",
+        "stream_url": "http://listen.phoenixradio1208.com:8027/live",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.phoenixradio1208.com",
+        "category": "Greatest Hits & Decades (60s-00s)"
+      }
+    ]
+  },
+  {
+    "category": "Classical, Jazz & Chillout",
+    "stations": [
+      {
+        "name": "Classic FM UK",
+        "description": "London • Classical",
+        "stream_url": "http://ice-the.musicradio.com/ClassicFMMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM",
+        "description": "Classic Fm • Classical",
+        "stream_url": "http://media-ice.musicradio.com/ClassicFMMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Smooth Chill",
+        "description": "Chillout • National • Public Radio",
+        "stream_url": "https://media-ssl.musicradio.com/ChillMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/smooth-chill.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Jazz London Radio",
+        "description": "Jazz",
+        "stream_url": "http://radio.canstream.co.uk:8075/live.mp3",
+        "image": "https://www.jazzlondonradio.com/images/favicon.ico",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM Relax",
+        "description": "AAC",
+        "stream_url": "http://media-the.musicradio.com/ClassicFM-M-Relax",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "BEST SMOOTH JAZZ",
+        "description": "UK",
+        "stream_url": "http://64.95.243.43:8002/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=bestsmoothjazz.com",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM at the Movies",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://media-sov.musicradio.com/ClassicFM-M-Movies",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Chillout Ibiza FM",
+        "description": "Chillout • Relaxing",
+        "stream_url": "https://edge3.peta.live365.net/b05055_128mp3",
+        "image": "http://www.chilloutibizafm.com/favicon.ico",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Linn Jazz",
+        "description": "Jazz",
+        "stream_url": "http://radio.linn.co.uk:8000/autodj",
+        "image": "https://www.linn.co.uk/",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Linn Classical",
+        "description": "Classical",
+        "stream_url": "http://radio.linn.co.uk:8004/autodj",
+        "image": "https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Virgin Radio Chilled",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=virginradio.co.uk",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Naim Jazz [320k aac]",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://mscp3.live-streams.nl:8340/jazz-high.aac",
+        "image": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Chill",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://media-ice.musicradio.com/ChillMP3",
+        "image": "https://thumbnailer.mixcloud.com/unsafe/128x128/profile/7/2/7/6/9c02-6f66-46db-b02b-4664055549dc.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Naim Classical",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://mscp3.live-streams.nl:8250/class-high.aac",
+        "image": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "BSJ.FM Best Smooth Jazz",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
+        "image": "https://bsj.fm/assets/img/bsj-favicon.ico",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Slow Focus",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Sonatica Classical Radio",
+        "description": "Classical • Classical Music",
+        "stream_url": "http://orion.shoutca.st:8742/160",
+        "image": "http://sonatica.fm/favicon.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM Calm",
+        "description": "Classical • Romantic",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Smooth Relax",
+        "description": "Easy Listening • Relaxing",
+        "stream_url": "https://icecast.thisisdax.com/SmoothRelaxMP3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smoothradio.com",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Capital Chill",
+        "description": "Chill • Chilled",
+        "stream_url": "https://media-ssl.musicradio.com/CapitalChill",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM HD",
+        "description": "Classical",
+        "stream_url": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Naim Jazz [flac]",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://mscp3.live-streams.nl:8342/jazz-flac.flac",
+        "image": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Giants of Jazz Radio",
+        "description": "Classic Jazz • Jazz",
+        "stream_url": "http://streaming.radio.co/s297e618a7/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.giantsofjazzradio.co.uk",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "MoE Lofi",
+        "description": "Chillout • Lofi • Lofi Beats",
+        "stream_url": "http://stream.zeno.fm/3u1qndyk8rhvv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Naim Jazz",
+        "description": "Flac • Jazz",
+        "stream_url": "http://mscp3.live-streams.nl:8340/jazz-flac.flac",
+        "image": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Street Sounds Radio",
+        "description": "Funk • Jazz",
+        "stream_url": "https://streaming.broadcastradio.com:10525/streetsd",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.streetsoundsradio.com",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM Movies",
+        "description": "Classical • Film Score • Movies",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Linn Radio",
+        "description": "Jazz",
+        "stream_url": "http://radio.linn.co.uk:8003/autodj",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=linn.co.uk",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Expansions",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape3",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM Essential Classical",
+        "description": "Classical",
+        "stream_url": "https://icecast.thisisdax.com/ClassicFM-M-Essential",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM Video Game Music",
+        "description": "Classical",
+        "stream_url": "https://icecast.thisisdax.com/ClassicFM-M-Gaming",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Davide of MIMIC",
+        "description": "London, England • Classical",
+        "stream_url": "https://streaming04.liveboxstream.uk/proxy/davideof?mp=/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.davideofmimic.com",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "JFSR",
+        "description": "Jazz Funk Soul Radio",
+        "stream_url": "https://s2.radio.co/s22ae5a8a6/listen",
+        "image": "https://jfsr.co.uk/wp-content/uploads/2020/08/cropped-JFSR-Favicon-300x300.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Aah Classical Radio",
+        "description": "Bach",
+        "stream_url": "https://radio.hearme.fm:9040/stream",
+        "image": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Smooth Chill (UK)",
+        "description": "Chillout • Soul",
+        "stream_url": "http://icecast.thisisdax.com/SmoothChillMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/smooth-chill.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Smooth Chill (UK) 48k AAC+",
+        "description": "Chill • Chillout • Easy Listening",
+        "stream_url": "http://icecast.thisisdax.com/SmoothChill",
+        "image": "https://static.mytuner.mobi/media/radios-150px/smooth-chill.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "RadioArt",
+        "description": "Just Blues",
+        "stream_url": "http://live.radioart.com/fJust_blues.mp3",
+        "image": "https://img.icons8.com/fluency/96/radio.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Pink Noise Radio",
+        "description": "Ambient • Chillout • Noise",
+        "stream_url": "http://uk1.internet-radio.com:8004/",
+        "image": "https://www.internet-radio.com/favicon.ico",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Break Pirates",
+        "description": "Classical",
+        "stream_url": "http://bpstream.hostco.de:3000/",
+        "image": "http://breakpirates.com/favicon.ico",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "24/7 Blues Radio",
+        "description": "Blues",
+        "stream_url": "https://ec3.yesstreaming.net:3685/stream",
+        "image": "https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Blues-Radio.jpg",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM Hall of Fame",
+        "description": "Classical",
+        "stream_url": "https://icecast.thisisdax.com/ClassicFM-M-HOF",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "WOTR Hymns",
+        "description": "Classical",
+        "stream_url": "http://wotrstream.com:8025/hymns",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.wordoftruthradio.com",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Malvern Radio International",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/radiomalvernint/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pumpkinfm.com",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Sheet Music",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape35",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "1940sRadio",
+        "description": "Big Band • Crooners • Jazz",
+        "stream_url": "http://uk3.internet-radio.com:8082/live",
+        "image": "https://1940sradio.com/images/logos/1940s-Radio-Logo-Blue.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "JAZZ & CHILL",
+        "description": "Jazz & Chill",
+        "stream_url": "http://salalondon.ddns.net:8002/;.m3u",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=salalondon.ddns.net:8002",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Calm N Chill Radio",
+        "description": "BANES • Calm • Chill • Sleep",
+        "stream_url": "https://stream.zeno.fm/yvcddifycietv",
+        "image": "https://cloud-4shg5daq1-hack-club-bot.vercel.app/0calm_n_chill_radio_logo.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "HearMe-Beethoven",
+        "description": "Classical",
+        "stream_url": "https://radio.hearme.fm:9050/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.hearme.fm",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "4TunesFM",
+        "description": "Jazz • Reggae",
+        "stream_url": "https://c30.radioboss.fm:18274/stream",
+        "image": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "24/7 Jazz Radio",
+        "description": "Jazz",
+        "stream_url": "https://ec3.yesstreaming.net:3455/stream",
+        "image": "https://www.247onlineradio.com/wp-content/uploads/2020/02/247-Jazz-Radio.jpg",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Retro Soul Radio",
+        "description": "London, England • Disco • Funk • Jazz",
+        "stream_url": "https://streaming.galaxywebsolutions.com/stream/retrosoul",
+        "image": "https://static-media.streema.com/media/cache/cf/d9/cfd9303c27dd71c35a2370766d4d1309.jpg",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Bristol Sound Webradio",
+        "description": "Bristol • Chillout • Downtempo",
+        "stream_url": "https://thebristolsoundwebradio.stream.laut.fm/thebristolsoundwebradio",
+        "image": "https://64.media.tumblr.com/8d23b78c8346101f620e06d5ce5e7165/tumblr_pmqf9sPig21uq8z6lo1_r2_400.jpg",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "chocolate-radio.com",
+        "description": "Classic • Funk • Jazz",
+        "stream_url": "https://stream.radio.co/sa7336b687/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=chocolate-radio.com",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "The UK 1940s Radio Station",
+        "description": "20S • 30S • 40S",
+        "stream_url": "http://solid2.streamupsolutions.com:24929/stream",
+        "image": "https://bhfr.co.uk/favicon.png",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Ambient & Chill Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://eilo.org:8000/ambient",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=eilo.org",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "24/7 SciFi Radio",
+        "description": "Ambient • New Age • Sci-Fi",
+        "stream_url": "https://ec6.yesstreaming.net:1465/stream",
+        "image": "https://www.247onlineradio.com/wp-content/uploads/2023/04/2019-08-24-16.30.25-scaled.jpg",
+        "category": "Classical, Jazz & Chillout"
+      },
+      {
+        "name": "Classic FM Music For Pets",
+        "description": "Classic",
+        "stream_url": "https://media-ssl.musicradio.com/ClassicFM-M-Pets",
+        "image": "https://static.mytuner.mobi/media/radios-150px/803/classic-fm.9f493d9a.png",
+        "category": "Classical, Jazz & Chillout"
+      }
+    ]
+  },
+  {
+    "category": "Dance, House & Club Anthems",
+    "stations": [
+      {
+        "name": "TMM 1",
+        "description": "Camden • Alternative • Alternative Rock • Garage",
+        "stream_url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
+        "image": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Heart Dance",
+        "description": "Dance • National • Pop",
+        "stream_url": "https://media-ssl.musicradio.com/HeartDanceMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "TMM 2",
+        "description": "Camden • Alternative • Hiphop • Electronic",
+        "stream_url": "https://listen-msmn.sharp-stream.com/nme2.mp3",
+        "image": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Techno.FM",
+        "description": "London • Techno",
+        "stream_url": "http://stream.techno.fm/radio.mp3",
+        "image": "https://techno.fm/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "1Mix Radio Trance",
+        "description": "Isle of Man • Club • Trance",
+        "stream_url": "http://fr2.1mix.co.uk:8060/192",
+        "image": "http://www.1mix.co.uk/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Different Drumz DnB Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://andromeda.shoutca.st:8031/",
+        "image": "http://www.differentdrumz.co.uk/wp-content/uploads/fbrfg/apple-touch-icon-114x114.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "DanceRadioUK",
+        "description": "Dance UK",
+        "stream_url": "http://uk2.internet-radio.com:8024/stream",
+        "image": "https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Capital Dance",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://icecast.thisisdax.com/CapitalDanceMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Dance UK Radio danceradiouk",
+        "description": "Club • Dance • House",
+        "stream_url": "http://51.89.148.171:8022/stream",
+        "image": "https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "TMM 2",
+        "description": "Camden • Alternative • Hiphop • Electronic",
+        "stream_url": "https://listen-msmn.sharp-stream.com/nme2high.mp3",
+        "image": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "1Mix EDM Radio",
+        "description": "Edm • Trance",
+        "stream_url": "http://fr1.1mix.co.uk:8060/",
+        "image": "http://www.1mix.co.uk/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "1Mix Radio",
+        "description": "Trance (UK) 32kb aac+",
+        "stream_url": "http://fr2.1mix.co.uk:9000/aacb",
+        "image": "https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "NonStopPlay Dance Radio",
+        "description": "Dance",
+        "stream_url": "http://stream.nonstopplay.co.uk/nsp-192k-mp3",
+        "image": "https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "TrancePulse FM",
+        "description": "Dublin • Trance • Trancepulse",
+        "stream_url": "http://live.trance.ie:8000/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=trancepulsefm.ie",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "London Soul Radio",
+        "description": "London • Boogie Woogie • Disco • Funk",
+        "stream_url": "http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
+        "image": "https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "House Nation UK",
+        "description": "House",
+        "stream_url": "https://streaming.radio.co/s06bd9d805/listen",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/aWa7xGKfBh.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "DnB Liquified",
+        "description": "Liquid Dnb",
+        "stream_url": "http://antares.dribbcast.com:5000/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.dnb-liquified.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Teenage Kicks Radio",
+        "description": "New Wave • Pop And Electronic Music From The Late 70S And The 80S • Punk",
+        "stream_url": "https://onlineradiobox.com/json/fr/teenagekicks/play",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=teenagekicksradio.blogspot.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Techno.FM (320 kbit)",
+        "description": "Techno",
+        "stream_url": "http://stream.techno.fm/radio320.mp3",
+        "image": "https://techno.fm/images/logos/logo_80px.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Dance Attack FM (danceattack.fm) 128k",
+        "description": "Edm • Electro • House",
+        "stream_url": "http://streaming04.liveboxstream.uk:8045/1",
+        "image": "https://cdn.onlineradiobox.com/img/l/9/33659.v9.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Happy Hardcore",
+        "description": "Dj Mixes • Electronic • Hardcore",
+        "stream_url": "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.happyhardcore.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "The Sound Of Trance",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://s1.thesoundoftrance.co.uk:8000/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=thesoundoftrance.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "UK Bass Radio",
+        "description": "Breakbeat Hardcore • Drum And Bass • Drumfunk",
+        "stream_url": "https://www.ukbassradio.com/stream",
+        "image": "https://www.ukbassradio.com/wp-content/uploads/2021/03/cropped-thumbnail_ukbass-radio5.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "House Music Radio",
+        "description": "Deep House • House",
+        "stream_url": "https://uk4-vn.mixstream.net/8128/listen.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.housemusicradio.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Kool FM",
+        "description": "Breakbeat • Dancefloor • Drum And Bass",
+        "stream_url": "https://admin.stream.rinse.fm/proxy/kool/stream",
+        "image": "https://pbs.twimg.com/profile_images/1638236080674578434/Hbww_nFm_400x400.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "NonStopPlay Pure Dance",
+        "description": "Dance • Hits",
+        "stream_url": "http://stream.nonstopplay.co.uk/nsppd-32k-aac",
+        "image": "https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "CruiseOne Radio",
+        "description": "Electronic • Indie • Indie Rock",
+        "stream_url": "https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps",
+        "image": "https://i1.sndcdn.com/avatars-000037533466-mgfbsp-t500x500.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Rinse UK",
+        "description": "Dance Music • Dubstep • Garage",
+        "stream_url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+        "image": "https://i1.sndcdn.com/avatars-HFUM5iVBOYInWEED-oro7Vg-t200x200.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "DnB station",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://dnbstation.com:8005/listen.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=dnbstation.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Liquid DnB",
+        "description": "Dnb • Liquid Dnb",
+        "stream_url": "https://antares.dribbcast.com/proxy/dave1/stream/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=liquid-dnb.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "DjRemix Club",
+        "description": "Club Dance • Dance • Dj Mix",
+        "stream_url": "http://curiosity.shoutca.st:8114/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=djremixclub.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Intamixx 80s 90s Radio UK",
+        "description": "London • 80S • 90S • Dance",
+        "stream_url": "https://radio.intamixx.uk:8443/radio2",
+        "image": "https://80s.intamixx.uk/images/imc8090.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "LABR Love a Brother Radio",
+        "description": "80S • Chillout • Dance",
+        "stream_url": "http://23.81.33.82:24914/stream",
+        "image": "https://labr.online/labr.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Joyhits UK",
+        "description": "Dance Hits • Pop • Pop Hits",
+        "stream_url": "https://joyhits.online/joyhits.flac.ogg",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=joyhits.online",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Energy FM",
+        "description": "Dance Music Radio",
+        "stream_url": "https://radio.streemlion.com:1875/stream",
+        "image": "https://cdn.onlineradiobox.com/img/logo/9/35209.v3.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "TMM 1",
+        "description": "Camden • Alternative • Alternative Rock • Garage",
+        "stream_url": "https://listen-msmn.sharp-stream.com/nme1high.mp3",
+        "image": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Reprezent Radio",
+        "description": "Music • Grime • Hiphop",
+        "stream_url": "https://radio.canstream.co.uk:8022/live.mp3",
+        "image": "https://cdn.prod.website-files.com/62bc4b9b51f455e9a386fdd1/62be3ea967ffbeb32ccfe453_android-chrome-256x256.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Point Blank FM 320KB",
+        "description": "Deep House • House",
+        "stream_url": "http://pointblankradio.co.uk:9002/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pointblank.fm",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Hard Techno Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://eilo.org:8000/hard",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=eilo.org",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "4 To The Floor",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape5",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Just House Music",
+        "description": "London, England",
+        "stream_url": "https://justhousemusic.radioca.st/stream",
+        "image": "https://cdn-profiles.tunein.com/s293430/images/logod.png?t=638095610890000000",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "BedlamDnB",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://c11.radioboss.fm:8318/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.bedlamdnb.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Nu Disco Funk Radio",
+        "description": "London, England • Deep House • Disco • Electric",
+        "stream_url": "https://my.radiolize.com/radio/8090/radio.mp3",
+        "image": "https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Flashback Radio",
+        "description": "00S • 90S • Dance",
+        "stream_url": "https://live.flashbackcentral.co.uk/radio/8000/apple",
+        "image": "https://irp.cdn-website.com/d8990fde/site_favicon_16_1654769166393.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Memory Lane",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape6",
+        "image": "https://www.nts.live/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "DnBRadio.com",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://fw.dnbradio.com/dnbradio_main.mp3",
+        "image": "https://dnbradio.com/img/logotags.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "PsyStream",
+        "description": "Progressive • Psychedelic • Psytrance",
+        "stream_url": "http://radio.psymusic.co.uk:8040/radio1_192k.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=psymusic.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Labyrinth",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape31",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "House Fusion Radio (UK)",
+        "description": "Chillout • Deep • Disco",
+        "stream_url": "https://housefusionradiouk.out.airtime.pro/housefusionradiouk_a",
+        "image": "https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=a9529f376f",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Banita Maxx Radio",
+        "description": "Dance • Pop",
+        "stream_url": "http://91.232.4.33:9454/stream",
+        "image": "http://banitamaxx.pl/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Neon Radio",
+        "description": "80s & 90s Pop & Dance",
+        "stream_url": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.neonradio.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Trancetechnic Radio",
+        "description": "Acid House • Techno • Trance",
+        "stream_url": "https://s11.ssl-stream.com/ssl/trancete?mp=/stream",
+        "image": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "I Like It Oldskool",
+        "description": "Dance • Hardcore • House",
+        "stream_url": "https://ilikeitoldskool.radioca.st/stream",
+        "image": "https://ilikeitoldskool.co.uk/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Big Beat Radio",
+        "description": "00S • 90S • Dance",
+        "stream_url": "http://s4.citrus3.com:8366/stream",
+        "image": "https://ueni-favicons.s3.eu-central-1.amazonaws.com/production/232a0fb69aa04d5b992efefc9d199abd_IMG_20200628_095825_063.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Discover Trance Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://uk01.discovertrance.com/;.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.discovertrance.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Nation 90s",
+        "description": "90S • Dance • Pop",
+        "stream_url": "http://listen-nation.sharp-stream.com/nationradio90s.aac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.nationbroadcasting.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "RudeFM",
+        "description": "Drum And Bass • Jungle",
+        "stream_url": "http://78.129.228.187:8034/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=rudefm.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Netil Radio",
+        "description": "London • Ambient • Beats • Breaks",
+        "stream_url": "https://netilradio.out.airtime.pro/netilradio_a",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=netilradio.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Techno",
+        "description": "FM - Channel",
+        "stream_url": "https://stream.techno.fm/radio1-320k.mp3",
+        "image": "https://techno.fm/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "BFBS Beats",
+        "description": "Beats • Bfbs • Charts",
+        "stream_url": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats",
+        "image": "https://www.forces.net/themes/custom/forcesnet_2020/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Atlantic 252",
+        "description": "90S • Dance • Hits",
+        "stream_url": "https://stream4.themediasite.co.uk:8042/",
+        "image": "https://play-lh.googleusercontent.com/kIp3BTHaetEyZcMXvOzQ41i15fTZkShTAhpmjS-643non9AxqB45R1--DyU1PbFV=w240-h480-rw",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Energy 1058",
+        "description": "England • 90S • Acid • Breakbeat",
+        "stream_url": "http://tachyon.shoutca.st:8590/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=energy1058.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Divine Radio London",
+        "description": "Dj Mixes • Electronic • Underground",
+        "stream_url": "https://uk2.internet-radio.com/proxy/divinestream?mp=/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.divineradiolondon.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "MoveDaHouse",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://uk7.internet-radio.com:8000/stream",
+        "image": "http://movedahouse.com/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "DanceFMLive Trance",
+        "description": "Lancashire • Trance",
+        "stream_url": "https://broadcast.dancefmlive.com/radio/8010/radio.mp3",
+        "image": "https://www.dancefmlive.com/wp-content/uploads/2021/02/trance.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "UK Bass",
+        "description": "Drum And Bass • Neurofunk • Uk Bass",
+        "stream_url": "https://ukbassradio.com/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=ukbassradio.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "SWU FM",
+        "description": "Bristol • Dnb • Drum And Bass • House",
+        "stream_url": "https://admin.stream.rinse.fm/proxy/swu/stream",
+        "image": "https://rinse.fm/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Trash Can Radio",
+        "description": "London • Pure Rock And Roll And Trash; Ska; Trash; Blue Beat; R&B; Blues; Rock; Garage;...",
+        "stream_url": "http://orion.shoutca.st:8031/live",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.trashcanradio.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Old Skool Rave Tapes",
+        "description": "Drum And Bass • Hardcore • Jungle",
+        "stream_url": "https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen",
+        "image": "https://oldskoolravetapes.co.uk/assets/img/osrt-logo.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Mazoozie",
+        "description": "00S • Chart • Dance",
+        "stream_url": "http://stream-mazoozie.creativedork.com/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.mazoozie.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Worldwide FM",
+        "description": "London, England • Electronica • Jazz • Progressive",
+        "stream_url": "https://worldwide-fm.radiocult.fm/stream",
+        "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-1/450237294_942043604601681_3306132891557988504_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Ur-AWGYdJIEQ7kNvwHfsWWi&_nc_oc=Adn31I1juFGVfOprAsE1UsSz-7_H0ISFLok1gNrhmWqzfmlI6AbPJgNZB15dkduTEq4&_nc_zt=24&_nc_ht=scontent-fra5-2.xx&_nc_gid=60spXN55S49um4k8ceAfcA&oh=00_AfrO3IOBFCxwn4Bqxc2mOFTcigubLSqRjTY1N2cfbWsvxg&oe=696ED4DC",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Hard House UK Radio",
+        "description": "House",
+        "stream_url": "http://hhuk.netmindz.net:8000/;",
+        "image": "https://www.hardhouseuk.net/assets/images/hhuk_Logo_Light_gray.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Funky SX",
+        "description": "Essex • Dance • Drum & Bass • Dub",
+        "stream_url": "http://stream1.funkyessex.co.uk:8000/mp3128",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=funkysx.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Bloop London Radio (channel 4)",
+        "description": "MUSIC ONLY THEMED STREAM. NATURAL HIGH. DRENCHED IN GROOVES, AN ORGANIC JOURNEY OF BEAT...",
+        "stream_url": "https://radio.canstream.co.uk:8058/live.mp3",
+        "image": "https://blooplondon.com/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "KISSTORY",
+        "description": "Non-Stop Old Skool & Anthems",
+        "stream_url": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+        "image": "https://cdn-profiles.tunein.com/s77960/images/logod.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Hot Hits UK.com",
+        "description": "Contemporary Hits • Dance Music • Edm",
+        "stream_url": "https://443-1.autopo.st/54/stream.mp3",
+        "image": "https://hothitsuk.com/wp-content/uploads/2020/09/HHUK-3D-transparent-300-x-200.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Foundation FM",
+        "description": "London • Community Radio • Electronic • Hip-Hop",
+        "stream_url": "https://streamer.radio.co/s0628bdd53/listen",
+        "image": "https://foundation.fm/images/favicon/favicon.ico",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Rewind Radio",
+        "description": "00S • 90S • Dance",
+        "stream_url": "http://s4.radio.co/s2eaa194f6/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.rewindradio.co.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Eruption Radio",
+        "description": "Breakbeat • Drum And Bass • Happy Hardcore",
+        "stream_url": "http://streaming04.liveboxstream.uk:8116/stream",
+        "image": "https://www.eruptionradio.uk/site/wp-content/uploads/2019/12/cropped-fav1-192x192.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "RADIO DANCE 90s",
+        "description": "Scotland",
+        "stream_url": "https://radiodance.streamingmedia.it/uk.aac",
+        "image": "https://www.radio.dance/logo_radiodance90s_512.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "24/7 EDM Radio",
+        "description": "Edm • Electronic Dance Music",
+        "stream_url": "https://ec6.yesstreaming.net:1455/stream",
+        "image": "https://www.247onlineradio.com/wp-content/uploads/2023/04/247-EDM-Radio.jpg",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Oldskool UK",
+        "description": "Dnb • Hardcore • House",
+        "stream_url": "https://usa10.fastcast4u.com:8880/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.oldskool.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Rage FM",
+        "description": "Drum And Bass • Hardcore • Reggae",
+        "stream_url": "http://uk2-pn.mixstream.net:8002/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.ragefm.org.uk",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "80s Rhythm",
+        "description": "London, England • 80S • Dance • New Wave",
+        "stream_url": "https://stream.mybroadbandradio.com/80srhythmhq/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.80srhythm.com",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "House FM",
+        "description": "London, England • Deep House • House • Soulful House",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio:19920/housefm",
+        "image": "https://hse.fm/cdn/shop/files/logo_on_content_c7615023-6bff-4bf9-8841-9a9916b5a3b0_2500x.png?v=1615321261",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "KISS",
+        "description": "The Best Vibes & Energy",
+        "stream_url": "https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
+        "image": "https://static.mytuner.mobi/media/radios-150px/kiss-fm.png",
+        "category": "Dance, House & Club Anthems"
+      },
+      {
+        "name": "Playback UK",
+        "description": "Dnb • House • Jungle",
+        "stream_url": "https://chilledstreaming.com:8650/mobile.mp3",
+        "image": "https://www.playbackuk.com/wp-content/uploads/2021/01/cropped-pbuk-123-192x192.jpg",
+        "category": "Dance, House & Club Anthems"
+      }
+    ]
+  },
+  {
+    "category": "England Regional & Cities",
+    "stations": [
+      {
+        "name": "RadioX UK",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://icecast.thisisdax.com/RadioXUKMP3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.radiox.co.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC Afrique Radio",
+        "description": "Africa • Afrique • News",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8",
+        "image": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/afrique/images/icons/icon-128x128.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC Arabic Radio",
+        "description": "Arabic • News • Talk",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8",
+        "image": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/arabic/images/icons/icon-128x128.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Naim Radio [lossless flac]",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://mscp3.live-streams.nl:8360/flac.flac",
+        "image": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BritCom 2",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/britcom2/stream",
+        "image": "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC Live News",
+        "description": "News",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8",
+        "image": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Naim Radio [320k aac]",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://mscp3.live-streams.nl:8360/high.aac",
+        "image": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "British Comedy 1",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://streaming04.liveboxstream.uk:8077/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=rokitradio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC Somali Radio",
+        "description": "News • Somali • Talk",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8",
+        "image": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Strange Radio",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/strangeradio/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pumpkinfm.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BritCom 1",
+        "description": "British Comedy Radio (Pumpkin FM OTRN)",
+        "stream_url": "https://cast2.asurahosting.com/proxy/britcom1/stream",
+        "image": "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "ROKiT Radio",
+        "description": "Science Fiction",
+        "stream_url": "http://streaming05.liveboxstream.uk:8110/stream",
+        "image": "https://rokitradio.com/images/rokit-radio-mic.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "ROKit Radio Science Fiction",
+        "description": "London, England • Action • Drama • Old Time Radio",
+        "stream_url": "https://streaming05.liveboxstream.uk/proxy/roksta12/stream",
+        "image": "https://rokitradio.com/images/channels/scifi.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS Afghanistan",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs7.aac",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "British Comedy 2",
+        "description": "Comeduy",
+        "stream_url": "http://streaming05.liveboxstream.uk:8009/stream",
+        "image": "https://rokitradio.com/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Paranormal UK Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://s6.citrus3.com:8014/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.paukradio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Kniteforce Radio",
+        "description": "Drum & Bass • Hardcore • Jungle",
+        "stream_url": "https://kniteforce.out.airtime.pro/kniteforce_a",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kniteforce-radio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BritCom 3",
+        "description": "British Comedy Radio (Pumpkin FM OTRN)",
+        "stream_url": "https://cast2.asurahosting.com/proxy/britcom3/stream",
+        "image": "https://pumpkinfm.com/wp-content/uploads/2023/02/BritComThreeNew300x300-3.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Fun Kids",
+        "description": "Kids",
+        "stream_url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.funkidslive.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "DubTerrain",
+        "description": "Dub • Dubstep",
+        "stream_url": "http://ic2255.c471.fast-serv.com/listen",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.dubterrain.net",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "box uk",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://boxstream.danceradiouk.com/stream",
+        "image": "https://boxuk.danceradiouk.com/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Eric Clapton",
+        "description": "International",
+        "stream_url": "https://streaming.exclusive.radio/er/ericclapton/icecast.audio",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg/1200px-Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Diva Radio",
+        "description": "Funk & Disco Music Paradise",
+        "stream_url": "https://stream.deevaradio.net:10443/divaradiofunk",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=deevaradio.net",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "100% Hip Hop",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape2",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.nts.live",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Boom Radio UK",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192",
+        "image": "https://mmo.aiircdn.com/460/5fb3bb6151ee4.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC Tv",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d",
+        "image": "https://www.bbc.com/bbcx/apple-touch-icon.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Soul Groove Radio",
+        "description": "Groove • Soul",
+        "stream_url": "http://stream6.hippynet.co.uk:8023/automation",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=soulgrooveradio.co.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "FUNK2DISCO",
+        "description": "London • Disco • Funk • Funk2Disco",
+        "stream_url": "http://stream.laut.fm/funk2disco",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC for Australasia",
+        "description": "News",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia",
+        "image": "https://bbc.co.uk/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "London Music Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://radiobossrelay.radioca.st/stream",
+        "image": "https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC Arabic",
+        "description": "News",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=stream.live.vc.bbcmedia.co.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Dire Straits",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/dire_straits-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "KICKS fm",
+        "description": "London • General",
+        "stream_url": "https://s6.citrus3.com:8452/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.kicks.fm",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "1940s Radio HS",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/1940sradio/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pumpkinfm.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Birdsong Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://a1.radio.co/s5c5da6a36/listen",
+        "image": "https://images.radio.co/station_logos/s5c5da6a36.20240717025356.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Resonance Extra",
+        "description": "Experimental • Global • Sound Art",
+        "stream_url": "http://stream.resonance.fm:8000/resonance-extra",
+        "image": "https://extra.resonance.fm/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Radio England",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/radioengland/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pumpkinfm.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "The English 909 Radio",
+        "description": "London",
+        "stream_url": "https://www.radioking.com/play/the-english-909",
+        "image": "https://www.google.co.uk/search?q=the+english+909+radio+favicon&tbm=isch&ved=2ahUKEwjy5ois1dX6AhVYgc4BHX2PCx8Q2-cCegQIABAA&oq=the+english+909+radio+favicon&gs_lcp=CgNpbWcQAzoECCMQJ1CSB1jdRWC8SGgAcAB4AIABR4gBmASSAQE5mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=jBBEY_LwF9iCur4P_Z6u-AE&authuser=0&bih=711&biw=1431&hl=en-GB#imgrc=BAdZB6F91SYoWM",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24-7 Dreamboats And Petticoats",
+        "description": "Dreamboats And Petticoats",
+        "stream_url": "http://antares.dribbcast.com:4231/stream",
+        "image": "https://24-7nicheradio.com/wp-content/uploads/2017/04/drr.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Box UK Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://boxstream.danceradiouk.com/stream/1/stream.mp3",
+        "image": "https://www.danceradiouk.com/players/files/images/albumart/13040-BoxUK-300.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Lyca Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://ads-direct.sharp-stream.com/1458.mp3",
+        "image": "https://www.lycaradio.com/wp-content/uploads/2021/06/favicon-01-150x150.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "London Greek Radio (LGR)",
+        "description": "London • 103.3 • Cyprus • Greece",
+        "stream_url": "http://eco.onestreaming.com:8203/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.lgr.co.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS Cyprus",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.aac",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Lite Radio",
+        "description": "Soft Adult Contemporary",
+        "stream_url": "https://ais-sa2.cdnstream1.com/2382_128.mp3?rp_source=1&=&&___cb=212916936695709",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.literadio.co.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Pink Floyd",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/Pink_Floyd-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Tonic Ska Radio",
+        "description": "London, England • Ska",
+        "stream_url": "https://eu10.fastcast4u.com/tonicska",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.tonicskaradio.co.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "TruckStopRadio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
+        "image": "https://truckstopradio.co.uk/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24-7 Disco",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://antares.dribbcast.com/proxy/s8190/stream",
+        "image": "https://24-7nicheradio.com/wp-content/uploads/2017/04/xDisco.jpg.pagespeed.ic.Z0Vjw3zxU-.webp",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Poolside",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape4",
+        "image": "https://www.nts.live/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Joy Hits",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://joyhits.online/joyhits.flac.ogg",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=joyhits.online",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Crime Incorporated",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/crimeinc/stream",
+        "image": "https://pumpkinfm.com/wp-content/uploads/2019/02/CrimeInc300x300.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Fun Kids Junior",
+        "description": "Kids",
+        "stream_url": "http://listen-funkids.sharp-stream.com/funkidsjunior.mp3",
+        "image": "https://assets.radioplayer.org/826/8261471/600/600/kwdqc7lt.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Soul Central Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://65.21.202.84:8519/stream/",
+        "image": "https://static.wixstatic.com/media/4adc33_b125a078d8f44919b03327d175d74c82~mv2.png/v1/fill/w_140,h_138,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/soul%20central%20radio_edited.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Judas Priest",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/judas_priest-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BritAsia Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://s4.radio.co/sfefce156f/listen",
+        "image": "https://britasia.tv/wp-content/uploads/2021/01/britasia-radio-logo.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Soho Radio London",
+        "description": "Culture • Eclectic • Variety",
+        "stream_url": "https://sohoradiomusic.doughunt.co.uk:8010/128mp3",
+        "image": "https://sohoradiolondon.com/wp-content/themes/sohoradio-jan-2023/build/images/favicons/sohoradio-192x192.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Field Recordings",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape23",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC Radio One",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8",
+        "image": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24-7 Motown",
+        "description": "Motown",
+        "stream_url": "http://antares.dribbcast.com:4237/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=24-7nicheradio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "World Radio Network Russian (WRN)",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://shoutcast.wrn.org:8025/WRN-R",
+        "image": "https://www.radio.net/images/broadcasts/2f/8b/35046/c300.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Dubplate.fm Dub &Bass",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://sc2.dubplate.fm/radio/8000/dubandbass/uhifi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=dubplate.fm",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Psychedelic Secret radio",
+        "description": "Manchester",
+        "stream_url": "https://solid48.streamupsolutions.com/proxy/bglsokon?mp=/=stream",
+        "image": "https://www.psychedelicsecretsradio.com/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Easy Radio",
+        "description": "Easy • Easy Listening",
+        "stream_url": "https://listen-nation.sharp-stream.com/breezyradiouk.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.nationplayer.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/ozzy_osbourne-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Mi-Soul",
+        "description": "London",
+        "stream_url": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Mi-Soul_logo.png/220px-Mi-Soul_logo.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Total Soul (UK) 192kb",
+        "description": "80'S • Disco • Soul",
+        "stream_url": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
+        "image": "https://mmo.aiircdn.com/440/66d2d8d6d54ea.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Led Zeppelin",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/Led_Zeppelin-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Diva Radio Disco",
+        "description": "London",
+        "stream_url": "https://stream.deevaradio.net:10443/divaradiodisco",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=deevaradio.net",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24-7 Party",
+        "description": "Party",
+        "stream_url": "http://antares.dribbcast.com:4412/stream",
+        "image": "https://24-7nicheradio.com/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "DCLM Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://airtime.dclm.org/radio/8000/live",
+        "image": "https://radio.dclm.org/assets/img/favicon.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "The Prodigy",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/The_Prodigy-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24-7 Soul",
+        "description": "Soul",
+        "stream_url": "http://antares.dribbcast.com:4456/stream",
+        "image": "https://24-7nicheradio.com/wp-content/uploads/2022/06/24-7Soul.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24-7 Legends",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://antares.dribbcast.com:4295/stream",
+        "image": "https://24-7nicheradio.com/wp-content/uploads/2017/04/legends.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Nation Radio London",
+        "description": "Adult Contemporary",
+        "stream_url": "http://tx.sharp-stream.com/http_live.php?i=thamesradio.mp3",
+        "image": "https://nationradio.london/wp-content/uploads/2024/08/cropped-icon188bet-180x180.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Select Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://streaming05.liveboxstream.uk/proxy/selectr1/stream",
+        "image": "https://selectradioapp.com/wp-content/uploads/2023/11/cropped-selecticon-180x180.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Station X",
+        "description": "Northern Soul",
+        "stream_url": "http://161.97.144.188:4000/",
+        "image": "http://myradiostream.com/station/uploads/logo/aedab928aa7f55745418c58cf2ac2a6aaff6adb4.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Unity FM",
+        "description": "Birmingham • Birmingham • Islam",
+        "stream_url": "http://live.canstream.co.uk:8000/unity.mp3",
+        "image": "https://unityfm.net/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "FUNKERFM",
+        "description": "Ipswich, Suffolk • World Music",
+        "stream_url": "http://167.114.131.90:5968/ffm",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.funkerfm.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Christmas Radio",
+        "description": "Christmas Music",
+        "stream_url": "http://edg1-iad-gold.streamguys1.com/christmasradio",
+        "image": "https://www.christmasradio.uk/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Solar Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://listen-msmn.sharp-stream.com/solarlow.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=solarradio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BBC 2",
+        "description": "Music",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=as-hls-ww-live.akamaized.net",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Nazareth",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/Nazareth-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS Canada",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs12.aac",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Resonance 104.4FM",
+        "description": "London",
+        "stream_url": "https://stream.resonance.fm/resonance?rp_source=1&=&&___cb=309691324386261",
+        "image": "https://www.resonancefm.com/assets/logo-a79206a34394173ba3e41d66a3388f4c.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "5 Rivers radio",
+        "description": "Music",
+        "stream_url": "https://onlineradiobox.com/json/uk/5rivers/play?platform=web",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=onlineradiobox.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Chocolate Radio",
+        "description": "R&B/Urban",
+        "stream_url": "https://stream.radio.co/sa7336b687/listen?ver=712690",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=chocolate-radio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Sweat",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape24",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Real World Sounds",
+        "description": "Internetradiodotcom • Melatonin • Realworld",
+        "stream_url": "http://uk5.internet-radio.com:8260/;stream",
+        "image": "https://www.internet-radio.com/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Drum & Bass Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://eilo.org:8000/drum",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=eilo.org",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Peoples Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://s3.myradiostream.com:14498/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=peoplesradio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BRMB Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://radio.canstream.co.uk:8147/live.mp3",
+        "image": "https://mmo.aiircdn.com/1111/64a34bf89acd7.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS Brunei",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs10.aac",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "UK Hits",
+        "description": "London",
+        "stream_url": "http://stream.zeno.fm/dpqrqe9nrv8uv",
+        "image": "https://i.ibb.co/X5Drcgy/image.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Radio Maria England",
+        "description": "Religious",
+        "stream_url": "https://dreamsiteradiocp5.com/proxy/rmengland?mp=/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=radiomariaengland.uk",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "The Beatles",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/The_Beatles-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24/7 LoFi Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://ec3.yesstreaming.net:3755/stream",
+        "image": "https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Lofi-Radio.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Sunrise Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://direct.sharp-stream.com/sunriseradio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.sunriseradio.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Deep Purple",
+        "description": "Discography",
+        "stream_url": "https://stream.pcradio.ru/Deep_purple-hi",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pcradio.ru",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Radio Faza",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://radiocast.cr8tive-digital.com/radiofaza",
+        "image": "https://radiofaza.co.uk/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "London Music Radio 32k",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://stream.londonmusicradio.com:8005/mobile",
+        "image": "https://londonmusicradio.com/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Lyca Dil se radio",
+        "description": "Music",
+        "stream_url": "https://edge-ads-03-gos2.sharp-stream.com/1035.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=edge-ads-03-gos2.sharp-stream.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BritCom 4",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/britcom4/stream/",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pumpkinfm.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "24/7 Restaurant Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://ec6.yesstreaming.net:1655/stream",
+        "image": "https://usercontent.one/wp/www.247restaurantradio.com/wp-content/uploads/2021/04/cropped-247-Restaurant-Radio.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Globl Funk Radio",
+        "description": "Bass • Disco • Electro",
+        "stream_url": "https://securestreams2.autopo.st:1148/stream",
+        "image": "https://www.globalfunkradio.com/favicon/128x128.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Soho Radio",
+        "description": "Culture • Eclectic",
+        "stream_url": "http://sohoradiomusic.doughunt.co.uk:8000/320mp3",
+        "image": "https://sohoradiolondon.com/wp-content/themes/sohoradio-jan-2023/build/images/favicons/sohoradio-192x192.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Great Yorkshire Radio",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://stream1.superstreaming.co.uk/proxy/greatyorkshire/stream",
+        "image": "https://greatyorkshireradio.co.uk/images/GYRWEBLOGO.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "The Sounds of GTA",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape33",
+        "image": "https://www.nts.live/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "Venture Radio",
+        "description": "Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/ventureradio/stream",
+        "image": "https://pumpkinfm.com/wp-content/uploads/2019/02/VentureRadio300x300.jpg",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS UK",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3",
+        "image": "http://www.bfbs.com/themes/custom/bfbs/assets/dist/favicon/apple-touch-icon.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS Gurkha Radio",
+        "description": "British Forces",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.ssvc.com",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "1940s Radio Station",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://uk3.internet-radio.com:8082/stream",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/58735.v12.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "London Music Radio 128k",
+        "description": "UK Live Broadcast",
+        "stream_url": "https://stream.londonmusicradio.com:8005/128k",
+        "image": "https://londonmusicradio.com/favicon.ico",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "RadioSEGA (Vorbis)",
+        "description": "Video Game Music",
+        "stream_url": "http://content.radiosega.net:8006/rs-vorbis.ogg",
+        "image": "https://www.radiosega.net/_images/template/siteHeader-newlogo_hover.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS North Ireland",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs4.aac",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png",
+        "category": "England Regional & Cities"
+      },
+      {
+        "name": "BFBS Rewind",
+        "description": "Bfbs • British Forces • Uk",
+        "stream_url": "http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs21.aac&device=bfbs_rewind",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.forces.net",
+        "category": "England Regional & Cities"
+      }
+    ]
+  },
+  {
+    "category": "Scotland, Wales & Northern Ireland",
+    "stations": [
+      {
+        "name": "60 NORTH RADIO",
+        "description": "Scotland",
+        "stream_url": "http://r5.zetcast.net/flac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=60north.radio",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Heart FM Glasgow",
+        "description": "Glasgow",
+        "stream_url": "http://media-the.musicradio.com/HeartGlasgow?amsparams=playerid:UKRP;skey:1546958888&aw_0_req.gdpr=true&aw_0_1st.playerid=UKRP&amp;aw_0_1st.ts=1546958886&nmcuid=null&aw_0_1st.nmc=%5B%22%22%5D",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Q Radio Belfast",
+        "description": "Northern Ireland",
+        "stream_url": "http://edge-audio-02-gos1.sharp-stream.com/qr967.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.goqradio.com",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Nation Radio Scotland",
+        "description": "Scotland",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=nationscotlandi.aac&&___cb=354499296267956",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nationradio.scot",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Easy 50s",
+        "description": "Swansea, Wales",
+        "stream_url": "https://streaming.exclusive.radio/uber/easy50/icecast.audio",
+        "image": "https://manager.uber.radio/static/uploads/station/45f6ba11-a495-4500-abae-41c0b999df6c.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Past Perfect Radio",
+        "description": "Wales • 20S",
+        "stream_url": "http://s2.xrad.io:8046/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=pastperfect.com",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Heart South Wales",
+        "description": "Wales • Adult Contemporary • Pop • Public Radio",
+        "stream_url": "https://media-ssl.musicradio.com/HeartSouthWalesMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/805/heart-london.c5d9e530.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Smooth scotland",
+        "description": "Scotland",
+        "stream_url": "http://media-the.musicradio.com/SmoothScotland",
+        "image": "http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Capital FM Edinburgh",
+        "description": "Scotland • Edinburgh • Pop",
+        "stream_url": "http://ice-sov.musicradio.com/CapitalEdinburghMP3",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Raidió Fáilte 107.1fm",
+        "description": "Northern Ireland • Belfast • Irish Traditional",
+        "stream_url": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.raidiofailte.com",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Nation Radio Wales",
+        "description": "Wales • Contemporary",
+        "stream_url": "https://edge-ads-05-gos2.sharp-stream.com/tcnationi.aac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nationradio.wales",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Capital FM Cymru",
+        "description": "Wales • Bilingual • Contemporary • Contemporary Hits",
+        "stream_url": "http://media-ice.musicradio.com/CapitalCymru",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "BFBS Scotland",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs18.aac",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Capital FM Glasgow",
+        "description": "Glasgow",
+        "stream_url": "http://media-the.musicradio.com/CapitalGlasgow?amsparams=playerid:UKRP;skey:1546958702&aw_0_req.gdpr=true&aw_0_1st.playerid=UKRP&amp;aw_0_1st.ts=1546958679&nmcuid=null&aw_0_1st.nmc=%5B%22%22%5D",
+        "image": "https://static.mytuner.mobi/media/radios-150px/804/capital-london.821a7199.png",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Raven's Cave Radio",
+        "description": "Scotland",
+        "stream_url": "https://s5.citrus3.com:8270/stream",
+        "image": "https://static.wixstatic.com/media/da16a2_6c71f261543d4388bda4f4ecba24fc00%7emv2.jpeg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/da16a2_6c71f261543d4388bda4f4ecba24fc00%7emv2.jpeg",
+        "category": "Scotland, Wales & Northern Ireland"
+      },
+      {
+        "name": "Radio Skye",
+        "description": "Scotland",
+        "stream_url": "http://comet.shoutca.st:8338/live",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=radioskye.com",
+        "category": "Scotland, Wales & Northern Ireland"
+      }
+    ]
+  },
+  {
+    "category": "Community & Specialist UK",
+    "stations": [
+      {
+        "name": "NTS Radio 1",
+        "description": "London • Community Radio • Dj Sets • Eclectic",
+        "stream_url": "http://stream-relay-geo.ntslive.net/stream",
+        "image": "http://www.nts.live/favicon.ico",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "NTS Radio 2",
+        "description": "London • Community Radio • Dj Sets • Eclectic",
+        "stream_url": "http://stream-relay-geo.ntslive.net/stream2",
+        "image": "http://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Resonance FM 104.4",
+        "description": "London",
+        "stream_url": "http://stream.resonance.fm:8000/resonance",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.resonancefm.com",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "24-7 Reggae",
+        "description": "Reggae",
+        "stream_url": "http://antares.dribbcast.com:4346/stream",
+        "image": "https://24-7nicheradio.com/wp-content/uploads/2017/04/24-7-Reggae.png",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "HypeDem Reggae Radio",
+        "description": "Wolverhampton",
+        "stream_url": "https://mrwolfman2.radioca.st/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=hypedem-radio.com",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Radio Central 24",
+        "description": "Bhangra • Bollywood • Pakistani",
+        "stream_url": "http://138.201.52.248:8459/stream",
+        "image": "http://radiocentral24.com/assets/images/transparent-121x64.png",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "camfm Cambridge University Student Radio",
+        "description": "Campus Radio • University Radio",
+        "stream_url": "http://stream.camfm.co.uk/camfm",
+        "image": "http://www.camfm.co.uk/static/images/cam-fm_icon.ico",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Gaydio Brighton",
+        "description": "England",
+        "stream_url": "http://stream.gaydio.co.uk/gaydiosc.mp3",
+        "image": "https://mmo.aiircdn.com/20/61edc776c6010.png",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Gaydio",
+        "description": "Manchester",
+        "stream_url": "http://stream.gaydio.co.uk/gaydionwhq.mp3",
+        "image": "https://img.icons8.com/fluency/96/radio.png",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Feelings",
+        "description": "NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape27",
+        "image": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "10 Radio 105.3",
+        "description": "Wiveliscombe",
+        "stream_url": "http://live.canstream.co.uk:8000/10radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=10radio.org",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "TWR UK",
+        "description": "Christian",
+        "stream_url": "https://direct.sharp-stream.com/twruk.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.twr.org.uk",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Bolton FM",
+        "description": "Community • Local",
+        "stream_url": "https://radio.canstream.co.uk:8083/live.mp3",
+        "image": "https://www.boltonfm.com/bfm_website_logos/BFM_Logos/BoltonFM-Logo-square.png",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Bradford Asian Radio",
+        "description": "Music",
+        "stream_url": "https://cast1.asurahosting.com/proxy/bradford/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=cast1.asurahosting.com",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "UK Roots FM 2024 03",
+        "description": "Roots Reggae",
+        "stream_url": "http://138.201.198.218:8043/;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=ukrootsfm.com",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Asian Star Radio",
+        "description": "Music",
+        "stream_url": "https://radio.canstream.co.uk:9067/live.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=radio.canstream.co.uk:9067",
+        "category": "Community & Specialist UK"
+      },
+      {
+        "name": "Panjab Radio London",
+        "description": "UK Live Broadcast",
+        "stream_url": "http://s1.voscast.com:7918/stream",
+        "image": "https://www.panjabradio.co.uk/wp-content/uploads/2021/03/pr-flag-244x248-1-150x150.png",
+        "category": "Community & Specialist UK"
+      }
+    ]
+  }
+]

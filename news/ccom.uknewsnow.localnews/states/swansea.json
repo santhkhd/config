@@ -1,0 +1,35 @@
+[
+  {
+    "title": "South Wales Evening Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.walesonline.co.uk/all-about/swansea"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=walesonline.co.uk",
+    "year": "Est. 1932",
+    "genre": "Swansea Bay & West Wales Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Llanelli Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.walesonline.co.uk/all-about/llanelli"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=walesonline.co.uk",
+    "year": "Est. 1909",
+    "genre": "Carmarthenshire Local",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News SW Wales",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/wales/south_west_wales"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "South West Wales News",
+    "rating": "4.8"
+  }
+]

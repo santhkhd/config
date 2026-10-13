@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Liverpool Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.liverpoolecho.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=liverpoolecho.co.uk",
+    "year": "Merseyside",
+    "genre": "Flagship Liverpool Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "Wirral Globe",
+    "provider": "web",
+    "arguments": [
+      "https://www.wirralglobe.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wirralglobe.co.uk",
+    "year": "Merseyside",
+    "genre": "Birkenhead & Wirral Peninsula",
+    "rating": "Weekly"
+  },
+  {
+    "title": "St Helens Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.sthelensstar.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sthelensstar.co.uk",
+    "year": "Merseyside",
+    "genre": "St Helens & Rainford",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Southport Visiter",
+    "provider": "web",
+    "arguments": [
+      "https://www.southportvisiter.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southportvisiter.co.uk",
+    "year": "Merseyside",
+    "genre": "Southport & Formby",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Liverpool Echo",
+    "provider": "web",
+    "arguments": [
+      "http://www.liverpoolecho.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=liverpoolecho.co.uk",
+    "year": "Liverpool",
+    "genre": "Merseyside & Liverpool Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Wirral Globe",
+    "provider": "web",
+    "arguments": [
+      "http://www.wirralglobe.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wirralglobe.co.uk",
+    "year": "Liverpool",
+    "genre": "Merseyside & Liverpool Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "St. Helens Star",
+    "provider": "web",
+    "arguments": [
+      "http://www.sthelensstar.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sthelensstar.co.uk",
+    "year": "Liverpool",
+    "genre": "Merseyside & Liverpool Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "St. Helens Reporter",
+    "provider": "web",
+    "arguments": [
+      "http://www.sthelensreporter.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sthelensreporter.co.uk",
+    "year": "Liverpool",
+    "genre": "Merseyside & Liverpool Daily",
+    "rating": "4.8"
+  }
+]

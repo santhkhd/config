@@ -1,0 +1,365 @@
+[
+  {
+    "title": "Manchester Evening News",
+    "provider": "web",
+    "arguments": [
+      "https://www.manchestereveningnews.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manchestereveningnews.co.uk",
+    "year": "Greater Manchester",
+    "genre": "Flagship Metro Daily",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Bolton News",
+    "provider": "web",
+    "arguments": [
+      "https://www.theboltonnews.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theboltonnews.co.uk",
+    "year": "Greater Manchester",
+    "genre": "Bolton & North Manchester",
+    "rating": "Daily"
+  },
+  {
+    "title": "The Oldham Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.theoldhamtimes.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theoldhamtimes.co.uk",
+    "year": "Greater Manchester",
+    "genre": "Oldham & Saddleworth",
+    "rating": "Daily"
+  },
+  {
+    "title": "Bury Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.burytimes.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burytimes.co.uk",
+    "year": "Greater Manchester",
+    "genre": "Bury & Prestwich",
+    "rating": "Weekly"
+  },
+  {
+    "title": "Wigan Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.wigantoday.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wigantoday.net",
+    "year": "Greater Manchester",
+    "genre": "Wigan & Leigh",
+    "rating": "Daily"
+  },
+  {
+    "title": "Salford Now",
+    "provider": "web",
+    "arguments": [
+      "https://www.salfordnow.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salfordnow.co.uk",
+    "year": "Greater Manchester",
+    "genre": "City of Salford",
+    "rating": "Live"
+  },
+  {
+    "title": "Rochdale Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.rochdaleonline.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rochdaleonline.co.uk",
+    "year": "Greater Manchester",
+    "genre": "Rochdale & Pennines",
+    "rating": "Daily"
+  },
+  {
+    "title": "Newbury Weekly News",
+    "provider": "web",
+    "arguments": [
+      "https://www.newburytoday.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newburytoday.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Lancashire Evening Post",
+    "provider": "web",
+    "arguments": [
+      "http://www.lep.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lep.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Lancashire Telegraph",
+    "provider": "web",
+    "arguments": [
+      "http://www.lancashiretelegraph.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lancashiretelegraph.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.blackpoolgazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=blackpoolgazette.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Bolton News",
+    "provider": "web",
+    "arguments": [
+      "http://www.theboltonnews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theboltonnews.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Chester Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.cheshire-live.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cheshire-live.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Burnley Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.burnleyexpress.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burnleyexpress.net",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Chichester Observer",
+    "provider": "web",
+    "arguments": [
+      "http://www.chichester.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chichester.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Wigan Today",
+    "provider": "web",
+    "arguments": [
+      "http://www.wigantoday.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wigantoday.net",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Westmorland Gazette",
+    "provider": "web",
+    "arguments": [
+      "http://www.thewestmorlandgazette.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewestmorlandgazette.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Salisbury Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.salisburyjournal.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=salisburyjournal.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Oldham Evening Chronicle",
+    "provider": "web",
+    "arguments": [
+      "http://www.oldham-chronicle.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=oldham-chronicle.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Banbury Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://www.banburyguardian.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=banburyguardian.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Bury Free Press",
+    "provider": "web",
+    "arguments": [
+      "http://www.buryfreepress.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=buryfreepress.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Bury Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.burytimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=burytimes.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Times and Star",
+    "provider": "web",
+    "arguments": [
+      "http://www.timesandstar.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesandstar.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Messenger",
+    "provider": "web",
+    "arguments": [
+      "http://www.messengernewspapers.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=messengernewspapers.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Northwich Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://www.northwichguardian.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=northwichguardian.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Accrington Observer",
+    "provider": "web",
+    "arguments": [
+      "http://www.accringtonobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=accringtonobserver.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Leigh Journal",
+    "provider": "web",
+    "arguments": [
+      "http://www.leighjournal.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leighjournal.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Runcorn and Widnes World",
+    "provider": "web",
+    "arguments": [
+      "http://www.runcornandwidnesworld.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=runcornandwidnesworld.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Chorley Guardian",
+    "provider": "web",
+    "arguments": [
+      "http://www.chorley-guardian.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chorley-guardian.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Whitehaven News",
+    "provider": "web",
+    "arguments": [
+      "http://www.whitehavennews.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whitehavennews.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Chorley Citizen",
+    "provider": "web",
+    "arguments": [
+      "http://www.chorleycitizen.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chorleycitizen.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Leigh Observer",
+    "provider": "web",
+    "arguments": [
+      "http://www.leighobserver.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leighobserver.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Banbury Cake",
+    "provider": "web",
+    "arguments": [
+      "http://www.banburycake.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=banburycake.co.uk",
+    "year": "Manchester",
+    "genre": "North West & Manchester News",
+    "rating": "4.8"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Leicester Mercury",
+    "provider": "web",
+    "arguments": [
+      "https://www.leicestermercury.co.uk"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leicestermercury.co.uk",
+    "year": "Est. 1874",
+    "genre": "Leicester & County Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "BBC News Leicester",
+    "provider": "web",
+    "arguments": [
+      "https://www.bbc.co.uk/news/england/leicester"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bbc.co.uk",
+    "year": "Est. 1922",
+    "genre": "Public Broadcaster",
+    "rating": "4.8"
+  },
+  {
+    "title": "Loughborough Echo",
+    "provider": "web",
+    "arguments": [
+      "https://www.loughboroughecho.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=loughboroughecho.net",
+    "year": "Est. 1891",
+    "genre": "Local Weekly",
+    "rating": "4.8"
+  },
+  {
+    "title": "Hinckley Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.hinckleytimes.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hinckleytimes.net",
+    "year": "Est. 1889",
+    "genre": "West Leicestershire News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Leicester Mercury",
+    "provider": "web",
+    "arguments": [
+      "http://www.leicestermercury.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leicestermercury.co.uk",
+    "year": "Leicester",
+    "genre": "Leicestershire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Melton Times",
+    "provider": "web",
+    "arguments": [
+      "http://www.meltontimes.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=meltontimes.co.uk",
+    "year": "Leicester",
+    "genre": "Leicestershire Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Harborough Mail",
+    "provider": "web",
+    "arguments": [
+      "http://www.harboroughmail.co.uk/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=harboroughmail.co.uk",
+    "year": "Leicester",
+    "genre": "Leicestershire Daily",
+    "rating": "4.8"
+  }
+]
