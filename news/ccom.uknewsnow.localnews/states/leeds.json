@@ -96,14 +96,6 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Preview: Arsenal v Leeds United",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EbjBLLUNRZndPRXJsTUJlRU5PamxyUGQ5SHhGZjM4cTJ1UU1GTHlsVkJNeHhubjJBcHVLUEVSQ0duazU4emJIV0lwd2xHd1FIWThxeE92Qi1mUnE1SFI3YVctUUkxZTAwN1UtczZfQWJYcnBoSkFhbTBJRjU?oc=5",
-    "description": "Preview: Arsenal v Leeds United&nbsp;&nbsp;Arsenal.com",
-    "pubDate": "Fri, 09 Oct 2026 16:52:27 GMT",
-    "sourceName": "Arsenal.com",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
     "title": "Blue plaque honour for poet's childhood home",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82MjF5OGlDODR2eFU0MmZTRmVVWVNLNUlpWWNBV2ExU0tHcmNYd3NtZW0ycl9iUGZXXzJiY1ByY041WHJWam0zUkRXb2ZkTlc0S21DSjZuamc1R24tNmc?oc=5",
     "description": "Blue plaque honour for poet's childhood home&nbsp;&nbsp;BBC",
@@ -120,18 +112,18 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Premier League: Arsenal 2-1 Leeds United - Daniel Farke post match interview",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mSzVGNjVfU3hNbnNsQXFvakFVeFFEVjQ1R1I0ZFdzd1lfelIwbVdhNjRDREUtVE14VkNIOGItNnQyOWVLcEdUb1R0bDQxVUxOY0RjWU5XeVkxejVPV29iblhxM0FVb1VI?oc=5",
-    "description": "Premier League: Arsenal 2-1 Leeds United - Daniel Farke post match interview&nbsp;&nbsp;BBC",
-    "pubDate": "Sat, 10 Oct 2026 14:29:41 GMT",
-    "sourceName": "BBC",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
     "title": "Premier League: Arsenal 2-1 Leeds United - Mikel Arteta post match interview",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wSTZJQzJtTlk4dGVyaDAxZ2VOV01Ea25VMWY2QTh3cDJjTUtOS2VOalQxNTN4aVBvSEZfY1daV2tDZV8tS0NKcGV6RGJnSmoyLUcwOXdDLXltRnNndGQ3ZkhpTFVkeHQ1?oc=5",
     "description": "Premier League: Arsenal 2-1 Leeds United - Mikel Arteta post match interview&nbsp;&nbsp;BBC",
     "pubDate": "Sat, 10 Oct 2026 14:34:11 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Premier League: Arsenal 2-1 Leeds United - Daniel Farke post match interview",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mSzVGNjVfU3hNbnNsQXFvakFVeFFEVjQ1R1I0ZFdzd1lfelIwbVdhNjRDREUtVE14VkNIOGItNnQyOWVLcEdUb1R0bDQxVUxOY0RjWU5XeVkxejVPV29iblhxM0FVb1VI?oc=5",
+    "description": "Premier League: Arsenal 2-1 Leeds United - Daniel Farke post match interview&nbsp;&nbsp;BBC",
+    "pubDate": "Sat, 10 Oct 2026 14:29:41 GMT",
     "sourceName": "BBC",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
@@ -144,19 +136,27 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
+    "title": "Man, 79, dies after car crash in West Yorkshire",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GWDJvNWFEb3JSTmFybG9NT1ZuMVN2elVvY3FNSEhld2FTRjFuQi16OFdtSk5xR3VqbEFVVWpXWXZlbmdIbVc2R0VhbWdfV2xXUkNpN3hPUWRpbl9sMUE?oc=5",
+    "description": "Man, 79, dies after car crash in West Yorkshire&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 09 Oct 2026 17:06:54 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Leeds news: Young Whites exit EFL Trophy after Oldham defeat",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52SlNVaDhia2c2bWR2d0VLVERtZ240TXd1ekRRcDB6R3ZsSHgwYnhmajRzTkNNakQ5YkczdTN5ajg1bHhOTS1WTTdZRkFpSndiSFJQam1uT2cwazJaLVJZRk13NlZab00xaFVV?oc=5",
+    "description": "Leeds news: Young Whites exit EFL Trophy after Oldham defeat&nbsp;&nbsp;BBC",
+    "pubDate": "Wed, 14 Oct 2026 08:32:45 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
     "title": "Arsenal 2-1 Leeds: Riccardo Calafiori and Bruno Guimaraes on target as champions fight back to go level with Man City",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcG5JQW1GRkc0czR3dUVxR3hUYlR4SFhxd0dkRzNUR0xBTW51U1ZIVjlMOTZhLTlsRm9iZXlCVC1xS015VWRsUVFiYl8zaVVPajA4VjhRUTBiRjNQXy1iS2FNX2toZVlCcHN2R3JzbzVzOXlIVmlPMEQxbG9DaG5KYUhZU1pVMVVIUm9RQVpqOEhmZ3AzczVVVDZDak9kUV9RVHMzYVpRQkt1dFJuQVY4d3JBUEhQU0lQNjdfZGFibUd0M2VGX2FkcGdOMmFmZXdOT0FqYmdaVTBBOW9qck9uWTF3MTVaUVBjcGlDc3ktSWlLZ0ZLaFFQaw?oc=5",
     "description": "Arsenal 2-1 Leeds: Riccardo Calafiori and Bruno Guimaraes on target as champions fight back to go level with Man City&nbsp;&nbsp;Sky Sports",
     "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
     "sourceName": "Sky Sports",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
-    "title": "Ticket exchange update for Tottenham and Leeds home matches | News | Official Site",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGVpelVKZU54bHpjS2tXRkdaODZBcFhyZ3lJUzNMSzBHOVlrZWM2TmZ1Wkpha21MUDRHdXd4eC1KWkVfd2JUSEJKbW56SldxN2lwZ1FlS0pKZDgxVjdteTJlaG41VHVZVUdncm5vUm5PU0lFUzRIczZLZXo0QmN4akRENUZlbkYzeDBULVFoMTJfRGpjd2Z0bDk0bHFPdE9ZUWhB?oc=5",
-    "description": "Ticket exchange update for Tottenham and Leeds home matches | News | Official Site&nbsp;&nbsp;Chelsea Football Club",
-    "pubDate": "Mon, 12 Oct 2026 12:00:00 GMT",
-    "sourceName": "Chelsea Football Club",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]
