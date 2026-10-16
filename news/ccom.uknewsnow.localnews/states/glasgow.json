@@ -80,22 +80,6 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Patient absconds as public warned 'not to approach'",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUpkOFE5M1dUU2NjV1ZJWEs4T0NlMFB3dzdDekY5NXFCd3g1bTZvVGtwXzFBci1pT2d6OWYtdDZSYW9BdHZXQ1RZMlZNajB6ZWFrUU1WTHNWYi1jeDNHREoxR2hhWkwtSEFFTEJJZk9ySDZuQWdqSDJKVHV3UGtYTmdqUXlpMFpzWXVIN0drTmlLZENyaEZRb1Nfdw?oc=5",
-    "description": "Patient absconds as public warned 'not to approach'&nbsp;&nbsp;STV News",
-    "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
-    "sourceName": "STV News",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
-    "title": "Match Preview | Sale Sharks (A)",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TUJzbUoyamh3Z25uLVotME9oX3RmZ3I2S2dja1hKbkdLLUVqcUxYY3ZyWE1ialY1NVZkeVo2U0pxQmMxeUpLY3o1b3QzV3dnMTkwVHp1YWU4ejlFNVJNRUJiTUMyYzE3VV9Pd1BvM3ZOWm4yZDYxUTFtWlE0MTg?oc=5",
-    "description": "Match Preview | Sale Sharks (A)&nbsp;&nbsp;Glasgow Warriors",
-    "pubDate": "Fri, 16 Oct 2026 15:07:50 GMT",
-    "sourceName": "Glasgow Warriors",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
     "title": "Fourth union joins strike at Glasgow Caledonian University",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVX0c3RHFkMndHekwzME9PTnBRZ0p1UldGbDYzNHhrSFZ2ZkNLeVM1MkM0aWtHLWFQam9ncmJXbDZvY05FQ09EZlNabmlKU0swQzlXQVZ3ZTNobGE5dlE?oc=5",
     "description": "Fourth union joins strike at Glasgow Caledonian University&nbsp;&nbsp;BBC",
@@ -108,6 +92,14 @@
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OLVAxM1RWdWpPNXNoV25TTGVBS1ZaYThva3g4Ukx5S0NDWjRxaEZodzNJYi1UMWQtWDhIUEprVmwzRjA3d0xkM3hOalJSVkp1TG5hcDViR1BvcUxMcHc?oc=5",
     "description": "Glasgow Subway reopens after train failure at depot forced closure&nbsp;&nbsp;BBC",
     "pubDate": "Wed, 14 Oct 2026 06:49:23 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Man caught with £2.6m of cocaine among Santa gift bags in Glasgow flat",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCRTFMWjRsdVJIcDJCTG5qSmJvVHBiS2ExcDMwazJWWlZUajZFUUxybnZhajVYZFVQM0p1LUJ0bUhHWWl2QTVGLVVIN2EyQmJVNlZIQkZ0ajZmWFAzeFE?oc=5",
+    "description": "Man caught with £2.6m of cocaine among Santa gift bags in Glasgow flat&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 16 Oct 2026 15:14:47 GMT",
     "sourceName": "BBC",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
@@ -136,6 +128,14 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
+    "title": "Hidden stained-glass masterpieces go on display in Glasgow",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91Q29FdjVUZnFSVVRfMVFwSVBac0ZTTXpibW9lS1lxemxvZzRxcVBRRElma29uLXhwTVJ2aFJkb3QzRklqNlptVHJ2NGJESmVVMUhrdEU5SVRWWjVKS0E?oc=5",
+    "description": "Hidden stained-glass masterpieces go on display in Glasgow&nbsp;&nbsp;BBC",
+    "pubDate": "Fri, 16 Oct 2026 21:50:17 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
     "title": "Barlinnie visitors unable to use toilets as water supply problems continue",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ybnE5bVdzTWx2N01SVnc3ellJRE1jbWs2ZG1fc1V3WDQ5aF80QzIwRTlIYi1FeFB4SzQ0MmptODFTblJDZl96Q3RaWHJaazJiSm8yc3VLTjJ1MnBLZ2c?oc=5",
     "description": "Barlinnie visitors unable to use toilets as water supply problems continue&nbsp;&nbsp;BBC",
@@ -144,19 +144,19 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
+    "title": "Match Preview | Sale Sharks (A)",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TUJzbUoyamh3Z25uLVotME9oX3RmZ3I2S2dja1hKbkdLLUVqcUxYY3ZyWE1ialY1NVZkeVo2U0pxQmMxeUpLY3o1b3QzV3dnMTkwVHp1YWU4ejlFNVJNRUJiTUMyYzE3VV9Pd1BvM3ZOWm4yZDYxUTFtWlE0MTg?oc=5",
+    "description": "Match Preview | Sale Sharks (A)&nbsp;&nbsp;Glasgow Warriors",
+    "pubDate": "Fri, 16 Oct 2026 15:17:31 GMT",
+    "sourceName": "Glasgow Warriors",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
     "title": "First look: The Ivy unveils new, expanded Scottish outpost in Glasgow",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1RqMG1FVVhJTU1jQmdmal9MWHNmSlJtY254eU9ja1ozS3JURVFyWEljNC1QVXhCbExaT2ItbHAxb0p0NllreWQ1V3g2cDhwZ0N2RlU0VHN3T3dqcWlRUWp3dHZqMWRPMU1haV9sUk1ETTlRSGVidFNabEZZOTg3Qi1WcG1ETXFWWFluaC10bXl2NDJMN3U5MUk5NXd2aDBx?oc=5",
     "description": "First look: The Ivy unveils new, expanded Scottish outpost in Glasgow&nbsp;&nbsp;The Caterer",
     "pubDate": "Thu, 15 Oct 2026 16:23:38 GMT",
     "sourceName": "The Caterer",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
-    "title": "Glasgow’s derelict glasshouse to be transformed into ‘living ruin’",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMndoOTEtdDVZZ1Z4Q0dUS0FtbWhRNnlSNjBWTExlYlN0V0RXMUIwOThTaENna0YxQkJ5UEw3LUEtb1h4Z1FKZjVNV09XN1kwdWI5aldhYV9FcDd3RG1mZ1ZoRk5BNUk0LWpvUTRLMHMyUUtYNG9KNG5IMThtUzFLaHg2V2hwVHc0QlFwTGpWM1N3OXBsOGpWazJlMkR3VGhwTS1vdTdOLTlRbTM2SXVNcg?oc=5",
-    "description": "Glasgow’s derelict glasshouse to be transformed into ‘living ruin’&nbsp;&nbsp;Building Design",
-    "pubDate": "Tue, 13 Oct 2026 12:19:18 GMT",
-    "sourceName": "Building Design",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
 ]
