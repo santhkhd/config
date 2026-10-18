@@ -24,14 +24,6 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Team news for Leeds away",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOem1RV1ZPZXBnb1d1TzROckM2TXRMYzlTWGM0Ul80eDBzT2xaSmRJT3ZFc2NtWmI2cFFianpqdzMteGhCemhmSV9IUkFHMTExNEFQWDBiZDlOQzA2ajhUVThHUDRqRHZ1WGV6SENpS0IxRnA5dlU2M3RGaE9jYUJLRg?oc=5",
-    "description": "Team news for Leeds away&nbsp;&nbsp;Manchester United",
-    "pubDate": "Fri, 16 Oct 2026 12:58:24 GMT",
-    "sourceName": "Manchester United",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
     "title": "Major Incident Team continue to urge for information following tragic death of woman in Manchester",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSW02cjAwYzlGa2ROZ3B6RU1QWEVHRV82aDlmY05xT1FmdWhneC1rN1BtTXJiUlNyY3lGNVVkX1VNUTlzanZfdW1tLVk3dW1TQzAtaktDTHhhTUs0ODlxclhLZXFwRFVjVTlvbjVCaGV5WVZLNWs3WklhZkRJMk1CN3NZeWJCa010NU9KSHlJYXJ3WEhoVVVHcEpCTUxweGJGZHRHWUQzNE9LaFpFbjFmYy05dElUN1VCa2s3YUtmZzRoWk5IWjVOMENtdzVVaVdYa2c5X2lMWFloa2dvd1RBanZGYXNQc1dhbTlnOExpZFJRdVZOZzlJQng0U0g2Z2FYWlE?oc=5",
     "description": "Major Incident Team continue to urge for information following tragic death of woman in Manchester&nbsp;&nbsp;Greater Manchester Police",
@@ -45,6 +37,14 @@
     "description": "Man extradited and charged with John Soyoye's murder in Moston&nbsp;&nbsp;BBC",
     "pubDate": "Wed, 14 Oct 2026 17:57:31 GMT",
     "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Friday briefing: How Manchester City’s ​financial scandal could upend the whole football league",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTXQ1enFhOHZlN0JOeERibmIxWlZ6d1RoWEZnbVZHUDJZcWlsN3dWVTRSRm9mNVQ3ZF9NelkzYlV3dDFqS1ZoMXdJV1dFQUVLa09aUl9jQm9JZHBwUGtEcVdscXdFNnMzMFdXZ2tRSVdWR1MtOEpNUTNCVklaWjJHZ05GNHhGQmxKUUJ5cFFMNzlfZzdJSzlOakVZQVEtNjJ0WXN0bC1rcU9aby1zY1RrUGtNOGxPS2FGLWc2X2tINGtVdXQ0dGxGeklBejloOW9Sd1lYbQ?oc=5",
+    "description": "Friday briefing: How Manchester City’s ​financial scandal could upend the whole football league&nbsp;&nbsp;The Guardian",
+    "pubDate": "Fri, 16 Oct 2026 10:33:00 GMT",
+    "sourceName": "The Guardian",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
@@ -144,18 +144,18 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "PC thought murderer was making 'empty threats' before arson attack",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aSU52Qkl1dkNHeWFLalo4ek1RckpzcGRfQUF4VzhJWGtzQ01YQWdNTTFpa3RnMGM2NExwUS12T1pIY0tmRDVsZlRQTWhBSDZNbnNBNTFyYjg2TzRjRGc?oc=5",
-    "description": "PC thought murderer was making 'empty threats' before arson attack&nbsp;&nbsp;BBC",
-    "pubDate": "Mon, 12 Oct 2026 16:18:34 GMT",
-    "sourceName": "BBC",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
     "title": "Housing loans granted while Burnham was mayor investigated by councillors",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wMkJ5MW8wTS1sN0JjTzNqN2s5d01US1J5WlV2S3UzR2p1RXEteVFfeFJiYjVYaVEzMmJMUEYxWldlSUVvVnRFREJWS1FOcGZzbl9Gekc2M2RQZ2RrOHc?oc=5",
     "description": "Housing loans granted while Burnham was mayor investigated by councillors&nbsp;&nbsp;BBC",
     "pubDate": "Fri, 16 Oct 2026 15:46:11 GMT",
+    "sourceName": "BBC",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "PC thought murderer was making 'empty threats' before arson attack",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aSU52Qkl1dkNHeWFLalo4ek1RckpzcGRfQUF4VzhJWGtzQ01YQWdNTTFpa3RnMGM2NExwUS12T1pIY0tmRDVsZlRQTWhBSDZNbnNBNTFyYjg2TzRjRGc?oc=5",
+    "description": "PC thought murderer was making 'empty threats' before arson attack&nbsp;&nbsp;BBC",
+    "pubDate": "Mon, 12 Oct 2026 16:18:34 GMT",
     "sourceName": "BBC",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
