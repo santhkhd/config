@@ -8,14 +8,6 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Edinburgh schools evacuated after 'hoax' bomb threat to schools",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbW1xbjNHUmF4c3ZGZTFkQWFuRzJvcHc4YUw5ZkxmRVNucXJsREJ6Q0VxeTZvVUZnYUstV193aDljY09SS0hnRTZWbVNFS3Q4MUFmWlRUOVlGQ0gxb0E2TTVRSnczTXFJOHBGREZ1cEpHUTl5M0d4eVVBQ3VnLVg3cEU1TE9ibHp0UVR2cUVheTdKZjFMbktFXzB1Njk3MEM0MXhRQnNzemZqNm42Zldz?oc=5",
-    "description": "Edinburgh schools evacuated after 'hoax' bomb threat to schools&nbsp;&nbsp;Edinburgh News",
-    "pubDate": "Mon, 19 Oct 2026 10:18:00 GMT",
-    "sourceName": "Edinburgh News",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
     "title": "Schools 'to open as planned' tomorrow following hoax bomb threat",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNamNHNlRtMGhCdF9ab3A2LXN3ZTBNOENSU3g1OXYtdklzTW9uaUl6MDZzeTh0MlNQSnhZcVdDRHV0VDJQZTdZWE1hS0FtQkEwMHRNeFdpVTU2T0N0bDBtWkw0bC1LSDJPZGhlelBvOEkwa2wzbEo2Q0dHYkJ2N3lXb3lFQ3Z5cDd5VnVvNXVfSW5ZQ2pCSEpsdXpzeGo4c0JvalVSdXczejR5bW5WSnZ5TzM2Y0hlRzlGdExWTXRLWXg3QmQ1S21iUTk0UQ?oc=5",
     "description": "Schools 'to open as planned' tomorrow following hoax bomb threat&nbsp;&nbsp;Edinburgh News",
@@ -28,6 +20,14 @@
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1BZQlB4WEVjNzhKdFpvSDhDZVdFdTkxTjRiVkdDR2VITVg4TnlEV3JoSTIwNjQ3NFFJakdKRHRxclFzeTJjTUxtejdlNjctZGJ1TjhMekVPQVBRb0hkSTJFc09MemtyRGZhRG5LcmZHTXRMbUdMRFVGQlFZcjJ6aGpldHJNcTZFV25oYzB5UG5qX2cwRUIyakc3dUVrMUVfRjhhQ015SlM4eTVwZnRRLWpMQ05WaXo4WWZicjdmQ3RVbkVXaERJRTdZdDVucjJVVTI5TDlCQUo?oc=5",
     "description": "Serious two-car crash closes busy south Edinburgh road&nbsp;&nbsp;Edinburgh News",
     "pubDate": "Fri, 16 Oct 2026 09:10:00 GMT",
+    "sourceName": "Edinburgh News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Edinburgh schools evacuated after 'hoax' bomb threat to schools",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbW1xbjNHUmF4c3ZGZTFkQWFuRzJvcHc4YUw5ZkxmRVNucXJsREJ6Q0VxeTZvVUZnYUstV193aDljY09SS0hnRTZWbVNFS3Q4MUFmWlRUOVlGQ0gxb0E2TTVRSnczTXFJOHBGREZ1cEpHUTl5M0d4eVVBQ3VnLVg3cEU1TE9ibHp0UVR2cUVheTdKZjFMbktFXzB1Njk3MEM0MXhRQnNzemZqNm42Zldz?oc=5",
+    "description": "Edinburgh schools evacuated after 'hoax' bomb threat to schools&nbsp;&nbsp;Edinburgh News",
+    "pubDate": "Mon, 19 Oct 2026 10:18:00 GMT",
     "sourceName": "Edinburgh News",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
@@ -64,10 +64,18 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Police to close road near Edinburgh Airport amid fatal crash probe",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHA5a2ZmbVhtM2pJbUZmbk1lNDZiMGJ2LXRDRHRoWW1EQTFqdEtUektBd3AwZjhpdUd2dFFXdVNLNVVIYkNJUlRUT1BPRnQzR3lZbGZiT0dMSjBBcFhJUGozaUJ6ZWN6OFEtRFllcWlXb2s1bEtSM29JM2JLQ1hxWWFFSTRMajRkOFNWM3BWYWVqbnotaVRfelIyWlBDa1N5V3hlbDFMelhsQmtMWXVmTF9JRTRFQlV5?oc=5",
-    "description": "Police to close road near Edinburgh Airport amid fatal crash probe&nbsp;&nbsp;Edinburgh News",
-    "pubDate": "Tue, 20 Oct 2026 09:08:00 GMT",
+    "title": "Person 'struck by train' as services disrupted amid emergency response",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbWFUOEh0RzJxRGpGX1hia2VpWmp2SFFtZHR1b1NQWUNwdEhudkRlOXhjcjZ2ZzRrMGM5S1dhNGt5Y203eTZ4MHlRZF9jN3pvYnI5SjdUUmg1cmFnUDE5ZWFVdXFTc19IMC1SSjJCcXZIbkZsMTdYUlpSTVljeHp6YTJRQlF3UjVJMEdrSnVlSExRN1lqdG5OZXNhUGVOYVo5T1ZxSDBreVJNYUZIQm1lUldSS2lYeFlKSGlLSGtpU2c2bG1QTjlUX3YtejNyRE4tLTJLdDVmYUpqVzFpVkxra1lNVHUxSWtmOHF2M0sxSDFHMm1lT2dwdU5fUzFlTzgtY2xTcnFrQVhsY3pwWkM0ZQ?oc=5",
+    "description": "Person 'struck by train' as services disrupted amid emergency response&nbsp;&nbsp;Edinburgh News",
+    "pubDate": "Tue, 20 Oct 2026 14:48:00 GMT",
+    "sourceName": "Edinburgh News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Train disruption between Edinburgh and North Berwick after 'signalling fault'",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm9QNnZZMWp0aVhpSFRFNzBJNHNiRkh4TU53ZjNYYmpKSzNZNnJkcmpvY1c1clJZRUxQclpoOU1VUjhJTDBuTFBORXdaTVdGSnltUlRkejB4NmU5NWxaZE5vOFhWS0pKMHdLWi01WEJ1blBmemRXZ24wWTZuUlBGZ08xbENZUjI0UndKeW5BQ0czS2tqVG5yR0R3Vmt6N09tbWVTdjhIS3Nva1ZlMXQyTw?oc=5",
+    "description": "Train disruption between Edinburgh and North Berwick after 'signalling fault'&nbsp;&nbsp;Edinburgh News",
+    "pubDate": "Sat, 17 Oct 2026 08:49:00 GMT",
     "sourceName": "Edinburgh News",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
@@ -80,10 +88,10 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Disused hand grenade detonated by police in 'controlled explosion' in Inverleith park",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZEZEYUNILU5kTXdWeE80WFJMSUVDd1dCMWRWNkFqZDM2VWVnWURkZmhuWjhCN3VPQ3FUMnVLNm5oYXA2TmJtOVpNMDN3WW5WQU5oNHdwWlZlbEZPVDZDbjFHV2U4WGJVR3E1Qkl6SHhKTU0xVmdmSHh3amE4Z2JVWTltOWRtSEY2akh1LVNhS3A0U29pU3p5US1kQ1Ixb3FqaEpsNkp2enlSTXUzeUVmYlJvamF0YXFTT1p1MlYxTzBGSDZQTmU0b0NhaGhZazBn?oc=5",
-    "description": "Disused hand grenade detonated by police in 'controlled explosion' in Inverleith park&nbsp;&nbsp;Edinburgh News",
-    "pubDate": "Tue, 20 Oct 2026 09:30:00 GMT",
+    "title": "New £3.8m Visitor Levy fund to 'futureproof' Edinburgh's heritage buildings",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSDc1QmV6Q1h2RXhaVnRiWXFycVBHajdmOENlTW9OY1RjV0VPS1RsMEl2RVBRVTM4VWw3Q1Y1X2Y4d1NpN2t6SVBxNUJGZUdmeThPNVNoX0w3cDRtYVFmdmJDZWVhamhnVFNsQjU5YmM1REg4U0lvcmdPcGEycTZKbXNFcl9KS1NPdmE3Um9VR295cGZYYnVKY0kxMGhyT1lEbGo1VUN1b1h0OW9ZYld5ZF9wZXlPUTNYcE12anpuZ2NQalFEV054bTF1NTRXbHdqbjdDN0pqaFdlX2VRR3YxcXpkSG1uMVdsWDJGMA?oc=5",
+    "description": "New £3.8m Visitor Levy fund to 'futureproof' Edinburgh's heritage buildings&nbsp;&nbsp;Edinburgh News",
+    "pubDate": "Tue, 20 Oct 2026 15:11:00 GMT",
     "sourceName": "Edinburgh News",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
@@ -96,22 +104,6 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Councillors vote to look at repairing flats earmarked for demolition",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUzF4Y1YwY20yRFFsNHFDNDR1X1VoMFgwd3c5bWU2aW51YnNGeHJFdF9nb2s2elYwSWlZVVhsMXptenJEYXFFRWVKMl9WSDd2WDhaY2lDTnZNSFRNbXhMTWphcFNPZWktVWxaaS1zczJfWENmUVIzMzBERFcwaUVlTzBybFo3V0ctMm92Um0yU245dGpydnF2ZzNpa3FpaVBBM2JfNmZZMDJ0QXpQd1Bqb3ZxUFdyeVBQUFJSQmJvZ0ZWVEN0WXZtV2R6MEl2Z3MwQUUxZzBOQzhnbFRxVl92bg?oc=5",
-    "description": "Councillors vote to look at repairing flats earmarked for demolition&nbsp;&nbsp;Edinburgh News",
-    "pubDate": "Tue, 20 Oct 2026 05:00:00 GMT",
-    "sourceName": "Edinburgh News",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
-    "title": "Tour de France opening ceremony details announced as Portobello pupils head to Paris",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTk5lVVJZcUt6ck53UzhvaHRUVlpieTRlNm50VURScE9pTHdGbXdZUVBpWVctRHdFaklJMVg2eHZKNG1FT0JUTjJSUW43QTNuZklTN1A0b195dDh6SzZoMkpZd2NzQkFOei1PRFlUVGJtdklfUVJzN0VBbDR0ZVY2M0hwd2tyb3FWVnRfRFRtTjRxRnI4ZFVEb3lqNU9VbU5SdXRPSFdzTWJMT0plaU9wam02MXRPNkhPUUg4Z25vZkVUenNBUElaclhfbkxkMlFUaHVsT1FIMUhZWGxNZVA2NndBSF8tZkk?oc=5",
-    "description": "Tour de France opening ceremony details announced as Portobello pupils head to Paris&nbsp;&nbsp;Edinburgh News",
-    "pubDate": "Mon, 19 Oct 2026 17:32:00 GMT",
-    "sourceName": "Edinburgh News",
-    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
-  },
-  {
     "title": "Edinburgh MP to lead Commons debate on problem of illegal e-bikes",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmNFbDFERzBDcjRtYkliTVVKb2VSQUlybThfZGU4OGFEblpYOV9fQzZ1VmR0MTdab3RCSW1vQzd0dHhFSVl5UUpQUk9fMGt2cUg0UERDQnEycUh2R0RwY09Jd0N4dGhobkkwcTZtM2NQNlpWSDQ0OVc5eEFxSERjTmJ6WHFobHdnMkFVcV9ZVWkyR0M3YjFOclFScGZqU1VNbWk1NHBNRWtia2Nqc1dDOFNLM2tNaXN6d29tdm9lTndwZWM?oc=5",
     "description": "Edinburgh MP to lead Commons debate on problem of illegal e-bikes&nbsp;&nbsp;Edinburgh News",
@@ -120,10 +112,10 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Edinburgh City left to rue missed chances in Elgin stalemate",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVEtejVfNDhoWkliYjd4MmhKM0lWNnRkSDNRRkpVN3c0Sm9EYml0c21uSUFaSTYtRExUSzFZM3JNNHNwTE1zQXRIOHV4RFhYX1RLT1ZLa19LVlp1eE9CLWJ0eDFzR2RxczB3WXE1MFpSV3JQdVVvRm4yVGpLbUZTUzRpV0hKS19ZdlBTd000V1hWdzJJTTZhdERsQWxmZUdXa1V5MS1kUDIwMWRVY2hwZENzaE55c25vaWVNZnI2SQ?oc=5",
-    "description": "Edinburgh City left to rue missed chances in Elgin stalemate&nbsp;&nbsp;Edinburgh News",
-    "pubDate": "Sun, 18 Oct 2026 12:04:00 GMT",
+    "title": "Edinburgh will bid to survive local government shake-up",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSlN1ckxDSWRQNFA0QzB5YlhxeTVLbTJzNkZ2M0lUTUNJQkcyRG0yeUhYU3BtNVlodDlnYXNmZWNuZzhZclJTVU9XelEyYk10REtXMUprWmxHS29UcmVPaUE2cmtpRXlBTHZiZl9HVHk1SWtmWnNraXZ2WFZ1NkJnX0RRNzVXeWVkLWF6S2VHRXoycDJWandSYmhQTU9yeE8xb3d6M2JEY085aHNubWY4MU5xUlZKbnBrLTdySEhELTNmU2NCejNlLTJHb2ZpcFhKQmcxMzhZQXl2bFViay1ROWdQMWlqSGNZUlY5dA?oc=5",
+    "description": "Edinburgh will bid to survive local government shake-up&nbsp;&nbsp;Edinburgh News",
+    "pubDate": "Tue, 20 Oct 2026 14:03:00 GMT",
     "sourceName": "Edinburgh News",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
@@ -132,6 +124,14 @@
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ3pnQzFIc2hqaVQ0d3FCNnA2NXRRS2ZHdUJXNUNpMTRVNkdOVlVCTDVwNl9lM0Q0WUJpbFVXUXNnSXI5RUp5QUhTbTV3dlJFWW92YmozY3JBd2ZHT2QxckF1NEExWGdtZENNd2V6eFEtY1lvdmtzcUJ2MnhMZmJDMmhEVHNudWpzdlZSWEp4aDk1N21lcUJzaXI2M3E1bFRtSHVSN1VWWDhnUFNXYk5VaXRqaHdxWDAzUExjV1pCY3NaY2hUV1RNc2Y2aFNWTEluQ3BNTlNhRzN1N2pFX252bWpvcGdkVkZR?oc=5",
     "description": "Owners' appeal after motorhome stolen from Edinburgh industrial estate&nbsp;&nbsp;Edinburgh News",
     "pubDate": "Wed, 14 Oct 2026 11:26:00 GMT",
+    "sourceName": "Edinburgh News",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
+  },
+  {
+    "title": "Edinburgh City left to rue missed chances in Elgin stalemate",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVEtejVfNDhoWkliYjd4MmhKM0lWNnRkSDNRRkpVN3c0Sm9EYml0c21uSUFaSTYtRExUSzFZM3JNNHNwTE1zQXRIOHV4RFhYX1RLT1ZLa19LVlp1eE9CLWJ0eDFzR2RxczB3WXE1MFpSV3JQdVVvRm4yVGpLbUZTUzRpV0hKS19ZdlBTd000V1hWdzJJTTZhdERsQWxmZUdXa1V5MS1kUDIwMWRVY2hwZENzaE55c25vaWVNZnI2SQ?oc=5",
+    "description": "Edinburgh City left to rue missed chances in Elgin stalemate&nbsp;&nbsp;Edinburgh News",
+    "pubDate": "Sun, 18 Oct 2026 12:04:00 GMT",
     "sourceName": "Edinburgh News",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
@@ -152,10 +152,10 @@
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   },
   {
-    "title": "Edinburgh will bid to survive local government shake-up",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSlN1ckxDSWRQNFA0QzB5YlhxeTVLbTJzNkZ2M0lUTUNJQkcyRG0yeUhYU3BtNVlodDlnYXNmZWNuZzhZclJTVU9XelEyYk10REtXMUprWmxHS29UcmVPaUE2cmtpRXlBTHZiZl9HVHk1SWtmWnNraXZ2WFZ1NkJnX0RRNzVXeWVkLWF6S2VHRXoycDJWandSYmhQTU9yeE8xb3d6M2JEY085aHNubWY4MU5xUlZKbnBrLTdySEhELTNmU2NCejNlLTJHb2ZpcFhKQmcxMzhZQXl2bFViay1ROWdQMWlqSGNZUlY5dA?oc=5",
-    "description": "Edinburgh will bid to survive local government shake-up&nbsp;&nbsp;Edinburgh News",
-    "pubDate": "Tue, 20 Oct 2026 14:03:00 GMT",
+    "title": "Police to close road near Edinburgh Airport amid fatal crash probe",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHA5a2ZmbVhtM2pJbUZmbk1lNDZiMGJ2LXRDRHRoWW1EQTFqdEtUektBd3AwZjhpdUd2dFFXdVNLNVVIYkNJUlRUT1BPRnQzR3lZbGZiT0dMSjBBcFhJUGozaUJ6ZWN6OFEtRFllcWlXb2s1bEtSM29JM2JLQ1hxWWFFSTRMajRkOFNWM3BWYWVqbnotaVRfelIyWlBDa1N5V3hlbDFMelhsQmtMWXVmTF9JRTRFQlV5?oc=5",
+    "description": "Police to close road near Edinburgh Airport amid fatal crash probe&nbsp;&nbsp;Edinburgh News",
+    "pubDate": "Tue, 20 Oct 2026 09:08:00 GMT",
     "sourceName": "Edinburgh News",
     "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800"
   }
