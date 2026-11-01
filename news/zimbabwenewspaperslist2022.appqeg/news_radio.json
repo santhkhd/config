@@ -1,0 +1,232 @@
+[
+  {
+    "category": "Zimbabwe Live FM & Radio (25 Stations)",
+    "stations": [
+      {
+        "name": "Star FM 89.7",
+        "description": "Harare • Sound, Voice & Vision (First Commercial Radio)",
+        "stream_url": "https://edge.iono.fm/xice/159_medium.aac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=starfm.co.zw",
+        "location": "Harare",
+        "type": "National FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "ZiFM Stereo",
+        "description": "Harare • My Station, Your Station",
+        "stream_url": "https://edge.iono.fm/xice/134_high.aac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zifmstereo.co.zw",
+        "location": "Harare",
+        "type": "National Commercial",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Power FM Zimbabwe",
+        "description": "Harare • ZBC Youth, Music & Sports",
+        "stream_url": "https://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zbc.co.zw",
+        "location": "Harare",
+        "type": "ZBC Power FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Radio Zimbabwe",
+        "description": "Harare • Mhepo yeMadzinza (Shona & Ndebele)",
+        "stream_url": "https://zbcstream.co.zw/radiozim",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zbc.co.zw",
+        "location": "Harare",
+        "type": "ZBC National",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "National FM ZBC",
+        "description": "Harare • Community Languages & Heritage",
+        "stream_url": "https://mainradiostreaming.zbc.co.zw:8020/national.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalfm.co.zw",
+        "location": "Harare",
+        "type": "ZBC National",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Classic 263",
+        "description": "Harare • Talk, Current Affairs, Sports & Oldies",
+        "stream_url": "https://mainradiostreaming.zbc.co.zw:8030/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=classic263.co.zw",
+        "location": "Harare",
+        "type": "ZBC Classic",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Capitalk 100.4 FM",
+        "description": "Harare • The Voice of Harare (Talk, News & Debate)",
+        "stream_url": "https://edge.iono.fm/xice/162_medium.aac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=capitalkfm.co.zw",
+        "location": "Harare",
+        "type": "Talk Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Diamond FM Mutare",
+        "description": "Mutare • Eastern Highlands Regional Voice",
+        "stream_url": "https://edge.iono.fm/xice/160_medium.aac",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=diamondfm.co.zw",
+        "location": "Mutare",
+        "type": "Regional FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Platinum FM",
+        "description": "Chinhoyi • Mashonaland West Commercial Radio",
+        "stream_url": "https://edge.iono.fm/xice/161_medium.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=platinumfm.co.zw",
+        "location": "Chinhoyi",
+        "type": "Regional FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Skyz Metro FM",
+        "description": "Bulawayo • The Beat of Bulawayo",
+        "stream_url": "https://stream.zeno.fm/2634b6n4qy8uv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=skyzmetroradio.co.zw",
+        "location": "Bulawayo",
+        "type": "Commercial FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Breeze FM 91.2",
+        "description": "Victoria Falls • Matabeleland North Voice",
+        "stream_url": "https://stream.zeno.fm/d1vbtsfem98uv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=breezefm.co.zw",
+        "location": "Victoria Falls",
+        "type": "Regional FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Khulumani FM 95.0",
+        "description": "Bulawayo • ZBC Metropolitan Voice",
+        "stream_url": "https://khulumanistream.zbc.co.zw:8000/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=khulumanifm.co.zw",
+        "location": "Bulawayo",
+        "type": "ZBC Metropolitan",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Central Radio 98.5",
+        "description": "Gweru • Midlands Heartbeat (Gweru & Kwekwe)",
+        "stream_url": "https://centralstream.zbc.co.zw:8000/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=centralradio.co.zw",
+        "location": "Gweru",
+        "type": "ZBC Regional",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Hevoi FM",
+        "description": "Masvingo • Great Zimbabwe Regional Voice",
+        "stream_url": "https://s27.myradiostream.com:17754/;;",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=hevoifm.co.zw",
+        "location": "Masvingo",
+        "type": "Commercial FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Nehanda Radio",
+        "description": "Online • 24/7 Zimbabwe News & Current Affairs",
+        "stream_url": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nehandaradio.com",
+        "location": "Harare / London",
+        "type": "Online Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Kasambabezi FM",
+        "description": "Kariba • Zambezi Valley Community Radio",
+        "stream_url": "https://stream.zeno.fm/5b5i6nuqbxtvv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=kasambabezifm.com",
+        "location": "Kariba",
+        "type": "Community FM",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Luzibo Radio",
+        "description": "Binga • Zambezi Tonga Community Broadcast",
+        "stream_url": "https://backupradiostreaming.zbc.co.zw:8010/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=luziboradio.co.zw",
+        "location": "Binga",
+        "type": "ZBC Community",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "zim NET radio",
+        "description": "International • Zimbabwe Diaspora, Gospel & Top 40",
+        "stream_url": "https://zimnetradio.net/mainstream/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zimnetradio.net",
+        "location": "Online",
+        "type": "Online Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "263 HiT Radio",
+        "description": "Online • Gospel, Talk & Zimbabwean Hits",
+        "stream_url": "https://altair.streamerr.co/8180/stream",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=263hitradio.co.uk",
+        "location": "Harare",
+        "type": "Online Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "MSU Radio 90.3 FM",
+        "description": "Gweru • Midlands State University Radio",
+        "stream_url": "https://listen.radioking.com/radio/873191/stream/943246",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=msu.ac.zw",
+        "location": "Gweru",
+        "type": "Campus Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "nust.fm",
+        "description": "Bulawayo • National Univ of Science & Tech",
+        "stream_url": "https://stream.zeno.fm/zz40oe1wtfwtv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nust.ac.zw",
+        "location": "Bulawayo",
+        "type": "Campus Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Kingdom Live Radio",
+        "description": "Harare • 24/7 Gospel & Worship Zimbabwe",
+        "stream_url": "https://radio.meeknesstapera.co.zw/listen/kingdom_radio/radio.mp3",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=meeknesstapera.co.zw",
+        "location": "Harare",
+        "type": "Gospel Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Investment Radio Africa (IRA)",
+        "description": "Harare • Zimbabwe Business & Finance Radio",
+        "stream_url": "https://stream.zeno.fm/pb9w7wk6rxhvv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+        "location": "Harare",
+        "type": "Business Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "ThebesMedia Radio",
+        "description": "Harare • News, Culture & Contemporary Talk",
+        "stream_url": "https://stream.zeno.fm/kgoj0wfkb91uv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=zeno.fm",
+        "location": "Harare",
+        "type": "Talk Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      },
+      {
+        "name": "Reggae Ambassadors Radio",
+        "description": "Harare • Zimdancehall & Roots Reggae",
+        "stream_url": "https://stream.zeno.fm/mvtbzpenhzzuv",
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=reggaeambassadorsrad.com",
+        "location": "Harare",
+        "type": "Music Radio",
+        "category": "Zimbabwe National & Live Radio (26 Stations)"
+      }
+    ]
+  }
+]

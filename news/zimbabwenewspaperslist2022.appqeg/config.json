@@ -1,0 +1,181 @@
+{
+  "google_sheet_url": "https://script.google.com/macros/s/AKfycbyVxoh_Urb7TSimpzP7s45BtcCkMQTiwD4_Te0UcaJM6kpKIcIIAKBvcoBLuLcIxC4P/exec",
+  "github_cdn_base_url": "https://cdn.jsdelivr.net/gh/santhkhd/config@main/news/zimbabwenewspaperslist2022.appqeg/",
+  "github_raw_base_url": "https://raw.githubusercontent.com/santhkhd/config/main/news/zimbabwenewspaperslist2022.appqeg/",
+  "app": {
+    "status": true,
+    "toolbar": true,
+    "navigation_drawer": true,
+    "geolocation": false,
+    "cache": true,
+    "open_link_in_external_browser": false,
+    "zoom_controls": false,
+    "user_agent": "",
+    "privacy_policy_url": "privacy_policy.html",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=SanTech+Media",
+    "webview_disclaimer_active": false,
+    "redirect_url": ""
+  },
+  "intro": {
+    "status": false,
+    "sliders": []
+  },
+  "menus": [
+    {
+      "name": "Home",
+      "type": "category",
+      "url": "home.json",
+      "icon": "https://img.icons8.com/color/96/home.png"
+    },
+    {
+      "name": "All Zimbabwe Newspapers",
+      "type": "category",
+      "url": "all_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/news.png"
+    },
+    {
+      "name": "National Flagship Press",
+      "type": "category",
+      "url": "national_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/newspaper.png"
+    },
+    {
+      "name": "Business & Finance",
+      "type": "category",
+      "url": "business_finance.json",
+      "icon": "https://img.icons8.com/color/96/bullish.png"
+    },
+    {
+      "name": "Digital & Online Portals",
+      "type": "category",
+      "url": "digital_news.json",
+      "icon": "https://img.icons8.com/color/96/web.png"
+    },
+    {
+      "name": "Regional & City Press",
+      "type": "category",
+      "url": "regional_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/map-marker.png"
+    },
+    {
+      "name": "Sports Media",
+      "type": "category",
+      "url": "sports_news.json",
+      "icon": "https://img.icons8.com/color/96/football2.png"
+    },
+    {
+      "name": "24/7 Live Radio (26 Stations)",
+      "type": "radio",
+      "url": "news_radio.json",
+      "icon": "https://img.icons8.com/color/96/radio-tower.png"
+    },
+    {
+      "name": "Live News Channels",
+      "type": "category",
+      "url": "news_channels.json",
+      "icon": "https://img.icons8.com/color/96/retro-tv.png"
+    },
+    {
+      "name": "Latest Video News",
+      "type": "YOUTUBE",
+      "url": "ALL_VIDEOS",
+      "icon": "https://img.icons8.com/color/96/youtube-play.png"
+    },
+    {
+      "name": "Browse by Category",
+      "type": "category",
+      "url": "categories.json",
+      "icon": "https://img.icons8.com/color/96/categories.png"
+    }
+  ],
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "admob_banner_unit_id": "ca-app-pub-8211285362401989/1565465862",
+    "admob_interstitial_unit_id": "ca-app-pub-8211285362401989/8869240811",
+    "admob_native_unit_id": "ca-app-pub-8211285362401989/7827621881",
+    "admob_app_open_ad_unit_id": "ca-app-pub-8211285362401989~3070119221",
+    "interstitial_ad_interval_on_drawer_menu": 5,
+    "interstitial_ad_interval_on_web_page_link": 0,
+    "native_ad_style_drawer_menu": "medium",
+    "native_ad_style_exit_dialog": "medium",
+    "native_ad_style_product_list": "medium",
+    "native_ad_index": 6,
+    "interstitial_ad_on_list_item_click": false,
+    "interstitial_ad_interval_on_list_item_click": 8,
+    "placement": {
+      "banner_home": true,
+      "interstitial_drawer_menu": true,
+      "interstitial_web_page_link": false,
+      "native_drawer_menu": true,
+      "native_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    }
+  },
+  "youtube_channels": [
+    {
+      "name": "ZBC News Online",
+      "channel_id": "UCxiW1iTMYgjyh7Qgkiyj2PQ"
+    },
+    {
+      "name": "263Chat TV",
+      "channel_id": "UCrCiK3Ej1lDggxiYG1tmnCw"
+    },
+    {
+      "name": "ZTN Prime News",
+      "channel_id": "search:ZTN Prime Zimbabwe"
+    },
+    {
+      "name": "NewsDay Zimbabwe TV",
+      "channel_id": "search:NewsDay Zimbabwe TV"
+    },
+    {
+      "name": "Zimbabwe News Live",
+      "channel_id": "search:Zimbabwe Breaking News"
+    }
+  ],
+  "initial_topics": [
+    {
+      "title": "The Herald (Headlines)",
+      "url": "https://www.herald.co.zw/feed/"
+    },
+    {
+      "title": "NewsDay Zimbabwe",
+      "url": "https://www.newsday.co.zw/feed/"
+    },
+    {
+      "title": "The Chronicle",
+      "url": "https://www.chronicle.co.zw/feed/"
+    },
+    {
+      "title": "The Sunday Mail",
+      "url": "https://www.sundaymail.co.zw/feed/"
+    },
+    {
+      "title": "New Zimbabwe",
+      "url": "https://www.newzimbabwe.com/feed/"
+    },
+    {
+      "title": "ZimLive",
+      "url": "https://www.zimlive.com/feed/"
+    },
+    {
+      "title": "Techzim (Telecoms & Tech)",
+      "url": "https://www.techzim.co.zw/feed/"
+    },
+    {
+      "title": "Financial Gazette",
+      "url": "https://fingaz.co.zw/feed/"
+    },
+    {
+      "title": "Zimbabwe Independent",
+      "url": "https://www.theindependent.co.zw/feed/"
+    },
+    {
+      "title": "263Chat",
+      "url": "https://263chat.com/feed/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Summarize top Zimbabwe headlines in 3 key bullet points",
+    "prompt": "Summarize the latest Zimbabwe news into 3 clear, neutral bullet points."
+  },
+  {
+    "title": "Explain current economic & ZiG currency updates simply",
+    "prompt": "Explain the latest Reserve Bank of Zimbabwe economic policy and currency performance in plain language."
+  },
+  {
+    "title": "Overview of Parliamentary & policy decisions this week",
+    "prompt": "Provide a summary of major legislation or parliamentary actions in Zimbabwe this week."
+  },
+  {
+    "title": "Latest PSL soccer & Zimbabwe sports recap",
+    "prompt": "Give me a quick recap of recent Castle Lager Premier Soccer League and Zimbabwe Chevrons cricket results."
+  }
+]

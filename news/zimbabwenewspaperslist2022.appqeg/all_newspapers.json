@@ -1,0 +1,469 @@
+[
+  {
+    "title": "NewsDay",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Harare",
+    "genre": "National Daily",
+    "rating": "Independent English-language daily reporting on politics, business and current affairs.",
+    "rssUrl": "https://www.newsday.co.zw/feed/"
+  },
+  {
+    "title": "The Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestandard.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestandard.co.zw",
+    "year": "Harare",
+    "genre": "National Sunday",
+    "rating": "Weekend paper offering in-depth reporting and analysis of national issues.",
+    "rssUrl": "https://www.thestandard.co.zw/feed/"
+  },
+  {
+    "title": "The Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/chronicle/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicle.co.zw",
+    "year": "Bulawayo",
+    "genre": "National Daily",
+    "rating": "Long-running daily with strong Bulawayo and Matabeleland coverage.",
+    "rssUrl": "https://www.chronicle.co.zw/feed/"
+  },
+  {
+    "title": "Kwayedza",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/kwayedza/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Harare",
+    "genre": "Shona Language Weekly",
+    "rating": "Weekly Shona-language newspaper published by Zimpapers."
+  },
+  {
+    "title": "The Sunday Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/sundaymail/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaymail.co.zw",
+    "year": "Harare",
+    "genre": "National Sunday",
+    "rating": "Weekend title focusing on national news, features and analysis.",
+    "rssUrl": "https://www.sundaymail.co.zw/feed/"
+  },
+  {
+    "title": "Sunday News",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/sundaynews/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaynews.co.zw",
+    "year": "Bulawayo",
+    "genre": "Sunday Weekly",
+    "rating": "Sunday paper covering Zimbabwean news, sport and community stories.",
+    "rssUrl": "https://www.sundaynews.co.zw/feed/"
+  },
+  {
+    "title": "The Patriot",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepatriot.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepatriot.co.zw",
+    "year": "Harare",
+    "genre": "National Weekly",
+    "rating": "Weekly publication covering politics, history and national affairs.",
+    "rssUrl": "https://www.thepatriot.co.zw/feed/"
+  },
+  {
+    "title": "The Zimbabwean",
+    "provider": "web",
+    "arguments": [
+      "https://www.thezimbabwean.co/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thezimbabwean.co",
+    "year": "National",
+    "genre": "Independent News",
+    "rating": "Independent news outlet founded for Zimbabweans inside and outside the country.",
+    "rssUrl": "https://www.thezimbabwean.co/feed/"
+  },
+  {
+    "title": "Southern Eye",
+    "provider": "web",
+    "arguments": [
+      "https://www.southerneye.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southerneye.co.zw",
+    "year": "Bulawayo",
+    "genre": "Regional Daily",
+    "rating": "Bulawayo-based news outlet covering southern Zimbabwe and civic affairs.",
+    "rssUrl": "https://www.southerneye.co.zw/feed/"
+  },
+  {
+    "title": "Zimbabwe Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.theindependent.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theindependent.co.zw",
+    "year": "Harare",
+    "genre": "Business Weekly",
+    "rating": "Business and current-affairs weekly with economic and political coverage.",
+    "rssUrl": "https://www.theindependent.co.zw/feed/"
+  },
+  {
+    "title": "Financial Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://fingaz.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fingaz.co.zw",
+    "year": "Harare",
+    "genre": "Finance & Markets",
+    "rating": "Weekly business newspaper covering finance, markets and corporate news.",
+    "rssUrl": "https://fingaz.co.zw/feed/"
+  },
+  {
+    "title": "Business Daily",
+    "provider": "web",
+    "arguments": [
+      "http://www.businessdaily.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessdaily.co.zw",
+    "year": "Harare",
+    "genre": "Corporate & Markets",
+    "rating": "Business-focused outlet reporting on companies, markets and investment."
+  },
+  {
+    "title": "The Insider",
+    "provider": "web",
+    "arguments": [
+      "https://insiderzim.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=insiderzim.com",
+    "year": "Harare",
+    "genre": "Economic Intelligence",
+    "rating": "News site offering economic and business-related reporting and commentary.",
+    "rssUrl": "https://insiderzim.com/feed/"
+  },
+  {
+    "title": "Mining Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://miningzimbabwe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miningzimbabwe.com",
+    "year": "Harare",
+    "genre": "Mining & Resources",
+    "rating": "Industry-focused publication covering mining sector news, investment and market developments.",
+    "rssUrl": "https://miningzimbabwe.com/feed/"
+  },
+  {
+    "title": "NewZimbabwe.com",
+    "provider": "web",
+    "arguments": [
+      "https://www.newzimbabwe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newzimbabwe.com",
+    "year": "National",
+    "genre": "Online News Portal",
+    "rating": "Online news service reporting on Zimbabwe, region and diaspora.",
+    "rssUrl": "https://www.newzimbabwe.com/feed/"
+  },
+  {
+    "title": "iHarare",
+    "provider": "web",
+    "arguments": [
+      "https://iharare.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iharare.com",
+    "year": "Harare",
+    "genre": "Breaking & Viral",
+    "rating": "Popular online news site covering breaking news, entertainment and lifestyle.",
+    "rssUrl": "https://iharare.com/feed/"
+  },
+  {
+    "title": "My Zimbabwe News",
+    "provider": "web",
+    "arguments": [
+      "https://www.myzimbabwe.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myzimbabwe.co.zw",
+    "year": "National",
+    "genre": "Digital Daily",
+    "rating": "Internet newspaper providing daily updates on politics, community and sport.",
+    "rssUrl": "https://www.myzimbabwe.co.zw/feed/"
+  },
+  {
+    "title": "263Chat",
+    "provider": "web",
+    "arguments": [
+      "https://www.263chat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=263chat.com",
+    "year": "Harare",
+    "genre": "Digital Media",
+    "rating": "Digital media platform offering news, business, and community-focused reporting.",
+    "rssUrl": "https://263chat.com/feed/"
+  },
+  {
+    "title": "ZimEye",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimeye.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimeye.net",
+    "year": "Online",
+    "genre": "Live Updates & Commentary",
+    "rating": "Digital outlet providing news, commentary and live updates.",
+    "rssUrl": "https://www.zimeye.net/feed/"
+  },
+  {
+    "title": "Bulawayo24",
+    "provider": "web",
+    "arguments": [
+      "https://bulawayo24.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bulawayo24.com",
+    "year": "Bulawayo",
+    "genre": "Online News",
+    "rating": "High-traffic news site covering local and national stories.",
+    "rssUrl": "https://bulawayo24.com/index.php?feed/rss/"
+  },
+  {
+    "title": "Zimbabwe Situation",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimbabwesituation.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimbabwesituation.com",
+    "year": "National",
+    "genre": "News Aggregator",
+    "rating": "News aggregation and analysis site focusing on Zimbabwe.",
+    "rssUrl": "https://www.zimbabwesituation.com/feed/"
+  },
+  {
+    "title": "The Zimbabwe Mail",
+    "provider": "web",
+    "arguments": [
+      "https://thezimbabwemail.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thezimbabwemail.com",
+    "year": "National",
+    "genre": "Online Daily",
+    "rating": "Online news site covering Zimbabwean politics, business and general news.",
+    "rssUrl": "https://thezimbabwemail.com/feed/"
+  },
+  {
+    "title": "Mbare Times",
+    "provider": "web",
+    "arguments": [
+      "https://mbaretimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mbaretimes.com",
+    "year": "Harare",
+    "genre": "Entertainment & Culture",
+    "rating": "Digital outlet known for news, entertainment and celebrity coverage.",
+    "rssUrl": "https://mbaretimes.com/feed/"
+  },
+  {
+    "title": "The Sun",
+    "provider": "web",
+    "arguments": [
+      "https://thesunnews.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesunnews.co.zw",
+    "year": "National",
+    "genre": "Community Stories",
+    "rating": "News site covering community stories, features and general news."
+  },
+  {
+    "title": "The Zimbabwe Daily",
+    "provider": "web",
+    "arguments": [
+      "https://thezimbabwedaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thezimbabwedaily.com",
+    "year": "National",
+    "genre": "Current Affairs",
+    "rating": "Digital news outlet covering politics, society, sport and current affairs.",
+    "rssUrl": "https://thezimbabwedaily.com/feed/"
+  },
+  {
+    "title": "Techzim",
+    "provider": "web",
+    "arguments": [
+      "https://www.techzim.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=techzim.co.zw",
+    "year": "Harare",
+    "genre": "Technology & Telecoms",
+    "rating": "Zimbabwe's premier technology, telecommunications and digital economy publication.",
+    "rssUrl": "https://www.techzim.co.zw/feed/"
+  },
+  {
+    "title": "ZimLive",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimlive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimlive.com",
+    "year": "Harare",
+    "genre": "Investigative Journalism",
+    "rating": "Independent digital outlet delivering fast breaking news and investigative reports.",
+    "rssUrl": "https://www.zimlive.com/feed/"
+  },
+  {
+    "title": "Pindula News",
+    "provider": "web",
+    "arguments": [
+      "https://news.pindula.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pindula.co.zw",
+    "year": "Harare",
+    "genre": "Civic News",
+    "rating": "Trusted Zimbabwean news aggregator and comprehensive local wiki.",
+    "rssUrl": "https://news.pindula.co.zw/feed/"
+  },
+  {
+    "title": "H-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/hmetro/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Harare",
+    "genre": "Metro Tabloid",
+    "rating": "Harare-based tabloid covering entertainment, sport and city news."
+  },
+  {
+    "title": "B-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/bmetro/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Bulawayo",
+    "genre": "Urban Tabloid",
+    "rating": "Weekly Bulawayo tabloid focusing on urban life and sport."
+  },
+  {
+    "title": "Masvingo Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.masvingomirror.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=masvingomirror.com",
+    "year": "Masvingo",
+    "genre": "Regional Newspaper",
+    "rating": "Regional paper reporting on Masvingo and surrounding areas.",
+    "rssUrl": "https://masvingomirror.com/feed/"
+  },
+  {
+    "title": "The Manica Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/manicapost/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Mutare",
+    "genre": "Regional Newspaper",
+    "rating": "Mutare-based newspaper focusing on Manicaland province."
+  },
+  {
+    "title": "TellZim News",
+    "provider": "web",
+    "arguments": [
+      "https://tellzim.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tellzim.com",
+    "year": "Masvingo",
+    "genre": "Community Paper",
+    "rating": "Community-centered paper and website for Masvingo and southern Zimbabwe.",
+    "rssUrl": "https://tellzim.com/feed/"
+  },
+  {
+    "title": "The Midlands Observer",
+    "provider": "web",
+    "arguments": [
+      "https://themidlandsobserver.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themidlandsobserver.co.zw",
+    "year": "Kwekwe",
+    "genre": "Regional Paper",
+    "rating": "Regional newspaper based in Kwekwe covering the Midlands Province of Zimbabwe."
+  },
+  {
+    "title": "The Public Eye",
+    "provider": "web",
+    "arguments": [
+      "https://thepubliceye.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepubliceye.co.zw",
+    "year": "Kwekwe",
+    "genre": "Midlands Regional",
+    "rating": "News outlet based in Kwekwe reporting on Midlands region, business and community issues."
+  },
+  {
+    "title": "Bindura Eye",
+    "provider": "web",
+    "arguments": [
+      "https://binduraeye.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=binduraeye.co.zw",
+    "year": "Bindura",
+    "genre": "Mashonaland Central",
+    "rating": "Local news and regional stories from Mashonaland Central province."
+  },
+  {
+    "title": "ZIFA – News & Updates",
+    "provider": "web",
+    "arguments": [
+      "https://zifa.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zifa.co.zw",
+    "year": "National",
+    "genre": "Football Association",
+    "rating": "Official website of the Zimbabwe Football Association."
+  },
+  {
+    "title": "Sports – The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/tag/sports/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Harare",
+    "genre": "Sports Section",
+    "rating": "Sports section of The Herald with coverage of football and other disciplines."
+  },
+  {
+    "title": "Sport – NewsDay",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.co.zw/category/sport"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Harare",
+    "genre": "Sports Section",
+    "rating": "NewsDay’s dedicated section for football and general sports coverage."
+  },
+  {
+    "title": "ZimSportLive",
+    "provider": "web",
+    "arguments": [
+      "https://zimsportlive.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimsportlive.co.zw",
+    "year": "National",
+    "genre": "Sports Portal",
+    "rating": "Online portal providing the latest sports news from Zimbabwe and around the world."
+  }
+]

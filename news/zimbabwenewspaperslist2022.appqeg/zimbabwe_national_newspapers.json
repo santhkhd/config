@@ -1,0 +1,206 @@
+[
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "National Flagship Daily (Est. 1891)",
+    "rssUrl": "https://www.herald.co.zw/feed/"
+  },
+  {
+    "title": "Daily News Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://dailynews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailynews.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Independent National Daily",
+    "rssUrl": "https://dailynews.co.zw/feed/"
+  },
+  {
+    "title": "NewsDay Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Top Independent Daily",
+    "rssUrl": "https://www.newsday.co.zw/feed/"
+  },
+  {
+    "title": "The Sunday Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.sundaymail.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaymail.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Leading National Sunday Weekly",
+    "rssUrl": "https://www.sundaymail.co.zw/feed/"
+  },
+  {
+    "title": "Zimbabwe Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.theindependent.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theindependent.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Authoritative Financial & Political Weekly",
+    "rssUrl": "https://www.theindependent.co.zw/feed/"
+  },
+  {
+    "title": "The Financial Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://fingaz.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fingaz.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Business & Finance Newspaper",
+    "rssUrl": "https://fingaz.co.zw/feed/"
+  },
+  {
+    "title": "The Standard",
+    "provider": "web",
+    "arguments": [
+      "https://thestandard.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestandard.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Sunday Investigative & Opinion Weekly",
+    "rssUrl": "https://thestandard.co.zw/feed/"
+  },
+  {
+    "title": "H-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.hmetro.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hmetro.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Harare Metro & Entertainment Tabloid",
+    "rssUrl": "https://www.hmetro.co.zw/feed/"
+  },
+  {
+    "title": "Kwayedza",
+    "provider": "web",
+    "arguments": [
+      "https://www.kwayedza.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kwayedza.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Premier Shona Language Newspaper",
+    "rssUrl": "https://www.kwayedza.co.zw/feed/"
+  },
+  {
+    "title": "New Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://www.newzimbabwe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newzimbabwe.com",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Leading Digital News Portal",
+    "rssUrl": "https://www.newzimbabwe.com/feed/"
+  },
+  {
+    "title": "ZimLive",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimlive.com",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Fast Investigative News Portal",
+    "rssUrl": "https://www.zimlive.com/feed/"
+  },
+  {
+    "title": "Pindula News",
+    "provider": "web",
+    "arguments": [
+      "https://news.pindula.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pindula.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Fast Local Digital Updates",
+    "rssUrl": "https://news.pindula.co.zw/feed/"
+  },
+  {
+    "title": "263Chat",
+    "provider": "web",
+    "arguments": [
+      "https://263chat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=263chat.com",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Civic Media & Digital Journal",
+    "rssUrl": "https://263chat.com/feed/"
+  },
+  {
+    "title": "Techzim",
+    "provider": "web",
+    "arguments": [
+      "https://www.techzim.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=techzim.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Technology & Telecom News",
+    "rssUrl": "https://www.techzim.co.zw/feed/"
+  },
+  {
+    "title": "The Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.chronicle.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicle.co.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Leading Daily in Southern Zimbabwe (Est. 1894)",
+    "rssUrl": "https://www.chronicle.co.zw/feed/"
+  },
+  {
+    "title": "The Sunday News",
+    "provider": "web",
+    "arguments": [
+      "https://www.sundaynews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaynews.co.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Major Regional Sunday Paper",
+    "rssUrl": "https://www.sundaynews.co.zw/feed/"
+  },
+  {
+    "title": "B-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.bmetro.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bmetro.co.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Bulawayo Metro & Community News",
+    "rssUrl": "https://www.bmetro.co.zw/feed/"
+  }
+]

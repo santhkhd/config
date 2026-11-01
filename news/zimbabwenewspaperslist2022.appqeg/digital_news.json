@@ -1,0 +1,169 @@
+[
+  {
+    "title": "NewZimbabwe.com",
+    "provider": "web",
+    "arguments": [
+      "https://www.newzimbabwe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newzimbabwe.com",
+    "year": "National",
+    "genre": "Online News Portal",
+    "rating": "Online news service reporting on Zimbabwe, region and diaspora.",
+    "rssUrl": "https://www.newzimbabwe.com/feed/"
+  },
+  {
+    "title": "iHarare",
+    "provider": "web",
+    "arguments": [
+      "https://iharare.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=iharare.com",
+    "year": "Harare",
+    "genre": "Breaking & Viral",
+    "rating": "Popular online news site covering breaking news, entertainment and lifestyle.",
+    "rssUrl": "https://iharare.com/feed/"
+  },
+  {
+    "title": "My Zimbabwe News",
+    "provider": "web",
+    "arguments": [
+      "https://www.myzimbabwe.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=myzimbabwe.co.zw",
+    "year": "National",
+    "genre": "Digital Daily",
+    "rating": "Internet newspaper providing daily updates on politics, community and sport.",
+    "rssUrl": "https://www.myzimbabwe.co.zw/feed/"
+  },
+  {
+    "title": "263Chat",
+    "provider": "web",
+    "arguments": [
+      "https://www.263chat.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=263chat.com",
+    "year": "Harare",
+    "genre": "Digital Media",
+    "rating": "Digital media platform offering news, business, and community-focused reporting.",
+    "rssUrl": "https://263chat.com/feed/"
+  },
+  {
+    "title": "ZimEye",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimeye.net/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimeye.net",
+    "year": "Online",
+    "genre": "Live Updates & Commentary",
+    "rating": "Digital outlet providing news, commentary and live updates.",
+    "rssUrl": "https://www.zimeye.net/feed/"
+  },
+  {
+    "title": "Bulawayo24",
+    "provider": "web",
+    "arguments": [
+      "https://bulawayo24.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bulawayo24.com",
+    "year": "Bulawayo",
+    "genre": "Online News",
+    "rating": "High-traffic news site covering local and national stories.",
+    "rssUrl": "https://bulawayo24.com/index.php?feed/rss/"
+  },
+  {
+    "title": "Zimbabwe Situation",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimbabwesituation.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimbabwesituation.com",
+    "year": "National",
+    "genre": "News Aggregator",
+    "rating": "News aggregation and analysis site focusing on Zimbabwe.",
+    "rssUrl": "https://www.zimbabwesituation.com/feed/"
+  },
+  {
+    "title": "The Zimbabwe Mail",
+    "provider": "web",
+    "arguments": [
+      "https://thezimbabwemail.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thezimbabwemail.com",
+    "year": "National",
+    "genre": "Online Daily",
+    "rating": "Online news site covering Zimbabwean politics, business and general news.",
+    "rssUrl": "https://thezimbabwemail.com/feed/"
+  },
+  {
+    "title": "Mbare Times",
+    "provider": "web",
+    "arguments": [
+      "https://mbaretimes.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mbaretimes.com",
+    "year": "Harare",
+    "genre": "Entertainment & Culture",
+    "rating": "Digital outlet known for news, entertainment and celebrity coverage.",
+    "rssUrl": "https://mbaretimes.com/feed/"
+  },
+  {
+    "title": "The Sun",
+    "provider": "web",
+    "arguments": [
+      "https://thesunnews.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thesunnews.co.zw",
+    "year": "National",
+    "genre": "Community Stories",
+    "rating": "News site covering community stories, features and general news."
+  },
+  {
+    "title": "The Zimbabwe Daily",
+    "provider": "web",
+    "arguments": [
+      "https://thezimbabwedaily.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thezimbabwedaily.com",
+    "year": "National",
+    "genre": "Current Affairs",
+    "rating": "Digital news outlet covering politics, society, sport and current affairs.",
+    "rssUrl": "https://thezimbabwedaily.com/feed/"
+  },
+  {
+    "title": "Techzim",
+    "provider": "web",
+    "arguments": [
+      "https://www.techzim.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=techzim.co.zw",
+    "year": "Harare",
+    "genre": "Technology & Telecoms",
+    "rating": "Zimbabwe's premier technology, telecommunications and digital economy publication.",
+    "rssUrl": "https://www.techzim.co.zw/feed/"
+  },
+  {
+    "title": "ZimLive",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimlive.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimlive.com",
+    "year": "Harare",
+    "genre": "Investigative Journalism",
+    "rating": "Independent digital outlet delivering fast breaking news and investigative reports.",
+    "rssUrl": "https://www.zimlive.com/feed/"
+  },
+  {
+    "title": "Pindula News",
+    "provider": "web",
+    "arguments": [
+      "https://news.pindula.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pindula.co.zw",
+    "year": "Harare",
+    "genre": "Civic News",
+    "rating": "Trusted Zimbabwean news aggregator and comprehensive local wiki.",
+    "rssUrl": "https://news.pindula.co.zw/feed/"
+  }
+]

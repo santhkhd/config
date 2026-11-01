@@ -1,0 +1,471 @@
+[
+  {
+    "title": "The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "National Flagship Daily (Est. 1891)",
+    "rssUrl": "https://www.herald.co.zw/feed/"
+  },
+  {
+    "title": "Daily News Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://dailynews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailynews.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Independent National Daily",
+    "rssUrl": "https://dailynews.co.zw/feed/"
+  },
+  {
+    "title": "NewsDay Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Top Independent Daily",
+    "rssUrl": "https://www.newsday.co.zw/feed/"
+  },
+  {
+    "title": "The Sunday Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.sundaymail.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaymail.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Leading National Sunday Weekly",
+    "rssUrl": "https://www.sundaymail.co.zw/feed/"
+  },
+  {
+    "title": "Zimbabwe Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.theindependent.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theindependent.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Authoritative Financial & Political Weekly",
+    "rssUrl": "https://www.theindependent.co.zw/feed/"
+  },
+  {
+    "title": "The Financial Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://fingaz.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fingaz.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Business & Finance Newspaper",
+    "rssUrl": "https://fingaz.co.zw/feed/"
+  },
+  {
+    "title": "The Standard",
+    "provider": "web",
+    "arguments": [
+      "https://thestandard.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestandard.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Sunday Investigative & Opinion Weekly",
+    "rssUrl": "https://thestandard.co.zw/feed/"
+  },
+  {
+    "title": "H-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.hmetro.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hmetro.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Harare Metro & Entertainment Tabloid",
+    "rssUrl": "https://www.hmetro.co.zw/feed/"
+  },
+  {
+    "title": "Kwayedza",
+    "provider": "web",
+    "arguments": [
+      "https://www.kwayedza.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kwayedza.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Premier Shona Language Newspaper",
+    "rssUrl": "https://www.kwayedza.co.zw/feed/"
+  },
+  {
+    "title": "New Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://www.newzimbabwe.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newzimbabwe.com",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Leading Digital News Portal",
+    "rssUrl": "https://www.newzimbabwe.com/feed/"
+  },
+  {
+    "title": "ZimLive",
+    "provider": "web",
+    "arguments": [
+      "https://www.zimlive.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimlive.com",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Fast Investigative News Portal",
+    "rssUrl": "https://www.zimlive.com/feed/"
+  },
+  {
+    "title": "Pindula News",
+    "provider": "web",
+    "arguments": [
+      "https://news.pindula.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pindula.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Fast Local Digital Updates",
+    "rssUrl": "https://news.pindula.co.zw/feed/"
+  },
+  {
+    "title": "263Chat",
+    "provider": "web",
+    "arguments": [
+      "https://263chat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=263chat.com",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Civic Media & Digital Journal",
+    "rssUrl": "https://263chat.com/feed/"
+  },
+  {
+    "title": "Techzim",
+    "provider": "web",
+    "arguments": [
+      "https://www.techzim.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=techzim.co.zw",
+    "year": "Harare",
+    "genre": "Harare",
+    "rating": "Technology & Telecom News",
+    "rssUrl": "https://www.techzim.co.zw/feed/"
+  },
+  {
+    "title": "The Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.chronicle.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicle.co.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Leading Daily in Southern Zimbabwe (Est. 1894)",
+    "rssUrl": "https://www.chronicle.co.zw/feed/"
+  },
+  {
+    "title": "The Sunday News",
+    "provider": "web",
+    "arguments": [
+      "https://www.sundaynews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaynews.co.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Major Regional Sunday Paper",
+    "rssUrl": "https://www.sundaynews.co.zw/feed/"
+  },
+  {
+    "title": "B-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.bmetro.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bmetro.co.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Bulawayo Metro & Community News",
+    "rssUrl": "https://www.bmetro.co.zw/feed/"
+  },
+  {
+    "title": "Bulawayo24 News",
+    "provider": "web",
+    "arguments": [
+      "https://bulawayo24.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bulawayo24.com",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Bulawayo & Matabeleland Breaking News",
+    "rssUrl": "https://bulawayo24.com/rss"
+  },
+  {
+    "title": "Umthunywa",
+    "provider": "web",
+    "arguments": [
+      "https://www.umthunywa.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=umthunywa.co.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Premier Ndebele Language Newspaper",
+    "rssUrl": "https://www.umthunywa.co.zw/feed/"
+  },
+  {
+    "title": "Centre for Innovation & Technology (CITE)",
+    "provider": "web",
+    "arguments": [
+      "https://cite.org.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cite.org.zw",
+    "year": "Bulawayo",
+    "genre": "Bulawayo",
+    "rating": "Civic Tech & Journalism Hub",
+    "rssUrl": "https://cite.org.zw/feed/"
+  },
+  {
+    "title": "The Manica Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.manicapost.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manicapost.co.zw",
+    "year": "Manicaland",
+    "genre": "Mutare",
+    "rating": "Eastern Highlands & Manicaland Voice",
+    "rssUrl": "https://www.manicapost.co.zw/feed/"
+  },
+  {
+    "title": "Mutare News Hub",
+    "provider": "web",
+    "arguments": [
+      "https://mutarenews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mutarenews.co.zw",
+    "year": "Manicaland",
+    "genre": "Mutare",
+    "rating": "Local Community & Tourism News",
+    "rssUrl": "https://mutarenews.co.zw/feed/"
+  },
+  {
+    "title": "Diamond FM News",
+    "provider": "web",
+    "arguments": [
+      "https://diamondfm.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=diamondfm.co.zw",
+    "year": "Manicaland",
+    "genre": "Mutare",
+    "rating": "Eastern District Updates"
+  },
+  {
+    "title": "Mashonaland Central News",
+    "provider": "web",
+    "arguments": [
+      "https://mashcentralnews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mashcentralnews.co.zw",
+    "year": "Mashonaland Central",
+    "genre": "Bindura",
+    "rating": "Mining, Farming & Mazowe Valley"
+  },
+  {
+    "title": "The Herald - Mash Central Desk",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald.co.zw/category/local-news/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald.co.zw",
+    "year": "Mashonaland Central",
+    "genre": "Bindura",
+    "rating": "Provincial Bureau",
+    "rssUrl": "https://www.herald.co.zw/feed/"
+  },
+  {
+    "title": "Mashonaland East Voice",
+    "provider": "web",
+    "arguments": [
+      "https://masheastnews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=masheastnews.co.zw",
+    "year": "Mashonaland East",
+    "genre": "Marondera",
+    "rating": "Marondera, Goromonzi & Murehwa"
+  },
+  {
+    "title": "NewsDay Mash East Desk",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Mashonaland East",
+    "genre": "Marondera",
+    "rating": "Provincial Independent Reporting",
+    "rssUrl": "https://www.newsday.co.zw/feed/"
+  },
+  {
+    "title": "The Mash West Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.herald.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=herald.co.zw",
+    "year": "Mashonaland West",
+    "genre": "Chinhoyi",
+    "rating": "Chinhoyi, Kadoma & Kariba",
+    "rssUrl": "https://www.herald.co.zw/feed/"
+  },
+  {
+    "title": "Kariba Today",
+    "provider": "web",
+    "arguments": [
+      "https://karibatoday.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=karibatoday.co.zw",
+    "year": "Mashonaland West",
+    "genre": "Kariba",
+    "rating": "Zambezi River, Wildlife & Resort News"
+  },
+  {
+    "title": "The Masvingo Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://masvingomirror.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=masvingomirror.com",
+    "year": "Masvingo",
+    "genre": "Masvingo",
+    "rating": "Premier Regional Community Newspaper",
+    "rssUrl": "https://masvingomirror.com/feed/"
+  },
+  {
+    "title": "TellZim News",
+    "provider": "web",
+    "arguments": [
+      "https://tellzim.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tellzim.com",
+    "year": "Masvingo",
+    "genre": "Masvingo",
+    "rating": "Investigative & Local Democracy Journal",
+    "rssUrl": "https://tellzim.com/feed/"
+  },
+  {
+    "title": "Great Zimbabwe Voice",
+    "provider": "web",
+    "arguments": [
+      "https://greatzimnews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=greatzimnews.co.zw",
+    "year": "Masvingo",
+    "genre": "Masvingo",
+    "rating": "Southern Lowveld & Heritage"
+  },
+  {
+    "title": "Victoria Falls 24",
+    "provider": "web",
+    "arguments": [
+      "https://victoriafalls24.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=victoriafalls24.com",
+    "year": "Matabeleland North",
+    "genre": "Victoria Falls",
+    "rating": "Tourism & Conservation News",
+    "rssUrl": "https://victoriafalls24.com/feed/"
+  },
+  {
+    "title": "VicFalls News",
+    "provider": "web",
+    "arguments": [
+      "https://vicfallsnews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vicfallsnews.co.zw",
+    "year": "Matabeleland North",
+    "genre": "Victoria Falls",
+    "rating": "Local Resort & Cultural Journal"
+  },
+  {
+    "title": "Hwange Colliery Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://hwangenews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hwangenews.co.zw",
+    "year": "Matabeleland North",
+    "genre": "Hwange",
+    "rating": "Energy & Community Reporting"
+  },
+  {
+    "title": "Matabeleland South News",
+    "provider": "web",
+    "arguments": [
+      "https://matsouthnews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=matsouthnews.co.zw",
+    "year": "Matabeleland South",
+    "genre": "Gwanda",
+    "rating": "Mining, Livestock & Beitbridge Border"
+  },
+  {
+    "title": "Beitbridge Express",
+    "provider": "web",
+    "arguments": [
+      "https://beitbridgenews.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=beitbridgenews.co.zw",
+    "year": "Matabeleland South",
+    "genre": "Beitbridge",
+    "rating": "Cross-Border Trade & Freight"
+  },
+  {
+    "title": "The Midlands News",
+    "provider": "web",
+    "arguments": [
+      "https://themidlandsnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themidlandsnews.com",
+    "year": "Midlands",
+    "genre": "Gweru",
+    "rating": "Gweru, Kwekwe & Midlands Voice",
+    "rssUrl": "https://themidlandsnews.com/feed/"
+  },
+  {
+    "title": "Central Radio News",
+    "provider": "web",
+    "arguments": [
+      "https://centralradio.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=centralradio.co.zw",
+    "year": "Midlands",
+    "genre": "Gweru",
+    "rating": "Midlands Community & College News"
+  },
+  {
+    "title": "Midlands Observer",
+    "provider": "web",
+    "arguments": [
+      "https://midlandsobserver.co.zw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=midlandsobserver.co.zw",
+    "year": "Midlands",
+    "genre": "Kwekwe",
+    "rating": "Industrial & Mining Hub"
+  }
+]

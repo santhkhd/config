@@ -1,0 +1,46 @@
+[
+  {
+    "title": "ZIFA – News & Updates",
+    "provider": "web",
+    "arguments": [
+      "https://zifa.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zifa.co.zw",
+    "year": "National",
+    "genre": "Football Association",
+    "rating": "Official website of the Zimbabwe Football Association."
+  },
+  {
+    "title": "Sports – The Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/tag/sports/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Harare",
+    "genre": "Sports Section",
+    "rating": "Sports section of The Herald with coverage of football and other disciplines."
+  },
+  {
+    "title": "Sport – NewsDay",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.co.zw/category/sport"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Harare",
+    "genre": "Sports Section",
+    "rating": "NewsDay’s dedicated section for football and general sports coverage."
+  },
+  {
+    "title": "ZimSportLive",
+    "provider": "web",
+    "arguments": [
+      "https://zimsportlive.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zimsportlive.co.zw",
+    "year": "National",
+    "genre": "Sports Portal",
+    "rating": "Online portal providing the latest sports news from Zimbabwe and around the world."
+  }
+]

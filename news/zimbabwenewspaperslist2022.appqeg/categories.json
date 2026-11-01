@@ -1,0 +1,79 @@
+[
+  {
+    "title": "National Flagship Newspapers",
+    "provider": "overview",
+    "arguments": [
+      "national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "National",
+    "genre": "Flagship Dailies",
+    "rating": "The Herald, NewsDay, Daily News, Sunday Mail, Chronicle & more."
+  },
+  {
+    "title": "Business & Finance Press",
+    "provider": "overview",
+    "arguments": [
+      "business_finance.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theindependent.co.zw",
+    "year": "Finance",
+    "genre": "Economy & Markets",
+    "rating": "Zimbabwe Independent, FinGaz, Business Daily, Mining Zimbabwe."
+  },
+  {
+    "title": "Digital News & Online Portals",
+    "provider": "overview",
+    "arguments": [
+      "digital_news.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newzimbabwe.com",
+    "year": "Online",
+    "genre": "Breaking Portals",
+    "rating": "NewZimbabwe, iHarare, Bulawayo24, 263Chat, ZimEye, ZimLive."
+  },
+  {
+    "title": "Regional & City Press",
+    "provider": "overview",
+    "arguments": [
+      "regional_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Regional",
+    "genre": "Local Newspapers",
+    "rating": "H-Metro, B-Metro, Masvingo Mirror, Manica Post, TellZim."
+  },
+  {
+    "title": "Sports Media & Football",
+    "provider": "overview",
+    "arguments": [
+      "sports_news.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zifa.co.zw",
+    "year": "Sports",
+    "genre": "Soccer & Athletics",
+    "rating": "ZIFA News, Herald Sports, NewsDay Sports, ZimSportLive."
+  },
+  {
+    "title": "24/7 Live Radio (26 Stations)",
+    "provider": "radio",
+    "arguments": [
+      "news_radio.json"
+    ],
+    "image": "https://img.icons8.com/color/96/radio-tower.png",
+    "year": "Live Audio",
+    "genre": "National & Regional FM",
+    "rating": "Star FM, ZiFM, Power FM, Radio Zimbabwe, Skyz Metro, Breeze FM & 20+ more."
+  },
+  {
+    "title": "Live News Channels & TV",
+    "provider": "overview",
+    "arguments": [
+      "news_channels.json"
+    ],
+    "image": "https://img.icons8.com/color/96/retro-tv.png",
+    "year": "Live Video",
+    "genre": "TV Broadcasts",
+    "rating": "ZBC News, ZTN Prime, NewsDay TV, 263Chat TV."
+  }
+]

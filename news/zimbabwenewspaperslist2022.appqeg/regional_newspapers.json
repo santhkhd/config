@@ -1,0 +1,92 @@
+[
+  {
+    "title": "H-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/hmetro/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Harare",
+    "genre": "Metro Tabloid",
+    "rating": "Harare-based tabloid covering entertainment, sport and city news."
+  },
+  {
+    "title": "B-Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/bmetro/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Bulawayo",
+    "genre": "Urban Tabloid",
+    "rating": "Weekly Bulawayo tabloid focusing on urban life and sport."
+  },
+  {
+    "title": "Masvingo Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://www.masvingomirror.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=masvingomirror.com",
+    "year": "Masvingo",
+    "genre": "Regional Newspaper",
+    "rating": "Regional paper reporting on Masvingo and surrounding areas.",
+    "rssUrl": "https://masvingomirror.com/feed/"
+  },
+  {
+    "title": "The Manica Post",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/manicapost/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Mutare",
+    "genre": "Regional Newspaper",
+    "rating": "Mutare-based newspaper focusing on Manicaland province."
+  },
+  {
+    "title": "TellZim News",
+    "provider": "web",
+    "arguments": [
+      "https://tellzim.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tellzim.com",
+    "year": "Masvingo",
+    "genre": "Community Paper",
+    "rating": "Community-centered paper and website for Masvingo and southern Zimbabwe.",
+    "rssUrl": "https://tellzim.com/feed/"
+  },
+  {
+    "title": "The Midlands Observer",
+    "provider": "web",
+    "arguments": [
+      "https://themidlandsobserver.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themidlandsobserver.co.zw",
+    "year": "Kwekwe",
+    "genre": "Regional Paper",
+    "rating": "Regional newspaper based in Kwekwe covering the Midlands Province of Zimbabwe."
+  },
+  {
+    "title": "The Public Eye",
+    "provider": "web",
+    "arguments": [
+      "https://thepubliceye.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepubliceye.co.zw",
+    "year": "Kwekwe",
+    "genre": "Midlands Regional",
+    "rating": "News outlet based in Kwekwe reporting on Midlands region, business and community issues."
+  },
+  {
+    "title": "Bindura Eye",
+    "provider": "web",
+    "arguments": [
+      "https://binduraeye.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=binduraeye.co.zw",
+    "year": "Bindura",
+    "genre": "Mashonaland Central",
+    "rating": "Local news and regional stories from Mashonaland Central province."
+  }
+]

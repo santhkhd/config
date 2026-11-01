@@ -1,0 +1,52 @@
+[
+  {
+    "id": "zim_breaking",
+    "name": "Breaking News",
+    "icon": "bolt"
+  },
+  {
+    "id": "zim_politics",
+    "name": "Parliament & Politics",
+    "icon": "account_balance"
+  },
+  {
+    "id": "zim_economy",
+    "name": "Economy & ZiG Currency",
+    "icon": "trending_up"
+  },
+  {
+    "id": "zim_business",
+    "name": "Business & Mining",
+    "icon": "business"
+  },
+  {
+    "id": "zim_agriculture",
+    "name": "Agriculture & Farming",
+    "icon": "eco"
+  },
+  {
+    "id": "zim_sports",
+    "name": "Cricket & Premier Soccer League",
+    "icon": "sports_soccer"
+  },
+  {
+    "id": "zim_education",
+    "name": "Education & Universities",
+    "icon": "school"
+  },
+  {
+    "id": "zim_tech",
+    "name": "Techzim & Telecoms",
+    "icon": "computer"
+  },
+  {
+    "id": "zim_entertainment",
+    "name": "Music & Zimdancehall",
+    "icon": "music_note"
+  },
+  {
+    "id": "zim_diaspora",
+    "name": "Zimbabwe Diaspora News",
+    "icon": "public"
+  }
+]

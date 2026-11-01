@@ -1,0 +1,57 @@
+[
+  {
+    "title": "ZBC News Online",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCxiW1iTMYgjyh7Qgkiyj2PQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=zbcnews.co.zw",
+    "year": "National Broadcaster",
+    "genre": "Official 24/7 TV News",
+    "rating": "HD Live"
+  },
+  {
+    "title": "263Chat TV",
+    "provider": "youtube_channel",
+    "arguments": [
+      "UCrCiK3Ej1lDggxiYG1tmnCw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=263chat.com",
+    "year": "Civic & Community TV",
+    "genre": "Interviews & Debates",
+    "rating": "Official"
+  },
+  {
+    "title": "ZTN Prime News",
+    "provider": "youtube_channel",
+    "arguments": [
+      "search:ZTN Prime Zimbabwe"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ztn.co.zw",
+    "year": "Harare",
+    "genre": "Zimpapers Television",
+    "rating": "DStv Channel 294"
+  },
+  {
+    "title": "NewsDay Zimbabwe TV",
+    "provider": "youtube_channel",
+    "arguments": [
+      "search:NewsDay Zimbabwe TV"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Harare",
+    "genre": "Independent News TV",
+    "rating": "Breaking Reports"
+  },
+  {
+    "title": "Zimbabwe News Live",
+    "provider": "youtube_channel",
+    "arguments": [
+      "search:Zimbabwe Breaking News"
+    ],
+    "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png&w=400",
+    "year": "Live Feed",
+    "genre": "Breaking Video News",
+    "rating": "HD"
+  }
+]

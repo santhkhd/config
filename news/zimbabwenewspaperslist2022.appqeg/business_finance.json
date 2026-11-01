@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Zimbabwe Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.theindependent.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theindependent.co.zw",
+    "year": "Harare",
+    "genre": "Business Weekly",
+    "rating": "Business and current-affairs weekly with economic and political coverage.",
+    "rssUrl": "https://www.theindependent.co.zw/feed/"
+  },
+  {
+    "title": "Financial Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://fingaz.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fingaz.co.zw",
+    "year": "Harare",
+    "genre": "Finance & Markets",
+    "rating": "Weekly business newspaper covering finance, markets and corporate news.",
+    "rssUrl": "https://fingaz.co.zw/feed/"
+  },
+  {
+    "title": "Business Daily",
+    "provider": "web",
+    "arguments": [
+      "http://www.businessdaily.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessdaily.co.zw",
+    "year": "Harare",
+    "genre": "Corporate & Markets",
+    "rating": "Business-focused outlet reporting on companies, markets and investment."
+  },
+  {
+    "title": "The Insider",
+    "provider": "web",
+    "arguments": [
+      "https://insiderzim.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=insiderzim.com",
+    "year": "Harare",
+    "genre": "Economic Intelligence",
+    "rating": "News site offering economic and business-related reporting and commentary.",
+    "rssUrl": "https://insiderzim.com/feed/"
+  },
+  {
+    "title": "Mining Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://miningzimbabwe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miningzimbabwe.com",
+    "year": "Harare",
+    "genre": "Mining & Resources",
+    "rating": "Industry-focused publication covering mining sector news, investment and market developments.",
+    "rssUrl": "https://miningzimbabwe.com/feed/"
+  }
+]

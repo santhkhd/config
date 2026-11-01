@@ -1,0 +1,180 @@
+[
+  {
+    "title": "NewsDay",
+    "provider": "web",
+    "arguments": [
+      "https://www.newsday.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newsday.co.zw",
+    "year": "Harare",
+    "genre": "National Daily",
+    "rating": "Independent English-language daily reporting on politics, business and current affairs.",
+    "rssUrl": "https://www.newsday.co.zw/feed/"
+  },
+  {
+    "title": "The Standard",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestandard.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestandard.co.zw",
+    "year": "Harare",
+    "genre": "National Sunday",
+    "rating": "Weekend paper offering in-depth reporting and analysis of national issues.",
+    "rssUrl": "https://www.thestandard.co.zw/feed/"
+  },
+  {
+    "title": "The Chronicle",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/chronicle/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chronicle.co.zw",
+    "year": "Bulawayo",
+    "genre": "National Daily",
+    "rating": "Long-running daily with strong Bulawayo and Matabeleland coverage.",
+    "rssUrl": "https://www.chronicle.co.zw/feed/"
+  },
+  {
+    "title": "Kwayedza",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/kwayedza/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldonline.co.zw",
+    "year": "Harare",
+    "genre": "Shona Language Weekly",
+    "rating": "Weekly Shona-language newspaper published by Zimpapers."
+  },
+  {
+    "title": "The Sunday Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/sundaymail/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaymail.co.zw",
+    "year": "Harare",
+    "genre": "National Sunday",
+    "rating": "Weekend title focusing on national news, features and analysis.",
+    "rssUrl": "https://www.sundaymail.co.zw/feed/"
+  },
+  {
+    "title": "Sunday News",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldonline.co.zw/sundaynews/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sundaynews.co.zw",
+    "year": "Bulawayo",
+    "genre": "Sunday Weekly",
+    "rating": "Sunday paper covering Zimbabwean news, sport and community stories.",
+    "rssUrl": "https://www.sundaynews.co.zw/feed/"
+  },
+  {
+    "title": "The Patriot",
+    "provider": "web",
+    "arguments": [
+      "https://www.thepatriot.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thepatriot.co.zw",
+    "year": "Harare",
+    "genre": "National Weekly",
+    "rating": "Weekly publication covering politics, history and national affairs.",
+    "rssUrl": "https://www.thepatriot.co.zw/feed/"
+  },
+  {
+    "title": "The Zimbabwean",
+    "provider": "web",
+    "arguments": [
+      "https://www.thezimbabwean.co/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thezimbabwean.co",
+    "year": "National",
+    "genre": "Independent News",
+    "rating": "Independent news outlet founded for Zimbabweans inside and outside the country.",
+    "rssUrl": "https://www.thezimbabwean.co/feed/"
+  },
+  {
+    "title": "Southern Eye",
+    "provider": "web",
+    "arguments": [
+      "https://www.southerneye.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=southerneye.co.zw",
+    "year": "Bulawayo",
+    "genre": "Regional Daily",
+    "rating": "Bulawayo-based news outlet covering southern Zimbabwe and civic affairs.",
+    "rssUrl": "https://www.southerneye.co.zw/feed/"
+  },
+  {
+    "title": "Zimbabwe Independent",
+    "provider": "web",
+    "arguments": [
+      "https://www.theindependent.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theindependent.co.zw",
+    "year": "Harare",
+    "genre": "Business Weekly",
+    "rating": "Business and current-affairs weekly with economic and political coverage.",
+    "rssUrl": "https://www.theindependent.co.zw/feed/"
+  },
+  {
+    "title": "Financial Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://fingaz.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=fingaz.co.zw",
+    "year": "Harare",
+    "genre": "Finance & Markets",
+    "rating": "Weekly business newspaper covering finance, markets and corporate news.",
+    "rssUrl": "https://fingaz.co.zw/feed/"
+  },
+  {
+    "title": "Business Daily",
+    "provider": "web",
+    "arguments": [
+      "http://www.businessdaily.co.zw/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=businessdaily.co.zw",
+    "year": "Harare",
+    "genre": "Corporate & Markets",
+    "rating": "Business-focused outlet reporting on companies, markets and investment."
+  },
+  {
+    "title": "The Insider",
+    "provider": "web",
+    "arguments": [
+      "https://insiderzim.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=insiderzim.com",
+    "year": "Harare",
+    "genre": "Economic Intelligence",
+    "rating": "News site offering economic and business-related reporting and commentary.",
+    "rssUrl": "https://insiderzim.com/feed/"
+  },
+  {
+    "title": "Mining Zimbabwe",
+    "provider": "web",
+    "arguments": [
+      "https://miningzimbabwe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=miningzimbabwe.com",
+    "year": "Harare",
+    "genre": "Mining & Resources",
+    "rating": "Industry-focused publication covering mining sector news, investment and market developments.",
+    "rssUrl": "https://miningzimbabwe.com/feed/"
+  },
+  {
+    "title": "NewZimbabwe.com",
+    "provider": "web",
+    "arguments": [
+      "https://www.newzimbabwe.com/"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=newzimbabwe.com",
+    "year": "National",
+    "genre": "Online News Portal",
+    "rating": "Online news service reporting on Zimbabwe, region and diaspora.",
+    "rssUrl": "https://www.newzimbabwe.com/feed/"
+  }
+]
