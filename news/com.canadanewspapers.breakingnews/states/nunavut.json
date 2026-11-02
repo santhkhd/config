@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Nunatsiaq News",
+    "provider": "web",
+    "arguments": [
+      "https://nunatsiaq.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nunatsiaq.com",
+    "year": "Nunavut",
+    "genre": "Iqaluit",
+    "rating": "Nunavut & Nunavik Voice (Est. 1973)",
+    "rssUrl": "https://nunatsiaq.com/feed/"
+  },
+  {
+    "title": "Kivalliq News",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com/kivalliqnews"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Nunavut",
+    "genre": "Rankin Inlet",
+    "rating": "Kivalliq Region News",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "Nunavut News / North",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com/nunavutnews"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Nunavut",
+    "genre": "Iqaluit",
+    "rating": "Territory-wide Weekly",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "Inukshuk News",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Nunavut",
+    "genre": "Iqaluit",
+    "rating": "Community Information",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "CBC News North (Nunavut)",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbc.ca/news/canada/north"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+    "year": "Nunavut",
+    "genre": "Iqaluit",
+    "rating": "Inuktitut & English Public News",
+    "rssUrl": "https://rss.cbc.ca/lineup/canada-north.xml"
+  }
+]

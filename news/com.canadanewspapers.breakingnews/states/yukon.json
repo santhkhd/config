@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Whitehorse Daily Star",
+    "provider": "web",
+    "arguments": [
+      "https://whitehorsestar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whitehorsestar.com",
+    "year": "Yukon",
+    "genre": "Whitehorse",
+    "rating": "Historic Yukon Daily (Est. 1900)",
+    "rssUrl": "https://whitehorsestar.com/rss"
+  },
+  {
+    "title": "Yukon News",
+    "provider": "web",
+    "arguments": [
+      "https://www.yukon-news.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yukon-news.com",
+    "year": "Yukon",
+    "genre": "Whitehorse",
+    "rating": "Territorial Leading Newspaper",
+    "rssUrl": "https://www.yukon-news.com/feed/"
+  },
+  {
+    "title": "What's Up Yukon",
+    "provider": "web",
+    "arguments": [
+      "https://whatsupyukon.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whatsupyukon.com",
+    "year": "Yukon",
+    "genre": "Whitehorse",
+    "rating": "Arts, Culture & Community Magazine",
+    "rssUrl": "https://whatsupyukon.com/feed/"
+  },
+  {
+    "title": "CKRW The Rush News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ckrw.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ckrw.com",
+    "year": "Yukon",
+    "genre": "Whitehorse",
+    "rating": "Local Breaking Headlines",
+    "rssUrl": "https://www.ckrw.com/feed/"
+  },
+  {
+    "title": "CHON-FM News",
+    "provider": "web",
+    "arguments": [
+      "https://chonfm.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=chonfm.com",
+    "year": "Yukon",
+    "genre": "Whitehorse",
+    "rating": "Northern Native Broadcasting",
+    "rssUrl": "https://chonfm.com/feed/"
+  },
+  {
+    "title": "CBC News North (Yukon)",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbc.ca/news/canada/north"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+    "year": "Yukon",
+    "genre": "Whitehorse",
+    "rating": "Public Northern Broadcaster",
+    "rssUrl": "https://rss.cbc.ca/lineup/canada-north.xml"
+  }
+]

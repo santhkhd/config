@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Calgary Herald",
+    "provider": "web",
+    "arguments": [
+      "https://calgaryherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calgaryherald.com",
+    "year": "Alberta",
+    "genre": "Calgary",
+    "rating": "CA"
+  },
+  {
+    "title": "Edmonton Journal",
+    "provider": "web",
+    "arguments": [
+      "https://edmontonjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edmontonjournal.com",
+    "year": "Alberta",
+    "genre": "Edmonton",
+    "rating": "CA"
+  },
+  {
+    "title": "Calgary Sun",
+    "provider": "web",
+    "arguments": [
+      "https://calgarysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calgarysun.com",
+    "year": "Alberta",
+    "genre": "Calgary",
+    "rating": "CA"
+  },
+  {
+    "title": "Edmonton Sun",
+    "provider": "web",
+    "arguments": [
+      "https://edmontonsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edmontonsun.com",
+    "year": "Alberta",
+    "genre": "Edmonton",
+    "rating": "CA"
+  }
+]

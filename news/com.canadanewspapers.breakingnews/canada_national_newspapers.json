@@ -1,0 +1,453 @@
+[
+  {
+    "title": "The Globe and Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.theglobeandmail.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theglobeandmail.com",
+    "year": "Toronto / National",
+    "genre": "Canada's National Newspaper",
+    "rating": "5.0"
+  },
+  {
+    "title": "Toronto Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestar.com",
+    "year": "Toronto / Ontario",
+    "genre": "Largest Daily Circulation",
+    "rating": "4.9"
+  },
+  {
+    "title": "National Post",
+    "provider": "web",
+    "arguments": [
+      "https://nationalpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalpost.com",
+    "year": "National Daily",
+    "genre": "National Affairs & Commentary",
+    "rating": "4.8"
+  },
+  {
+    "title": "Financial Post",
+    "provider": "web",
+    "arguments": [
+      "https://financialpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=financialpost.com",
+    "year": "Business & Investing",
+    "genre": "Canadian Business Leader",
+    "rating": "4.9"
+  },
+  {
+    "title": "Montreal Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://montrealgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montrealgazette.com",
+    "year": "Montreal / Quebec",
+    "genre": "Historic English Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "La Presse",
+    "provider": "web",
+    "arguments": [
+      "https://www.lapresse.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lapresse.ca",
+    "year": "Montr\u00e9al / Qu\u00e9bec",
+    "genre": "Premier M\u00e9dia Francophone",
+    "rating": "4.9"
+  },
+  {
+    "title": "Le Devoir",
+    "provider": "web",
+    "arguments": [
+      "https://www.ledevoir.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ledevoir.com",
+    "year": "Montr\u00e9al / Qu\u00e9bec",
+    "genre": "Journal Ind\u00e9pendant de R\u00e9f\u00e9rence",
+    "rating": "4.9"
+  },
+  {
+    "title": "Le Journal de Montr\u00e9al",
+    "provider": "web",
+    "arguments": [
+      "https://www.journaldemontreal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=journaldemontreal.com",
+    "year": "Montr\u00e9al / Qu\u00e9bec",
+    "genre": "Grand Quotidien Qu\u00e9b\u00e9cois",
+    "rating": "4.7"
+  },
+  {
+    "title": "Vancouver Sun",
+    "provider": "web",
+    "arguments": [
+      "https://vancouversun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vancouversun.com",
+    "year": "Vancouver / BC",
+    "genre": "British Columbia Flagship",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Province",
+    "provider": "web",
+    "arguments": [
+      "https://theprovince.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theprovince.com",
+    "year": "Vancouver / BC",
+    "genre": "Metro Vancouver News & Sports",
+    "rating": "4.7"
+  },
+  {
+    "title": "Ottawa Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://ottawacitizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ottawacitizen.com",
+    "year": "Ottawa / National Capital",
+    "genre": "Capital Region Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Calgary Herald",
+    "provider": "web",
+    "arguments": [
+      "https://calgaryherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calgaryherald.com",
+    "year": "Calgary / Alberta",
+    "genre": "Southern Alberta News Leader",
+    "rating": "4.8"
+  },
+  {
+    "title": "Edmonton Journal",
+    "provider": "web",
+    "arguments": [
+      "https://edmontonjournal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edmontonjournal.com",
+    "year": "Edmonton / Alberta",
+    "genre": "Capital Region Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Winnipeg Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.winnipegfreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winnipegfreepress.com",
+    "year": "Winnipeg / Manitoba",
+    "genre": "Oldest Newspaper in Western Canada",
+    "rating": "4.9"
+  },
+  {
+    "title": "The Chronicle Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/halifax"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Halifax / Nova Scotia",
+    "genre": "Atlantic Canada Leading Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Hill Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.hilltimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hilltimes.com",
+    "year": "Ottawa Parliament",
+    "genre": "Canada's Politics & Government",
+    "rating": "4.9"
+  },
+  {
+    "title": "Le Soleil",
+    "provider": "web",
+    "arguments": [
+      "https://www.lesoleil.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lesoleil.com",
+    "year": "Qu\u00e9bec / Capitale-Nationale",
+    "genre": "Quotidien de la Capitale",
+    "rating": "4.8"
+  },
+  {
+    "title": "Times Colonist",
+    "provider": "web",
+    "arguments": [
+      "https://www.timescolonist.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timescolonist.com",
+    "year": "Victoria / Vancouver Island",
+    "genre": "Oldest Daily on the West Coast",
+    "rating": "4.8"
+  },
+  {
+    "title": "Toronto Sun",
+    "provider": "web",
+    "arguments": [
+      "https://torontosun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=torontosun.com",
+    "year": "Toronto / Ontario",
+    "genre": "Local, Sports & Entertainment",
+    "rating": "4.6"
+  },
+  {
+    "title": "Ottawa Sun",
+    "provider": "web",
+    "arguments": [
+      "https://ottawasun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ottawasun.com",
+    "year": "Ottawa / Ontario",
+    "genre": "Local Breaking & Sens News",
+    "rating": "4.6"
+  },
+  {
+    "title": "Calgary Sun",
+    "provider": "web",
+    "arguments": [
+      "https://calgarysun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calgarysun.com",
+    "year": "Calgary / Alberta",
+    "genre": "Local News & Flames Sports",
+    "rating": "4.6"
+  },
+  {
+    "title": "Edmonton Sun",
+    "provider": "web",
+    "arguments": [
+      "https://edmontonsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=edmontonsun.com",
+    "year": "Edmonton / Alberta",
+    "genre": "Local News & Oilers Sports",
+    "rating": "4.6"
+  },
+  {
+    "title": "Winnipeg Sun",
+    "provider": "web",
+    "arguments": [
+      "https://winnipegsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winnipegsun.com",
+    "year": "Winnipeg / Manitoba",
+    "genre": "Local News & Jets Sports",
+    "rating": "4.6"
+  },
+  {
+    "title": "Hamilton Spectator",
+    "provider": "web",
+    "arguments": [
+      "https://www.thespec.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thespec.com",
+    "year": "Hamilton / Ontario",
+    "genre": "Golden Horseshoe News",
+    "rating": "4.7"
+  },
+  {
+    "title": "London Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://lfpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lfpress.com",
+    "year": "London / Southwestern Ontario",
+    "genre": "Regional Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "Windsor Star",
+    "provider": "web",
+    "arguments": [
+      "https://windsorstar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=windsorstar.com",
+    "year": "Windsor-Essex / Ontario",
+    "genre": "Border City Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Record (Waterloo Region)",
+    "provider": "web",
+    "arguments": [
+      "https://www.therecord.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=therecord.com",
+    "year": "Kitchener-Waterloo / Ontario",
+    "genre": "Tech Triangle Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "Telegraph-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://tj.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tj.news",
+    "year": "New Brunswick",
+    "genre": "Provincial Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Telegram (St. John's)",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/newfoundland-labrador"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "St. John's / NL",
+    "genre": "Newfoundland Historic Voice",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Guardian (PEI)",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/prince-edward-island"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Charlottetown / PEI",
+    "genre": "Prince Edward Island Voice",
+    "rating": "4.7"
+  },
+  {
+    "title": "Saskatoon StarPhoenix",
+    "provider": "web",
+    "arguments": [
+      "https://thestarphoenix.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestarphoenix.com",
+    "year": "Saskatoon / Saskatchewan",
+    "genre": "Prairie Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "Regina Leader-Post",
+    "provider": "web",
+    "arguments": [
+      "https://leaderpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leaderpost.com",
+    "year": "Regina / Saskatchewan",
+    "genre": "Provincial Capital Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Tyee",
+    "provider": "web",
+    "arguments": [
+      "https://thetyee.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thetyee.ca",
+    "year": "Vancouver / BC",
+    "genre": "Independent Investigative News",
+    "rating": "4.9"
+  },
+  {
+    "title": "The Narwhal",
+    "provider": "web",
+    "arguments": [
+      "https://thenarwhal.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thenarwhal.ca",
+    "year": "National Environmental",
+    "genre": "Award-Winning In-Depth News",
+    "rating": "4.9"
+  },
+  {
+    "title": "Canada's National Observer",
+    "provider": "web",
+    "arguments": [
+      "https://www.nationalobserver.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalobserver.com",
+    "year": "National Independent",
+    "genre": "Climate, Energy & Politics",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Walrus",
+    "provider": "web",
+    "arguments": [
+      "https://thewalrus.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewalrus.ca",
+    "year": "Canada's National Conversation",
+    "genre": "Thoughtful Essays & Culture",
+    "rating": "4.9"
+  },
+  {
+    "title": "Maclean's",
+    "provider": "web",
+    "arguments": [
+      "https://macleans.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=macleans.ca",
+    "year": "Current Affairs & Rankings",
+    "genre": "Iconic Canadian Magazine",
+    "rating": "4.8"
+  },
+  {
+    "title": "Policy Options / Options Politiques",
+    "provider": "web",
+    "arguments": [
+      "https://policyoptions.irpp.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=policyoptions.irpp.org",
+    "year": "Public Policy & Governance",
+    "genre": "Bilingual Policy Journal",
+    "rating": "4.9"
+  },
+  {
+    "title": "Whitehorse Daily Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.whitehorsestar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=whitehorsestar.com",
+    "year": "Whitehorse / Yukon",
+    "genre": "Voice of the Yukon",
+    "rating": "4.7"
+  },
+  {
+    "title": "Nunatsiaq News",
+    "provider": "web",
+    "arguments": [
+      "https://nunatsiaq.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nunatsiaq.com",
+    "year": "Iqaluit / Nunavut",
+    "genre": "Eastern Arctic Voice",
+    "rating": "4.8"
+  },
+  {
+    "title": "Yellowknifer (NNSL Media)",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Yellowknife / NWT",
+    "genre": "Northwest Territories News",
+    "rating": "4.7"
+  }
+]

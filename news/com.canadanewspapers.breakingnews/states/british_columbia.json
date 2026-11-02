@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The Vancouver Sun",
+    "provider": "web",
+    "arguments": [
+      "https://vancouversun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vancouversun.com",
+    "year": "British Columbia",
+    "genre": "Vancouver",
+    "rating": "CA"
+  },
+  {
+    "title": "The Province",
+    "provider": "web",
+    "arguments": [
+      "https://theprovince.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theprovince.com",
+    "year": "British Columbia",
+    "genre": "Vancouver",
+    "rating": "CA"
+  },
+  {
+    "title": "Times Colonist",
+    "provider": "web",
+    "arguments": [
+      "https://www.timescolonist.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.timescolonist.com",
+    "year": "British Columbia",
+    "genre": "Victoria",
+    "rating": "CA"
+  },
+  {
+    "title": "Kelowna Daily Courier",
+    "provider": "web",
+    "arguments": [
+      "https://www.kelownadailycourier.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.kelownadailycourier.ca",
+    "year": "British Columbia",
+    "genre": "Kelowna",
+    "rating": "CA"
+  }
+]

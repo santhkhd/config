@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Telegraph-Journal",
+    "provider": "web",
+    "arguments": [
+      "https://tj.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tj.news",
+    "year": "New Brunswick",
+    "genre": "Saint John",
+    "rating": "Provincial Flagship Daily",
+    "rssUrl": "https://tj.news/feed"
+  },
+  {
+    "title": "Times & Transcript",
+    "provider": "web",
+    "arguments": [
+      "https://tj.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tj.news",
+    "year": "New Brunswick",
+    "genre": "Moncton",
+    "rating": "Greater Moncton Daily",
+    "rssUrl": "https://tj.news/feed"
+  },
+  {
+    "title": "The Daily Gleaner",
+    "provider": "web",
+    "arguments": [
+      "https://tj.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tj.news",
+    "year": "New Brunswick",
+    "genre": "Fredericton",
+    "rating": "Provincial Capital Daily",
+    "rssUrl": "https://tj.news/feed"
+  },
+  {
+    "title": "L'Acadie Nouvelle",
+    "provider": "web",
+    "arguments": [
+      "https://www.acadienouvelle.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=acadienouvelle.com",
+    "year": "New Brunswick",
+    "genre": "Caraquet / Moncton",
+    "rating": "Quotidien Francophone Acadien",
+    "rssUrl": "https://www.acadienouvelle.com/feed/"
+  },
+  {
+    "title": "The Northern Light",
+    "provider": "web",
+    "arguments": [
+      "https://tj.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tj.news",
+    "year": "New Brunswick",
+    "genre": "Bathurst",
+    "rating": "Chaleur Region Weekly",
+    "rssUrl": "https://tj.news/feed"
+  },
+  {
+    "title": "Miramichi Leader",
+    "provider": "web",
+    "arguments": [
+      "https://tj.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tj.news",
+    "year": "New Brunswick",
+    "genre": "Miramichi",
+    "rating": "Miramichi Valley Weekly",
+    "rssUrl": "https://tj.news/feed"
+  },
+  {
+    "title": "The Bugle-Observer",
+    "provider": "web",
+    "arguments": [
+      "https://tj.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tj.news",
+    "year": "New Brunswick",
+    "genre": "Woodstock",
+    "rating": "Saint John River Valley",
+    "rssUrl": "https://tj.news/feed"
+  },
+  {
+    "title": "CBC News New Brunswick",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbc.ca/news/canada/new-brunswick"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+    "year": "New Brunswick",
+    "genre": "Fredericton",
+    "rating": "Public Broadcaster",
+    "rssUrl": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml"
+  },
+  {
+    "title": "Radio-Canada Acadie",
+    "provider": "web",
+    "arguments": [
+      "https://ici.radio-canada.ca/acadie"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=radio-canada.ca",
+    "year": "New Brunswick",
+    "genre": "Moncton",
+    "rating": "Information Francophone",
+    "rssUrl": "https://ici.radio-canada.ca/rss/4164"
+  },
+  {
+    "title": "Global News New Brunswick",
+    "provider": "web",
+    "arguments": [
+      "https://globalnews.ca/new-brunswick"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=globalnews.ca",
+    "year": "New Brunswick",
+    "genre": "Fredericton",
+    "rating": "24/7 Regional Broadcast",
+    "rssUrl": "https://globalnews.ca/new-brunswick/feed/"
+  }
+]

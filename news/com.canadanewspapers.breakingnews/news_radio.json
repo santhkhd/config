@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CBC Radio One Toronto",
+    "url": "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8",
+    "freq": "99.1 FM",
+    "genre": "News"
+  },
+  {
+    "title": "680 News Radio Toronto",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
+    "freq": "680 AM",
+    "genre": "All News"
+  },
+  {
+    "title": "CKNW 980 Vancouver",
+    "url": "https://corus.leanstream.co/CKNWAM-MP3",
+    "freq": "980 AM",
+    "genre": "Talk"
+  },
+  {
+    "title": "CHUM 104.5 Toronto",
+    "url": "https://bell-hls.leanstream.co/bell/chumfm.stream/playlist.m3u8",
+    "freq": "104.5 FM",
+    "genre": "Hits"
+  }
+]

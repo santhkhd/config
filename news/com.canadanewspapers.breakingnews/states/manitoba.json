@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Winnipeg Free Press",
+    "provider": "web",
+    "arguments": [
+      "https://www.winnipegfreepress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.winnipegfreepress.com",
+    "year": "Manitoba",
+    "genre": "Winnipeg",
+    "rating": "CA"
+  },
+  {
+    "title": "Winnipeg Sun",
+    "provider": "web",
+    "arguments": [
+      "https://winnipegsun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=winnipegsun.com",
+    "year": "Manitoba",
+    "genre": "Winnipeg",
+    "rating": "CA"
+  }
+]

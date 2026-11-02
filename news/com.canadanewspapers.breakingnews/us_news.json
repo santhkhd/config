@@ -1,0 +1,64 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-23T18:00:00Z",
+  "country": "CA",
+  "language": "en-CA",
+  "stories": [
+    {
+      "id": "ca_top_1001",
+      "title": "Bank of Canada signals economic growth resilience and inflation stabilization",
+      "url": "https://www.cbc.ca/news/business",
+      "source": "CBC News",
+      "source_domain": "cbc.ca",
+      "published_at": "Fri, 23 Oct 2026 12:00:00 -0400",
+      "age_minutes": 25,
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+      "category_id": "canada_business",
+      "category": "Business",
+      "summary": "The Bank of Canada highlights continued momentum in Canadian employment and retail activity alongside steady inflation metrics.",
+      "summary_type": "extractive"
+    },
+    {
+      "id": "ca_top_1002",
+      "title": "Parliament discusses new federal investments in clean energy and green transit",
+      "url": "https://www.ctvnews.ca/politics",
+      "source": "CTV News",
+      "source_domain": "ctvnews.ca",
+      "published_at": "Fri, 23 Oct 2026 11:30:00 -0400",
+      "age_minutes": 55,
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=ctvnews.ca",
+      "category_id": "canada_politics",
+      "category": "Politics",
+      "summary": "Federal ministers announce expanded funding programs for clean energy infrastructure across Canadian provinces and northern territories.",
+      "summary_type": "extractive"
+    },
+    {
+      "id": "ca_top_1003",
+      "title": "Toronto and Vancouver tech hubs report surging AI and quantum computing hiring",
+      "url": "https://globalnews.ca/tag/technology/",
+      "source": "Global News",
+      "source_domain": "globalnews.ca",
+      "published_at": "Fri, 23 Oct 2026 10:15:00 -0400",
+      "age_minutes": 120,
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=globalnews.ca",
+      "category_id": "canada_tech",
+      "category": "Technology",
+      "summary": "Canadian technology startups and research centers in Toronto, Montreal, and Vancouver accelerate recruitment in high-tech specializations.",
+      "summary_type": "extractive"
+    },
+    {
+      "id": "ca_top_1004",
+      "title": "NHL season heats up as Canadian franchises battle for playoff contention",
+      "url": "https://www.sportsnet.ca/hockey/nhl/",
+      "source": "Sportsnet",
+      "source_domain": "sportsnet.ca",
+      "published_at": "Fri, 23 Oct 2026 09:00:00 -0400",
+      "age_minutes": 180,
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=sportsnet.ca",
+      "category_id": "canada_sports",
+      "category": "Sports",
+      "summary": "Early season matchups show strong form from the Maple Leafs, Oilers, Canucks, and Canadiens as rivalry games approach.",
+      "summary_type": "extractive"
+    }
+  ]
+}

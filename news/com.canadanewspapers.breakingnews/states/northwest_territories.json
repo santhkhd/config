@@ -1,0 +1,98 @@
+[
+  {
+    "title": "NNSL Media",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Northwest Territories",
+    "genre": "Yellowknife",
+    "rating": "Northern News Services Flagship",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "Yellowknifer",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com/yellowknifer"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Northwest Territories",
+    "genre": "Yellowknife",
+    "rating": "Territorial Capital News",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "News/North NWT",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com/newsnorth"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Northwest Territories",
+    "genre": "Yellowknife",
+    "rating": "Pan-Territorial Weekly",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "Inuvik Drum",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com/inuvikdrum"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Northwest Territories",
+    "genre": "Inuvik",
+    "rating": "Beaufort Delta Region",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "Hay River Hub",
+    "provider": "web",
+    "arguments": [
+      "https://www.nnsl.com/hayriverhub"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nnsl.com",
+    "year": "Northwest Territories",
+    "genre": "Hay River",
+    "rating": "South Slave Community",
+    "rssUrl": "https://www.nnsl.com/feed/"
+  },
+  {
+    "title": "Cabin Radio",
+    "provider": "web",
+    "arguments": [
+      "https://cabinradio.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cabinradio.com",
+    "year": "Northwest Territories",
+    "genre": "Yellowknife",
+    "rating": "Independent North Media",
+    "rssUrl": "https://cabinradio.com/feed/"
+  },
+  {
+    "title": "CBC News North (NWT)",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbc.ca/news/canada/north"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+    "year": "Northwest Territories",
+    "genre": "Yellowknife",
+    "rating": "Indigenous & Northern News",
+    "rssUrl": "https://rss.cbc.ca/lineup/canada-north.xml"
+  },
+  {
+    "title": "CKLB Radio News",
+    "provider": "web",
+    "arguments": [
+      "https://cklbradio.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cklbradio.com",
+    "year": "Northwest Territories",
+    "genre": "Yellowknife",
+    "rating": "Indigenous Voices Radio",
+    "rssUrl": "https://cklbradio.com/feed/"
+  }
+]

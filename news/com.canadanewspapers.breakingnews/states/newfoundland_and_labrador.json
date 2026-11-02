@@ -1,0 +1,110 @@
+[
+  {
+    "title": "The Telegram",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/newfoundland-labrador"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Newfoundland and Labrador",
+    "genre": "St. John's",
+    "rating": "Historic Flagship Daily",
+    "rssUrl": "https://www.saltwire.com/rss/newfoundland-labrador"
+  },
+  {
+    "title": "The Western Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/western-star"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Newfoundland and Labrador",
+    "genre": "Corner Brook",
+    "rating": "Western Newfoundland Daily",
+    "rssUrl": "https://www.saltwire.com/rss/newfoundland-labrador"
+  },
+  {
+    "title": "The Central Voice",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/central-voice"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Newfoundland and Labrador",
+    "genre": "Grand Falls-Windsor",
+    "rating": "Central Newfoundland Weekly",
+    "rssUrl": "https://www.saltwire.com/rss/newfoundland-labrador"
+  },
+  {
+    "title": "The Compass",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/the-compass"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Newfoundland and Labrador",
+    "genre": "Carbonear",
+    "rating": "Conception Bay Community",
+    "rssUrl": "https://www.saltwire.com/rss/newfoundland-labrador"
+  },
+  {
+    "title": "The Northern Pen",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/northern-pen"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Newfoundland and Labrador",
+    "genre": "St. Anthony",
+    "rating": "Great Northern Peninsula",
+    "rssUrl": "https://www.saltwire.com/rss/newfoundland-labrador"
+  },
+  {
+    "title": "The Aurora",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/the-aurora"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Newfoundland and Labrador",
+    "genre": "Labrador City",
+    "rating": "Labrador Mining Community",
+    "rssUrl": "https://www.saltwire.com/rss/newfoundland-labrador"
+  },
+  {
+    "title": "VOCM News",
+    "provider": "web",
+    "arguments": [
+      "https://vocm.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vocm.com",
+    "year": "Newfoundland and Labrador",
+    "genre": "St. John's",
+    "rating": "Voice of the Common Man News",
+    "rssUrl": "https://vocm.com/feed/"
+  },
+  {
+    "title": "NTV News",
+    "provider": "web",
+    "arguments": [
+      "https://ntv.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ntv.ca",
+    "year": "Newfoundland and Labrador",
+    "genre": "St. John's",
+    "rating": "Newfoundland Broadcast News",
+    "rssUrl": "https://ntv.ca/feed/"
+  },
+  {
+    "title": "CBC News Newfoundland and Labrador",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbc.ca/news/canada/newfoundland-labrador"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+    "year": "Newfoundland and Labrador",
+    "genre": "St. John's",
+    "rating": "Provincial Public News",
+    "rssUrl": "https://rss.cbc.ca/lineup/canada-newfoundland.xml"
+  }
+]

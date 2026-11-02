@@ -1,0 +1,145 @@
+[
+  {
+    "title": "🏛️ Ontario (Toronto & Ottawa)",
+    "provider": "overview",
+    "arguments": [
+      "states/ontario.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ontario.ca",
+    "year": "Provincial Coverage",
+    "genre": "38 Newspapers",
+    "rating": "ON"
+  },
+  {
+    "title": "🏛️ Quebec (Montréal & Québec)",
+    "provider": "overview",
+    "arguments": [
+      "states/quebec.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=quebec.ca",
+    "year": "Provincial Coverage",
+    "genre": "25 Journaux",
+    "rating": "QC"
+  },
+  {
+    "title": "🏛️ British Columbia (Vancouver & Victoria)",
+    "provider": "overview",
+    "arguments": [
+      "states/british_columbia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gov.bc.ca",
+    "year": "Provincial Coverage",
+    "genre": "26 Newspapers",
+    "rating": "BC"
+  },
+  {
+    "title": "🏛️ Alberta (Calgary & Edmonton)",
+    "provider": "overview",
+    "arguments": [
+      "states/alberta.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=alberta.ca",
+    "year": "Provincial Coverage",
+    "genre": "24 Newspapers",
+    "rating": "AB"
+  },
+  {
+    "title": "🏛️ Manitoba (Winnipeg & Brandon)",
+    "provider": "overview",
+    "arguments": [
+      "states/manitoba.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gov.mb.ca",
+    "year": "Provincial Coverage",
+    "genre": "14 Newspapers",
+    "rating": "MB"
+  },
+  {
+    "title": "🏛️ Saskatchewan (Saskatoon & Regina)",
+    "provider": "overview",
+    "arguments": [
+      "states/saskatchewan.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saskatchewan.ca",
+    "year": "Provincial Coverage",
+    "genre": "15 Newspapers",
+    "rating": "SK"
+  },
+  {
+    "title": "🏛️ Nova Scotia (Halifax & Cape Breton)",
+    "provider": "overview",
+    "arguments": [
+      "states/nova_scotia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=novascotia.ca",
+    "year": "Provincial Coverage",
+    "genre": "12 Newspapers",
+    "rating": "NS"
+  },
+  {
+    "title": "🏛️ New Brunswick (Moncton & Fredericton)",
+    "provider": "overview",
+    "arguments": [
+      "states/new_brunswick.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gnb.ca",
+    "year": "Provincial Coverage",
+    "genre": "10 Newspapers",
+    "rating": "NB"
+  },
+  {
+    "title": "🏛️ Newfoundland & Labrador (St. John's)",
+    "provider": "overview",
+    "arguments": [
+      "states/newfoundland_and_labrador.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gov.nl.ca",
+    "year": "Provincial Coverage",
+    "genre": "9 Newspapers",
+    "rating": "NL"
+  },
+  {
+    "title": "🏛️ Prince Edward Island (Charlottetown)",
+    "provider": "overview",
+    "arguments": [
+      "states/prince_edward_island.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=princeedwardisland.ca",
+    "year": "Provincial Coverage",
+    "genre": "6 Newspapers",
+    "rating": "PE"
+  },
+  {
+    "title": "🏛️ Northwest Territories (Yellowknife)",
+    "provider": "overview",
+    "arguments": [
+      "states/northwest_territories.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gov.nt.ca",
+    "year": "Territorial Coverage",
+    "genre": "8 Newspapers",
+    "rating": "NT"
+  },
+  {
+    "title": "🏛️ Yukon (Whitehorse)",
+    "provider": "overview",
+    "arguments": [
+      "states/yukon.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=yukon.ca",
+    "year": "Territorial Coverage",
+    "genre": "6 Newspapers",
+    "rating": "YT"
+  },
+  {
+    "title": "🏛️ Nunavut (Iqaluit)",
+    "provider": "overview",
+    "arguments": [
+      "states/nunavut.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gov.nu.ca",
+    "year": "Territorial Coverage",
+    "genre": "5 Newspapers",
+    "rating": "NU"
+  }
+]

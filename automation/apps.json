@@ -170,5 +170,26 @@
       "The Australian",
       "Newcastle Herald"
     ]
+  },
+  {
+    "app_id": "canada_app",
+    "name": "Canada News & Live Radio",
+    "folder": "news/com.canadanewspapers.breakingnews",
+    "fcm_topic": "canada_news_topic",
+    "accent_color": "FF0284C7",
+    "emoji": "🍁",
+    "daily_limit": 5,
+    "min_gap_hours": 2,
+    "active_hours": [
+      8,
+      22
+    ],
+    "priority_channels": [
+      "Toronto Star",
+      "The Globe and Mail",
+      "National Post",
+      "Financial Post",
+      "Ottawa Citizen"
+    ]
   }
 ]

@@ -1,0 +1,79 @@
+[
+  {
+    "title": "🗺️ All 6 Provinces (All Newspapers)",
+    "provider": "overview",
+    "arguments": [
+      "states/all_states.json"
+    ],
+    "image": "https://img.icons8.com/color/144/map-marker.png",
+    "year": "6 Provinces",
+    "genre": "23 Newspapers",
+    "rating": "ALL"
+  },
+  {
+    "title": "🍁 Ontario",
+    "provider": "overview",
+    "arguments": [
+      "states/ontario.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.thestar.com",
+    "year": "Toronto",
+    "genre": "7 Newspapers",
+    "rating": "CA"
+  },
+  {
+    "title": "⚜️ Quebec",
+    "provider": "overview",
+    "arguments": [
+      "states/quebec.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montrealgazette.com",
+    "year": "Montreal",
+    "genre": "5 Newspapers",
+    "rating": "CA"
+  },
+  {
+    "title": "🌲 British Columbia",
+    "provider": "overview",
+    "arguments": [
+      "states/british_columbia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vancouversun.com",
+    "year": "Victoria",
+    "genre": "4 Newspapers",
+    "rating": "CA"
+  },
+  {
+    "title": "🏔️ Alberta",
+    "provider": "overview",
+    "arguments": [
+      "states/alberta.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=calgaryherald.com",
+    "year": "Edmonton",
+    "genre": "4 Newspapers",
+    "rating": "CA"
+  },
+  {
+    "title": "🌾 Manitoba",
+    "provider": "overview",
+    "arguments": [
+      "states/manitoba.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.winnipegfreepress.com",
+    "year": "Winnipeg",
+    "genre": "2 Newspapers",
+    "rating": "CA"
+  },
+  {
+    "title": "⚓ Nova Scotia",
+    "provider": "overview",
+    "arguments": [
+      "states/nova_scotia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.saltwire.com",
+    "year": "Halifax",
+    "genre": "1 Newspapers",
+    "rating": "CA"
+  }
+]

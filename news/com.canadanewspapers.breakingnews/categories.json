@@ -1,0 +1,159 @@
+{
+  "categories": [
+    {
+      "id": "canada_top_news",
+      "name": "Top Canada News",
+      "icon": "flag"
+    },
+    {
+      "id": "canada_breaking_news",
+      "name": "Breaking Headlines",
+      "icon": "bolt"
+    },
+    {
+      "id": "parliament_hill",
+      "name": "Parliament Hill",
+      "icon": "account_balance"
+    },
+    {
+      "id": "prime_minister",
+      "name": "Prime Minister & Cabinet",
+      "icon": "person"
+    },
+    {
+      "id": "house_of_commons",
+      "name": "House of Commons",
+      "icon": "gavel"
+    },
+    {
+      "id": "canada_senate",
+      "name": "Senate of Canada",
+      "icon": "account_balance"
+    },
+    {
+      "id": "federal_gov",
+      "name": "Federal Government",
+      "icon": "public"
+    },
+    {
+      "id": "canada_economy",
+      "name": "Canadian Economy",
+      "icon": "trending_up"
+    },
+    {
+      "id": "bank_of_canada",
+      "name": "Bank of Canada & Rates",
+      "icon": "attach_money"
+    },
+    {
+      "id": "inflation",
+      "name": "Inflation & Cost of Living",
+      "icon": "price_change"
+    },
+    {
+      "id": "canada_housing",
+      "name": "Housing Market & Real Estate",
+      "icon": "home"
+    },
+    {
+      "id": "jobs_employment",
+      "name": "Jobs & Employment",
+      "icon": "work"
+    },
+    {
+      "id": "tsx_market",
+      "name": "TSX & Canadian Markets",
+      "icon": "show_chart"
+    },
+    {
+      "id": "business_canada",
+      "name": "Business & Investing",
+      "icon": "business"
+    },
+    {
+      "id": "energy_resources",
+      "name": "Energy, Oil & Renewables",
+      "icon": "bolt"
+    },
+    {
+      "id": "healthcare_canada",
+      "name": "Healthcare & Medicare",
+      "icon": "health_and_safety"
+    },
+    {
+      "id": "technology_ai",
+      "name": "Technology & AI",
+      "icon": "computer"
+    },
+    {
+      "id": "sports_nhl",
+      "name": "NHL & Hockey Night",
+      "icon": "sports_hockey"
+    },
+    {
+      "id": "canadian_sports",
+      "name": "CFL, NBA & Canadian Sports",
+      "icon": "sports_basketball"
+    },
+    {
+      "id": "immigration_canada",
+      "name": "Immigration & Express Entry",
+      "icon": "flight"
+    },
+    {
+      "id": "environment_climate",
+      "name": "Climate & Environment",
+      "icon": "eco"
+    },
+    {
+      "id": "indigenous_canada",
+      "name": "Indigenous & First Nations",
+      "icon": "people"
+    },
+    {
+      "id": "agriculture_canada",
+      "name": "Agriculture & Farming",
+      "icon": "agriculture"
+    },
+    {
+      "id": "education_canada",
+      "name": "Education & Colleges",
+      "icon": "school"
+    },
+    {
+      "id": "justice_rcmp",
+      "name": "Law, Justice & RCMP",
+      "icon": "shield"
+    },
+    {
+      "id": "arts_entertainment",
+      "name": "Arts, Film & Culture",
+      "icon": "movie"
+    },
+    {
+      "id": "ontario_news",
+      "name": "Ontario Regional",
+      "icon": "location_city"
+    },
+    {
+      "id": "quebec_news",
+      "name": "Québec Nouvelles",
+      "icon": "location_city"
+    },
+    {
+      "id": "western_canada",
+      "name": "Western Canada",
+      "icon": "landscape"
+    },
+    {
+      "id": "atlantic_canada",
+      "name": "Atlantic Canada",
+      "icon": "water"
+    },
+    {
+      "id": "northern_canada",
+      "name": "Northern Canada & Arctic",
+      "icon": "ac_unit"
+    }
+  ]
+}

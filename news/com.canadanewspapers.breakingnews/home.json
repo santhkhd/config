@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Top Canada Newspapers",
+    "type": "newspapers",
+    "items": [
+      {
+        "title": "Toronto Star",
+        "provider": "web",
+        "arguments": [
+          "https://www.thestar.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.thestar.com",
+        "year": "Ontario",
+        "genre": "Toronto",
+        "rating": "CA"
+      },
+      {
+        "title": "The Globe and Mail",
+        "provider": "web",
+        "arguments": [
+          "https://www.theglobeandmail.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theglobeandmail.com",
+        "year": "Ontario",
+        "genre": "Toronto",
+        "rating": "CA"
+      },
+      {
+        "title": "National Post",
+        "provider": "web",
+        "arguments": [
+          "https://nationalpost.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalpost.com",
+        "year": "Ontario",
+        "genre": "Toronto",
+        "rating": "CA"
+      },
+      {
+        "title": "Financial Post",
+        "provider": "web",
+        "arguments": [
+          "https://financialpost.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=financialpost.com",
+        "year": "Ontario",
+        "genre": "Toronto",
+        "rating": "CA"
+      },
+      {
+        "title": "Ottawa Citizen",
+        "provider": "web",
+        "arguments": [
+          "https://ottawacitizen.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=ottawacitizen.com",
+        "year": "Ontario",
+        "genre": "Ottawa",
+        "rating": "CA"
+      },
+      {
+        "title": "Toronto Sun",
+        "provider": "web",
+        "arguments": [
+          "https://torontosun.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=torontosun.com",
+        "year": "Ontario",
+        "genre": "Toronto",
+        "rating": "CA"
+      }
+    ]
+  },
+  {
+    "title": "Newspapers by Province",
+    "type": "states",
+    "items": [
+      {
+        "title": "🍁 Ontario",
+        "provider": "overview",
+        "arguments": [
+          "states/ontario.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.thestar.com",
+        "year": "Toronto",
+        "genre": "7 Newspapers",
+        "rating": "CA"
+      },
+      {
+        "title": "⚜️ Quebec",
+        "provider": "overview",
+        "arguments": [
+          "states/quebec.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=montrealgazette.com",
+        "year": "Montreal",
+        "genre": "5 Newspapers",
+        "rating": "CA"
+      },
+      {
+        "title": "🌲 British Columbia",
+        "provider": "overview",
+        "arguments": [
+          "states/british_columbia.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=vancouversun.com",
+        "year": "Victoria",
+        "genre": "4 Newspapers",
+        "rating": "CA"
+      },
+      {
+        "title": "🏔️ Alberta",
+        "provider": "overview",
+        "arguments": [
+          "states/alberta.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=calgaryherald.com",
+        "year": "Edmonton",
+        "genre": "4 Newspapers",
+        "rating": "CA"
+      }
+    ]
+  },
+  {
+    "title": "24/7 Live Radio",
+    "type": "radio",
+    "items": [
+      {
+        "title": "CBC Radio One Toronto",
+        "url": "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8",
+        "freq": "99.1 FM",
+        "genre": "News"
+      },
+      {
+        "title": "680 News Radio Toronto",
+        "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
+        "freq": "680 AM",
+        "genre": "All News"
+      },
+      {
+        "title": "CKNW 980 Vancouver",
+        "url": "https://corus.leanstream.co/CKNWAM-MP3",
+        "freq": "980 AM",
+        "genre": "Talk"
+      },
+      {
+        "title": "CHUM 104.5 Toronto",
+        "url": "https://bell-hls.leanstream.co/bell/chumfm.stream/playlist.m3u8",
+        "freq": "104.5 FM",
+        "genre": "Hits"
+      }
+    ]
+  },
+  {
+    "title": "Live Video News",
+    "type": "video",
+    "items": [
+      {
+        "title": "CBC News Live",
+        "channel_id": "UCuFFtHWoLl5fauMMD5Ww2jA",
+        "type": "channel"
+      },
+      {
+        "title": "CTV News Live",
+        "channel_id": "UCi7Zk9baY1tvdlgxIML8MXg",
+        "type": "channel"
+      },
+      {
+        "title": "Global News Canada",
+        "channel_id": "UChLtXXpo4Ge1ReTEboVvTDg",
+        "type": "channel"
+      }
+    ]
+  }
+]

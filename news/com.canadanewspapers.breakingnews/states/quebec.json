@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Montreal Gazette",
+    "provider": "web",
+    "arguments": [
+      "https://montrealgazette.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=montrealgazette.com",
+    "year": "Quebec",
+    "genre": "Montreal",
+    "rating": "CA"
+  },
+  {
+    "title": "La Presse",
+    "provider": "web",
+    "arguments": [
+      "https://www.lapresse.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.lapresse.ca",
+    "year": "Quebec",
+    "genre": "Montreal",
+    "rating": "CA"
+  },
+  {
+    "title": "Le Journal de Montréal",
+    "provider": "web",
+    "arguments": [
+      "https://www.journaldemontreal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.journaldemontreal.com",
+    "year": "Quebec",
+    "genre": "Montreal",
+    "rating": "CA"
+  },
+  {
+    "title": "Le Devoir",
+    "provider": "web",
+    "arguments": [
+      "https://www.ledevoir.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.ledevoir.com",
+    "year": "Quebec",
+    "genre": "Montreal",
+    "rating": "CA"
+  },
+  {
+    "title": "Le Soleil",
+    "provider": "web",
+    "arguments": [
+      "https://www.lesoleil.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.lesoleil.com",
+    "year": "Quebec",
+    "genre": "Quebec City",
+    "rating": "CA"
+  }
+]

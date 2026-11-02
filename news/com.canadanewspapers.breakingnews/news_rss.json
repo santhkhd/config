@@ -1,0 +1,337 @@
+[
+  {
+    "title": "CBC News (Top Stories)",
+    "url": "https://rss.cbc.ca/lineup/topstories.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "CTV News (Top Stories)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+    "category": "TOP"
+  },
+  {
+    "title": "Global News (Top Headlines)",
+    "url": "https://globalnews.ca/feed/",
+    "category": "TOP"
+  },
+  {
+    "title": "The Globe and Mail (Top Stories)",
+    "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada/",
+    "category": "TOP"
+  },
+  {
+    "title": "Toronto Star (Top Stories)",
+    "url": "https://www.thestar.com/search/?f=rss&t=article&c=news*&l=50&s=start_time&sd=desc",
+    "category": "TOP"
+  },
+  {
+    "title": "National Post (Latest News)",
+    "url": "https://nationalpost.com/feed",
+    "category": "TOP"
+  },
+  {
+    "title": "CityNews Toronto (Breaking News)",
+    "url": "https://toronto.citynews.ca/feed/",
+    "category": "TOP"
+  },
+  {
+    "title": "Radio-Canada Info (Nouvelles R\u00e9centes)",
+    "url": "https://ici.radio-canada.ca/rss/4159",
+    "category": "TOP"
+  },
+  {
+    "title": "La Presse (Actualit\u00e9s)",
+    "url": "https://www.lapresse.ca/manchettes/rss",
+    "category": "TOP"
+  },
+  {
+    "title": "Le Devoir (\u00c0 la une)",
+    "url": "https://www.ledevoir.com/rss/manchettes.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "CBC News (Canada National)",
+    "url": "https://rss.cbc.ca/lineup/canada.xml",
+    "category": "NATIONAL"
+  },
+  {
+    "title": "CTV News (Canada)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284",
+    "category": "NATIONAL"
+  },
+  {
+    "title": "CBC News (Politics / Parliament)",
+    "url": "https://rss.cbc.ca/lineup/politics.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "CTV News (Politics)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-politics-public-rss-1.822302",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Global News (Politics)",
+    "url": "https://globalnews.ca/politics/feed/",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Hill Times (Ottawa Politics)",
+    "url": "https://www.hilltimes.com/feed",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Policy Options (Canadian Policy)",
+    "url": "https://policyoptions.irpp.org/feed/",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Tyee (National & BC Politics)",
+    "url": "https://thetyee.ca/rss2.xml",
+    "category": "POLITICS"
+  },
+  {
+    "title": "The Narwhal (Environmental Politics)",
+    "url": "https://thenarwhal.ca/feed/",
+    "category": "POLITICS"
+  },
+  {
+    "title": "Canada's National Observer (Federal)",
+    "url": "https://www.nationalobserver.com/feed",
+    "category": "POLITICS"
+  },
+  {
+    "title": "CBC News (World)",
+    "url": "https://rss.cbc.ca/lineup/world.xml",
+    "category": "WORLD"
+  },
+  {
+    "title": "CTV News (World)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-world-public-rss-1.822289",
+    "category": "WORLD"
+  },
+  {
+    "title": "Global News (World)",
+    "url": "https://globalnews.ca/world/feed/",
+    "category": "WORLD"
+  },
+  {
+    "title": "The Globe and Mail (World)",
+    "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/",
+    "category": "WORLD"
+  },
+  {
+    "title": "BBC News (World Edition)",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "WORLD"
+  },
+  {
+    "title": "Reuters (World News)",
+    "url": "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=best",
+    "category": "WORLD"
+  },
+  {
+    "title": "CBC News (Business)",
+    "url": "https://rss.cbc.ca/lineup/business.xml",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "CTV News (Business)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-business-public-rss-1.822295",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Financial Post (Top Stories)",
+    "url": "https://financialpost.com/feed",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "The Globe and Mail (Report on Business)",
+    "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "BNN Bloomberg (Canadian Markets)",
+    "url": "https://www.bnnbloomberg.ca/feed",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "Global News (Money & Consumer)",
+    "url": "https://globalnews.ca/money/feed/",
+    "category": "BUSINESS"
+  },
+  {
+    "title": "CBC News (Technology & Science)",
+    "url": "https://rss.cbc.ca/lineup/technology.xml",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "title": "CTV News (Sci-Tech)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-sci-tech-public-rss-1.822299",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "title": "BetaKit (Canadian Startup & Tech)",
+    "url": "https://betakit.com/feed/",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "title": "MobileSyrup (Canadian Telecom & Tech)",
+    "url": "https://mobilesyrup.com/feed/",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "title": "Global News (Tech)",
+    "url": "https://globalnews.ca/tech/feed/",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "title": "CBC Sports (National)",
+    "url": "https://rss.cbc.ca/lineup/sports.xml",
+    "category": "SPORTS"
+  },
+  {
+    "title": "CTV News (Sports)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-sports-public-rss-1.822307",
+    "category": "SPORTS"
+  },
+  {
+    "title": "Sportsnet (NHL & Canadian Headlines)",
+    "url": "https://www.sportsnet.ca/feed/",
+    "category": "SPORTS"
+  },
+  {
+    "title": "TSN (Top Headlines)",
+    "url": "https://www.tsn.ca/rss/headlines",
+    "category": "SPORTS"
+  },
+  {
+    "title": "CBC Sports (NHL Hockey)",
+    "url": "https://rss.cbc.ca/lineup/sports-nhl.xml",
+    "category": "SPORTS"
+  },
+  {
+    "title": "CBC News (British Columbia)",
+    "url": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Calgary)",
+    "url": "https://rss.cbc.ca/lineup/canada-calgary.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Edmonton)",
+    "url": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Saskatchewan)",
+    "url": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Manitoba)",
+    "url": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Toronto)",
+    "url": "https://rss.cbc.ca/lineup/canada-toronto.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Ottawa)",
+    "url": "https://rss.cbc.ca/lineup/canada-ottawa.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Montreal)",
+    "url": "https://rss.cbc.ca/lineup/canada-montreal.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Nova Scotia)",
+    "url": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (New Brunswick)",
+    "url": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (PEI)",
+    "url": "https://rss.cbc.ca/lineup/canada-pei.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Newfoundland & Labrador)",
+    "url": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (North / Arctic)",
+    "url": "https://rss.cbc.ca/lineup/canada-north.xml",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CityNews Vancouver",
+    "url": "https://vancouver.citynews.ca/feed/",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CityNews Calgary",
+    "url": "https://calgary.citynews.ca/feed/",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CityNews Edmonton",
+    "url": "https://edmonton.citynews.ca/feed/",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CityNews Montreal",
+    "url": "https://montreal.citynews.ca/feed/",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CityNews Ottawa",
+    "url": "https://ottawa.citynews.ca/feed/",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CityNews Winnipeg",
+    "url": "https://winnipeg.citynews.ca/feed/",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CityNews Halifax",
+    "url": "https://halifax.citynews.ca/feed/",
+    "category": "REGIONAL"
+  },
+  {
+    "title": "CBC News (Arts & Entertainment)",
+    "url": "https://rss.cbc.ca/lineup/arts.xml",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "CTV News (Entertainment)",
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-entertainment-public-rss-1.822304",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Global News (Entertainment)",
+    "url": "https://globalnews.ca/entertainment/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "The Walrus (Arts & Essays)",
+    "url": "https://thewalrus.ca/category/culture/feed/",
+    "category": "ENTERTAINMENT"
+  },
+  {
+    "title": "Maclean's (Canadian Culture)",
+    "url": "https://macleans.ca/culture/feed/",
+    "category": "ENTERTAINMENT"
+  }
+]

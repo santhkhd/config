@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Toronto Star",
+    "provider": "web",
+    "arguments": [
+      "https://www.thestar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.thestar.com",
+    "year": "Ontario",
+    "genre": "Toronto",
+    "rating": "CA"
+  },
+  {
+    "title": "The Globe and Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.theglobeandmail.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theglobeandmail.com",
+    "year": "Ontario",
+    "genre": "Toronto",
+    "rating": "CA"
+  },
+  {
+    "title": "National Post",
+    "provider": "web",
+    "arguments": [
+      "https://nationalpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=nationalpost.com",
+    "year": "Ontario",
+    "genre": "Toronto",
+    "rating": "CA"
+  },
+  {
+    "title": "Financial Post",
+    "provider": "web",
+    "arguments": [
+      "https://financialpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=financialpost.com",
+    "year": "Ontario",
+    "genre": "Toronto",
+    "rating": "CA"
+  },
+  {
+    "title": "Ottawa Citizen",
+    "provider": "web",
+    "arguments": [
+      "https://ottawacitizen.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ottawacitizen.com",
+    "year": "Ontario",
+    "genre": "Ottawa",
+    "rating": "CA"
+  },
+  {
+    "title": "Toronto Sun",
+    "provider": "web",
+    "arguments": [
+      "https://torontosun.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=torontosun.com",
+    "year": "Ontario",
+    "genre": "Toronto",
+    "rating": "CA"
+  },
+  {
+    "title": "The Hamilton Spectator",
+    "provider": "web",
+    "arguments": [
+      "https://www.thespec.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.thespec.com",
+    "year": "Ontario",
+    "genre": "Hamilton",
+    "rating": "CA"
+  }
+]

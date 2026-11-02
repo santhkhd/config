@@ -1,0 +1,74 @@
+[
+  {
+    "title": "The Guardian",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/prince-edward-island"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Prince Edward Island",
+    "genre": "Charlottetown",
+    "rating": "Island Flagship Daily",
+    "rssUrl": "https://www.saltwire.com/rss/prince-edward-island"
+  },
+  {
+    "title": "Journal Pioneer",
+    "provider": "web",
+    "arguments": [
+      "https://www.saltwire.com/journal-pioneer"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saltwire.com",
+    "year": "Prince Edward Island",
+    "genre": "Summerside",
+    "rating": "Western Island Daily",
+    "rssUrl": "https://www.saltwire.com/rss/prince-edward-island"
+  },
+  {
+    "title": "The Eastern Graphic",
+    "provider": "web",
+    "arguments": [
+      "https://www.peicanada.com/eastern_graphic"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peicanada.com",
+    "year": "Prince Edward Island",
+    "genre": "Montague",
+    "rating": "Kings County Weekly",
+    "rssUrl": "https://www.peicanada.com/search/?f=rss&t=article&c=eastern_graphic*&l=50&s=start_time&sd=desc"
+  },
+  {
+    "title": "West Prince Graphic",
+    "provider": "web",
+    "arguments": [
+      "https://www.peicanada.com/west_prince_graphic"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=peicanada.com",
+    "year": "Prince Edward Island",
+    "genre": "Alberton",
+    "rating": "Prince County Weekly",
+    "rssUrl": "https://www.peicanada.com/search/?f=rss&t=article&c=west_prince_graphic*&l=50&s=start_time&sd=desc"
+  },
+  {
+    "title": "CBC News Prince Edward Island",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbc.ca/news/canada/prince-edward-island"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+    "year": "Prince Edward Island",
+    "genre": "Charlottetown",
+    "rating": "Island Public News",
+    "rssUrl": "https://rss.cbc.ca/lineup/canada-pei.xml"
+  },
+  {
+    "title": "Ocean 100 News",
+    "provider": "web",
+    "arguments": [
+      "https://ocean100.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ocean100.com",
+    "year": "Prince Edward Island",
+    "genre": "Charlottetown",
+    "rating": "Local Breaking News",
+    "rssUrl": "https://ocean100.com/feed/"
+  }
+]

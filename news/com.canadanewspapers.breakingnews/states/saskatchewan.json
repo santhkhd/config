@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Saskatoon StarPhoenix",
+    "provider": "web",
+    "arguments": [
+      "https://thestarphoenix.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thestarphoenix.com",
+    "year": "Saskatchewan",
+    "genre": "Saskatoon",
+    "rating": "Northern Saskatchewan Daily",
+    "rssUrl": "https://thestarphoenix.com/feed"
+  },
+  {
+    "title": "Regina Leader-Post",
+    "provider": "web",
+    "arguments": [
+      "https://leaderpost.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=leaderpost.com",
+    "year": "Saskatchewan",
+    "genre": "Regina",
+    "rating": "Provincial Capital Daily",
+    "rssUrl": "https://leaderpost.com/feed"
+  },
+  {
+    "title": "Prince Albert Daily Herald",
+    "provider": "web",
+    "arguments": [
+      "https://paherald.sk.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=paherald.sk.ca",
+    "year": "Saskatchewan",
+    "genre": "Prince Albert",
+    "rating": "Gateway to the North Daily",
+    "rssUrl": "https://paherald.sk.ca/feed/"
+  },
+  {
+    "title": "Moose Jaw Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.mjvexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mjvexpress.com",
+    "year": "Saskatchewan",
+    "genre": "Moose Jaw",
+    "rating": "Community Daily",
+    "rssUrl": "https://www.mjvexpress.com/rss"
+  },
+  {
+    "title": "Swift Current Online",
+    "provider": "web",
+    "arguments": [
+      "https://swiftcurrentonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=swiftcurrentonline.com",
+    "year": "Saskatchewan",
+    "genre": "Swift Current",
+    "rating": "Southwestern Saskatchewan",
+    "rssUrl": "https://swiftcurrentonline.com/rss/"
+  },
+  {
+    "title": "Yorkton This Week",
+    "provider": "web",
+    "arguments": [
+      "https://www.sasktoday.ca/central/yorkton-this-week"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sasktoday.ca",
+    "year": "Saskatchewan",
+    "genre": "Yorkton",
+    "rating": "Eastern Saskatchewan",
+    "rssUrl": "https://www.sasktoday.ca/rss"
+  },
+  {
+    "title": "Battlefords News-Optimist",
+    "provider": "web",
+    "arguments": [
+      "https://www.sasktoday.ca/north/battlefords-news-optimist"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sasktoday.ca",
+    "year": "Saskatchewan",
+    "genre": "North Battleford",
+    "rating": "Regional Newspaper",
+    "rssUrl": "https://www.sasktoday.ca/rss"
+  },
+  {
+    "title": "The Estevan Mercury",
+    "provider": "web",
+    "arguments": [
+      "https://www.sasktoday.ca/south/estevan-mercury"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sasktoday.ca",
+    "year": "Saskatchewan",
+    "genre": "Estevan",
+    "rating": "Energy City News",
+    "rssUrl": "https://www.sasktoday.ca/rss"
+  },
+  {
+    "title": "The Weyburn Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.sasktoday.ca/south/weyburn-review"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sasktoday.ca",
+    "year": "Saskatchewan",
+    "genre": "Weyburn",
+    "rating": "Southeast Saskatchewan",
+    "rssUrl": "https://www.sasktoday.ca/rss"
+  },
+  {
+    "title": "SaskToday",
+    "provider": "web",
+    "arguments": [
+      "https://www.sasktoday.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sasktoday.ca",
+    "year": "Saskatchewan",
+    "genre": "Regina",
+    "rating": "Provincial Digital Hub",
+    "rssUrl": "https://www.sasktoday.ca/rss"
+  },
+  {
+    "title": "CBC News Saskatchewan",
+    "provider": "web",
+    "arguments": [
+      "https://www.cbc.ca/news/canada/saskatchewan"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cbc.ca",
+    "year": "Saskatchewan",
+    "genre": "Regina",
+    "rating": "Public Broadcaster",
+    "rssUrl": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml"
+  },
+  {
+    "title": "CTV News Regina",
+    "provider": "web",
+    "arguments": [
+      "https://regina.ctvnews.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=regina.ctvnews.ca",
+    "year": "Saskatchewan",
+    "genre": "Regina",
+    "rating": "Capital Broadcast",
+    "rssUrl": "https://regina.ctvnews.ca/rss/ctv-news-regina-1.822368"
+  },
+  {
+    "title": "CTV News Saskatoon",
+    "provider": "web",
+    "arguments": [
+      "https://saskatoon.ctvnews.ca"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saskatoon.ctvnews.ca",
+    "year": "Saskatchewan",
+    "genre": "Saskatoon",
+    "rating": "Broadcast News",
+    "rssUrl": "https://saskatoon.ctvnews.ca/rss/ctv-news-saskatoon-1.822369"
+  },
+  {
+    "title": "Global News Regina",
+    "provider": "web",
+    "arguments": [
+      "https://globalnews.ca/regina"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=globalnews.ca",
+    "year": "Saskatchewan",
+    "genre": "Regina",
+    "rating": "24/7 Regional News",
+    "rssUrl": "https://globalnews.ca/regina/feed/"
+  },
+  {
+    "title": "Global News Saskatoon",
+    "provider": "web",
+    "arguments": [
+      "https://globalnews.ca/saskatoon"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=globalnews.ca",
+    "year": "Saskatchewan",
+    "genre": "Saskatoon",
+    "rating": "24/7 Regional News",
+    "rssUrl": "https://globalnews.ca/saskatoon/feed/"
+  }
+]

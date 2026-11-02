@@ -1,0 +1,75 @@
+{
+  "app_name": "Canada News & Live Radio",
+  "package_name": "com.canadanewspapers.breakingnews",
+  "version_name": "1.0.0",
+  "version_code": 1,
+  "country": "Canada",
+  "country_code": "CA",
+  "currency": "$",
+  "default_city": "Ottawa",
+  "fcm_topic": "canada_news_topic",
+  "google_sheet_url": "https://script.google.com/macros/s/AKfycbyVxoh_Urb7TSimpzP7s45BtcCkMQTiwD4_Te0UcaJM6kpKIcIIAKBvcoBLuLcIxC4P/exec",
+  "app": {
+    "status": true,
+    "toolbar": true,
+    "navigation_drawer": true,
+    "geolocation": true,
+    "cache": true,
+    "privacy_policy_url": "privacy_policy.html"
+  },
+  "menus": [
+    {
+      "name": "Home",
+      "type": "category",
+      "url": "home.json",
+      "icon": "https://img.icons8.com/color/96/home.png"
+    },
+    {
+      "name": "Newspapers by Province",
+      "type": "category",
+      "url": "states_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/map-marker.png"
+    },
+    {
+      "name": "National Flagship Press",
+      "type": "category",
+      "url": "national_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/newspaper.png"
+    },
+    {
+      "name": "Live News Channels",
+      "type": "category",
+      "url": "news_channels.json",
+      "icon": "https://img.icons8.com/color/96/retro-tv.png"
+    },
+    {
+      "name": "Latest Video News",
+      "type": "YOUTUBE",
+      "url": "ALL_VIDEOS",
+      "icon": "https://img.icons8.com/color/96/youtube-play.png"
+    },
+    {
+      "name": "24/7 Live Radio",
+      "type": "category",
+      "url": "news_radio.json",
+      "icon": "https://img.icons8.com/color/96/radio.png"
+    },
+    {
+      "name": "AI News Prompts",
+      "type": "category",
+      "url": "ai_news_prompts.json",
+      "icon": "https://img.icons8.com/color/96/bot.png"
+    }
+  ],
+  "ads": {
+    "admob_app_id": "ca-app-pub-8211285362401989~3070119221",
+    "admob_banner_unit_id": "ca-app-pub-8211285362401989/1565465862",
+    "admob_interstitial_unit_id": "ca-app-pub-8211285362401989/8869240811",
+    "admob_native_unit_id": "ca-app-pub-8211285362401989/7827621881",
+    "admob_app_open_unit_id": "ca-app-pub-8211285362401989/1565465862",
+    "interstitial_click_count": 4,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "native_enabled": true
+  }
+}
