@@ -1,0 +1,32 @@
+[
+  {
+    "title": "ABC News (Just In)",
+    "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "ABC News (Top Stories)",
+    "url": "https://www.abc.net.au/news/feed/45910/rss.xml",
+    "category": "TOP"
+  },
+  {
+    "title": "Sydney Morning Herald (National)",
+    "url": "https://www.smh.com.au/rss/feed.xml",
+    "category": "NATIONAL"
+  },
+  {
+    "title": "The Age (Victoria & National)",
+    "url": "https://www.theage.com.au/rss/feed.xml",
+    "category": "NATIONAL"
+  },
+  {
+    "title": "News.com.au (National Headlines)",
+    "url": "https://www.news.com.au/content-feeds/latest-news-national/",
+    "category": "NATIONAL"
+  },
+  {
+    "title": "SBS News (Latest News)",
+    "url": "https://www.sbs.com.au/news/topic/latest/feed",
+    "category": "WORLD"
+  }
+]

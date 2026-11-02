@@ -1,0 +1,24 @@
+[
+  {
+    "title": "The West Australian",
+    "provider": "web",
+    "arguments": [
+      "https://thewest.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewest.com.au",
+    "year": "Western Australia",
+    "genre": "Perth",
+    "rating": "AU"
+  },
+  {
+    "title": "PerthNow",
+    "provider": "web",
+    "arguments": [
+      "https://www.perthnow.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.perthnow.com.au",
+    "year": "Western Australia",
+    "genre": "Perth",
+    "rating": "AU"
+  }
+]

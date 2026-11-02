@@ -1,0 +1,134 @@
+[
+  {
+    "title": "The Sydney Morning Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.smh.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smh.com.au",
+    "year": "New South Wales",
+    "genre": "Sydney",
+    "rating": "AU"
+  },
+  {
+    "title": "The Daily Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailytelegraph.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.dailytelegraph.com.au",
+    "year": "New South Wales",
+    "genre": "Sydney",
+    "rating": "AU"
+  },
+  {
+    "title": "The Australian",
+    "provider": "web",
+    "arguments": [
+      "https://www.theaustralian.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theaustralian.com.au",
+    "year": "New South Wales",
+    "genre": "National/Sydney",
+    "rating": "AU"
+  },
+  {
+    "title": "Newcastle Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.newcastleherald.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.newcastleherald.com.au",
+    "year": "New South Wales",
+    "genre": "Newcastle",
+    "rating": "AU"
+  },
+  {
+    "title": "The Age",
+    "provider": "web",
+    "arguments": [
+      "https://www.theage.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theage.com.au",
+    "year": "Victoria",
+    "genre": "Melbourne",
+    "rating": "AU"
+  },
+  {
+    "title": "Herald Sun",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldsun.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.heraldsun.com.au",
+    "year": "Victoria",
+    "genre": "Melbourne",
+    "rating": "AU"
+  },
+  {
+    "title": "Geelong Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.geelongadvertiser.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.geelongadvertiser.com.au",
+    "year": "Victoria",
+    "genre": "Geelong",
+    "rating": "AU"
+  },
+  {
+    "title": "The Courier-Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.couriermail.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.couriermail.com.au",
+    "year": "Queensland",
+    "genre": "Brisbane",
+    "rating": "AU"
+  },
+  {
+    "title": "Gold Coast Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.goldcoastbulletin.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.goldcoastbulletin.com.au",
+    "year": "Queensland",
+    "genre": "Gold Coast",
+    "rating": "AU"
+  },
+  {
+    "title": "Townsville Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.townsvillebulletin.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.townsvillebulletin.com.au",
+    "year": "Queensland",
+    "genre": "Townsville",
+    "rating": "AU"
+  },
+  {
+    "title": "The West Australian",
+    "provider": "web",
+    "arguments": [
+      "https://thewest.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewest.com.au",
+    "year": "Western Australia",
+    "genre": "Perth",
+    "rating": "AU"
+  },
+  {
+    "title": "PerthNow",
+    "provider": "web",
+    "arguments": [
+      "https://www.perthnow.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.perthnow.com.au",
+    "year": "Western Australia",
+    "genre": "Perth",
+    "rating": "AU"
+  }
+]

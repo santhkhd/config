@@ -1,0 +1,35 @@
+[
+  {
+    "title": "The Courier-Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.couriermail.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.couriermail.com.au",
+    "year": "Queensland",
+    "genre": "Brisbane",
+    "rating": "AU"
+  },
+  {
+    "title": "Gold Coast Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.goldcoastbulletin.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.goldcoastbulletin.com.au",
+    "year": "Queensland",
+    "genre": "Gold Coast",
+    "rating": "AU"
+  },
+  {
+    "title": "Townsville Bulletin",
+    "provider": "web",
+    "arguments": [
+      "https://www.townsvillebulletin.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.townsvillebulletin.com.au",
+    "year": "Queensland",
+    "genre": "Townsville",
+    "rating": "AU"
+  }
+]

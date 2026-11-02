@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "category": "Today's Top News",
+    "title": "Today's Top 10 US News Headlines",
+    "description": "Get a crisp, objective summary of the top 10 most impactful news stories in the United States today.",
+    "prompt": "Provide a comprehensive, objective summary of today's Top 10 most important and breaking news stories in the United States. For each story, provide: 1) A clear headline, 2) Key verified facts from reputable news sources, 3) Why it matters to American citizens, and 4) Sources/agencies reporting it.",
+    "tags": [
+      "top 10",
+      "breaking",
+      "national",
+      "today",
+      "headlines"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 2,
+    "category": "Today's Top News",
+    "title": "5-Minute Morning US News Briefing",
+    "description": "A quick executive summary of everything important happening across the nation this morning.",
+    "prompt": "Act as a senior US news editor and deliver a 5-minute morning news briefing for today. Cover the top 5 national developments, key overnight updates, economic alerts, and what to watch throughout the day.",
+    "tags": [
+      "morning briefing",
+      "daily news",
+      "executive summary",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 3,
+    "category": "Today's Top News",
+    "title": "Evening News Wrap & Nightly Analysis",
+    "description": "Complete recap of the day's major events, political shifts, and closing market summaries.",
+    "prompt": "Provide a detailed evening news wrap for today in the United States. Summarize the biggest stories from morning to dusk, major press briefings, closing stock market movements, and late-breaking developments.",
+    "tags": [
+      "evening news",
+      "nightly wrap",
+      "daily recap",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 4,
+    "category": "Today's Top News",
+    "title": "Breaking News Live Fact-Check & Verification",
+    "description": "Verify the authenticity of developing breaking news and filter out rumors and misinformation.",
+    "prompt": "Analyze the latest breaking news story unfolding in the US right now. Separate verified, confirmed facts from unverified rumors or social media speculation. Cite primary reporting from AP, Reuters, and official agencies.",
+    "tags": [
+      "breaking",
+      "fact check",
+      "live",
+      "verification"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 5,
+    "category": "Today's Top News",
+    "title": "Top US & World News Synthesis",
+    "description": "How today's global events directly intersect with US national interests and foreign policy.",
+    "prompt": "Give me the top 7 international news stories happening today that directly affect the United States, American consumers, defense, or global trade. Explain the US connection clearly for each.",
+    "tags": [
+      "world news",
+      "international",
+      "us impact",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 6,
+    "category": "Today's Top News",
+    "title": "What Happened While America Slept",
+    "description": "Overnight developments, overseas markets, and late-night federal actions.",
+    "prompt": "Summarize what major events occurred overnight while the US was sleeping: international market movements, overseas military or diplomatic actions, late-night court decisions, or severe emergencies.",
+    "tags": [
+      "overnight",
+      "morning",
+      "fast catchup",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 7,
+    "category": "Today's Top News",
+    "title": "Sunday News Shows & Political Roundtable Recap",
+    "description": "Key takeaways from Meet the Press, Face the Nation, State of the Union, and Fox News Sunday.",
+    "prompt": "Summarize the biggest highlights, contentious interviews, and breaking statements from this week's major Sunday political talk shows (Meet the Press, Face the Nation, This Week, Fox News Sunday, State of the Union).",
+    "tags": [
+      "sunday shows",
+      "interviews",
+      "politics",
+      "analysis"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 8,
+    "category": "Today's Top News",
+    "title": "Bipartisan Media Lens: Comparing Coverage",
+    "description": "See how left, center, and right media outlets are covering today's #1 headline.",
+    "prompt": "Pick today's biggest national headline in the United States and compare how it is being reported across left-leaning (CNN, MSNBC, NYT), centrist (AP, Reuters, WSJ), and right-leaning (Fox News, NY Post) outlets. Highlight the differing angles, headlines, and omitted details.",
+    "tags": [
+      "media bias",
+      "bipartisan",
+      "perspective",
+      "comparison"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 9,
+    "category": "Today's Top News",
+    "title": "White House & Presidential Actions Today",
+    "description": "Today's executive orders, presidential statements, and White House press room highlights.",
+    "prompt": "Summarize all official actions, executive orders, bilateral meetings, and public statements issued by the President of the United States and the White House press secretary today.",
+    "tags": [
+      "white house",
+      "president",
+      "press briefing",
+      "executive"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 10,
+    "category": "Today's Top News",
+    "title": "US Supreme Court Rulings & Emergency Docket",
+    "description": "Latest decisions, oral arguments, and emergency injunctions from the nation's highest court.",
+    "prompt": "Break down the latest rulings, emergency docket orders, or significant oral arguments at the US Supreme Court. Explain the majority reasoning, dissenting arguments, and long-term legal precedent established.",
+    "tags": [
+      "supreme court",
+      "scotus",
+      "legal",
+      "constitution"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 11,
+    "category": "Sports News",
+    "title": "Today's Top 10 Sports Stories & Scores",
+    "description": "Full rundown of today's biggest sports games, buzzer-beaters, scores, and breaking trades.",
+    "prompt": "Provide a comprehensive roundup of the Top 10 sports stories in America today across the NFL, NBA, MLB, NHL, college sports, and soccer. Include scores, standout player performances, playoff implications, and injury updates.",
+    "tags": [
+      "top 10 sports",
+      "scores",
+      "nfl",
+      "nba",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 12,
+    "category": "Sports News",
+    "title": "NFL Headlines, Game Previews & Power Rankings",
+    "description": "Latest injury reports, trade buzz, coaching changes, and upcoming game matchups in the NFL.",
+    "prompt": "Give a complete briefing on the current NFL news cycle: latest game results, injury updates on star quarterbacks, trade rumors, coach press conferences, and current AFC/NFC playoff standings.",
+    "tags": [
+      "nfl",
+      "football",
+      "quarterbacks",
+      "playoffs",
+      "injuries"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 13,
+    "category": "Sports News",
+    "title": "NBA Scores, Trade Rumors & MVP Race",
+    "description": "Daily NBA game recaps, highlight plays, Western and Eastern conference playoff picture.",
+    "prompt": "Summarize the latest NBA action from last night and today: key game scores, triple-doubles and 40+ point performances, injury updates, latest trade buzz, and the current state of the MVP race.",
+    "tags": [
+      "nba",
+      "basketball",
+      "mvp",
+      "trades",
+      "scores"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 14,
+    "category": "Sports News",
+    "title": "MLB Baseball Highlights & Trade Deadline Buzz",
+    "description": "Major League Baseball scores, pennant race standings, pitching gems, and free agent news.",
+    "prompt": "Deliver today's Major League Baseball (MLB) report: big game results, extra-inning drama, home run leaders, pitching dominance, divisional standings, and trade or contract extensions.",
+    "tags": [
+      "mlb",
+      "baseball",
+      "home runs",
+      "standings"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 15,
+    "category": "Sports News",
+    "title": "College Football & March Madness Basketball",
+    "description": "NCAA top 25 rankings, transfer portal chaos, coaching carousel, and postseason previews.",
+    "prompt": "Provide an in-depth update on US College Sports (NCAA): College Football Playoff / AP Top 25 rankings, major upsets, March Madness basketball bubble teams, and transfer portal signings.",
+    "tags": [
+      "college sports",
+      "ncaa",
+      "football",
+      "march madness"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 16,
+    "category": "Sports News",
+    "title": "Soccer in the USA: MLS, USMNT & 2026 World Cup",
+    "description": "Major League Soccer results, US Men's & Women's national team news, and 2026 World Cup preparations.",
+    "prompt": "Report on the latest soccer news in the United States: Major League Soccer (MLS) scores and star player performances, USMNT / USWNT match recaps and rosters, and preparations for the 2026 FIFA World Cup in North America.",
+    "tags": [
+      "mls",
+      "soccer",
+      "usmnt",
+      "world cup 2026"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 17,
+    "category": "Sports News",
+    "title": "College Athlete NIL Deals & NCAA Legal Battles",
+    "description": "Revenue sharing models, collective million-dollar contracts, and college sports antitrust rulings.",
+    "prompt": "Break down the latest financial and legal developments in college sports: Name, Image, Likeness (NIL) deals, the House v. NCAA settlement rollout, conference realignment, and direct revenue sharing with athletes.",
+    "tags": [
+      "nil",
+      "ncaa",
+      "contracts",
+      "sports business"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 18,
+    "category": "Sports News",
+    "title": "Combat Sports: UFC, Boxing & MMA Tonight",
+    "description": "Fight night recaps, championship weigh-ins, blockbuster matchups, and pay-per-view news.",
+    "prompt": "Deliver the latest combat sports briefing: UFC fight card results and knockouts, upcoming championship matchups, fighter press conference quotes, and major boxing world title updates.",
+    "tags": [
+      "ufc",
+      "mma",
+      "boxing",
+      "championship"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 19,
+    "category": "Sports News",
+    "title": "Motorsports: Formula 1 & NASCAR Weekend Wrap",
+    "description": "Grand Prix race finishes, pole positions, NASCAR Cup Series drama, and team strategy.",
+    "prompt": "Summarize the latest motorsports news: Formula 1 Grand Prix race results, driver championship standings, and NASCAR Cup Series race finishes, playoff cutlines, and pit lane penalties.",
+    "tags": [
+      "f1",
+      "formula 1",
+      "nascar",
+      "racing"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 20,
+    "category": "Sports News",
+    "title": "Fantasy Sports & Sports Betting Intelligence",
+    "description": "Key waiver wire pickups, injury designations, betting line movements, and underdog picks.",
+    "prompt": "Provide a tactical fantasy sports and sports analytics briefing for this week's games: high-value waiver wire targets, questionable injury statuses, significant Vegas betting line moves, and sleeper player matchups.",
+    "tags": [
+      "fantasy sports",
+      "betting",
+      "odds",
+      "waiver wire"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 21,
+    "category": "Health News",
+    "title": "Today's Top 10 Health & Medical Discoveries",
+    "description": "The latest clinical trials, breakthroughs in medicine, and wellness advisories from leading US institutions.",
+    "prompt": "Compile the Top 10 most significant health, medical, and wellness news stories reported today. Cover new clinical studies, medical discoveries, public health guidelines from the CDC/NIH, and practical tips for everyday health.",
+    "tags": [
+      "top 10 health",
+      "medical",
+      "wellness",
+      "cdc",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 22,
+    "category": "Health News",
+    "title": "FDA Approvals, Drug Recalls & Safety Alerts",
+    "description": "Latest consumer warnings, pharmacy recalls, and newly authorized prescription drugs and therapies.",
+    "prompt": "Report on the latest US Food and Drug Administration (FDA) decisions: newly approved prescription medications, medical device authorizations, food/drug recalls, and black box warning updates.",
+    "tags": [
+      "fda",
+      "drug recalls",
+      "prescriptions",
+      "safety"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 23,
+    "category": "Health News",
+    "title": "GLP-1 Weight Loss Medications (Ozempic & Wegovy)",
+    "description": "Supply shortages, new clinical trial results, insurance coverage disputes, and health effects.",
+    "prompt": "Provide a comprehensive update on GLP-1 weight loss and diabetes drugs (Ozempic, Wegovy, Mounjaro, Zepbound): new cardiovascular and neurological trial results, insurance coverage trends, supply shortages, and emerging competitor drugs.",
+    "tags": [
+      "weight loss",
+      "ozempic",
+      "wegovy",
+      "glp-1",
+      "diabetes"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 24,
+    "category": "Health News",
+    "title": "Cancer Research & Breakthrough Immunotherapies",
+    "description": "CAR-T cell treatments, early detection blood biopsies, and promising clinical trial outcomes.",
+    "prompt": "Summarize the most promising breakthroughs in oncology and cancer research published recently by top US cancer centers (MD Anderson, Memorial Sloan Kettering, Mayo Clinic). Focus on targeted therapies, mRNA vaccines, and early screening tests.",
+    "tags": [
+      "cancer",
+      "oncology",
+      "immunotherapy",
+      "clinical trials"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 25,
+    "category": "Health News",
+    "title": "Mental Health, Anxiety & Sleep Science Updates",
+    "description": "Actionable neurobiology and psychology findings on treating stress, burnout, depression, and insomnia.",
+    "prompt": "Explain the latest peer-reviewed scientific findings on mental health, neurobiology, and sleep hygiene. What do new studies reveal about managing chronic anxiety, screen-time impacts, ADHD, and optimizing deep sleep cycles?",
+    "tags": [
+      "mental health",
+      "sleep",
+      "anxiety",
+      "neuroscience"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 26,
+    "category": "Health News",
+    "title": "Seasonal Illness & CDC Outbreak Tracker",
+    "description": "Surveillance on influenza, COVID-19, RSV, bird flu (H5N1), and regional virus transmission rates.",
+    "prompt": "Provide an up-to-date CDC surveillance summary on current infectious illness trends in the US: seasonal flu positivity rates, COVID-19 hospitalizations, RSV activity, and any avian flu (H5N1) agricultural monitoring updates.",
+    "tags": [
+      "cdc",
+      "flu",
+      "outbreak",
+      "covid",
+      "virus"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 27,
+    "category": "Health News",
+    "title": "Nutrition & Diet Myths Fact-Check",
+    "description": "Separating science from fad diets: ultra-processed foods, fasting, protein, and heart health.",
+    "prompt": "Fact-check the latest trending nutritional claims and viral diet advice using rigorous evidence from the American Heart Association and top nutrition scientists. Address ultra-processed food impacts, intermittent fasting, and optimal protein intake.",
+    "tags": [
+      "nutrition",
+      "diet",
+      "fact check",
+      "longevity"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 28,
+    "category": "Health News",
+    "title": "Health Insurance, Medicare & Medical Billing Guide",
+    "description": "How to navigate surprise medical bills, prescription discount cards, and Medicare open enrollment.",
+    "prompt": "Explain recent consumer healthcare policy changes: No Surprises Act enforcement against unexpected hospital charges, Medicare prescription drug price negotiation savings, and strategies to lower out-of-pocket medical expenses.",
+    "tags": [
+      "insurance",
+      "medicare",
+      "medical bills",
+      "prescriptions"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 29,
+    "category": "Health News",
+    "title": "Heart Health, Longevity & Blood Pressure Science",
+    "description": "Latest preventive cardiology guidelines, cholesterol management, and lifespan science.",
+    "prompt": "Summarize the latest research in preventive cardiology and longevity medicine: new blood pressure benchmarks, ApoB and cholesterol management, exercise zone training protocols, and proven longevity interventions.",
+    "tags": [
+      "heart health",
+      "cardiology",
+      "blood pressure",
+      "longevity"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 30,
+    "category": "Health News",
+    "title": "AI in Medicine & Hospital Diagnostic Systems",
+    "description": "How machine learning algorithms are reading radiology scans and improving triage in US hospitals.",
+    "prompt": "Report on how artificial intelligence is being actively deployed in US healthcare: FDA-cleared AI tools for early tumor detection, AI clinical scribes reducing doctor burnout, and hospital predictive analytics for patient outcomes.",
+    "tags": [
+      "ai health",
+      "medical tech",
+      "radiology",
+      "diagnostics"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 31,
+    "category": "Economy & Business",
+    "title": "Today's Stock Market Closing Bell & Drivers",
+    "description": "S&P 500, Dow Jones, Nasdaq closing recap, biggest gainers, losers, and yield curve moves.",
+    "prompt": "Provide a comprehensive breakdown of today's US stock market performance: closing numbers for the S&P 500, Dow Jones Industrial Average, and Nasdaq Composite. Detail the primary macroeconomic catalysts, 10-year Treasury yield changes, and top winning and losing stocks.",
+    "tags": [
+      "stock market",
+      "wall street",
+      "s&p 500",
+      "nasdaq",
+      "dow"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 32,
+    "category": "Economy & Business",
+    "title": "Fed Interest Rate Decisions & Powell Commentary",
+    "description": "Expectations for upcoming Federal Reserve FOMC meetings and interest rate projections.",
+    "prompt": "Analyze the latest statements from Federal Reserve Chairman Jerome Powell and FOMC members. What are the market probabilities for interest rate cuts or hikes, balance sheet runoff, and the outlook for achieving a soft landing?",
+    "tags": [
+      "federal reserve",
+      "interest rates",
+      "jerome powell",
+      "fomc"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 33,
+    "category": "Economy & Business",
+    "title": "Inflation Tracker: CPI & Core PCE Numbers",
+    "description": "Detailed breakdown of the latest consumer price index and where prices are rising or cooling.",
+    "prompt": "Deconstruct the latest US Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) inflation reports. Break down price inflation across groceries, energy, housing/shelter, auto insurance, and healthcare services.",
+    "tags": [
+      "inflation",
+      "cpi",
+      "pce",
+      "cost of living",
+      "prices"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 34,
+    "category": "Economy & Business",
+    "title": "US Monthly Jobs Report & Unemployment Trends",
+    "description": "Non-farm payrolls, wage growth rate, labor participation, and hiring hotspots.",
+    "prompt": "Analyze the latest Bureau of Labor Statistics (BLS) employment situation report: total jobs added, unemployment rate, average hourly earnings growth, and which sectors (healthcare, tech, hospitality, manufacturing) are hiring or cutting workers.",
+    "tags": [
+      "jobs report",
+      "unemployment",
+      "wages",
+      "labor market"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 35,
+    "category": "Economy & Business",
+    "title": "Crypto & Bitcoin Market Movers Today",
+    "description": "Bitcoin, Ethereum, spot crypto ETF inflows, and US regulatory enforcement actions.",
+    "prompt": "Summarize today's cryptocurrency market news: Bitcoin (BTC) and Ethereum (ETH) price movements, institutional spot ETF capital inflows/outflows, SEC regulatory updates, and crypto market sentiment.",
+    "tags": [
+      "crypto",
+      "bitcoin",
+      "ethereum",
+      "etf",
+      "sec"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 36,
+    "category": "Economy & Business",
+    "title": "Oil, Gasoline Prices & Energy Commodities",
+    "description": "WTI crude oil prices, national average gas pump prices, and OPEC+ production policies.",
+    "prompt": "Report on current US fuel and commodity prices: national average price for a gallon of regular gasoline (AAA data), WTI crude oil prices, natural gas reserves, and geopolitical factors driving pump prices.",
+    "tags": [
+      "gas prices",
+      "oil",
+      "crude",
+      "energy",
+      "commodities"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 37,
+    "category": "Economy & Business",
+    "title": "US Big Tech Earnings & Forward Guidance",
+    "description": "Quarterly earnings results and cloud/AI revenue metrics for Apple, Microsoft, Nvidia, Alphabet.",
+    "prompt": "Summarize the latest quarterly financial earnings and revenue guidance from mega-cap tech giants (Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta). Highlight cloud growth, AI spending, and investor reaction.",
+    "tags": [
+      "tech earnings",
+      "magnificent 7",
+      "nvidia",
+      "apple",
+      "revenue"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 38,
+    "category": "Economy & Business",
+    "title": "US Small Business & Commercial Lending Outlook",
+    "description": "Credit availability, loan interest rates, and optimism surveys among American small businesses.",
+    "prompt": "Examine the economic health of American small businesses based on the NFIB Small Business Optimism Index: access to commercial credit, labor shortage challenges, and price hike pressures.",
+    "tags": [
+      "small business",
+      "nfib",
+      "commercial credit",
+      "loans"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 39,
+    "category": "Economy & Business",
+    "title": "US Consumer Debt, Credit Cards & Savings Rates",
+    "description": "Household debt levels, credit card APRs, auto loan delinquencies, and personal savings rates.",
+    "prompt": "Provide a deep dive into the American consumer's balance sheet using Federal Reserve Bank of New York data: total household debt, credit card delinquency rates, student loan repayments, and the personal savings rate.",
+    "tags": [
+      "consumer debt",
+      "credit cards",
+      "savings",
+      "household finances"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 40,
+    "category": "Economy & Business",
+    "title": "US Tariffs, Trade Deficits & Supply Chain News",
+    "description": "Import duties on foreign goods, bilateral trade agreements, and domestic manufacturing.",
+    "prompt": "Analyze current US trade policy and international tariffs: new duties on imported steel, electronics, or electric vehicles, trade balance with key trading partners, and domestic supply chain reshoring.",
+    "tags": [
+      "tariffs",
+      "trade",
+      "imports",
+      "manufacturing",
+      "supply chain"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 41,
+    "category": "Tech & AI",
+    "title": "Today's Top 10 Tech & AI Headlines",
+    "description": "The biggest product launches, AI model releases, and silicon developments from Silicon Valley.",
+    "prompt": "Provide a comprehensive briefing of the Top 10 tech and artificial intelligence news stories today. Cover new AI models, major software releases, Silicon Valley startup funding, and tech policy debates.",
+    "tags": [
+      "top 10 tech",
+      "artificial intelligence",
+      "silicon valley",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 42,
+    "category": "Tech & AI",
+    "title": "Frontier AI Models: OpenAI, Google & Anthropic",
+    "description": "Benchmark comparisons, reasoning capabilities, and enterprise rollouts of leading LLMs.",
+    "prompt": "Compare the latest generative AI breakthroughs and releases from OpenAI (ChatGPT), Google (Gemini), Anthropic (Claude), and Meta (Llama). Detail improvements in coding, reasoning benchmarks, and multimodality.",
+    "tags": [
+      "chatgpt",
+      "gemini",
+      "claude",
+      "llm",
+      "ai models"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 43,
+    "category": "Tech & AI",
+    "title": "US Semiconductor Industry & CHIPS Act Progress",
+    "description": "Advanced microchip fabrication, fab construction in Ohio & Arizona, and export controls.",
+    "prompt": "Deliver an update on the US semiconductor sector and the federal CHIPS and Science Act: construction status of new mega-fabs by TSMC, Intel, and Samsung in the US, plus advanced chip export regulations.",
+    "tags": [
+      "semiconductors",
+      "chips act",
+      "intel",
+      "tsmc",
+      "microchips"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 44,
+    "category": "Tech & AI",
+    "title": "Cybersecurity Alerts & Federal CISA Advisories",
+    "description": "Zero-day exploits, ransomware campaigns against US infrastructure, and patch advisories.",
+    "prompt": "Summarize the latest critical cybersecurity threats and bulletins from the Cybersecurity and Infrastructure Security Agency (CISA): active zero-day vulnerabilities, major data breaches, and defense recommendations.",
+    "tags": [
+      "cybersecurity",
+      "cisa",
+      "ransomware",
+      "hacks",
+      "data breach"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 45,
+    "category": "Tech & AI",
+    "title": "Antitrust Battles: Big Tech vs DOJ & FTC",
+    "description": "Federal lawsuits regarding search monopolies, app store fees, and cloud acquisitions.",
+    "prompt": "Examine the status of major federal antitrust and monopoly lawsuits filed by the US Department of Justice (DOJ) and FTC against Google, Apple, Amazon, and Meta. What remedies or structural changes are sought?",
+    "tags": [
+      "antitrust",
+      "doj",
+      "ftc",
+      "monopoly",
+      "big tech"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 46,
+    "category": "Tech & AI",
+    "title": "Self-Driving Cars & Robotaxis in US Cities",
+    "description": "Autonomous vehicle fleets, safety incident reports, and commercial expansion of Waymo and Zoox.",
+    "prompt": "Report on the commercial deployment of driverless robotaxis (Waymo, Cruise, Zoox) across US metro areas (San Francisco, Phoenix, Los Angeles, Austin): fleet expansion, safety statistics, and municipal regulatory debates.",
+    "tags": [
+      "robotaxis",
+      "waymo",
+      "autonomous vehicles",
+      "self-driving"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 47,
+    "category": "Tech & AI",
+    "title": "Electric Vehicles (EV) & Charging Infrastructure",
+    "description": "EV sales numbers, Tesla Supercharger network adoption, and federal tax rebate rules.",
+    "prompt": "Analyze the state of the electric vehicle (EV) market in the United States: adoption rates, NACS charging network rollout, federal clean vehicle tax credit rules, and legacy automaker strategy shifts.",
+    "tags": [
+      "electric vehicles",
+      "ev",
+      "tesla",
+      "charging stations"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 48,
+    "category": "Tech & AI",
+    "title": "Commercial Spaceflight: SpaceX, Blue Origin & NASA",
+    "description": "Starship orbital test flights, Artemis lunar missions, and satellite constellations.",
+    "prompt": "Summarize the latest milestones in the US commercial space sector: SpaceX Starship launches, NASA's Artemis moon mission schedule, commercial space stations, and Falcon 9 launch cadence.",
+    "tags": [
+      "space",
+      "spacex",
+      "starship",
+      "nasa",
+      "artemis"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 49,
+    "category": "Tech & AI",
+    "title": "Tech Industry Layoffs & Engineering Hiring Trends",
+    "description": "Workforce restructuring, RTO mandates, and salary trends for software and AI engineers.",
+    "prompt": "Provide an overview of employment conditions in the US technology industry: recent corporate restructuring announcements, return-to-office (RTO) policies, and high-demand roles in artificial intelligence.",
+    "tags": [
+      "tech layoffs",
+      "jobs",
+      "hiring",
+      "salaries",
+      "rto"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 50,
+    "category": "Tech & AI",
+    "title": "Social Media Regulation & Child Online Safety Bills",
+    "description": "Congressional hearings on KOPA, algorithm transparency, and TikTok legislation.",
+    "prompt": "Detail the status of federal and state legislation governing social media: Kids Online Safety Act (KOSA), app store age-verification mandates, and the national security divestment law regarding TikTok.",
+    "tags": [
+      "social media",
+      "kosa",
+      "tiktok",
+      "child safety",
+      "algorithms"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 51,
+    "category": "Politics & Government",
+    "title": "Today's Top 10 Political Headlines",
+    "description": "Comprehensive daily rundown of congressional votes, committee hearings, and campaign news.",
+    "prompt": "Deliver a non-partisan summary of the Top 10 political stories happening across Washington D.C. and the 50 state capitols today. Cover key votes, major speeches, policy rollouts, and campaign trail developments.",
+    "tags": [
+      "top 10 politics",
+      "capitol hill",
+      "congress",
+      "elections",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 52,
+    "category": "Politics & Government",
+    "title": "Latest National & Battleground Election Polling",
+    "description": "Aggregated polling averages, margin of error, and trendlines in swing states.",
+    "prompt": "Synthesize the latest national and swing-state political polling averages (FiveThirtyEight, RealClearPolitics, Emerson, Siena/NYT). What do the numbers show in key battlegrounds like Pennsylvania, Georgia, Michigan, Wisconsin, and Arizona?",
+    "tags": [
+      "polls",
+      "swing states",
+      "elections",
+      "battlegrounds"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 53,
+    "category": "Politics & Government",
+    "title": "Congress: Active Bills, Floor Debates & Votes",
+    "description": "Key legislation moving through the US Senate and House of Representatives this week.",
+    "prompt": "What major legislation is currently on the floor or in key committees of the US Senate and House of Representatives? Detail the bill names, bipartisan sponsors, primary points of contention, and likelihood of passing.",
+    "tags": [
+      "congress",
+      "senate",
+      "house",
+      "legislation",
+      "voting"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 54,
+    "category": "Politics & Government",
+    "title": "Federal Budget, Government Funding & Debt Ceiling",
+    "description": "Continuing resolutions, appropriations bills, and national debt obligations.",
+    "prompt": "Explain the current state of US federal government funding negotiations: deadlines for appropriations bills, risk of government shutdowns, discretionary spending disputes, and national debt growth.",
+    "tags": [
+      "budget",
+      "shutdown",
+      "debt ceiling",
+      "federal spending"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 55,
+    "category": "Politics & Government",
+    "title": "US Immigration & Southern Border Policy Status",
+    "description": "Border patrol encounters, asylum processing rules, and state-federal legal disputes.",
+    "prompt": "Provide a factual, up-to-date briefing on US immigration policy and southern border enforcement: border patrol encounter statistics, executive border security measures, asylum court backlogs, and state legal challenges.",
+    "tags": [
+      "immigration",
+      "border",
+      "asylum",
+      "enforcement"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 56,
+    "category": "Politics & Government",
+    "title": "Campaign Finance & Billionaire Super PAC Tracker",
+    "description": "FEC filings, top individual political donors, and outside spending groups.",
+    "prompt": "Break down recent Federal Election Commission (FEC) disclosures: which candidate campaigns and Super PACs have raised the most cash, who are the top mega-donors, and how is advertising cash being deployed?",
+    "tags": [
+      "campaign finance",
+      "super pac",
+      "fec",
+      "donors"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 57,
+    "category": "Politics & Government",
+    "title": "Federal Court Decisions & Constitutional Injunctions",
+    "description": "District and Appellate rulings on federal regulations, free speech, and voting rights.",
+    "prompt": "Summarize the most significant recent rulings from federal district and circuit courts of appeal concerning federal agency regulations, voting rights procedures, and first amendment constitutional disputes.",
+    "tags": [
+      "federal court",
+      "circuit court",
+      "rulings",
+      "constitution"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 58,
+    "category": "Politics & Government",
+    "title": "State Governors: Notable Bills Signed Into Law",
+    "description": "Sweeping policies enacted by US Governors on taxes, education, and crime.",
+    "prompt": "Highlight the most consequential bills signed into law by US state governors this month: state tax cuts, energy policies, education voucher expansions, and criminal justice measures across red, blue, and purple states.",
+    "tags": [
+      "governors",
+      "state laws",
+      "legislation",
+      "states"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 59,
+    "category": "Politics & Government",
+    "title": "Lobbying & Special Interest Spending on Capitol Hill",
+    "description": "Top lobbying expenditures by defense contractors, healthcare, and energy sectors.",
+    "prompt": "Which corporate sectors and advocacy groups spent the most on federal lobbying this quarter according to Senate lobbying disclosure records? Detail their priority amendments and legislative targets.",
+    "tags": [
+      "lobbying",
+      "special interests",
+      "capitol hill",
+      "spending"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 60,
+    "category": "Politics & Government",
+    "title": "Independent & Third-Party Ballot Access Status",
+    "description": "Where Libertarian, Green, and Independent presidential candidates stand on state ballots.",
+    "prompt": "Provide an overview of third-party and independent candidates: state-by-state ballot certification status, legal signature challenges, current polling averages, and potential electoral college impact.",
+    "tags": [
+      "third party",
+      "independents",
+      "ballot access",
+      "elections"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 61,
+    "category": "Real Estate & Housing",
+    "title": "Today's 30-Year Mortgage Rates & Weekly Forecast",
+    "description": "Freddie Mac primary mortgage survey, 15-year fixed, and rate lock strategy.",
+    "prompt": "What are today's prevailing mortgage rates in the US (30-year fixed, 15-year fixed, FHA, VA)? Explain how recent movements in the 10-year Treasury bond yield and Fed policy are influencing rates this week.",
+    "tags": [
+      "mortgage rates",
+      "30-year fixed",
+      "housing",
+      "interest rates"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 62,
+    "category": "Real Estate & Housing",
+    "title": "US Home Prices & Regional Affordability Index",
+    "description": "Case-Shiller Home Price Index and NAR median home sales numbers.",
+    "prompt": "Analyze the latest National Association of Realtors (NAR) and S&P CoreLogic Case-Shiller reports: where are home prices continuing to hit record highs, and which metropolitan markets are seeing price drops and inventory gains?",
+    "tags": [
+      "home prices",
+      "real estate",
+      "case-shiller",
+      "housing market"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 63,
+    "category": "Real Estate & Housing",
+    "title": "National Rental Market: Median Apartment Rents",
+    "description": "Zillow and Apartment List data on rent growth, vacancies, and landlord concessions.",
+    "prompt": "Report on national and regional apartment rental trends using Apartment List and Zillow data: median rent for 1-bedroom and 2-bedroom units, markets with falling rents due to new construction, and cities where rent continues to climb.",
+    "tags": [
+      "rent",
+      "apartments",
+      "tenants",
+      "landlords"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 64,
+    "category": "Real Estate & Housing",
+    "title": "Realtor Commission Rules: NAR Settlement Impact",
+    "description": "How the elimination of cooperative compensation is altering buyer broker fees.",
+    "prompt": "Explain the practical impact of the National Association of Realtors (NAR) commission settlement: how home buyers and sellers are negotiating buyer-agent commissions, changes to MLS listings, and whether real estate costs are declining.",
+    "tags": [
+      "realtor commission",
+      "nar settlement",
+      "buying a house",
+      "agents"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 65,
+    "category": "Real Estate & Housing",
+    "title": "First-Time Homebuyer Grants & Down Payment Help",
+    "description": "FHA, conventional 3% down programs, and state housing finance agency subsidies.",
+    "prompt": "List the most effective federal and state down payment assistance programs, FHA loan guidelines, and mortgage tax credits available to first-time homebuyers in the US right now.",
+    "tags": [
+      "first time homebuyer",
+      "down payment",
+      "grants",
+      "fha loans"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 66,
+    "category": "Real Estate & Housing",
+    "title": "Homeowners Insurance Crisis & Rate Spikes",
+    "description": "Insurer pullouts in Florida, California, and Louisiana, and rising premiums.",
+    "prompt": "Examine the homeowners insurance crisis across the US: soaring premiums, insurer non-renewals in hurricane and wildfire zones (Florida, California, Gulf Coast), and state FAIR plan solvency.",
+    "tags": [
+      "home insurance",
+      "premiums",
+      "wildfires",
+      "florida insurance"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 67,
+    "category": "Real Estate & Housing",
+    "title": "Commercial Real Estate (CRE) & Office Vacancy Rates",
+    "description": "Office loan defaults, CMBS debt maturities, and conversions to residential apartments.",
+    "prompt": "Provide a report on US Commercial Real Estate (CRE): office building vacancy rates in major downtowns (NYC, Chicago, San Francisco), regional bank loan risk, and office-to-residential redevelopment projects.",
+    "tags": [
+      "commercial real estate",
+      "cre",
+      "office vacancy",
+      "banks"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 68,
+    "category": "Real Estate & Housing",
+    "title": "Wall Street Institutional Landlords & Suburbs",
+    "description": "Private equity purchases of single-family rental homes and tenant complaints.",
+    "prompt": "Investigate the footprint of institutional Wall Street investors (e.g., Invitation Homes, Blackstone) in the single-family housing market. How is institutional buying impacting home prices and starter-home inventory in Sunbelt suburbs?",
+    "tags": [
+      "institutional investors",
+      "single family homes",
+      "private equity",
+      "rentals"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 69,
+    "category": "Real Estate & Housing",
+    "title": "Zoning Reforms & ADU (Granny Flat) Construction",
+    "description": "Cities and states ending single-family zoning and streamlining backyard home permits.",
+    "prompt": "Highlight how US states and cities are adopting pro-housing zoning reforms: eliminating single-family zoning, approving duplexes/fourplexes, reducing parking minimums, and subsidizing Accessory Dwelling Units (ADUs).",
+    "tags": [
+      "zoning",
+      "housing supply",
+      "adu",
+      "urban planning"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 70,
+    "category": "Real Estate & Housing",
+    "title": "Existing Home 'Lock-In Effect' & New Home Sales",
+    "description": "Why homeowners with 3% mortgage rates won't sell, driving buyers to homebuilders.",
+    "prompt": "Explain the mortgage rate 'lock-in effect' keeping US housing inventory historically tight, and how national homebuilders (D.R. Horton, Lennar) are capitalizing by offering mortgage rate buydowns to buyers.",
+    "tags": [
+      "lock-in effect",
+      "homebuilders",
+      "inventory",
+      "mortgage buydown"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 71,
+    "category": "State & Local News",
+    "title": "California News Today: Policy, Economy & Weather",
+    "description": "Sacramento legislative moves, state budget, tech corridor, and water management.",
+    "prompt": "Provide a comprehensive briefing of the top news stories in California today: state legislative actions, budget updates, major tech and business moves, environmental updates, and crime and public safety news.",
+    "tags": [
+      "california",
+      "los angeles",
+      "san francisco",
+      "sacramento",
+      "state news"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 72,
+    "category": "State & Local News",
+    "title": "Texas News Today: Energy, Economy & Border",
+    "description": "Austin statehouse news, ERCOT power grid status, oil sector, and Houston/Dallas growth.",
+    "prompt": "Summarize the top news developments in Texas today: state government policies from Austin, ERCOT power grid conditions, oil and gas sector updates, business relocations, and border security operations.",
+    "tags": [
+      "texas",
+      "houston",
+      "dallas",
+      "austin",
+      "ercot",
+      "state news"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 73,
+    "category": "State & Local News",
+    "title": "Florida News Today: State Policy & Tourism",
+    "description": "Tallahassee legislation, housing and condo insurance, hurricane recovery, and tourism.",
+    "prompt": "Report on the biggest news stories in Florida today: state legislative updates from Tallahassee, condo safety and insurance developments, economic and tourism figures, and local community news.",
+    "tags": [
+      "florida",
+      "miami",
+      "orlando",
+      "tallahassee",
+      "state news"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 74,
+    "category": "State & Local News",
+    "title": "New York News Today: City Hall, Transit & Albany",
+    "description": "NYC transit funding, NYPD crime statistics, housing developments, and Albany bills.",
+    "prompt": "Deliver the latest news roundup for New York State and New York City: MTA transit news, City Hall policy debates, local economic and housing initiatives, and major statehouse actions in Albany.",
+    "tags": [
+      "new york",
+      "nyc",
+      "albany",
+      "mta",
+      "state news"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 75,
+    "category": "State & Local News",
+    "title": "Midwest & Rust Belt Manufacturing News",
+    "description": "Automotive, steel, and clean tech manufacturing across Michigan, Ohio, and Pennsylvania.",
+    "prompt": "What are the latest business, manufacturing, and political developments across the Midwest (Ohio, Michigan, Pennsylvania, Illinois, Wisconsin)? Highlight EV battery investments, factory expansions, and union labor news.",
+    "tags": [
+      "midwest",
+      "rust belt",
+      "manufacturing",
+      "michigan",
+      "ohio"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 76,
+    "category": "State & Local News",
+    "title": "Interstate Domestic Migration & Tax Competitiveness",
+    "description": "Census data on Americans moving to low-tax states and impact on local economies.",
+    "prompt": "Analyze US domestic migration trends using US Census Bureau and moving company data: which states are gaining the most new residents (Texas, Florida, Carolinas), which states are losing population, and the economic drivers.",
+    "tags": [
+      "migration",
+      "population",
+      "state taxes",
+      "moving"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 77,
+    "category": "State & Local News",
+    "title": "Western States Water Rights & Colorado River Crisis",
+    "description": "Reservoir levels at Lake Mead & Lake Powell and 7-state basin negotiations.",
+    "prompt": "Explain the current status of Colorado River water allocations among Western states (Arizona, Nevada, California, Utah, Colorado): reservoir storage at Lake Mead, agricultural water cuts, and federal Bureau of Reclamation directives.",
+    "tags": [
+      "water crisis",
+      "colorado river",
+      "lake mead",
+      "western states",
+      "drought"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 78,
+    "category": "State & Local News",
+    "title": "Local Crime Statistics & Urban Safety Trends",
+    "description": "FBI national crime database and police department reports on violent and property crime.",
+    "prompt": "Provide an objective analysis of current urban crime trends across major US metropolitan areas using official police department data and FBI statistics: violent crime changes, retail theft measures, and community policing initiatives.",
+    "tags": [
+      "crime",
+      "safety",
+      "police",
+      "fbi",
+      "urban"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 79,
+    "category": "State & Local News",
+    "title": "State Income Taxes & 2024-2025 Tax Reform Bills",
+    "description": "States eliminating individual income taxes and adjusting bracket deductions.",
+    "prompt": "Review recent state tax policy changes: which US states are actively reducing or flattening their personal income taxes, state sales tax holidays, and property tax relief measures enacted this legislative session.",
+    "tags": [
+      "state taxes",
+      "tax cuts",
+      "property tax",
+      "revenue"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 80,
+    "category": "State & Local News",
+    "title": "K-12 Education & School Choice Voucher Programs",
+    "description": "State voucher funding, teacher pay raises, and public school district budgets.",
+    "prompt": "Detail how universal school choice and education savings account (ESA) voucher programs are operating in states like Arizona, Iowa, Florida, and Ohio, including public school budget impacts and parental enrollment numbers.",
+    "tags": [
+      "education",
+      "school vouchers",
+      "teachers",
+      "public schools"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 81,
+    "category": "Weather & Climate",
+    "title": "Today's Severe Weather Warnings & Radar Alerts",
+    "description": "Active National Weather Service tornado watches, severe thunderstorms, and flood alerts.",
+    "prompt": "Summarize all active severe weather warnings issued by the National Weather Service (NWS) across the United States today. Detail regions facing tornado risks, flash flooding, severe hail, or damaging wind gusts.",
+    "tags": [
+      "severe weather",
+      "tornadoes",
+      "nws",
+      "flash flood",
+      "radar"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 82,
+    "category": "Weather & Climate",
+    "title": "Atlantic & Gulf Hurricane Season Tracker",
+    "description": "National Hurricane Center tropical storm forecasts, cone of uncertainty, and sea temperatures.",
+    "prompt": "Provide the latest National Hurricane Center (NHC) tropical weather outlook: active tropical storms or hurricanes in the Atlantic, Caribbean, or Gulf of Mexico, sea surface temperatures, and potential landfall threats to the US coast.",
+    "tags": [
+      "hurricane",
+      "nhc",
+      "tropical storm",
+      "gulf coast"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 83,
+    "category": "Weather & Climate",
+    "title": "US Wildfire Incidents & Air Quality Smoke Maps",
+    "description": "National Interagency Fire Center containment stats and EPA AirNow smoke plumes.",
+    "prompt": "Report on active wildfire activity across the United States using National Interagency Fire Center (NIFC) and EPA AirNow data: acres burned, evacuation orders, containment percentages, and smoke air quality alerts.",
+    "tags": [
+      "wildfires",
+      "air quality",
+      "smoke",
+      "epa airnow"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 84,
+    "category": "Weather & Climate",
+    "title": "Extreme Heat Waves & Urban Cooling Operations",
+    "description": "Heat index records, municipal emergency cooling shelters, and worker safety rules.",
+    "prompt": "Examine extreme heat advisories and heat domes affecting the United States: record high temperatures, heat index readings, municipal cooling center activations, and OSHA heat safety guidelines for outdoor workers.",
+    "tags": [
+      "heat wave",
+      "extreme heat",
+      "heat dome",
+      "cooling centers"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 85,
+    "category": "Weather & Climate",
+    "title": "Winter Blizzards, Arctic Blasts & Road Conditions",
+    "description": "Snow accumulations, freezing rain, road closures, and power outages.",
+    "prompt": "Summarize major winter storm systems and arctic cold outbreaks impacting the US: anticipated snowfall totals, icy road conditions, airline flight cancellation numbers, and electrical grid winter readiness.",
+    "tags": [
+      "winter storm",
+      "blizzard",
+      "snow",
+      "ice",
+      "arctic blast"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 86,
+    "category": "Weather & Climate",
+    "title": "US Electrical Grid Readiness for Seasonal Demand",
+    "description": "NERC seasonal reliability assessments, blackout risks, and peak electricity loads.",
+    "prompt": "Analyze the reliability of regional US electrical power grids (PJM, ERCOT, MISO, CAISO) under seasonal peak power demand. Are blackout risks heightened by thermal plant retirements or surging AI data center power usage?",
+    "tags": [
+      "power grid",
+      "blackout",
+      "electricity",
+      "ercot",
+      "nerc"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 87,
+    "category": "Weather & Climate",
+    "title": "FEMA Disaster Declarations & Federal Aid Delivery",
+    "description": "Approved major disaster declarations, emergency individual assistance, and rebuild grants.",
+    "prompt": "Detail recently declared federal major disaster declarations by FEMA: which counties are eligible for individual assistance grants, emergency housing support, and SBA low-interest disaster loan funding.",
+    "tags": [
+      "fema",
+      "disaster relief",
+      "federal aid",
+      "emergency"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 88,
+    "category": "Weather & Climate",
+    "title": "National Drought Monitor & Agricultural Crop Impact",
+    "description": "US Drought Monitor status, soil moisture, and impact on corn, wheat, and cattle herds.",
+    "prompt": "Review the latest US Drought Monitor map and USDA crop condition reports: which agricultural regions (Midwest, High Plains, West) are experiencing severe or extreme drought, and the impact on grain yields and beef cattle prices.",
+    "tags": [
+      "drought",
+      "agriculture",
+      "crops",
+      "farming",
+      "usda"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 89,
+    "category": "Weather & Climate",
+    "title": "Renewable Energy Growth: Wind, Solar & Battery Storage",
+    "description": "New gigawatt capacity additions, clean energy subsidies, and grid interconnections.",
+    "prompt": "Summarize the latest Energy Information Administration (EIA) data on US clean energy deployment: new utility-scale solar and battery storage installations, wind power generation records, and transmission line approval timelines.",
+    "tags": [
+      "renewable energy",
+      "solar",
+      "wind power",
+      "batteries",
+      "clean energy"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 90,
+    "category": "Weather & Climate",
+    "title": "Nuclear Energy Renaissance in the United States",
+    "description": "Small Modular Reactors (SMRs), plant restarts, and federal subsidies for carbon-free power.",
+    "prompt": "Explain the growing bipartisan revival of nuclear energy in the US: plans to restart shuttered nuclear power plants (Palisades, Three Mile Island), Big Tech partnerships for clean computing power, and NRC licensing for Small Modular Reactors (SMRs).",
+    "tags": [
+      "nuclear energy",
+      "smr",
+      "clean energy",
+      "power plants"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 91,
+    "category": "Entertainment & Culture",
+    "title": "Today's Top 10 Entertainment Headlines",
+    "description": "Hollywood box office, new streaming movie premieres, celebrity news, and music charts.",
+    "prompt": "Provide a lively summary of the Top 10 entertainment, pop culture, and media stories today in America: weekend box office receipts, trending streaming releases (Netflix, Disney+, Max), music chart records, and Hollywood news.",
+    "tags": [
+      "top 10 entertainment",
+      "hollywood",
+      "movies",
+      "streaming",
+      "today"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 92,
+    "category": "Entertainment & Culture",
+    "title": "Weekend Box Office & Theatrical Recovery",
+    "description": "Domestic box office numbers, top grossing films, and cinema chain performance.",
+    "prompt": "Break down the domestic box office performance for this weekend: top 5 highest-grossing films, per-theater averages, budget recovery comparisons, and overall theatrical industry health.",
+    "tags": [
+      "box office",
+      "movies",
+      "theaters",
+      "cinema"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 93,
+    "category": "Entertainment & Culture",
+    "title": "Streaming Wars: Netflix, Disney+, Max & Prime Video",
+    "description": "Subscriber growth, ad-supported tier pricing, password sharing crackdown, and hit shows.",
+    "prompt": "Analyze the current state of streaming television services: subscriber numbers, price hikes on ad-free tiers, bundle deals between rivals, and the most watched streaming series this week (Nielsen ratings).",
+    "tags": [
+      "streaming",
+      "netflix",
+      "disney plus",
+      "hbo max",
+      "tv shows"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 94,
+    "category": "Entertainment & Culture",
+    "title": "Billboard Hot 100 & Mega Stadium Concert Tours",
+    "description": "Top songs, viral streaming tracks, and blockbuster stadium tour economics.",
+    "prompt": "Report on the US music industry this week: Billboard Hot 100 top 10 songs, biggest new album debuts, and the massive economic impact of stadium concert tours across host cities.",
+    "tags": [
+      "music",
+      "billboard hot 100",
+      "concerts",
+      "albums"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 95,
+    "category": "Entertainment & Culture",
+    "title": "Video Game Industry News & Major Studio Releases",
+    "description": "New game launches on PlayStation, Xbox, and PC, alongside studio acquisition news.",
+    "prompt": "Summarize major news in the US gaming and interactive entertainment industry: blockbuster game launches, critical review scores, hardware sales (PS5, Xbox, Nintendo Switch), and game developer developments.",
+    "tags": [
+      "video games",
+      "gaming",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 96,
+    "category": "Entertainment & Culture",
+    "title": "Fact-Check: Viral Internet Rumor or Claim",
+    "description": "Unpack a viral claim circulating on TikTok, X (Twitter), or Facebook with verified evidence.",
+    "prompt": "Conduct a thorough, non-partisan fact check of the most widely shared political or social rumor trending on American social media today. Break down what is true, what is false, and what is misleading, quoting verified official sources.",
+    "tags": [
+      "fact check",
+      "debunk",
+      "viral claim",
+      "misinformation"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 97,
+    "category": "Entertainment & Culture",
+    "title": "Deep Investigative Journalism Spotlight",
+    "description": "Summary of recent Pulitzer-caliber investigative exposés from major US newsrooms.",
+    "prompt": "Summarize the most significant investigative journalism exposé published this week by major US investigative outlets (e.g., ProPublica, The Marshall Project, Washington Post, WSJ). What wrongdoing was uncovered and what reforms are called for?",
+    "tags": [
+      "investigative",
+      "propublica",
+      "journalism",
+      "exposé"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 98,
+    "category": "Entertainment & Culture",
+    "title": "Consumer Product Safety & Fraud Alert",
+    "description": "Consumer alerts on FTC fraud warnings, phone scams, and unsafe household products.",
+    "prompt": "Report on recent federal consumer protection advisories from the Federal Trade Commission (FTC) and Consumer Product Safety Commission (CPSC): trending phone/AI voice scams, counterfeit online goods, and dangerous product recalls.",
+    "tags": [
+      "consumer protection",
+      "scams",
+      "ftc",
+      "fraud",
+      "safety"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 99,
+    "category": "Entertainment & Culture",
+    "title": "Book Publishing, Bestsellers & Literary Debates",
+    "description": "New York Times bestseller list highlights, major biographies, and book awards.",
+    "prompt": "What are the biggest stories in American book publishing: the latest New York Times Non-Fiction and Fiction bestsellers, high-profile political memoirs, and discussions around library collections and literary prizes.",
+    "tags": [
+      "books",
+      "bestsellers",
+      "nyt bestseller",
+      "literature"
+    ],
+    "icon": "ic_newspaper"
+  },
+  {
+    "id": 100,
+    "category": "Entertainment & Culture",
+    "title": "Cultural Trends & What Americans Are Talking About",
+    "description": "A cultural snapshot of trending phenomena, viral conversations, and lifestyle shifts.",
+    "prompt": "Provide an insightful cultural pulse check of America this week: what viral debates, lifestyle shifts, workplace habits, or generational cultural discussions are dominating dinner tables, podcasts, and digital watercoolers?",
+    "tags": [
+      "culture",
+      "trends",
+      "lifestyle",
+      "podcasts",
+      "viral"
+    ],
+    "icon": "ic_newspaper"
+  }
+]

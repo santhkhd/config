@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Top Australia Newspapers",
+    "type": "newspapers",
+    "items": [
+      {
+        "title": "The Sydney Morning Herald",
+        "provider": "web",
+        "arguments": [
+          "https://www.smh.com.au"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smh.com.au",
+        "year": "New South Wales",
+        "genre": "Sydney",
+        "rating": "AU"
+      },
+      {
+        "title": "The Daily Telegraph",
+        "provider": "web",
+        "arguments": [
+          "https://www.dailytelegraph.com.au"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.dailytelegraph.com.au",
+        "year": "New South Wales",
+        "genre": "Sydney",
+        "rating": "AU"
+      },
+      {
+        "title": "The Australian",
+        "provider": "web",
+        "arguments": [
+          "https://www.theaustralian.com.au"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theaustralian.com.au",
+        "year": "New South Wales",
+        "genre": "National/Sydney",
+        "rating": "AU"
+      },
+      {
+        "title": "Newcastle Herald",
+        "provider": "web",
+        "arguments": [
+          "https://www.newcastleherald.com.au"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.newcastleherald.com.au",
+        "year": "New South Wales",
+        "genre": "Newcastle",
+        "rating": "AU"
+      },
+      {
+        "title": "The Age",
+        "provider": "web",
+        "arguments": [
+          "https://www.theage.com.au"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theage.com.au",
+        "year": "Victoria",
+        "genre": "Melbourne",
+        "rating": "AU"
+      },
+      {
+        "title": "Herald Sun",
+        "provider": "web",
+        "arguments": [
+          "https://www.heraldsun.com.au"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.heraldsun.com.au",
+        "year": "Victoria",
+        "genre": "Melbourne",
+        "rating": "AU"
+      }
+    ]
+  },
+  {
+    "title": "Newspapers by State & Territory",
+    "type": "states",
+    "items": [
+      {
+        "title": "🌊 New South Wales",
+        "provider": "overview",
+        "arguments": [
+          "states/new_south_wales.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smh.com.au",
+        "year": "Sydney",
+        "genre": "4 Newspapers",
+        "rating": "AU"
+      },
+      {
+        "title": "☕ Victoria",
+        "provider": "overview",
+        "arguments": [
+          "states/victoria.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theage.com.au",
+        "year": "Melbourne",
+        "genre": "3 Newspapers",
+        "rating": "AU"
+      },
+      {
+        "title": "☀️ Queensland",
+        "provider": "overview",
+        "arguments": [
+          "states/queensland.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=www.couriermail.com.au",
+        "year": "Brisbane",
+        "genre": "3 Newspapers",
+        "rating": "AU"
+      },
+      {
+        "title": "🌅 Western Australia",
+        "provider": "overview",
+        "arguments": [
+          "states/western_australia.json"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=thewest.com.au",
+        "year": "Perth",
+        "genre": "2 Newspapers",
+        "rating": "AU"
+      }
+    ]
+  },
+  {
+    "title": "24/7 Live Radio",
+    "type": "radio",
+    "items": [
+      {
+        "title": "ABC NewsRadio",
+        "url": "http://live-radio01.mediahubaustralia.com/PBW/mp3/",
+        "freq": "National",
+        "genre": "News"
+      },
+      {
+        "title": "2GB 873 AM Sydney",
+        "url": "https://stream.2gb.com/2gb",
+        "freq": "873 AM",
+        "genre": "Talk"
+      },
+      {
+        "title": "3AW 693 Melbourne",
+        "url": "https://stream.3aw.com.au/3aw",
+        "freq": "693 AM",
+        "genre": "Talk"
+      },
+      {
+        "title": "Triple M Sydney",
+        "url": "https://sc01.scstream.net/triplem_syd",
+        "freq": "104.9 FM",
+        "genre": "Rock"
+      }
+    ]
+  },
+  {
+    "title": "Live Video News",
+    "type": "video",
+    "items": [
+      {
+        "title": "ABC News Australia Live",
+        "channel_id": "UCsW3i6q2bX8c9L7G0sK5F_g",
+        "type": "channel"
+      },
+      {
+        "title": "Sky News Australia",
+        "channel_id": "UCO0akfuU_lOSYESeEEVnqrA",
+        "type": "channel"
+      }
+    ]
+  }
+]

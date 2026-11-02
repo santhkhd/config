@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ABC NewsRadio",
+    "url": "http://live-radio01.mediahubaustralia.com/PBW/mp3/",
+    "freq": "National",
+    "genre": "News"
+  },
+  {
+    "title": "2GB 873 AM Sydney",
+    "url": "https://stream.2gb.com/2gb",
+    "freq": "873 AM",
+    "genre": "Talk"
+  },
+  {
+    "title": "3AW 693 Melbourne",
+    "url": "https://stream.3aw.com.au/3aw",
+    "freq": "693 AM",
+    "genre": "Talk"
+  },
+  {
+    "title": "Triple M Sydney",
+    "url": "https://sc01.scstream.net/triplem_syd",
+    "freq": "104.9 FM",
+    "genre": "Rock"
+  }
+]

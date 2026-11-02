@@ -1,0 +1,145 @@
+[
+  {
+    "title": "The Australian",
+    "provider": "web",
+    "arguments": [
+      "https://www.theaustralian.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theaustralian.com.au",
+    "year": "Est. 1964",
+    "genre": "Australia's National Broadsheet",
+    "rating": "5.0"
+  },
+  {
+    "title": "ABC News Australia",
+    "provider": "web",
+    "arguments": [
+      "https://www.abc.net.au/news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abc.net.au",
+    "year": "Est. 1932",
+    "genre": "National Public Broadcaster",
+    "rating": "5.0"
+  },
+  {
+    "title": "The Sydney Morning Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.smh.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=smh.com.au",
+    "year": "Est. 1831",
+    "genre": "Australia's Oldest Daily Newspaper",
+    "rating": "4.9"
+  },
+  {
+    "title": "The Age",
+    "provider": "web",
+    "arguments": [
+      "https://www.theage.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theage.com.au",
+    "year": "Est. 1854",
+    "genre": "Melbourne & Victoria Leading Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Australian Financial Review",
+    "provider": "web",
+    "arguments": [
+      "https://www.afr.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=afr.com",
+    "year": "Est. 1951",
+    "genre": "Premier Business & Finance Daily",
+    "rating": "4.9"
+  },
+  {
+    "title": "News.com.au",
+    "provider": "web",
+    "arguments": [
+      "https://www.news.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=news.com.au",
+    "year": "Est. 1996",
+    "genre": "Australia's Leading Digital News",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Daily Telegraph Sydney",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailytelegraph.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailytelegraph.com.au",
+    "year": "Est. 1879",
+    "genre": "Sydney & NSW News",
+    "rating": "4.6"
+  },
+  {
+    "title": "Herald Sun Melbourne",
+    "provider": "web",
+    "arguments": [
+      "https://www.heraldsun.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=heraldsun.com.au",
+    "year": "Est. 1990",
+    "genre": "Melbourne & Victoria Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "The Courier-Mail",
+    "provider": "web",
+    "arguments": [
+      "https://www.couriermail.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=couriermail.com.au",
+    "year": "Est. 1933",
+    "genre": "Queensland & Brisbane Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "The West Australian",
+    "provider": "web",
+    "arguments": [
+      "https://thewest.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewest.com.au",
+    "year": "Est. 1833",
+    "genre": "Perth & Western Australia News",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.adelaidenow.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=adelaidenow.com.au",
+    "year": "Est. 1858",
+    "genre": "South Australia Daily",
+    "rating": "4.6"
+  },
+  {
+    "title": "The Canberra Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.canberratimes.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=canberratimes.com.au",
+    "year": "Est. 1926",
+    "genre": "National Capital Daily",
+    "rating": "4.7"
+  },
+  {
+    "title": "SBS News Australia",
+    "provider": "web",
+    "arguments": [
+      "https://www.sbs.com.au/news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sbs.com.au",
+    "year": "Est. 1980",
+    "genre": "Multicultural World & National News",
+    "rating": "4.8"
+  }
+]

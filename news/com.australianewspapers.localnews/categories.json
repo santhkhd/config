@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "National Flagship Press",
+    "icon": "ic_newspaper",
+    "count": 3
+  },
+  {
+    "id": 2,
+    "name": "Digital & Online Portals",
+    "icon": "ic_newspaper",
+    "count": 2
+  },
+  {
+    "id": 3,
+    "name": "Regional & City Press",
+    "icon": "ic_newspaper",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Business & Finance",
+    "icon": "ic_newspaper",
+    "count": 1
+  },
+  {
+    "id": 5,
+    "name": "Sports Media",
+    "icon": "ic_newspaper",
+    "count": 1
+  }
+]

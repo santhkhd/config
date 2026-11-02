@@ -1,0 +1,13 @@
+[
+  {
+    "title": "The Advertiser",
+    "provider": "web",
+    "arguments": [
+      "https://www.adelaidenow.com.au"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.adelaidenow.com.au",
+    "year": "South Australia",
+    "genre": "Adelaide",
+    "rating": "AU"
+  }
+]

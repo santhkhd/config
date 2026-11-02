@@ -1,0 +1,79 @@
+[
+  {
+    "title": "🗺️ All 6 States (All Newspapers)",
+    "provider": "overview",
+    "arguments": [
+      "states/all_states.json"
+    ],
+    "image": "https://img.icons8.com/color/144/map-marker.png",
+    "year": "6 States",
+    "genre": "14 Newspapers",
+    "rating": "ALL"
+  },
+  {
+    "title": "🌊 New South Wales",
+    "provider": "overview",
+    "arguments": [
+      "states/new_south_wales.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.smh.com.au",
+    "year": "Sydney",
+    "genre": "4 Newspapers",
+    "rating": "AU"
+  },
+  {
+    "title": "☕ Victoria",
+    "provider": "overview",
+    "arguments": [
+      "states/victoria.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.theage.com.au",
+    "year": "Melbourne",
+    "genre": "3 Newspapers",
+    "rating": "AU"
+  },
+  {
+    "title": "☀️ Queensland",
+    "provider": "overview",
+    "arguments": [
+      "states/queensland.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.couriermail.com.au",
+    "year": "Brisbane",
+    "genre": "3 Newspapers",
+    "rating": "AU"
+  },
+  {
+    "title": "🌅 Western Australia",
+    "provider": "overview",
+    "arguments": [
+      "states/western_australia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewest.com.au",
+    "year": "Perth",
+    "genre": "2 Newspapers",
+    "rating": "AU"
+  },
+  {
+    "title": "🍷 South Australia",
+    "provider": "overview",
+    "arguments": [
+      "states/south_australia.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.adelaidenow.com.au",
+    "year": "Adelaide",
+    "genre": "1 Newspapers",
+    "rating": "AU"
+  },
+  {
+    "title": "🏛️ Australian Capital Territory",
+    "provider": "overview",
+    "arguments": [
+      "states/act.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=www.canberratimes.com.au",
+    "year": "Canberra",
+    "genre": "1 Newspapers",
+    "rating": "AU"
+  }
+]

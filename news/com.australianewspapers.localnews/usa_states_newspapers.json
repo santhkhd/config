@@ -1,0 +1,101 @@
+[
+  {
+    "title": "\ud83c\udf10 All States & Territories (Australia All News)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://img.icons8.com/color/144/australia.png",
+    "year": "National Network",
+    "genre": "13 Top Newspapers",
+    "rating": "All"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f New South Wales (Sydney)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=smh.com.au",
+    "year": "Regional Coverage",
+    "genre": "36 Newspapers",
+    "rating": "NSW"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Victoria (Melbourne)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=theage.com.au",
+    "year": "Regional Coverage",
+    "genre": "32 Newspapers",
+    "rating": "VIC"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Queensland (Brisbane)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=couriermail.com.au",
+    "year": "Regional Coverage",
+    "genre": "28 Newspapers",
+    "rating": "QLD"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Western Australia (Perth)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thewest.com.au",
+    "year": "Regional Coverage",
+    "genre": "22 Newspapers",
+    "rating": "WA"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f South Australia (Adelaide)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=adelaidenow.com.au",
+    "year": "Regional Coverage",
+    "genre": "18 Newspapers",
+    "rating": "SA"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Tasmania (Hobart)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=themercury.com.au",
+    "year": "Regional Coverage",
+    "genre": "12 Newspapers",
+    "rating": "TAS"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Australian Capital Territory",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=canberratimes.com.au",
+    "year": "Regional Coverage",
+    "genre": "10 Newspapers",
+    "rating": "ACT"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Northern Territory (Darwin)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ntnews.com.au",
+    "year": "Regional Coverage",
+    "genre": "8 Newspapers",
+    "rating": "NT"
+  }
+]
