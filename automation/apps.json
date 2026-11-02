@@ -94,7 +94,6 @@
       22
     ]
   },
-    ,
   {
     "app_id": "zimbabwenewspaperslist2022_appqeg",
     "name": "Zimbabwe Newspapers & Radio",
@@ -115,11 +114,11 @@
       "ZBC News",
       "263Chat"
     ]
-  }
+  },
   {
     "app_id": "com_uknewsnow_localnews",
     "name": "UK News Now & Weather",
-    "folder": "news/ccom.uknewsnow.localnews",
+    "folder": "news/com.uknewsnow.localnews",
     "fcm_topic": "uknews_weather_topic",
     "accent_color": "FF0284C7",
     "emoji": "🇬🇧",
@@ -128,27 +127,6 @@
     "active_hours": [
       8,
       22
-    ]
-  },
-  {
-    "app_id": "zimbabwenewspaperslist2022_appqeg",
-    "name": "Zimbabwe Newspapers & Radio",
-    "folder": "news/zimbabwenewspaperslist2022.appqeg",
-    "fcm_topic": "zimbabwe_news_topic",
-    "accent_color": "FF006400",
-    "emoji": "🇿🇼",
-    "daily_limit": 5,
-    "min_gap_hours": 2,
-    "active_hours": [
-      8,
-      22
-    ],
-    "priority_channels": [
-      "The Herald",
-      "NewsDay",
-      "Daily News",
-      "ZBC News",
-      "263Chat"
     ]
   },
   {
