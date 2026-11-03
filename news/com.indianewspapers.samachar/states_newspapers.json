@@ -1,0 +1,107 @@
+[
+  {
+    "title": "🏛️ National / New Delhi (NCR)",
+    "subtitle": "New Delhi • National Capital Region",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+    "url": "states/delhi.json",
+    "count": 10
+  },
+  {
+    "title": "🏙️ Maharashtra",
+    "subtitle": "Mumbai • Financial & Media Capital",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=lokmat.com",
+    "url": "states/maharashtra.json",
+    "count": 8
+  },
+  {
+    "title": "🏰 Karnataka",
+    "subtitle": "Bengaluru • Silicon Valley of India",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=prajavani.net",
+    "url": "states/karnataka.json",
+    "count": 7
+  },
+  {
+    "title": "🏛️ Tamil Nadu",
+    "subtitle": "Chennai • Gateway of South India",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=dailythanthi.com",
+    "url": "states/tamil_nadu.json",
+    "count": 8
+  },
+  {
+    "title": "🛕 Uttar Pradesh",
+    "subtitle": "Lucknow • Heart of Hindi Heartland",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=amarujala.com",
+    "url": "states/uttar_pradesh.json",
+    "count": 5
+  },
+  {
+    "title": "🎭 West Bengal",
+    "subtitle": "Kolkata • City of Joy & Cultural Hub",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=anandabazar.com",
+    "url": "states/west_bengal.json",
+    "count": 6
+  },
+  {
+    "title": "🪔 Gujarat",
+    "subtitle": "Ahmedabad • Enterprise & Industrial Hub",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=gujaratsamachar.com",
+    "url": "states/gujarat.json",
+    "count": 5
+  },
+  {
+    "title": "🌴 Kerala",
+    "subtitle": "Thiruvananthapuram • God's Own Country",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com",
+    "url": "states/kerala.json",
+    "count": 6
+  },
+  {
+    "title": "🌾 Telangana & Andhra Pradesh",
+    "subtitle": "Hyderabad • Cyberabad & Telugu Heartlands",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=eenadu.net",
+    "url": "states/telangana_andhra.json",
+    "count": 7
+  },
+  {
+    "title": "⚔️ Punjab & Haryana",
+    "subtitle": "Chandigarh • Land of Five Rivers",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=ajitjalandhar.com",
+    "url": "states/punjab_haryana.json",
+    "count": 5
+  },
+  {
+    "title": "🏰 Rajasthan",
+    "subtitle": "Jaipur • Land of Forts & Palaces",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "url": "states/rajasthan.json",
+    "count": 4
+  },
+  {
+    "title": "🏞️ Bihar & Jharkhand",
+    "subtitle": "Patna • Ancient Magadha & Mineral Capital",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=prabhatkhabar.com",
+    "url": "states/bihar_jharkhand.json",
+    "count": 4
+  },
+  {
+    "title": "🐅 Madhya Pradesh & Chhattisgarh",
+    "subtitle": "Bhopal • Heart of India",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "url": "states/madhya_pradesh.json",
+    "count": 4
+  },
+  {
+    "title": "🛕 Odisha",
+    "subtitle": "Bhubaneswar • Temple City & Coast",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=sambad.in",
+    "url": "states/odisha.json",
+    "count": 5
+  },
+  {
+    "title": "🦏 Assam & North East",
+    "subtitle": "Guwahati • Seven Sisters Gateway",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=asomiyapratidin.in",
+    "url": "states/assam_northeast.json",
+    "count": 6
+  }
+]

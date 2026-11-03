@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Anandabazar Patrika",
+    "provider": "web",
+    "arguments": [
+      "https://www.anandabazar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=anandabazar.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Bartaman",
+    "provider": "web",
+    "arguments": [
+      "https://bartamanpatrika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bartamanpatrika.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Ei Samay",
+    "provider": "web",
+    "arguments": [
+      "https://eisamay.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eisamay.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Sangbad Pratidin",
+    "provider": "web",
+    "arguments": [
+      "https://www.sangbadpratidin.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sangbadpratidin.in",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Aajkaal",
+    "provider": "web",
+    "arguments": [
+      "https://aajkaal.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aajkaal.in",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Dainik Jugasankha",
+    "provider": "web",
+    "arguments": [
+      "https://jugasankha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jugasankha.com",
+    "year": "Assam",
+    "genre": "Silchar",
+    "rating": "Bengali"
+  }
+]

@@ -169,5 +169,26 @@
       "Financial Post",
       "Ottawa Citizen"
     ]
+  },
+  {
+    "app_id": "india_app",
+    "name": "India News & Live Radio",
+    "folder": "news/com.indianewspapers.samachar",
+    "fcm_topic": "india_news_topic",
+    "accent_color": "FFEA580C",
+    "emoji": "🇮🇳",
+    "daily_limit": 5,
+    "min_gap_hours": 2,
+    "active_hours": [
+      8,
+      22
+    ],
+    "priority_channels": [
+      "Aaj Tak",
+      "India Today",
+      "NDTV",
+      "ABP News",
+      "DD News"
+    ]
   }
 ]

@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Dina Thanthi",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailythanthi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailythanthi.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Dinamalar",
+    "provider": "web",
+    "arguments": [
+      "https://www.dinamalar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dinamalar.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Dinakaran",
+    "provider": "web",
+    "arguments": [
+      "https://www.dinakaran.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dinakaran.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "The Hindu Tamil",
+    "provider": "web",
+    "arguments": [
+      "https://www.hindutamil.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hindutamil.in",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Dinamani",
+    "provider": "web",
+    "arguments": [
+      "https://www.dinamani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dinamani.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Malai Malar",
+    "provider": "web",
+    "arguments": [
+      "https://www.maalaimalar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maalaimalar.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Puthiya Thalaimurai",
+    "provider": "web",
+    "arguments": [
+      "https://www.puthiyathalaimurai.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=puthiyathalaimurai.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  }
+]

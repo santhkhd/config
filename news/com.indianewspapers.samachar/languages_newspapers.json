@@ -1,0 +1,72 @@
+[
+  {
+    "title": "🇮🇳 Hindi (हिन्दी)",
+    "subtitle": "500M+ Readers • 15 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "url": "languages/hindi.json",
+    "count": 15
+  },
+  {
+    "title": "🌐 English",
+    "subtitle": "National & Global • 10 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+    "url": "languages/english.json",
+    "count": 10
+  },
+  {
+    "title": "🏛️ Tamil (தமிழ்)",
+    "subtitle": "Tamil Nadu & Diaspora • 7 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=dailythanthi.com",
+    "url": "languages/tamil.json",
+    "count": 7
+  },
+  {
+    "title": "🌾 Telugu (తెలుగు)",
+    "subtitle": "Telangana & Andhra • 6 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=eenadu.net",
+    "url": "languages/telugu.json",
+    "count": 6
+  },
+  {
+    "title": "🌴 Malayalam (മലയാളം)",
+    "subtitle": "Kerala & Gulf NRI • 6 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com",
+    "url": "languages/malayalam.json",
+    "count": 6
+  },
+  {
+    "title": "🏰 Kannada (ಕನ್ನಡ)",
+    "subtitle": "Karnataka • 6 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=prajavani.net",
+    "url": "languages/kannada.json",
+    "count": 6
+  },
+  {
+    "title": "🎭 Bengali (বাংলা)",
+    "subtitle": "Bengal & Tripura • 6 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=anandabazar.com",
+    "url": "languages/bengali.json",
+    "count": 6
+  },
+  {
+    "title": "🦁 Marathi (मराठी)",
+    "subtitle": "Maharashtra • 6 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=lokmat.com",
+    "url": "languages/marathi.json",
+    "count": 6
+  },
+  {
+    "title": "🪔 Gujarati (ગુજરાતી)",
+    "subtitle": "Gujarat & Business • 5 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=gujaratsamachar.com",
+    "url": "languages/gujarati.json",
+    "count": 5
+  },
+  {
+    "title": "⚔️ Punjabi (ਪੰਜਾਬੀ)",
+    "subtitle": "Punjab & Global NRI • 4 Dailies",
+    "icon": "https://www.google.com/s2/favicons?sz=128&domain=ajitjalandhar.com",
+    "url": "languages/punjabi.json",
+    "count": 4
+  }
+]

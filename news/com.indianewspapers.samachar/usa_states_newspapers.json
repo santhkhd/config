@@ -1,0 +1,123 @@
+[
+  {
+    "title": "\ud83c\udf10 India All News",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://img.icons8.com/color/144/india.png",
+    "year": "National Network",
+    "genre": "12 Top Newspapers",
+    "rating": "All"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f National Capital Region (Delhi NCR)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hindustantimes.com",
+    "year": "Regional Coverage",
+    "genre": "38 Newspapers",
+    "rating": "DL"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Maharashtra (Mumbai/Pune)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+    "year": "Regional Coverage",
+    "genre": "34 Newspapers",
+    "rating": "MH"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Karnataka (Bengaluru)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deccanherald.com",
+    "year": "Regional Coverage",
+    "genre": "28 Newspapers",
+    "rating": "KA"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Tamil Nadu (Chennai)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehindu.com",
+    "year": "Regional Coverage",
+    "genre": "30 Newspapers",
+    "rating": "TN"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Kerala (Kochi/Thiruvananthapuram)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com",
+    "year": "Regional Coverage",
+    "genre": "26 Newspapers",
+    "rating": "KL"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Uttar Pradesh (Lucknow/Noida)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amarujala.com",
+    "year": "Regional Coverage",
+    "genre": "32 Newspapers",
+    "rating": "UP"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f West Bengal (Kolkata)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telegraphindia.com",
+    "year": "Regional Coverage",
+    "genre": "24 Newspapers",
+    "rating": "WB"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Telangana & Andhra Pradesh (Hyderabad)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eenadu.net",
+    "year": "Regional Coverage",
+    "genre": "26 Newspapers",
+    "rating": "TS"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Gujarat (Ahmedabad)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=divyabhaskar.co.in",
+    "year": "Regional Coverage",
+    "genre": "20 Newspapers",
+    "rating": "GJ"
+  },
+  {
+    "title": "\ud83c\udfdb\ufe0f Punjab & Haryana (Chandigarh)",
+    "provider": "overview",
+    "arguments": [
+      "usa_national_newspapers.json"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribuneindia.com",
+    "year": "Regional Coverage",
+    "genre": "20 Newspapers",
+    "rating": "PB"
+  }
+]

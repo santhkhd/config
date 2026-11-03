@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Featured Indian Newspapers",
+    "type": "newspapers",
+    "items": [
+      {
+        "title": "The Times of India",
+        "provider": "web",
+        "arguments": [
+          "https://timesofindia.indiatimes.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+        "year": "National",
+        "genre": "All India",
+        "rating": "English"
+      },
+      {
+        "title": "The Hindu",
+        "provider": "web",
+        "arguments": [
+          "https://www.thehindu.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=thehindu.com",
+        "year": "National",
+        "genre": "All India",
+        "rating": "English"
+      },
+      {
+        "title": "Dainik Bhaskar",
+        "provider": "web",
+        "arguments": [
+          "https://www.bhaskar.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+        "year": "National",
+        "genre": "All India",
+        "rating": "Hindi"
+      },
+      {
+        "title": "Dainik Jagran",
+        "provider": "web",
+        "arguments": [
+          "https://www.jagran.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+        "year": "National",
+        "genre": "All India",
+        "rating": "Hindi"
+      },
+      {
+        "title": "Hindustan Times",
+        "provider": "web",
+        "arguments": [
+          "https://www.hindustantimes.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=hindustantimes.com",
+        "year": "National",
+        "genre": "All India",
+        "rating": "English"
+      },
+      {
+        "title": "The Indian Express",
+        "provider": "web",
+        "arguments": [
+          "https://indianexpress.com"
+        ],
+        "image": "https://www.google.com/s2/favicons?sz=128&domain=indianexpress.com",
+        "year": "National",
+        "genre": "All India",
+        "rating": "English"
+      }
+    ]
+  },
+  {
+    "title": "Newspapers by State & Region (15 States)",
+    "provider": "overview",
+    "arguments": [
+      "states_newspapers.json"
+    ],
+    "image": "https://img.icons8.com/color/144/map-marker.png"
+  },
+  {
+    "title": "Newspapers by Language (10 Languages)",
+    "provider": "overview",
+    "arguments": [
+      "languages_newspapers.json"
+    ],
+    "image": "https://img.icons8.com/color/144/globe.png"
+  },
+  {
+    "title": "Live TV News Broadcasts (24/7)",
+    "provider": "overview",
+    "arguments": [
+      "news_channels.json"
+    ],
+    "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png&w=400"
+  },
+  {
+    "title": "24/7 All India Radio & Live News Radio",
+    "provider": "radio",
+    "arguments": [
+      "news_radio.json"
+    ],
+    "image": "https://img.icons8.com/color/96/radio-tower.png"
+  },
+  {
+    "title": "Breaking News Live Feed (RSS)",
+    "provider": "rss",
+    "arguments": [
+      "ALL_NEWS"
+    ],
+    "image": "https://img.icons8.com/color/96/news.png"
+  },
+  {
+    "title": "AI News Summaries & Briefs",
+    "provider": "overview",
+    "arguments": [
+      "ai_news_prompts.json"
+    ],
+    "image": "https://img.icons8.com/color/96/bot.png"
+  },
+  {
+    "title": "Explore by Category & Topic",
+    "provider": "overview",
+    "arguments": [
+      "categories.json"
+    ],
+    "image": "https://img.icons8.com/color/96/categorize.png"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Rajasthan Patrika",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Bhaskar Jaipur",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhaskar.com/rajasthan"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Rashtradoot",
+    "provider": "web",
+    "arguments": [
+      "https://www.rashtradoot.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rashtradoot.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Khas Khabar",
+    "provider": "web",
+    "arguments": [
+      "https://www.khaskhabar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=khaskhabar.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  }
+]

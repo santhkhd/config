@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Dainik Jagran",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Navbharat Times",
+    "provider": "web",
+    "arguments": [
+      "https://navbharattimes.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navbharattimes.indiatimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Amar Ujala",
+    "provider": "web",
+    "arguments": [
+      "https://www.amarujala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amarujala.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Jagran UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com/uttar-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Uttar Pradesh",
+    "genre": "Kanpur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hindustan UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.livehindustan.com/uttar-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livehindustan.com",
+    "year": "Uttar Pradesh",
+    "genre": "Varanasi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Navbharat Times Lucknow",
+    "provider": "web",
+    "arguments": [
+      "https://navbharattimes.indiatimes.com/state/uttar-pradesh/articlelist/2279801.cms"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navbharattimes.indiatimes.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Patrika UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com/uttar-pradesh-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Bartaman",
+    "provider": "web",
+    "arguments": [
+      "https://bartamanpatrika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bartamanpatrika.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Rajasthan Patrika",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Bhaskar Jaipur",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhaskar.com/rajasthan"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hindustan Bihar",
+    "provider": "web",
+    "arguments": [
+      "https://www.livehindustan.com/bihar"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livehindustan.com",
+    "year": "Bihar",
+    "genre": "Patna",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Jagran Bihar",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com/bihar"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Bihar",
+    "genre": "Patna",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Bhaskar MP",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhaskar.com/madhya-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "year": "Madhya Pradesh",
+    "genre": "Bhopal",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Nai Dunia",
+    "provider": "web",
+    "arguments": [
+      "https://www.naidunia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=naidunia.com",
+    "year": "Madhya Pradesh",
+    "genre": "Indore",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Patrika MP",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com/madhya-pradesh-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Madhya Pradesh",
+    "genre": "Bhopal",
+    "rating": "Hindi"
+  }
+]

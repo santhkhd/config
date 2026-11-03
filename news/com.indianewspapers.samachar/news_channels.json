@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Aaj Tak Live",
+    "title": "Aaj Tak Live (24/7 Hindi News)",
+    "url": "https://www.youtube.com/watch?v=Nq2wYlWFucg",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCt4t-jeY85JegMlZ-E5UWtA"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nFqgCQfk09vEWUTJ8YLJqTaahT-cqdX1fP8-rv7ZI5Kos=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "India Today Live",
+    "title": "India Today Live (24/7 English News)",
+    "url": "https://www.youtube.com/watch?v=5bgDEk_M4vQ",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCYPvAwZP8pZhSMW8qs7cVCw"
+    ],
+    "image": "https://yt3.googleusercontent.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "NDTV 24x7 Live",
+    "title": "NDTV 24x7 Live (English In-Depth)",
+    "url": "https://www.youtube.com/watch?v=l9ViEIip9ao",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCO6133V2qQN44YPXm_DZcwQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ndtv.com"
+  },
+  {
+    "name": "NDTV India Live",
+    "title": "NDTV India Live (Hindi Prime Time)",
+    "url": "https://www.youtube.com/watch?v=MN8p-Vrn6G0",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCZFMm1mMw0F81Z37aaSuT_Q"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ndtv.in"
+  },
+  {
+    "name": "ABP News Live",
+    "title": "ABP News Live (Hindi Headlines)",
+    "url": "https://www.youtube.com/watch?v=nyd-xznCpJc",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCRWFSbif-RFENbBrSiez1DA"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=abplive.com"
+  },
+  {
+    "name": "Republic World",
+    "title": "Republic World (English Breaking News)",
+    "url": "https://www.youtube.com/watch?v=fM8f8h-xWvg",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCwqusr8Yeq88_S012Aptl2w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=republicworld.com"
+  },
+  {
+    "name": "DD News Live",
+    "title": "DD News (Doordarshan Official National)",
+    "url": "https://www.youtube.com/watch?v=2nptqHjE4lQ",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCph50s85F3294wW1W49oPtg"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ddnews.gov.in"
+  },
+  {
+    "name": "WION Live",
+    "title": "WION Live (World Is One News)",
+    "url": "https://www.youtube.com/watch?v=BqB3q_zTqXg",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC_gUM8rL-Lzy6ZRV9b5EdyQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=wionews.com"
+  },
+  {
+    "name": "CNBC-TV18 Live",
+    "title": "CNBC-TV18 (Markets, Sensex & Business)",
+    "url": "https://www.youtube.com/watch?v=0kF434nN3xQ",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCW_0pM9aPz1z9v1xUv20x0w"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=cnbctv18.com"
+  },
+  {
+    "name": "Polimer News Live",
+    "title": "Polimer News Live (Tamil 24/7)",
+    "url": "https://www.youtube.com/watch?v=E-b-7p12yYw",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC7eb0FE-S0cON-qSieb_xQw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=polimernews.com"
+  },
+  {
+    "name": "TV9 Telugu Live",
+    "title": "TV9 Telugu Live (24/7 Telugu News)",
+    "url": "https://www.youtube.com/watch?v=7u0jH_5cK3w",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCe74Hq9yHh5dY1c4gPQ"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tv9telugu.com"
+  },
+  {
+    "name": "Asianet News Live",
+    "title": "Asianet News Live (Malayalam Breaking)",
+    "url": "https://www.youtube.com/watch?v=olqpcIPwBRE",
+    "provider": "videos",
+    "arguments": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCf8w5m0YsRa8MHQ5bwSGmbw"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=asianetnews.com"
+  }
+]

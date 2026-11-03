@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Amar Ujala",
+    "provider": "web",
+    "arguments": [
+      "https://www.amarujala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amarujala.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Jagran UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com/uttar-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Uttar Pradesh",
+    "genre": "Kanpur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hindustan UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.livehindustan.com/uttar-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livehindustan.com",
+    "year": "Uttar Pradesh",
+    "genre": "Varanasi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Navbharat Times Lucknow",
+    "provider": "web",
+    "arguments": [
+      "https://navbharattimes.indiatimes.com/state/uttar-pradesh/articlelist/2279801.cms"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navbharattimes.indiatimes.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Patrika UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com/uttar-pradesh-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  }
+]

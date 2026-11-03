@@ -1,0 +1,134 @@
+[
+  {
+    "title": "The Times of India",
+    "provider": "web",
+    "arguments": [
+      "https://timesofindia.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+    "year": "Est. 1838",
+    "genre": "Largest English Daily in India",
+    "rating": "5.0"
+  },
+  {
+    "title": "The Hindu",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehindu.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehindu.com",
+    "year": "Est. 1878",
+    "genre": "National Newspaper of Record",
+    "rating": "5.0"
+  },
+  {
+    "title": "NDTV News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ndtv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ndtv.com",
+    "year": "Est. 1988",
+    "genre": "Leading 24/7 National News",
+    "rating": "4.9"
+  },
+  {
+    "title": "Hindustan Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.hindustantimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hindustantimes.com",
+    "year": "Est. 1924",
+    "genre": "National News, Politics & World",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Indian Express",
+    "provider": "web",
+    "arguments": [
+      "https://indianexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianexpress.com",
+    "year": "Est. 1932",
+    "genre": "Journalism of Courage",
+    "rating": "4.9"
+  },
+  {
+    "title": "India Today",
+    "provider": "web",
+    "arguments": [
+      "https://www.indiatoday.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indiatoday.in",
+    "year": "Est. 1975",
+    "genre": "Premier News Magazine & TV",
+    "rating": "4.8"
+  },
+  {
+    "title": "The Economic Times",
+    "provider": "web",
+    "arguments": [
+      "https://economictimes.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=economictimes.indiatimes.com",
+    "year": "Est. 1961",
+    "genre": "Business, Markets & Economy",
+    "rating": "5.0"
+  },
+  {
+    "title": "Dainik Bhaskar",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhaskar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "year": "Est. 1958",
+    "genre": "Largest Circulated Hindi Daily",
+    "rating": "4.8"
+  },
+  {
+    "title": "Amar Ujala",
+    "provider": "web",
+    "arguments": [
+      "https://www.amarujala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amarujala.com",
+    "year": "Est. 1948",
+    "genre": "Hindi National News Leader",
+    "rating": "4.7"
+  },
+  {
+    "title": "Malayala Manorama",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com",
+    "year": "Est. 1888",
+    "genre": "Leading Regional Daily of Kerala",
+    "rating": "4.9"
+  },
+  {
+    "title": "Eenadu",
+    "provider": "web",
+    "arguments": [
+      "https://www.eenadu.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eenadu.net",
+    "year": "Est. 1974",
+    "genre": "Largest Telugu Daily News",
+    "rating": "4.8"
+  },
+  {
+    "title": "Daily Thanthi",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailythanthi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailythanthi.com",
+    "year": "Est. 1942",
+    "genre": "Leading Tamil Daily Newspaper",
+    "rating": "4.8"
+  }
+]

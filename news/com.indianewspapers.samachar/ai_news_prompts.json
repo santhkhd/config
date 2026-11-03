@@ -1,0 +1,42 @@
+[
+  {
+    "title": "🇮🇳 Indian Politics Recap",
+    "prompt": "Summarize today's major political news, cabinet decisions, and parliamentary developments across India.",
+    "category": "Politics"
+  },
+  {
+    "title": "📈 Stock Market & Sensex",
+    "prompt": "Recap today's performance of BSE Sensex, Nifty 50, top gaining/losing stocks, and key economic triggers.",
+    "category": "Business"
+  },
+  {
+    "title": "🏏 Cricket & Team India Update",
+    "prompt": "Provide the latest scores, match analysis, and updates for the Indian Cricket Team and upcoming tournaments.",
+    "category": "Sports"
+  },
+  {
+    "title": "⚖️ Supreme Court Rulings",
+    "prompt": "Explain the latest landmark verdicts and key hearings from the Supreme Court of India in simple terms.",
+    "category": "Legal"
+  },
+  {
+    "title": "🚀 ISRO & Space Science",
+    "prompt": "Summarize recent space missions, satellite launches, and scientific research conducted by ISRO.",
+    "category": "Science"
+  },
+  {
+    "title": "💻 Indian Startups & Tech",
+    "prompt": "Highlight the latest funding rounds, product launches, and developments in India's startup ecosystem.",
+    "category": "Tech"
+  },
+  {
+    "title": "🎬 Bollywood & Cinema Buzz",
+    "prompt": "Summarize box office reports, movie reviews, and big entertainment news across Indian cinema today.",
+    "category": "Cinema"
+  },
+  {
+    "title": "🌧️ Weather & Monsoon Brief",
+    "prompt": "Provide an overview of the current weather situation, rainfall alerts, and IMD forecasts across Indian states.",
+    "category": "Weather"
+  }
+]

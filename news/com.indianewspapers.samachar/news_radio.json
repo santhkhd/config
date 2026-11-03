@@ -1,0 +1,79 @@
+[
+  {
+    "name": "AIR Vividh Bharati National",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "frequency": "National Service • Hindi & Music",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "National / Culture"
+  },
+  {
+    "name": "AIR News 24x7 (National Headlines)",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio007/playlist.m3u8",
+    "frequency": "24/7 All India Radio News Bulletin",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "News & Talk"
+  },
+  {
+    "name": "AIR FM Gold 106.4 Delhi",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio002/playlist.m3u8",
+    "frequency": "106.4 MHz FM Delhi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "News & Classics"
+  },
+  {
+    "name": "AIR Rainbow 102.6 FM Delhi",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio003/playlist.m3u8",
+    "frequency": "102.6 MHz FM Delhi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "Music & Youth"
+  },
+  {
+    "name": "AIR Tamil (Chennai Rainbow)",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+    "frequency": "101.4 MHz FM Chennai",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "Tamil Regional"
+  },
+  {
+    "name": "AIR Telugu (Hyderabad Rainbow)",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+    "frequency": "101.9 MHz FM Hyderabad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "Telugu Regional"
+  },
+  {
+    "name": "AIR Malayalam (Kochi Rainbow)",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+    "frequency": "102.3 MHz FM Kochi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "Malayalam Regional"
+  },
+  {
+    "name": "AIR Kannada (Bengaluru Rainbow)",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8",
+    "frequency": "101.3 MHz FM Bengaluru",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "Kannada Regional"
+  },
+  {
+    "name": "AIR Bengali (Kolkata Geetanjali)",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio011/playlist.m3u8",
+    "frequency": "Kolkata • Primary Bengali",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "Bengali Regional"
+  },
+  {
+    "name": "AIR Marathi (Pune / Mumbai FM)",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio010/playlist.m3u8",
+    "frequency": "101.0 MHz FM Pune",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/All_India_Radio_logo.svg/512px-All_India_Radio_logo.svg.png",
+    "category": "Marathi Regional"
+  },
+  {
+    "name": "Radio City Hindi Hits",
+    "stream_url": "https://prclive1.listenon.in/Hindi",
+    "frequency": "Online 24/7 Bollywood Hits",
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=radiocity.in",
+    "category": "Bollywood & Talk"
+  }
+]

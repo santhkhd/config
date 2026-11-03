@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Sambad",
+    "provider": "web",
+    "arguments": [
+      "https://sambad.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sambad.in",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  },
+  {
+    "title": "The Samaja",
+    "provider": "web",
+    "arguments": [
+      "https://samajaepaper.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=samajaepaper.in",
+    "year": "Odisha",
+    "genre": "Cuttack",
+    "rating": "Odia"
+  },
+  {
+    "title": "Dharitri",
+    "provider": "web",
+    "arguments": [
+      "https://www.dharitri.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dharitri.com",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  },
+  {
+    "title": "Prameya News7",
+    "provider": "web",
+    "arguments": [
+      "https://www.prameyanews7.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prameyanews7.com",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  },
+  {
+    "title": "Pragativadi",
+    "provider": "web",
+    "arguments": [
+      "https://pragativadi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pragativadi.com",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  }
+]

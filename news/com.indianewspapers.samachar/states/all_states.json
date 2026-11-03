@@ -1,0 +1,992 @@
+[
+  {
+    "title": "The Times of India",
+    "provider": "web",
+    "arguments": [
+      "https://timesofindia.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Hindu",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehindu.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehindu.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "Hindustan Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.hindustantimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hindustantimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Indian Express",
+    "provider": "web",
+    "arguments": [
+      "https://indianexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianexpress.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "Dainik Jagran",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Navbharat Times",
+    "provider": "web",
+    "arguments": [
+      "https://navbharattimes.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navbharattimes.indiatimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "NDTV News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ndtv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ndtv.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "Livemint",
+    "provider": "web",
+    "arguments": [
+      "https://www.livemint.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livemint.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Economic Times",
+    "provider": "web",
+    "arguments": [
+      "https://economictimes.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=economictimes.indiatimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Pioneer",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailypioneer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailypioneer.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "Lokmat",
+    "provider": "web",
+    "arguments": [
+      "https://www.lokmat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lokmat.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Maharashtra Times",
+    "provider": "web",
+    "arguments": [
+      "https://maharashtratimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maharashtratimes.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Loksatta",
+    "provider": "web",
+    "arguments": [
+      "https://www.loksatta.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=loksatta.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Sakal",
+    "provider": "web",
+    "arguments": [
+      "https://www.esakal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=esakal.com",
+    "year": "Maharashtra",
+    "genre": "Pune",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Pudhari",
+    "provider": "web",
+    "arguments": [
+      "https://pudhari.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pudhari.news",
+    "year": "Maharashtra",
+    "genre": "Kolhapur",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Mumbai Mirror",
+    "provider": "web",
+    "arguments": [
+      "https://mumbaimirror.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mumbaimirror.indiatimes.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "English"
+  },
+  {
+    "title": "Mid-Day Mumbai",
+    "provider": "web",
+    "arguments": [
+      "https://www.mid-day.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mid-day.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "English"
+  },
+  {
+    "title": "Saamana",
+    "provider": "web",
+    "arguments": [
+      "https://www.saamana.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saamana.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Prajavani",
+    "provider": "web",
+    "arguments": [
+      "https://www.prajavani.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prajavani.net",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Vijayavani",
+    "provider": "web",
+    "arguments": [
+      "https://www.vijayavani.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vijayavani.net",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Kannada Prabha",
+    "provider": "web",
+    "arguments": [
+      "https://www.kannadaprabha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kannadaprabha.com",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Udayavani",
+    "provider": "web",
+    "arguments": [
+      "https://www.udayavani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=udayavani.com",
+    "year": "Karnataka",
+    "genre": "Manipal",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Deccan Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.deccanherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deccanherald.com",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "English"
+  },
+  {
+    "title": "Vijaya Karnataka",
+    "provider": "web",
+    "arguments": [
+      "https://vijaykarnataka.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vijaykarnataka.com",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Vartha Bharati",
+    "provider": "web",
+    "arguments": [
+      "https://varthabharati.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=varthabharati.in",
+    "year": "Karnataka",
+    "genre": "Mangaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Dina Thanthi",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailythanthi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailythanthi.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Dinamalar",
+    "provider": "web",
+    "arguments": [
+      "https://www.dinamalar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dinamalar.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Dinakaran",
+    "provider": "web",
+    "arguments": [
+      "https://www.dinakaran.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dinakaran.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "The Hindu Tamil",
+    "provider": "web",
+    "arguments": [
+      "https://www.hindutamil.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hindutamil.in",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Dinamani",
+    "provider": "web",
+    "arguments": [
+      "https://www.dinamani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dinamani.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Malai Malar",
+    "provider": "web",
+    "arguments": [
+      "https://www.maalaimalar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maalaimalar.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "DT Next",
+    "provider": "web",
+    "arguments": [
+      "https://www.dtnext.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dtnext.in",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "English"
+  },
+  {
+    "title": "Puthiya Thalaimurai",
+    "provider": "web",
+    "arguments": [
+      "https://www.puthiyathalaimurai.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=puthiyathalaimurai.com",
+    "year": "Tamil Nadu",
+    "genre": "Chennai",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Amar Ujala",
+    "provider": "web",
+    "arguments": [
+      "https://www.amarujala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amarujala.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Jagran UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com/uttar-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Uttar Pradesh",
+    "genre": "Kanpur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hindustan UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.livehindustan.com/uttar-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livehindustan.com",
+    "year": "Uttar Pradesh",
+    "genre": "Varanasi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Navbharat Times Lucknow",
+    "provider": "web",
+    "arguments": [
+      "https://navbharattimes.indiatimes.com/state/uttar-pradesh/articlelist/2279801.cms"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navbharattimes.indiatimes.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Patrika UP",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com/uttar-pradesh-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Uttar Pradesh",
+    "genre": "Lucknow",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Anandabazar Patrika",
+    "provider": "web",
+    "arguments": [
+      "https://www.anandabazar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=anandabazar.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Bartaman",
+    "provider": "web",
+    "arguments": [
+      "https://bartamanpatrika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bartamanpatrika.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Ei Samay",
+    "provider": "web",
+    "arguments": [
+      "https://eisamay.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eisamay.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Sangbad Pratidin",
+    "provider": "web",
+    "arguments": [
+      "https://www.sangbadpratidin.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sangbadpratidin.in",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "The Telegraph",
+    "provider": "web",
+    "arguments": [
+      "https://www.telegraphindia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telegraphindia.com",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "English"
+  },
+  {
+    "title": "Aajkaal",
+    "provider": "web",
+    "arguments": [
+      "https://aajkaal.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=aajkaal.in",
+    "year": "West Bengal",
+    "genre": "Kolkata",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Gujarat Samachar",
+    "provider": "web",
+    "arguments": [
+      "https://www.gujaratsamachar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gujaratsamachar.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "Sandesh",
+    "provider": "web",
+    "arguments": [
+      "https://sandesh.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandesh.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "Divya Bhaskar",
+    "provider": "web",
+    "arguments": [
+      "https://www.divyabhaskar.co.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=divyabhaskar.co.in",
+    "year": "Gujarat",
+    "genre": "Surat",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "Sambhaav Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.sambhaavmetro.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sambhaavmetro.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "NavGujarat Samay",
+    "provider": "web",
+    "arguments": [
+      "https://navgujaratsamay.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navgujaratsamay.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "Malayala Manorama",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com",
+    "year": "Kerala",
+    "genre": "Kottayam",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Mathrubhumi",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com",
+    "year": "Kerala",
+    "genre": "Kozhikode",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Deshabhimani",
+    "provider": "web",
+    "arguments": [
+      "https://www.deshabhimani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deshabhimani.com",
+    "year": "Kerala",
+    "genre": "Thiruvananthapuram",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Kerala Kaumudi",
+    "provider": "web",
+    "arguments": [
+      "https://keralakaumudi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralakaumudi.com",
+    "year": "Kerala",
+    "genre": "Thiruvananthapuram",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Madhyamam",
+    "provider": "web",
+    "arguments": [
+      "https://www.madhyamam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madhyamam.com",
+    "year": "Kerala",
+    "genre": "Kochi",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Asianet News Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.asianetnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=asianetnews.com",
+    "year": "Kerala",
+    "genre": "Thiruvananthapuram",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Eenadu",
+    "provider": "web",
+    "arguments": [
+      "https://www.eenadu.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eenadu.net",
+    "year": "Telangana/AP",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Sakshi",
+    "provider": "web",
+    "arguments": [
+      "https://www.sakshi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sakshi.com",
+    "year": "Telangana/AP",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Andhra Jyothy",
+    "provider": "web",
+    "arguments": [
+      "https://www.andhrajyothy.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=andhrajyothy.com",
+    "year": "Telangana/AP",
+    "genre": "Vijayawada",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Namasthe Telangana",
+    "provider": "web",
+    "arguments": [
+      "https://www.ntnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ntnews.com",
+    "year": "Telangana",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Telangana Today",
+    "provider": "web",
+    "arguments": [
+      "https://telanganatoday.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=telanganatoday.com",
+    "year": "Telangana",
+    "genre": "Hyderabad",
+    "rating": "English"
+  },
+  {
+    "title": "Vaartha",
+    "provider": "web",
+    "arguments": [
+      "https://www.vaartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vaartha.com",
+    "year": "Telangana/AP",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Praja Sakti",
+    "provider": "web",
+    "arguments": [
+      "https://www.prajasakti.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prajasakti.com",
+    "year": "Andhra Pradesh",
+    "genre": "Vijayawada",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Ajit Jalandhar",
+    "provider": "web",
+    "arguments": [
+      "https://www.ajitjalandhar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ajitjalandhar.com",
+    "year": "Punjab",
+    "genre": "Jalandhar",
+    "rating": "Punjabi"
+  },
+  {
+    "title": "Jagbani",
+    "provider": "web",
+    "arguments": [
+      "https://jagbani.punjabkesari.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagbani.punjabkesari.in",
+    "year": "Punjab",
+    "genre": "Jalandhar",
+    "rating": "Punjabi"
+  },
+  {
+    "title": "Rozana Spokesman",
+    "provider": "web",
+    "arguments": [
+      "https://www.rozanaspokesman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rozanaspokesman.com",
+    "year": "Punjab",
+    "genre": "Chandigarh",
+    "rating": "Punjabi"
+  },
+  {
+    "title": "The Tribune Chandigarh",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribuneindia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribuneindia.com",
+    "year": "Punjab/Haryana",
+    "genre": "Chandigarh",
+    "rating": "English"
+  },
+  {
+    "title": "Punjabi Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.punjabitribuneonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=punjabitribuneonline.com",
+    "year": "Punjab",
+    "genre": "Chandigarh",
+    "rating": "Punjabi"
+  },
+  {
+    "title": "Rajasthan Patrika",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Bhaskar Jaipur",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhaskar.com/rajasthan"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Rashtradoot",
+    "provider": "web",
+    "arguments": [
+      "https://www.rashtradoot.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rashtradoot.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Khas Khabar",
+    "provider": "web",
+    "arguments": [
+      "https://www.khaskhabar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=khaskhabar.com",
+    "year": "Rajasthan",
+    "genre": "Jaipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Prabhat Khabar",
+    "provider": "web",
+    "arguments": [
+      "https://www.prabhatkhabar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prabhatkhabar.com",
+    "year": "Bihar/Jharkhand",
+    "genre": "Ranchi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hindustan Bihar",
+    "provider": "web",
+    "arguments": [
+      "https://www.livehindustan.com/bihar"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livehindustan.com",
+    "year": "Bihar",
+    "genre": "Patna",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Jagran Bihar",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com/bihar"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Bihar",
+    "genre": "Patna",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Ranchi Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.ranchiexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ranchiexpress.com",
+    "year": "Jharkhand",
+    "genre": "Ranchi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Bhaskar MP",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhaskar.com/madhya-pradesh"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "year": "Madhya Pradesh",
+    "genre": "Bhopal",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Nai Dunia",
+    "provider": "web",
+    "arguments": [
+      "https://www.naidunia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=naidunia.com",
+    "year": "Madhya Pradesh",
+    "genre": "Indore",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hari Bhoomi",
+    "provider": "web",
+    "arguments": [
+      "https://www.haribhoomi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=haribhoomi.com",
+    "year": "Chhattisgarh",
+    "genre": "Raipur",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Patrika MP",
+    "provider": "web",
+    "arguments": [
+      "https://www.patrika.com/madhya-pradesh-news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=patrika.com",
+    "year": "Madhya Pradesh",
+    "genre": "Bhopal",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Sambad",
+    "provider": "web",
+    "arguments": [
+      "https://sambad.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sambad.in",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  },
+  {
+    "title": "The Samaja",
+    "provider": "web",
+    "arguments": [
+      "https://samajaepaper.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=samajaepaper.in",
+    "year": "Odisha",
+    "genre": "Cuttack",
+    "rating": "Odia"
+  },
+  {
+    "title": "Dharitri",
+    "provider": "web",
+    "arguments": [
+      "https://www.dharitri.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dharitri.com",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  },
+  {
+    "title": "Prameya News7",
+    "provider": "web",
+    "arguments": [
+      "https://www.prameyanews7.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prameyanews7.com",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  },
+  {
+    "title": "Pragativadi",
+    "provider": "web",
+    "arguments": [
+      "https://pragativadi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pragativadi.com",
+    "year": "Odisha",
+    "genre": "Bhubaneswar",
+    "rating": "Odia"
+  },
+  {
+    "title": "Asomiya Pratidin",
+    "provider": "web",
+    "arguments": [
+      "https://www.asomiyapratidin.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=asomiyapratidin.in",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "Assamese"
+  },
+  {
+    "title": "The Assam Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://assamtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=assamtribune.com",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "English"
+  },
+  {
+    "title": "Niyomiya Barta",
+    "provider": "web",
+    "arguments": [
+      "https://niyomiyabarta.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=niyomiyabarta.org",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "Assamese"
+  },
+  {
+    "title": "Pratidin Time",
+    "provider": "web",
+    "arguments": [
+      "https://www.pratidintime.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pratidintime.com",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "Assamese"
+  },
+  {
+    "title": "Sentinel Assam",
+    "provider": "web",
+    "arguments": [
+      "https://www.sentinelassam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sentinelassam.com",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "English"
+  },
+  {
+    "title": "Dainik Jugasankha",
+    "provider": "web",
+    "arguments": [
+      "https://jugasankha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jugasankha.com",
+    "year": "Assam",
+    "genre": "Silchar",
+    "rating": "Bengali"
+  }
+]

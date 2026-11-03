@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Eenadu",
+    "provider": "web",
+    "arguments": [
+      "https://www.eenadu.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eenadu.net",
+    "year": "Telangana/AP",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Sakshi",
+    "provider": "web",
+    "arguments": [
+      "https://www.sakshi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sakshi.com",
+    "year": "Telangana/AP",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Andhra Jyothy",
+    "provider": "web",
+    "arguments": [
+      "https://www.andhrajyothy.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=andhrajyothy.com",
+    "year": "Telangana/AP",
+    "genre": "Vijayawada",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Namasthe Telangana",
+    "provider": "web",
+    "arguments": [
+      "https://www.ntnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ntnews.com",
+    "year": "Telangana",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Vaartha",
+    "provider": "web",
+    "arguments": [
+      "https://www.vaartha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vaartha.com",
+    "year": "Telangana/AP",
+    "genre": "Hyderabad",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Praja Sakti",
+    "provider": "web",
+    "arguments": [
+      "https://www.prajasakti.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prajasakti.com",
+    "year": "Andhra Pradesh",
+    "genre": "Vijayawada",
+    "rating": "Telugu"
+  }
+]

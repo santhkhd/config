@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Prajavani",
+    "provider": "web",
+    "arguments": [
+      "https://www.prajavani.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prajavani.net",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Vijayavani",
+    "provider": "web",
+    "arguments": [
+      "https://www.vijayavani.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vijayavani.net",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Kannada Prabha",
+    "provider": "web",
+    "arguments": [
+      "https://www.kannadaprabha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=kannadaprabha.com",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Udayavani",
+    "provider": "web",
+    "arguments": [
+      "https://www.udayavani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=udayavani.com",
+    "year": "Karnataka",
+    "genre": "Manipal",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Deccan Herald",
+    "provider": "web",
+    "arguments": [
+      "https://www.deccanherald.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deccanherald.com",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "English"
+  },
+  {
+    "title": "Vijaya Karnataka",
+    "provider": "web",
+    "arguments": [
+      "https://vijaykarnataka.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=vijaykarnataka.com",
+    "year": "Karnataka",
+    "genre": "Bengaluru",
+    "rating": "Kannada"
+  },
+  {
+    "title": "Vartha Bharati",
+    "provider": "web",
+    "arguments": [
+      "https://varthabharati.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=varthabharati.in",
+    "year": "Karnataka",
+    "genre": "Mangaluru",
+    "rating": "Kannada"
+  }
+]

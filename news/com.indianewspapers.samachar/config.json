@@ -1,0 +1,81 @@
+{
+  "app_name": "India Newspapers & Samachar",
+  "package_name": "com.indianewspapers.samachar",
+  "version_name": "1.0.0",
+  "version_code": 1,
+  "country": "India",
+  "country_code": "IN",
+  "currency": "₹",
+  "default_city": "New Delhi",
+  "fcm_topic": "india_news_topic",
+  "google_sheet_url": "https://script.google.com/macros/s/AKfycbyVxoh_Urb7TSimpzP7s45BtcCkMQTiwD4_Te0UcaJM6kpKIcIIAKBvcoBLuLcIxC4P/exec",
+  "github_cdn_base_url": "https://cdn.jsdelivr.net/gh/santhkhd/config@main/news/com.indianewspapers.samachar/",
+  "github_raw_base_url": "https://raw.githubusercontent.com/santhkhd/config/main/news/com.indianewspapers.samachar/",
+  "app": {
+    "status": true,
+    "toolbar": true,
+    "navigation_drawer": true,
+    "geolocation": true,
+    "cache": true,
+    "open_link_in_external_browser": false,
+    "privacy_policy_url": "privacy_policy.html",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=Shivappa+Developer",
+    "webview_disclaimer_active": true
+  },
+  "menus": [
+    {
+      "name": "Home",
+      "type": "category",
+      "url": "home.json",
+      "icon": "https://img.icons8.com/color/96/home.png"
+    },
+    {
+      "name": "Newspapers by State",
+      "type": "category",
+      "url": "states_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/map-marker.png"
+    },
+    {
+      "name": "Newspapers by Language",
+      "type": "category",
+      "url": "languages_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/globe.png"
+    },
+    {
+      "name": "National Flagship Press",
+      "type": "category",
+      "url": "national_newspapers.json",
+      "icon": "https://img.icons8.com/color/96/newspaper.png"
+    },
+    {
+      "name": "Live TV Channels (24/7)",
+      "type": "category",
+      "url": "news_channels.json",
+      "icon": "https://img.icons8.com/color/96/retro-tv.png"
+    },
+    {
+      "name": "Latest Video News",
+      "type": "YOUTUBE",
+      "url": "ALL_VIDEOS",
+      "icon": "https://img.icons8.com/color/96/youtube-play.png"
+    },
+    {
+      "name": "24/7 Live Radio",
+      "type": "radio",
+      "url": "news_radio.json",
+      "icon": "https://img.icons8.com/color/96/radio.png"
+    },
+    {
+      "name": "AI News Briefs",
+      "type": "category",
+      "url": "ai_news_prompts.json",
+      "icon": "https://img.icons8.com/color/96/bot.png"
+    },
+    {
+      "name": "Categories & Topics",
+      "type": "category",
+      "url": "categories.json",
+      "icon": "https://img.icons8.com/color/96/categorize.png"
+    }
+  ]
+}

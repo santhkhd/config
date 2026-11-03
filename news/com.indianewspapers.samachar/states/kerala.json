@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Malayala Manorama",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com",
+    "year": "Kerala",
+    "genre": "Kottayam",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Mathrubhumi",
+    "provider": "web",
+    "arguments": [
+      "https://www.mathrubhumi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=mathrubhumi.com",
+    "year": "Kerala",
+    "genre": "Kozhikode",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Deshabhimani",
+    "provider": "web",
+    "arguments": [
+      "https://www.deshabhimani.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=deshabhimani.com",
+    "year": "Kerala",
+    "genre": "Thiruvananthapuram",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Kerala Kaumudi",
+    "provider": "web",
+    "arguments": [
+      "https://keralakaumudi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=keralakaumudi.com",
+    "year": "Kerala",
+    "genre": "Thiruvananthapuram",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Madhyamam",
+    "provider": "web",
+    "arguments": [
+      "https://www.madhyamam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=madhyamam.com",
+    "year": "Kerala",
+    "genre": "Kochi",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Asianet News Online",
+    "provider": "web",
+    "arguments": [
+      "https://www.asianetnews.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=asianetnews.com",
+    "year": "Kerala",
+    "genre": "Thiruvananthapuram",
+    "rating": "Malayalam"
+  }
+]

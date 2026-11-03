@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Asomiya Pratidin",
+    "provider": "web",
+    "arguments": [
+      "https://www.asomiyapratidin.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=asomiyapratidin.in",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "Assamese"
+  },
+  {
+    "title": "The Assam Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://assamtribune.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=assamtribune.com",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "English"
+  },
+  {
+    "title": "Niyomiya Barta",
+    "provider": "web",
+    "arguments": [
+      "https://niyomiyabarta.org"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=niyomiyabarta.org",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "Assamese"
+  },
+  {
+    "title": "Pratidin Time",
+    "provider": "web",
+    "arguments": [
+      "https://www.pratidintime.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pratidintime.com",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "Assamese"
+  },
+  {
+    "title": "Sentinel Assam",
+    "provider": "web",
+    "arguments": [
+      "https://www.sentinelassam.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sentinelassam.com",
+    "year": "Assam",
+    "genre": "Guwahati",
+    "rating": "English"
+  },
+  {
+    "title": "Dainik Jugasankha",
+    "provider": "web",
+    "arguments": [
+      "https://jugasankha.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jugasankha.com",
+    "year": "Assam",
+    "genre": "Silchar",
+    "rating": "Bengali"
+  }
+]

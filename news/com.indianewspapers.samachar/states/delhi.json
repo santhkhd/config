@@ -1,0 +1,112 @@
+[
+  {
+    "title": "The Times of India",
+    "provider": "web",
+    "arguments": [
+      "https://timesofindia.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Hindu",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehindu.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehindu.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "Hindustan Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.hindustantimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hindustantimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Indian Express",
+    "provider": "web",
+    "arguments": [
+      "https://indianexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianexpress.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "Dainik Jagran",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Navbharat Times",
+    "provider": "web",
+    "arguments": [
+      "https://navbharattimes.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navbharattimes.indiatimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "NDTV News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ndtv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ndtv.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "Livemint",
+    "provider": "web",
+    "arguments": [
+      "https://www.livemint.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livemint.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Economic Times",
+    "provider": "web",
+    "arguments": [
+      "https://economictimes.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=economictimes.indiatimes.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  },
+  {
+    "title": "The Pioneer",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailypioneer.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailypioneer.com",
+    "year": "Delhi",
+    "genre": "New Delhi",
+    "rating": "English"
+  }
+]

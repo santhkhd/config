@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Ajit Jalandhar",
+    "provider": "web",
+    "arguments": [
+      "https://www.ajitjalandhar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ajitjalandhar.com",
+    "year": "Punjab",
+    "genre": "Jalandhar",
+    "rating": "Punjabi"
+  },
+  {
+    "title": "Jagbani",
+    "provider": "web",
+    "arguments": [
+      "https://jagbani.punjabkesari.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagbani.punjabkesari.in",
+    "year": "Punjab",
+    "genre": "Jalandhar",
+    "rating": "Punjabi"
+  },
+  {
+    "title": "Rozana Spokesman",
+    "provider": "web",
+    "arguments": [
+      "https://www.rozanaspokesman.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=rozanaspokesman.com",
+    "year": "Punjab",
+    "genre": "Chandigarh",
+    "rating": "Punjabi"
+  },
+  {
+    "title": "The Tribune Chandigarh",
+    "provider": "web",
+    "arguments": [
+      "https://www.tribuneindia.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=tribuneindia.com",
+    "year": "Punjab/Haryana",
+    "genre": "Chandigarh",
+    "rating": "English"
+  },
+  {
+    "title": "Punjabi Tribune",
+    "provider": "web",
+    "arguments": [
+      "https://www.punjabitribuneonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=punjabitribuneonline.com",
+    "year": "Punjab",
+    "genre": "Chandigarh",
+    "rating": "Punjabi"
+  }
+]

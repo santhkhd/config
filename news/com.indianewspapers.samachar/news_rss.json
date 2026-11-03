@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Google News India (Top Stories)",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en"
+    ],
+    "image": "https://img.icons8.com/color/96/news.png"
+  },
+  {
+    "title": "Indian National Politics & Policy",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/NATION?hl=en-IN&gl=IN&ceid=IN:en"
+    ],
+    "image": "https://img.icons8.com/color/96/parliament.png"
+  },
+  {
+    "title": "BSE Sensex, Nifty & Business News",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en"
+    ],
+    "image": "https://img.icons8.com/color/96/bullish.png"
+  },
+  {
+    "title": "Cricket, IPL & Indian Sports",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-IN&gl=IN&ceid=IN:en"
+    ],
+    "image": "https://img.icons8.com/color/96/cricket.png"
+  },
+  {
+    "title": "Indian Tech, Startups & IT News",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en"
+    ],
+    "image": "https://img.icons8.com/color/96/source-code.png"
+  },
+  {
+    "title": "Bollywood & Indian Cinema",
+    "provider": "rss",
+    "arguments": [
+      "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en"
+    ],
+    "image": "https://img.icons8.com/color/96/clapperboard.png"
+  },
+  {
+    "title": "NDTV Top Stories RSS",
+    "provider": "rss",
+    "arguments": [
+      "https://feeds.feedburner.com/ndtvnews-top-stories"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ndtv.com"
+  },
+  {
+    "title": "The Hindu National News RSS",
+    "provider": "rss",
+    "arguments": [
+      "https://www.thehindu.com/news/national/feeder/default.rss"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehindu.com"
+  }
+]

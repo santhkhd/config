@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Gujarat Samachar",
+    "provider": "web",
+    "arguments": [
+      "https://www.gujaratsamachar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=gujaratsamachar.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "Sandesh",
+    "provider": "web",
+    "arguments": [
+      "https://sandesh.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sandesh.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "Divya Bhaskar",
+    "provider": "web",
+    "arguments": [
+      "https://www.divyabhaskar.co.in"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=divyabhaskar.co.in",
+    "year": "Gujarat",
+    "genre": "Surat",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "Sambhaav Metro",
+    "provider": "web",
+    "arguments": [
+      "https://www.sambhaavmetro.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=sambhaavmetro.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  },
+  {
+    "title": "NavGujarat Samay",
+    "provider": "web",
+    "arguments": [
+      "https://navgujaratsamay.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=navgujaratsamay.com",
+    "year": "Gujarat",
+    "genre": "Ahmedabad",
+    "rating": "Gujarati"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "title": "The Times of India",
+    "provider": "web",
+    "arguments": [
+      "https://timesofindia.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=timesofindia.indiatimes.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "English"
+  },
+  {
+    "title": "The Hindu",
+    "provider": "web",
+    "arguments": [
+      "https://www.thehindu.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=thehindu.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "English"
+  },
+  {
+    "title": "Dainik Bhaskar",
+    "provider": "web",
+    "arguments": [
+      "https://www.bhaskar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=bhaskar.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Jagran",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hindustan Times",
+    "provider": "web",
+    "arguments": [
+      "https://www.hindustantimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=hindustantimes.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "English"
+  },
+  {
+    "title": "The Indian Express",
+    "provider": "web",
+    "arguments": [
+      "https://indianexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=indianexpress.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "English"
+  },
+  {
+    "title": "Amar Ujala",
+    "provider": "web",
+    "arguments": [
+      "https://www.amarujala.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=amarujala.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "Hindi"
+  },
+  {
+    "title": "NDTV News",
+    "provider": "web",
+    "arguments": [
+      "https://www.ndtv.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ndtv.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "English"
+  },
+  {
+    "title": "Livemint Markets",
+    "provider": "web",
+    "arguments": [
+      "https://www.livemint.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livemint.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "English"
+  },
+  {
+    "title": "The Economic Times",
+    "provider": "web",
+    "arguments": [
+      "https://economictimes.indiatimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=economictimes.indiatimes.com",
+    "year": "National",
+    "genre": "All India",
+    "rating": "English"
+  },
+  {
+    "title": "Eenadu",
+    "provider": "web",
+    "arguments": [
+      "https://www.eenadu.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=eenadu.net",
+    "year": "Regional",
+    "genre": "Telangana/AP",
+    "rating": "Telugu"
+  },
+  {
+    "title": "Daily Thanthi",
+    "provider": "web",
+    "arguments": [
+      "https://www.dailythanthi.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=dailythanthi.com",
+    "year": "Regional",
+    "genre": "Tamil Nadu",
+    "rating": "Tamil"
+  },
+  {
+    "title": "Malayala Manorama",
+    "provider": "web",
+    "arguments": [
+      "https://www.manoramaonline.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=manoramaonline.com",
+    "year": "Regional",
+    "genre": "Kerala",
+    "rating": "Malayalam"
+  },
+  {
+    "title": "Anandabazar Patrika",
+    "provider": "web",
+    "arguments": [
+      "https://www.anandabazar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=anandabazar.com",
+    "year": "Regional",
+    "genre": "Bengal",
+    "rating": "Bengali"
+  },
+  {
+    "title": "Lokmat",
+    "provider": "web",
+    "arguments": [
+      "https://www.lokmat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lokmat.com",
+    "year": "Regional",
+    "genre": "Maharashtra",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Prajavani",
+    "provider": "web",
+    "arguments": [
+      "https://www.prajavani.net"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prajavani.net",
+    "year": "Regional",
+    "genre": "Karnataka",
+    "rating": "Kannada"
+  }
+]

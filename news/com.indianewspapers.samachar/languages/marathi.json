@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Lokmat",
+    "provider": "web",
+    "arguments": [
+      "https://www.lokmat.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=lokmat.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Maharashtra Times",
+    "provider": "web",
+    "arguments": [
+      "https://maharashtratimes.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=maharashtratimes.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Loksatta",
+    "provider": "web",
+    "arguments": [
+      "https://www.loksatta.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=loksatta.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Sakal",
+    "provider": "web",
+    "arguments": [
+      "https://www.esakal.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=esakal.com",
+    "year": "Maharashtra",
+    "genre": "Pune",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Pudhari",
+    "provider": "web",
+    "arguments": [
+      "https://pudhari.news"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=pudhari.news",
+    "year": "Maharashtra",
+    "genre": "Kolhapur",
+    "rating": "Marathi"
+  },
+  {
+    "title": "Saamana",
+    "provider": "web",
+    "arguments": [
+      "https://www.saamana.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=saamana.com",
+    "year": "Maharashtra",
+    "genre": "Mumbai",
+    "rating": "Marathi"
+  }
+]

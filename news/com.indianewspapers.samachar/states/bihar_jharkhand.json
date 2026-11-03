@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Prabhat Khabar",
+    "provider": "web",
+    "arguments": [
+      "https://www.prabhatkhabar.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=prabhatkhabar.com",
+    "year": "Bihar/Jharkhand",
+    "genre": "Ranchi",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Hindustan Bihar",
+    "provider": "web",
+    "arguments": [
+      "https://www.livehindustan.com/bihar"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=livehindustan.com",
+    "year": "Bihar",
+    "genre": "Patna",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Dainik Jagran Bihar",
+    "provider": "web",
+    "arguments": [
+      "https://www.jagran.com/bihar"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=jagran.com",
+    "year": "Bihar",
+    "genre": "Patna",
+    "rating": "Hindi"
+  },
+  {
+    "title": "Ranchi Express",
+    "provider": "web",
+    "arguments": [
+      "https://www.ranchiexpress.com"
+    ],
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=ranchiexpress.com",
+    "year": "Jharkhand",
+    "genre": "Ranchi",
+    "rating": "Hindi"
+  }
+]
