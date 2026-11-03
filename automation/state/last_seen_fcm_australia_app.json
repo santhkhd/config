@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "eaac81bc-5390-48fa-99be-655a6305d40a",
-  "https://www.smh.com.au/rss/feed.xml": "eaac81bc-5390-48fa-99be-655a6305d40a",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-03/us-midterm-elections-2026-live-updates/107335552",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-04/russell-brand-trial-closing-arguments-and-jury-deliberations/107340570",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-a0d0-d1d6-a5bd-f7d366800001",
+  "https://www.theage.com.au/rss/feed.xml": "eee4592b-e1ca-457c-9eea-bf3405f9ac1e",
+  "https://www.smh.com.au/rss/feed.xml": "eee4592b-e1ca-457c-9eea-bf3405f9ac1e",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-04/us-midterm-elections-2026-live-updates/107335560",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-04/russian-strike-on-school-kills-dozens-n-ukraine/107343894",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-a309-dc3b-aba5-b7df76d50000",
   "_meta": {
-    "today_date": "2026-11-03",
-    "today_sent_count": 2,
+    "today_date": "2026-11-04",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1793718700
   }
 }
