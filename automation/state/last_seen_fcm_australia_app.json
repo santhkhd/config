@@ -1,9 +1,9 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "27d55fc2-0347-4cfa-91fa-ff366fa96fd2",
-  "https://www.smh.com.au/rss/feed.xml": "27d55fc2-0347-4cfa-91fa-ff366fa96fd2",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-04/us-midterm-elections-2026-live-updates/107335560",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-04/taswater-tells-resident-orange-water-safe-to-drink/107347420",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-a50b-d326-a5fb-a52f7f740000",
+  "https://www.theage.com.au/rss/feed.xml": "7cf59c1c-60cb-408f-aca2-9d280dd84128",
+  "https://www.smh.com.au/rss/feed.xml": "7cf59c1c-60cb-408f-aca2-9d280dd84128",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-05/us-midterm-elections-2026-live-updates/107257050",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-05/us-midterm-elections-2026-live-updates/107257050",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-a56b-d326-a5fb-a56f097d0000",
   "_meta": {
     "today_date": "2026-11-04",
     "today_sent_count": 1,
