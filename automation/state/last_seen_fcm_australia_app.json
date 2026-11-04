@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "7cf59c1c-60cb-408f-aca2-9d280dd84128",
-  "https://www.smh.com.au/rss/feed.xml": "7cf59c1c-60cb-408f-aca2-9d280dd84128",
+  "https://www.theage.com.au/rss/feed.xml": "fc0ae7f5-d44e-4dde-a144-330dde65df4b",
+  "https://www.smh.com.au/rss/feed.xml": "fc0ae7f5-d44e-4dde-a144-330dde65df4b",
   "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-05/us-midterm-elections-2026-live-updates/107257050",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-05/us-midterm-elections-2026-live-updates/107257050",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-a56b-d326-a5fb-a56f097d0000",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-05/rugby-league-great-paul-langmack-dies-aged-61/107348920",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-a800-d371-a3a5-f9e52f6f0000",
   "_meta": {
-    "today_date": "2026-11-04",
-    "today_sent_count": 1,
+    "today_date": "2026-11-05",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1793783761
   }
 }
