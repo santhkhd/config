@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "fc0ae7f5-d44e-4dde-a144-330dde65df4b",
-  "https://www.smh.com.au/rss/feed.xml": "fc0ae7f5-d44e-4dde-a144-330dde65df4b",
+  "https://www.theage.com.au/rss/feed.xml": "1ee3665b-665c-43af-96ca-5a909c0bf309",
+  "https://www.smh.com.au/rss/feed.xml": "1ee3665b-665c-43af-96ca-5a909c0bf309",
   "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-05/us-midterm-elections-2026-live-updates/107257050",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-05/rugby-league-great-paul-langmack-dies-aged-61/107348920",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-a800-d371-a3a5-f9e52f6f0000",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-05/ben-yole-harness-racing-company-liquidation/107351826",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-aa31-d644-a3b7-fab94cb90000",
   "_meta": {
     "today_date": "2026-11-05",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1793783761
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1793861393
   }
 }
