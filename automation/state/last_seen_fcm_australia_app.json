@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "0d57a6ca-572d-4cec-9f6f-b3a68c32860a",
-  "https://www.smh.com.au/rss/feed.xml": "0d57a6ca-572d-4cec-9f6f-b3a68c32860a",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-06/midterms-put-trump-maga-movement-future-in-question/107348864",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-07/the-interview-dara-o-briain-comedy-tour-re-creation/107329562",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-adb1-d1d6-a5bd-fff391ea0000",
+  "https://www.theage.com.au/rss/feed.xml": "67ea3f53-b0be-43a6-a9da-10e7aec90336",
+  "https://www.smh.com.au/rss/feed.xml": "67ea3f53-b0be-43a6-a9da-10e7aec90336",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-07/first-guardian-investors-with-cancer-fight-to-recoup-lost-super/107352988",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-07/western-nsw-community-remembers-tin-town/107348590",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-b2c5-d326-a5fb-b6ed8c9b0000",
   "_meta": {
-    "today_date": "2026-11-06",
-    "today_sent_count": 1,
+    "today_date": "2026-11-07",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1793962562
   }
 }
