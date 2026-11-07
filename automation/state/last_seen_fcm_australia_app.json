@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "71356dc7-1fcb-4645-9f7b-25a59b919a2c",
-  "https://www.smh.com.au/rss/feed.xml": "71356dc7-1fcb-4645-9f7b-25a59b919a2c",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-08/who-gives-a-crap-hack/107359858",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-b4c5-d30f-a5b3-f7c70c220000",
+  "https://www.theage.com.au/rss/feed.xml": "9bf38b6b-366a-4411-92f6-e2cebb8cffd2",
+  "https://www.smh.com.au/rss/feed.xml": "9bf38b6b-366a-4411-92f6-e2cebb8cffd2",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-08/inside-thriving-black-market-trading-demerit-points-for-cash/107320430",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-08/australian-stockman-hall-of-fame-outback-poet-jim-oconnor/107291852",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-b797-daac-ada7-b7d703970000",
   "_meta": {
-    "today_date": "2026-11-07",
-    "today_sent_count": 2,
+    "today_date": "2026-11-08",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1794046477
   }
 }
