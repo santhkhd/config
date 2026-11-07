@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "9d2c29e8-e82d-4c0c-a596-109629b5466d",
-  "https://www.smh.com.au/rss/feed.xml": "9d2c29e8-e82d-4c0c-a596-109629b5466d",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-07/peptide-black-market-led-by-social-media-influencers/107217418",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-07/kathryn-whitely-female-inmates/107310278",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-b34a-d30f-a5b3-f74be03f0000",
+  "https://www.theage.com.au/rss/feed.xml": "8b45a4c2-3762-42cb-9b8d-f79105c804d4",
+  "https://www.smh.com.au/rss/feed.xml": "864395e7-d580-41cb-9142-1c0e91af2627",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-07/new-zealand-defeat-fetu-samoa-rugby-league-world-cup-semi/107359678",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-b4c5-d30f-a5b3-f7c70c220000",
   "_meta": {
     "today_date": "2026-11-07",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1794019839
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1794046477
   }
 }
