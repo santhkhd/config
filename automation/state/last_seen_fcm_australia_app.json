@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "34e53b20-93b0-4eea-8ba6-577a2ba4df0e",
-  "https://www.smh.com.au/rss/feed.xml": "34e53b20-93b0-4eea-8ba6-577a2ba4df0e",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-08/indonesia-helicopter-crash-borneo-australians/107361384",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-09/live-updates-england-vs-wallabies-nations-championship/107351328",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-b8ba-dbe0-a1b7-fcff59f00000",
+  "https://www.theage.com.au/rss/feed.xml": "7a0aa52a-f0b1-4b7d-9c3d-ae18335d7179",
+  "https://www.smh.com.au/rss/feed.xml": "7a0aa52a-f0b1-4b7d-9c3d-ae18335d7179",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-09/victoria-police-culture-exposed-officers-sucide-four-corners/107342438",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-bc89-d95f-abb5-bd9f05cc0000",
   "_meta": {
-    "today_date": "2026-11-08",
-    "today_sent_count": 2,
+    "today_date": "2026-11-09",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1794150915
   }
 }
