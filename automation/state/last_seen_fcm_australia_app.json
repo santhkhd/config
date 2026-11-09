@@ -1,9 +1,9 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "878a186a-6113-4448-92e9-3a22bdc9cbf5",
-  "https://www.smh.com.au/rss/feed.xml": "878a186a-6113-4448-92e9-3a22bdc9cbf5",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-09/cross-examination-of-beau-lamarre-condon-continues/107362762",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-09/tasmanian-politicians-22-per-cent-pay-rise/107364690",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-be64-d95f-abb5-bf7629150001",
+  "https://www.theage.com.au/rss/feed.xml": "45e4b660-53ca-4125-b19e-059285d8785e",
+  "https://www.smh.com.au/rss/feed.xml": "45e4b660-53ca-4125-b19e-059285d8785e",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-10/russell-brand-sentenced/107365656",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-10/irgc-iran-fridges-france/107366730",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-be85-d5e7-a7e1-bed52af50000",
   "_meta": {
     "today_date": "2026-11-09",
     "today_sent_count": 1,
