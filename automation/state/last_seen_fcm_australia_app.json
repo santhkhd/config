@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "112d60f7-15e0-43b8-99d8-6f868d75a9e4",
-  "https://www.smh.com.au/rss/feed.xml": "112d60f7-15e0-43b8-99d8-6f868d75a9e4",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-09/victoria-police-culture-exposed-officers-sucide-four-corners/107342438",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-09/teenage-boy-stabbed-outside-casula-high-school-in-sydney/107362694",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-bcbf-dbe0-a1b7-fcffe3670000",
+  "https://www.theage.com.au/rss/feed.xml": "878a186a-6113-4448-92e9-3a22bdc9cbf5",
+  "https://www.smh.com.au/rss/feed.xml": "878a186a-6113-4448-92e9-3a22bdc9cbf5",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-09/cross-examination-of-beau-lamarre-condon-continues/107362762",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-09/tasmanian-politicians-22-per-cent-pay-rise/107364690",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-be64-d95f-abb5-bf7629150001",
   "_meta": {
     "today_date": "2026-11-09",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1794150915
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1794206062
   }
 }
