@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "b10c41d0-15bd-420e-958e-44bd2e740421",
-  "https://www.smh.com.au/rss/feed.xml": "ea6fcd03-df82-4b09-9bac-0c96142e2402",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-10/todd-russell-beaconsfield-mine-disaster-survivor-dies/105147924",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-10/nt-wade-derksen-fined-suspended-licence-for-12-months-for-drink-/107368288",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-c1f3-d95f-abb5-f9f7fbe50000",
+  "https://www.theage.com.au/rss/feed.xml": "7c3582dd-c879-40c1-ba29-f01d87f04502",
+  "https://www.smh.com.au/rss/feed.xml": "7c3582dd-c879-40c1-ba29-f01d87f04502",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-10/south32-worsley-alumina-refinery-workers-strike/107369256",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-c4cf-d453-a7e3-fcefe90b0000",
   "_meta": {
     "today_date": "2026-11-10",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1794206062
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1794304441
   }
 }
