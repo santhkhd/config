@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "701aaeee-a61f-4bfc-aeaa-ecc1f2414399",
-  "https://www.smh.com.au/rss/feed.xml": "701aaeee-a61f-4bfc-aeaa-ecc1f2414399",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-11/us-defense-secretary-pete-hegseth-fights-impeachment/107367736",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-c4cf-d453-a7e3-fcefe90b0000",
+  "https://www.theage.com.au/rss/feed.xml": "812445be-80de-40d1-b8a5-d2a5486d870d",
+  "https://www.smh.com.au/rss/feed.xml": "812445be-80de-40d1-b8a5-d2a5486d870d",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-11/bupa-aged-care-cooked-breakfast-charge-helf-program/107352108",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-11/beau-lamarre-condon-trial-live-blog-cross-examination-wednesday/107371808",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-c6df-d4ff-abb1-e7dfb0900000",
   "_meta": {
-    "today_date": "2026-11-10",
-    "today_sent_count": 1,
+    "today_date": "2026-11-11",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1794304441
   }
 }
