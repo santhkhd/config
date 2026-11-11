@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "bb33d9e4-7f6a-485b-a446-6a1a70776dcc",
-  "https://www.smh.com.au/rss/feed.xml": "bb33d9e4-7f6a-485b-a446-6a1a70776dcc",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-11/regional-airfare-costs-subsidise-routes/107367592",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-c916-dcbe-aba1-cd379fa80000",
+  "https://www.theage.com.au/rss/feed.xml": "cdf0b5bf-571e-48f9-8fd7-a82edb41ca56",
+  "https://www.smh.com.au/rss/feed.xml": "cdf0b5bf-571e-48f9-8fd7-a82edb41ca56",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-12/women-allege-bullying-intimidation-missionaries-sacred-heart/107178028",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-12/asic-sues-commonwealth-bank-alleges-overcharged-millions-in-fees/107376156",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-cc5b-d781-a9a1-fdff31400000",
   "_meta": {
-    "today_date": "2026-11-11",
-    "today_sent_count": 2,
+    "today_date": "2026-11-12",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1794410146
   }
 }
