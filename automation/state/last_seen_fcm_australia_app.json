@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "ddf69b44-01ba-4cf6-b914-2d93cd6e07b3",
-  "https://www.smh.com.au/rss/feed.xml": "ddf69b44-01ba-4cf6-b914-2d93cd6e07b3",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-11/judge-removes-tasmania-hellyer-metals-liquidator-liam-bailey/107372894",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-c89a-d443-a5e1-d9ff88fa0000",
+  "https://www.theage.com.au/rss/feed.xml": "bb33d9e4-7f6a-485b-a446-6a1a70776dcc",
+  "https://www.smh.com.au/rss/feed.xml": "bb33d9e4-7f6a-485b-a446-6a1a70776dcc",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-11/regional-airfare-costs-subsidise-routes/107367592",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-c916-dcbe-aba1-cd379fa80000",
   "_meta": {
     "today_date": "2026-11-11",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1794378361
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1794410146
   }
 }
