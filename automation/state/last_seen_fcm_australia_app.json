@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "704fe7db-d6a8-4704-8502-2d8e2346e665",
-  "https://www.smh.com.au/rss/feed.xml": "704fe7db-d6a8-4704-8502-2d8e2346e665",
+  "https://www.theage.com.au/rss/feed.xml": "a65d8646-1d4c-4981-a395-3626b8c60e06",
+  "https://www.smh.com.au/rss/feed.xml": "a65d8646-1d4c-4981-a395-3626b8c60e06",
   "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-12/secret-erin-patterson-evidence-remains-suppressed/107376964",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-cd50-d252-adef-fd775bb90000",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-12/floreat-shooting-inquest-hears-gunman-recorded-himself/107380368",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-ccb7-d252-adef-fcb7442d0000",
   "_meta": {
     "today_date": "2026-11-12",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1794452536
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1794482158
   }
 }
