@@ -6,15 +6,15 @@
   "https://tellzim.com/feed/": "https://tellzim.com/?p=29716",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxiW1iTMYgjyh7Qgkiyj2PQ": "yt:video:rRh9BA_NE2w",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCrCiK3Ej1lDggxiYG1tmnCw": "yt:video:6kNEkOjwAbo",
-  "https://dailynews.co.zw/feed/": "https://dailynews.co.zw/?p=283503",
+  "https://dailynews.co.zw/feed/": "https://dailynews.co.zw/?p=283516",
   "https://www.newzimbabwe.com/feed/": "https://www.newzimbabwe.com/?p=304844",
   "https://www.techzim.co.zw/feed/": "https://www.techzim.co.zw/?p=2346455",
   "https://masvingomirror.com/feed/": "https://www.masvingomirror.com/?p=54209",
   "https://263chat.com/feed/": "https://www.263chat.com/?p=115707",
-  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333805",
+  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333807",
   "_meta": {
     "today_date": "2026-11-12",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1794410138
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1794452528
   }
 }

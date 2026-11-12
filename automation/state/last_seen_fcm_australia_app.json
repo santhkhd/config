@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "cdf0b5bf-571e-48f9-8fd7-a82edb41ca56",
-  "https://www.smh.com.au/rss/feed.xml": "cdf0b5bf-571e-48f9-8fd7-a82edb41ca56",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-12/women-allege-bullying-intimidation-missionaries-sacred-heart/107178028",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-12/asic-sues-commonwealth-bank-alleges-overcharged-millions-in-fees/107376156",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-cc5b-d781-a9a1-fdff31400000",
+  "https://www.theage.com.au/rss/feed.xml": "704fe7db-d6a8-4704-8502-2d8e2346e665",
+  "https://www.smh.com.au/rss/feed.xml": "704fe7db-d6a8-4704-8502-2d8e2346e665",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-12/secret-erin-patterson-evidence-remains-suppressed/107376964",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-cd50-d252-adef-fd775bb90000",
   "_meta": {
     "today_date": "2026-11-12",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1794410146
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1794452536
   }
 }
