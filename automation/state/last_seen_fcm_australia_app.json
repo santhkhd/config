@@ -1,9 +1,9 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "cabe1306-9398-40dc-b04a-2261ab6185a2",
-  "https://www.smh.com.au/rss/feed.xml": "cabe1306-9398-40dc-b04a-2261ab6185a2",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-13/political-ads-vic-election-ai-social-media-use/107378416",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-cd0f-d056-a1e3-cf1fcbe60000",
+  "https://www.theage.com.au/rss/feed.xml": "248c5a8f-e52f-4d17-84a1-4f36a9706598",
+  "https://www.smh.com.au/rss/feed.xml": "248c5a8f-e52f-4d17-84a1-4f36a9706598",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-13/fifo-bare-minimum-standards-not-being-enforced/107341422",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-d1ad-dcbe-aba1-d5bf29f50000",
   "_meta": {
     "today_date": "2026-11-13",
     "today_sent_count": 0,
