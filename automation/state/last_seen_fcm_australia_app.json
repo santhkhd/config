@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "768672a6-6eac-405a-a70a-32cedc61dc2e",
-  "https://www.smh.com.au/rss/feed.xml": "768672a6-6eac-405a-a70a-32cedc61dc2e",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-14/david-warner-cricket-australia-ball-tampering-investigation/107386252",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-15/inside-crew-rescuing-sailors-from-black-sea-drone-attacks/107380692",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-d980-d288-afa3-d9eb63f70000",
+  "https://www.theage.com.au/rss/feed.xml": "5b930479-24f1-4093-b357-6248601fa548",
+  "https://www.smh.com.au/rss/feed.xml": "5b930479-24f1-4093-b357-6248601fa548",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-15/sex-spies-silicon-valley-nvidia-saga-highlights-risks-for-tech/107386438",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-15/ellie-carpenter-helps-chelsea-get-win-over-mary-fowler-man-city/107387146",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-dbf9-d364-a3af-fff96b050000",
   "_meta": {
-    "today_date": "2026-11-14",
-    "today_sent_count": 2,
+    "today_date": "2026-11-15",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1794655834
   }
 }
