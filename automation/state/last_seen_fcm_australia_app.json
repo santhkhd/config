@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "17c8c331-dbee-41c7-9cfd-ac47e06b2713",
-  "https://www.smh.com.au/rss/feed.xml": "17c8c331-dbee-41c7-9cfd-ac47e06b2713",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-15/inside-crew-rescuing-sailors-from-black-sea-drone-attacks/107380692",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-15/swim-gp-boost-for-para-swimming/107387140",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-dcab-d71c-a9b1-dcffb89f0000",
+  "https://www.theage.com.au/rss/feed.xml": "45cfd728-6c95-4ade-8823-14e782a30925",
+  "https://www.smh.com.au/rss/feed.xml": "45cfd728-6c95-4ade-8823-14e782a30925",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-15/kangaroos-jillaroos-live-rugby-league-world-cup-finals/107376474",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-dd83-d364-a3af-fdb35d6e0000",
   "_meta": {
     "today_date": "2026-11-15",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1794710519
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1794740250
   }
 }
