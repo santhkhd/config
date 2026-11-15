@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "05dd5fa5-7360-4be3-82a0-7020cd699109",
-  "https://www.smh.com.au/rss/feed.xml": "05dd5fa5-7360-4be3-82a0-7020cd699109",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-16/alice-huang-megaspeed-departure/107388304",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-dd83-d364-a3af-fdb35d6e0000",
+  "https://www.theage.com.au/rss/feed.xml": "0baf148e-4b30-41f0-9c45-3e8d316136c0",
+  "https://www.smh.com.au/rss/feed.xml": "0baf148e-4b30-41f0-9c45-3e8d316136c0",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-16/one-nation-ai-slop-group-joh-bauch/107383340",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-16/trump-breaks-silence-after-airline-ground-stop/107388942",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-e0c2-d1b3-a3e1-f5ebb8e60000",
   "_meta": {
-    "today_date": "2026-11-15",
-    "today_sent_count": 2,
+    "today_date": "2026-11-16",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1794740250
   }
 }
