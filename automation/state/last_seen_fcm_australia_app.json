@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "0baf148e-4b30-41f0-9c45-3e8d316136c0",
-  "https://www.smh.com.au/rss/feed.xml": "0baf148e-4b30-41f0-9c45-3e8d316136c0",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-16/one-nation-ai-slop-group-joh-bauch/107383340",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-16/trump-breaks-silence-after-airline-ground-stop/107388942",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-e0c2-d1b3-a3e1-f5ebb8e60000",
+  "https://www.theage.com.au/rss/feed.xml": "43470729-892b-4cc6-9475-c7ada41c294c",
+  "https://www.smh.com.au/rss/feed.xml": "43470729-892b-4cc6-9475-c7ada41c294c",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-16/helen-haines-discharged-from-hospital-wangaratta-attack/107389928",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-16/14-year-old-byron-bay-surfer-wins-world-surfing-games-in-peru/107388968",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-e19d-daa2-a5b7-fdbfec5f0000",
   "_meta": {
     "today_date": "2026-11-16",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1794740250
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1794797140
   }
 }
