@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "d6383e08-3972-4689-aecc-f5c80dee559a",
-  "https://www.smh.com.au/rss/feed.xml": "d6383e08-3972-4689-aecc-f5c80dee559a",
+  "https://www.theage.com.au/rss/feed.xml": "4c595769-34a8-4ce0-9d1b-c743b355f603",
+  "https://www.smh.com.au/rss/feed.xml": "4c595769-34a8-4ce0-9d1b-c743b355f603",
   "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-e8cc-dd0c-a7ef-e8fdf8b90000",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-18/cricket-usman-khawaja-sabr-not-about-sandpaper-analysis/107394852",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-eb49-d54e-a9f1-ef6fe43b0000",
   "_meta": {
-    "today_date": "2026-11-17",
-    "today_sent_count": 2,
+    "today_date": "2026-11-18",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1794925637
   }
 }
