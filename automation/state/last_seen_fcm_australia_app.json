@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "6682acf0-bb72-4050-9946-e533b13e9410",
-  "https://www.smh.com.au/rss/feed.xml": "6682acf0-bb72-4050-9946-e533b13e9410",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-17/nvidia-rules-out-jensen-huang-return/107394520",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-e724-d315-a5e7-ff6e10fd0000",
+  "https://www.theage.com.au/rss/feed.xml": "d6383e08-3972-4689-aecc-f5c80dee559a",
+  "https://www.smh.com.au/rss/feed.xml": "d6383e08-3972-4689-aecc-f5c80dee559a",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-e8cc-dd0c-a7ef-e8fdf8b90000",
   "_meta": {
     "today_date": "2026-11-17",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1794889843
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1794925637
   }
 }
