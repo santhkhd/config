@@ -66,13 +66,13 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC60YvD_EAsoU2lIcQdxwR1Q": "yt:video:BCQHGuWcUmg",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC3Zl7mX83P0_2_XArE6mvlA": "yt:video:18Hi0NX7rpo",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xyf6AbSfmanu8aGXTas_w": "yt:video:dq-DhiyR5YY",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCG9xw4kFo11e39yaaN09BtQ": "yt:video:qdDxJN5oeSQ",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCG9xw4kFo11e39yaaN09BtQ": "yt:video:9YjJDd0XB3s",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVUojO3yGdMx1O3NOtjZX1A": "yt:video:xgrk0xck_GE",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOxo27RyQnq8K9TXfmLJskg": "yt:video:k5JJymamQmw",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCsiTW5-RCOOALF1VVx3Kcyg": "yt:video:USqJX6I1JEc",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCMpPXCPSzzAvFX7NvJau5eA": "yt:video:W7015sgBgtk",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCmAPdImtXLGh5E-lTTH4Qmg": "yt:video:C0P7LE-OsMQ",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCakQcBIYmlb6hq0I4pXgHNA": "yt:video:ymiVc1SVdl8",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCMpPXCPSzzAvFX7NvJau5eA": "yt:video:SihcoNOAVPQ",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCmAPdImtXLGh5E-lTTH4Qmg": "yt:video:0FuWr0f0XcY",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCakQcBIYmlb6hq0I4pXgHNA": "yt:video:IH-zO1mwXOE",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeALltNJ6GDNRwA0B7clXyA": "yt:video:froj0QHdwZA",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCiTjVaNz3zWmCAOI7JDbYoA": "yt:video:p5K7Kw2T1yA",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXmEe7GrufJ20HhxclJq7sQ": "yt:video:AzsY9FYsqqo",
@@ -83,7 +83,7 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZTnrXvZlBO2pyucAyXgjg": "yt:video:adFrX7K6WGE",
   "_meta": {
     "today_date": "2026-11-17",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1794828164
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1794889825
   }
 }

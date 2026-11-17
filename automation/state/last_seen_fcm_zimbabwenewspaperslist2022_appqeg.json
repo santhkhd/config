@@ -6,15 +6,15 @@
   "https://tellzim.com/feed/": "https://tellzim.com/?p=29741",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxiW1iTMYgjyh7Qgkiyj2PQ": "yt:video:LnOtd2Uoljw",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCrCiK3Ej1lDggxiYG1tmnCw": "yt:video:MM4aflXZ0tc",
-  "https://dailynews.co.zw/feed/": "https://dailynews.co.zw/?p=283608",
-  "https://www.newzimbabwe.com/feed/": "https://www.newzimbabwe.com/?p=305086",
+  "https://dailynews.co.zw/feed/": "https://dailynews.co.zw/?p=283644",
+  "https://www.newzimbabwe.com/feed/": "https://www.newzimbabwe.com/?p=305125",
   "https://www.techzim.co.zw/feed/": "https://www.techzim.co.zw/?p=2346550",
-  "https://masvingomirror.com/feed/": "https://www.masvingomirror.com/?p=54344",
+  "https://masvingomirror.com/feed/": "https://www.masvingomirror.com/?p=54262",
   "https://263chat.com/feed/": "https://www.263chat.com/?p=115839",
-  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333847",
+  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333860",
   "_meta": {
     "today_date": "2026-11-17",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1794828178
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1794889833
   }
 }
