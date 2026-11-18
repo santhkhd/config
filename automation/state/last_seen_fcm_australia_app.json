@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "dd73c0d4-b928-4400-a999-b07e8d0d6a24",
-  "https://www.smh.com.au/rss/feed.xml": "dd73c0d4-b928-4400-a999-b07e8d0d6a24",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-18/cameron-bancroft-says-australian-players-knew-about-sandpaper/107401286",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-19/telstra-outage-drives-surge-in-telco-outage-complaints/107400558",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-ecc6-d775-a9e5-fcdffc790000",
+  "https://www.theage.com.au/rss/feed.xml": "8ff2f521-bec2-45ca-ad82-be50e662aca7",
+  "https://www.smh.com.au/rss/feed.xml": "8ff2f521-bec2-45ca-ad82-be50e662aca7",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-19/bancroft-bomb-is-australian-crickets-point-of-no-return/107401338",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-19/tennant-creek-transportation-of-dead-bodies-by-nt-police/107395622",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-f017-d2f9-a5f5-f51f8f260000",
   "_meta": {
-    "today_date": "2026-11-18",
-    "today_sent_count": 2,
+    "today_date": "2026-11-19",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1795010476
   }
 }
