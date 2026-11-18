@@ -1,20 +1,20 @@
 {
-  "https://www.theindependent.co.zw/feed/": "https://zimbabwe-independent.com/?p=200061544",
-  "https://www.newsday.co.zw/feed/": "https://news-days.com/?p=430246",
-  "https://www.thestandard.co.zw/feed/": "https://staging-d2fb-anochav7.wpcomstaging.com/?p=126984",
-  "https://miningzimbabwe.com/feed/": "https://miningzimbabwe.com/?p=39339",
+  "https://www.theindependent.co.zw/feed/": "https://zimbabwe-independent.com/?p=200061601",
+  "https://www.newsday.co.zw/feed/": "https://news-days.com/?p=430379",
+  "https://www.thestandard.co.zw/feed/": "https://staging-d2fb-anochav7.wpcomstaging.com/?p=127010",
+  "https://miningzimbabwe.com/feed/": "https://miningzimbabwe.com/?p=39353",
   "https://tellzim.com/feed/": "https://tellzim.com/?p=29741",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCxiW1iTMYgjyh7Qgkiyj2PQ": "yt:video:mopYSw_4I1o",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCrCiK3Ej1lDggxiYG1tmnCw": "yt:video:TD7buulRFkY",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCxiW1iTMYgjyh7Qgkiyj2PQ": "yt:video:KZXLE9pitik",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCrCiK3Ej1lDggxiYG1tmnCw": "yt:video:pKaphR-bQnU",
   "https://dailynews.co.zw/feed/": "https://dailynews.co.zw/?p=283665",
-  "https://www.newzimbabwe.com/feed/": "https://www.newzimbabwe.com/?p=305138",
+  "https://www.newzimbabwe.com/feed/": "https://www.newzimbabwe.com/?p=305167",
   "https://www.techzim.co.zw/feed/": "https://www.techzim.co.zw/?p=2346550",
-  "https://masvingomirror.com/feed/": "https://www.masvingomirror.com/?p=54377",
-  "https://263chat.com/feed/": "https://www.263chat.com/?p=115890",
-  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333875",
+  "https://masvingomirror.com/feed/": "https://www.masvingomirror.com/?p=54418",
+  "https://263chat.com/feed/": "https://www.263chat.com/?p=115805",
+  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333887",
   "_meta": {
     "today_date": "2026-11-18",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1794975891
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1795010467
   }
 }
