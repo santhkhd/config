@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "8ff2f521-bec2-45ca-ad82-be50e662aca7",
-  "https://www.smh.com.au/rss/feed.xml": "8ff2f521-bec2-45ca-ad82-be50e662aca7",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-19/bancroft-bomb-is-australian-crickets-point-of-no-return/107401338",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-19/tennant-creek-transportation-of-dead-bodies-by-nt-police/107395622",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-f017-d2f9-a5f5-f51f8f260000",
+  "https://www.theage.com.au/rss/feed.xml": "fae02c88-a676-400b-b854-f1511d07e82e",
+  "https://www.smh.com.au/rss/feed.xml": "fae02c88-a676-400b-b854-f1511d07e82e",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-19/one-nation-migrant-welfare-graph-rubbished-by-researcher/107403150",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-f1b5-d23d-a7bd-fbfdeda80000",
   "_meta": {
     "today_date": "2026-11-19",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795010476
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795059082
   }
 }
