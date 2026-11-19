@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "fae02c88-a676-400b-b854-f1511d07e82e",
-  "https://www.smh.com.au/rss/feed.xml": "fae02c88-a676-400b-b854-f1511d07e82e",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-19/one-nation-migrant-welfare-graph-rubbished-by-researcher/107403150",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-f1b5-d23d-a7bd-fbfdeda80000",
+  "https://www.theage.com.au/rss/feed.xml": "3d5c9e82-d17c-4e46-9273-96152dba9194",
+  "https://www.smh.com.au/rss/feed.xml": "3d5c9e82-d17c-4e46-9273-96152dba9194",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-20/2026-walkley-awards-winners-scoop-of-the-year-bondi/107406420",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-f2a9-d54e-a9f1-feef86dd0000",
   "_meta": {
     "today_date": "2026-11-19",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1795059082
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1795093940
   }
 }
