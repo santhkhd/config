@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "8c224b30-7e56-446a-af3f-32bf66b69db1",
-  "https://www.smh.com.au/rss/feed.xml": "8c224b30-7e56-446a-af3f-32bf66b69db1",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-20/australians-describe-struggling-like-economy-is-in-recession/107372480",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-20/drink-spiking-darwin-stigma-awareness-reports-sexual-assault/107354550",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-f563-d2f9-a5f5-f56bc1bc0000",
+  "https://www.theage.com.au/rss/feed.xml": "3dcdfcb4-1f43-413e-8e27-edf15dfeaf9b",
+  "https://www.smh.com.au/rss/feed.xml": "3dcdfcb4-1f43-413e-8e27-edf15dfeaf9b",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-20/sydney-counter-terror-raids-campbelltown/107407568",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-20/godsend-rainfall-overnight-for-western-nsw-farmers/107408616",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-f658-d54e-a9f1-fe7f08ef0000",
   "_meta": {
     "today_date": "2026-11-20",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795093940
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795144718
   }
 }

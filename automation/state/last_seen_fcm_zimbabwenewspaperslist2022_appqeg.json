@@ -1,6 +1,6 @@
 {
   "https://www.theindependent.co.zw/feed/": "https://zimbabwe-independent.com/?p=200061671",
-  "https://www.newsday.co.zw/feed/": "https://news-days.com/?p=430586",
+  "https://www.newsday.co.zw/feed/": "https://news-days.com/?p=430609",
   "https://www.thestandard.co.zw/feed/": "https://staging-d2fb-anochav7.wpcomstaging.com/?p=127031",
   "https://miningzimbabwe.com/feed/": "https://miningzimbabwe.com/?p=39367",
   "https://tellzim.com/feed/": "https://tellzim.com/?p=29744",
@@ -14,7 +14,7 @@
   "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333913",
   "_meta": {
     "today_date": "2026-11-20",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795093932
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795144709
   }
 }
