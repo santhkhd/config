@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "7039ea8e-733f-40ea-9e3c-10e26ab53a54",
-  "https://www.smh.com.au/rss/feed.xml": "7039ea8e-733f-40ea-9e3c-10e26ab53a54",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-21/cricket-lehmann-responds-bancroft-australia-sandpaper-drama/107412988",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-22/housing-cost-of-living-australian-dream-move-overseas-berlin/107390924",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-fd46-d770-a3f5-fd7f918a0000",
+  "https://www.theage.com.au/rss/feed.xml": "3c41a110-d7d2-4cdf-8e58-73d39e6457e8",
+  "https://www.smh.com.au/rss/feed.xml": "3c41a110-d7d2-4cdf-8e58-73d39e6457e8",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-22/universal-medicine-soliciting-cancer-victim-estate-bequests/107390886",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-22/man-critically-injured-in-burning-car-canberra-act/107413750",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a1-ffe1-d54e-a9f1-ffef9b390000",
   "_meta": {
-    "today_date": "2026-11-21",
-    "today_sent_count": 1,
+    "today_date": "2026-11-22",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1795259149
   }
 }
