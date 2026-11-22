@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "bbabf183-19bd-4a2d-b9f3-5aa3accefaeb",
-  "https://www.smh.com.au/rss/feed.xml": "bbabf183-19bd-4a2d-b9f3-5aa3accefaeb",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-22/former-wallaby-nathan-charles-mnd-battle-wedding-plans/107404076",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-010f-d826-a1be-2b4fef090000",
+  "https://www.theage.com.au/rss/feed.xml": "c0cfa433-e60c-499e-b965-5819f4942338",
+  "https://www.smh.com.au/rss/feed.xml": "c0cfa433-e60c-499e-b965-5819f4942338",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-04be-dc44-a5f2-44be7f900000",
   "_meta": {
-    "today_date": "2026-11-22",
-    "today_sent_count": 2,
+    "today_date": "2026-11-23",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1795360825
   }
 }
