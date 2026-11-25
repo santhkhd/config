@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "aca95e01-e232-4522-84b9-22d6fa9b8878",
-  "https://www.smh.com.au/rss/feed.xml": "aca95e01-e232-4522-84b9-22d6fa9b8878",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-25/chinese-ai-companion-app-talkie-child-harm-allegations/107416128",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-25/nora-creina-golf-course-development-limestone-coast-sa/107420614",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-0f04-dcdc-a3eb-7f4dced80000",
+  "https://www.theage.com.au/rss/feed.xml": "ec7cfb90-c749-4a22-bb13-c3cf7e11c6e5",
+  "https://www.smh.com.au/rss/feed.xml": "ec7cfb90-c749-4a22-bb13-c3cf7e11c6e5",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-25/beau-lamarre-condon-verdict-found-guilty-jesse-baird-luke-davies/107420442",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-25/weapons-found-in-tasmania-police-metal-detection-wand-hobart/107424494",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-0fab-dba6-a7ea-ffbf3da10000",
   "_meta": {
     "today_date": "2026-11-25",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795517899
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795580256
   }
 }

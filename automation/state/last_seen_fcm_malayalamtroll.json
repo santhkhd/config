@@ -4,7 +4,7 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9I8DWhqm5q7U_4fhfDwZIw": "yt:video:oDGLzw42aW4",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCg3e_EOlwStar4uN5I0LNjQ": "yt:video:gmIKXfEed54",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjHjQKtyClmXbo3r3SX64A": "yt:video:_IeZlxcbKjA",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UClFqBIscDpLSIt_vE6aqo7Q": "yt:video:dJYPaT6GOmY",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UClFqBIscDpLSIt_vE6aqo7Q": "yt:video:WsbGACwUSf4",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCanrTK6vweh6F_E_7XuSW9Q": "yt:video:_ZpCyXpxDDI",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCw-har2mizQ8tB4rV7BN3RQ": "yt:video:4Q3Fh4X9jf4",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtZezDrbDdvub8-x8AH8Tgg": "yt:video:rPQHYjMIS9Y",
@@ -66,7 +66,7 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC60YvD_EAsoU2lIcQdxwR1Q": "yt:video:O8Tv0ikP3IQ",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC3Zl7mX83P0_2_XArE6mvlA": "yt:video:9NuwJcvDdNk",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xyf6AbSfmanu8aGXTas_w": "yt:video:dq-DhiyR5YY",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCG9xw4kFo11e39yaaN09BtQ": "yt:video:_zCIebKuJQE",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCG9xw4kFo11e39yaaN09BtQ": "yt:video:16PbYQiqKhc",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVUojO3yGdMx1O3NOtjZX1A": "yt:video:1x82LACkC1M",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOxo27RyQnq8K9TXfmLJskg": "yt:video:ScZTQBEKOjg",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCsiTW5-RCOOALF1VVx3Kcyg": "yt:video:be2CHp_vrMQ",
@@ -83,7 +83,7 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZTnrXvZlBO2pyucAyXgjg": "yt:video:il6m7I3cU_s",
   "_meta": {
     "today_date": "2026-11-25",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795517884
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795580241
   }
 }
