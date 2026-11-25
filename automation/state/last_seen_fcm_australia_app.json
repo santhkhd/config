@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "ec7cfb90-c749-4a22-bb13-c3cf7e11c6e5",
-  "https://www.smh.com.au/rss/feed.xml": "ec7cfb90-c749-4a22-bb13-c3cf7e11c6e5",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-25/beau-lamarre-condon-verdict-found-guilty-jesse-baird-luke-davies/107420442",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-25/weapons-found-in-tasmania-police-metal-detection-wand-hobart/107424494",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-0fab-dba6-a7ea-ffbf3da10000",
+  "https://www.theage.com.au/rss/feed.xml": "a6e96336-f1bf-483d-93f7-43b8441c81ae",
+  "https://www.smh.com.au/rss/feed.xml": "a6e96336-f1bf-483d-93f7-43b8441c81ae",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-25/nsw-beau-lamarre-condon-court-verdict-jesse-baird-luke-davies/107344850",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-26/sandringham-estate-breakin-court-appearance/107427840",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-10b3-d7f0-a1bf-35bfd4170000",
   "_meta": {
     "today_date": "2026-11-25",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1795580256
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1795621134
   }
 }

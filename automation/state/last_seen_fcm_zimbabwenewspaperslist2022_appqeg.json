@@ -1,20 +1,20 @@
 {
-  "https://www.theindependent.co.zw/feed/": "https://zimbabwe-independent.com/?p=200061898",
-  "https://www.newsday.co.zw/feed/": "https://news-days.com/?p=431121",
+  "https://www.theindependent.co.zw/feed/": "https://zimbabwe-independent.com/?p=200061946",
+  "https://www.newsday.co.zw/feed/": "https://news-days.com/?p=431248",
   "https://www.thestandard.co.zw/feed/": "https://thestandard.co.zw/?p=127378",
-  "https://miningzimbabwe.com/feed/": "https://miningzimbabwe.com/?p=39404",
+  "https://miningzimbabwe.com/feed/": "https://miningzimbabwe.com/?p=39423",
   "https://tellzim.com/feed/": "https://tellzim.com/?p=29763",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxiW1iTMYgjyh7Qgkiyj2PQ": "yt:video:nk-sAaIbb30",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCrCiK3Ej1lDggxiYG1tmnCw": "yt:video:pKaphR-bQnU",
-  "https://dailynews.co.zw/feed/": "https://dailynews.co.zw/?p=283832",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCrCiK3Ej1lDggxiYG1tmnCw": "yt:video:sY92iIhPEzA",
+  "https://dailynews.co.zw/feed/": "https://dailynews.co.zw/?p=283835",
   "https://www.newzimbabwe.com/feed/": "https://www.newzimbabwe.com/?p=305408",
   "https://www.techzim.co.zw/feed/": "https://www.techzim.co.zw/?p=2346726",
-  "https://masvingomirror.com/feed/": "https://www.masvingomirror.com/?p=54759",
-  "https://263chat.com/feed/": "https://www.263chat.com/?p=116115",
-  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333948",
+  "https://masvingomirror.com/feed/": "https://www.masvingomirror.com/?p=54803",
+  "https://263chat.com/feed/": "https://www.263chat.com/?p=116156",
+  "https://fingaz.co.zw/feed/": "https://fingaz.co.zw/?p=333952",
   "_meta": {
     "today_date": "2026-11-25",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1795580246
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1795621126
   }
 }
