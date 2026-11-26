@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "9e2ef344-c04b-492a-89c3-903eef79cd1c",
-  "https://www.smh.com.au/rss/feed.xml": "9e2ef344-c04b-492a-89c3-903eef79cd1c",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-26/country-electorate-in-victoria-sums-up-australian-disaffection/107389376",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-26/jack-clayton-draws-on-afl-draft-experience-to-chase-test-debut/107429042",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-143c-d7f0-a1bf-35bc85860000",
+  "https://www.theage.com.au/rss/feed.xml": "b2e1f127-c091-4986-bc9b-1039103ed584",
+  "https://www.smh.com.au/rss/feed.xml": "b2e1f127-c091-4986-bc9b-1039103ed584",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-26/weather-bureau-predicts-another-long-hot-australian-summer/107424992",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-26/support-at-home-payments-require-review/107426872",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-16d4-d099-abb3-76dfe3b10000",
   "_meta": {
     "today_date": "2026-11-26",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795621134
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795685601
   }
 }
