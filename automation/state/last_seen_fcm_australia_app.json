@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "a6e96336-f1bf-483d-93f7-43b8441c81ae",
-  "https://www.smh.com.au/rss/feed.xml": "a6e96336-f1bf-483d-93f7-43b8441c81ae",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-25/nsw-beau-lamarre-condon-court-verdict-jesse-baird-luke-davies/107344850",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-26/sandringham-estate-breakin-court-appearance/107427840",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-10b3-d7f0-a1bf-35bfd4170000",
+  "https://www.theage.com.au/rss/feed.xml": "9e2ef344-c04b-492a-89c3-903eef79cd1c",
+  "https://www.smh.com.au/rss/feed.xml": "9e2ef344-c04b-492a-89c3-903eef79cd1c",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-26/country-electorate-in-victoria-sums-up-australian-disaffection/107389376",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-26/jack-clayton-draws-on-afl-draft-experience-to-chase-test-debut/107429042",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-143c-d7f0-a1bf-35bc85860000",
   "_meta": {
-    "today_date": "2026-11-25",
-    "today_sent_count": 2,
+    "today_date": "2026-11-26",
+    "today_sent_count": 0,
     "last_sent_timestamp": 1795621134
   }
 }
