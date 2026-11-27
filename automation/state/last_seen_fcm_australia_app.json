@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "ab43bc97-8cfd-40ae-be43-768bdced3a97",
-  "https://www.smh.com.au/rss/feed.xml": "ab43bc97-8cfd-40ae-be43-768bdced3a97",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-27/our-lady-of-dolours-catholic-church-abuse-allegations/107424146",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-27/aflw-grand-final-start-time-venue-kangaroos-demons-explainer/107429518",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-193e-df6a-a9a2-7dfe1a370000",
+  "https://www.theage.com.au/rss/feed.xml": "4f93e295-f756-49be-a5ff-fb3c6cf21e9b",
+  "https://www.smh.com.au/rss/feed.xml": "4f93e295-f756-49be-a5ff-fb3c6cf21e9b",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-27/global-drone-warfare-surge-fpv-quadcopters-ai-sudan-ukraine-gaza/107203470",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-27/lyons-career-in-limbo-as-he-faces-test-axe/107434874",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-1ab3-d208-abfa-9bf32abb0000",
   "_meta": {
     "today_date": "2026-11-27",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795685601
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795747968
   }
 }
