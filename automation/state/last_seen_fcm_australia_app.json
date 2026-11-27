@@ -1,12 +1,12 @@
 {
-  "https://www.theage.com.au/rss/feed.xml": "4f93e295-f756-49be-a5ff-fb3c6cf21e9b",
-  "https://www.smh.com.au/rss/feed.xml": "4f93e295-f756-49be-a5ff-fb3c6cf21e9b",
-  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-27/global-drone-warfare-surge-fpv-quadcopters-ai-sudan-ukraine-gaza/107203470",
-  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-27/lyons-career-in-limbo-as-he-faces-test-axe/107434874",
-  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-1ab3-d208-abfa-9bf32abb0000",
+  "https://www.theage.com.au/rss/feed.xml": "a63ba732-036e-4f6f-a97b-7375ad0eea7b",
+  "https://www.smh.com.au/rss/feed.xml": "a63ba732-036e-4f6f-a97b-7375ad0eea7b",
+  "https://www.abc.net.au/news/feed/45910/rss.xml": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
+  "https://www.abc.net.au/news/feed/51120/rss.xml": "https://www.abc.net.au/news/2026-11-27/zelenskyy-says-trump-putin-relationship-like-being-friend-hitler/107437062",
+  "https://www.sbs.com.au/news/topic/latest/feed": "000001a2-1a01-d298-afe3-1a69f3a30000",
   "_meta": {
     "today_date": "2026-11-27",
-    "today_sent_count": 1,
-    "last_sent_timestamp": 1795747968
+    "today_sent_count": 2,
+    "last_sent_timestamp": 1795782324
   }
 }
