@@ -66,7 +66,7 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC60YvD_EAsoU2lIcQdxwR1Q": "yt:video:MdIFJifuHzI",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC3Zl7mX83P0_2_XArE6mvlA": "yt:video:9NuwJcvDdNk",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xyf6AbSfmanu8aGXTas_w": "yt:video:dq-DhiyR5YY",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCG9xw4kFo11e39yaaN09BtQ": "yt:video:3zMfTqurI8Y",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCG9xw4kFo11e39yaaN09BtQ": "yt:video:QYWHXRNrsrI",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVUojO3yGdMx1O3NOtjZX1A": "yt:video:1x82LACkC1M",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOxo27RyQnq8K9TXfmLJskg": "yt:video:Yh7ljtnVeT4",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCsiTW5-RCOOALF1VVx3Kcyg": "yt:video:RMubkjL3jvk",
@@ -80,10 +80,10 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJvF-gYMj-nXui7OT9pXvbw": "yt:video:YVcu-9k2SeY",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZkSj-IAR1mbGiGvbh13Sg": "yt:video:znf5uowbi4c",
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvT65X-GdzOU7OdGL7uFrrQ": "yt:video:ispzfHkWso0",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZTnrXvZlBO2pyucAyXgjg": "yt:video:OQxMGV671qQ",
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZTnrXvZlBO2pyucAyXgjg": "yt:video:IkB31_WgCSE",
   "_meta": {
     "today_date": "2026-11-28",
-    "today_sent_count": 0,
-    "last_sent_timestamp": 1795782301
+    "today_sent_count": 1,
+    "last_sent_timestamp": 1795838144
   }
 }
